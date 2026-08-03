@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T15:53:45.881732+05:30",
-  "run_status": "success",
+  "last_updated": "2026-08-03T10:54:47.087913+00:00",
+  "run_status": "partial",
   "sources": {
     "ahrefs": {
       "name": "Ahrefs Blog",
@@ -1323,14 +1323,14 @@
       "color": "#6757d9",
       "articles": [
         {
-          "title": "AI content marketing trends: what's actually changing for B2B teams",
+          "title": "July 29, 2026 11 min read AI content marketing trends: what's actually changing for B2B teams AI search, brand POV, agents, and attribution are reshaping B2B content. Here's what…",
           "url": "https://www.factors.ai/blog/blog-ai-content-discovery-trends",
           "published_at": "2026-07-29T00:00:00+05:30",
           "excerpt": "AI search, brand POV, agents, and attribution are reshaping B2B content. Here's what I'm actually seeing work, and what to fix first.",
           "fetched_at": "2026-08-03T15:53:33.750548+05:30"
         },
         {
-          "title": "AI content personalization for B2B: what actually works when you're selling to a committee, not a person",
+          "title": "Marketing July 29, 2026 AI content personalization for B2B: what actually works when you're selling to a committee, not a person AI content personalization for B2B marketers, buil…",
           "url": "https://www.factors.ai/blog/ai-personalization-b2b-buying-committee",
           "published_at": "2026-07-29T00:00:00+05:30",
           "excerpt": "AI content personalization for B2B marketers, built for buying committees instead of single buyers. Segmentation, email, ABM, and measurement, explained.",
