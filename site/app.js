@@ -210,8 +210,28 @@ async function load() {
   dataUrl.searchParams.set('v', Date.now());
   const response = await fetch(dataUrl, { cache: 'no-store' });
   if (!response.ok) throw new Error('Could not load articles');
-  render(await response.json());
+  const data = await response.json();
+  render(data);
+  return data;
 }
+
+refresh.addEventListener('click', async () => {
+  if (refresh.disabled) return;
+  refresh.disabled = true;
+  refresh.classList.add('busy');
+  refresh.querySelector('span:last-child').textContent = 'Refreshing…';
+  refreshStatus.textContent = 'Checking for the latest published articles.';
+  try {
+    const data = await load();
+    refreshStatus.textContent = `Dashboard refreshed. Latest published update: ${prettyDate(data.last_updated, true)}.`;
+  } catch (error) {
+    refreshStatus.textContent = `${error.message}. Please try again.`;
+  } finally {
+    refresh.disabled = false;
+    refresh.classList.remove('busy');
+    refresh.querySelector('span:last-child').textContent = 'Refresh';
+  }
+});
 
 
 selectView(location.hash === '#sources' ? 'sources' : 'all');
