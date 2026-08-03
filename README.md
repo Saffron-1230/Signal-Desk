@@ -6,13 +6,13 @@ Signal Desk is Saffron Edge's free, public marketing and SEO news dashboard. It 
 
 After GitHub Pages is enabled, the dashboard is published at:
 
-https://saffron-1230.github.io/saffron-edge-signal-desk/
+https://saffron-1230.github.io/
 
 ## Automatic updates
 
 The GitHub Actions workflow refreshes the dashboard every Monday and Thursday at 10:00 AM Asia/Kolkata time. It fetches each source independently, retries failures once, updates the saved SQLite history, exports browser-ready JSON, and republishes the website.
 
-To request an additional update, open the repository's **Actions** tab, select **Refresh and publish Signal Desk**, choose **Run workflow**, and run it from the `main` branch.
+The dashboard's **Refresh** button reloads the newest published data in place without leaving the website. To run an unscheduled source collection, the repository owner can open the repository's **Actions** tab, select **Refresh and publish Signal Desk**, choose **Run workflow**, and run it from the `main` branch.
 
 ## Free-hosting design
 

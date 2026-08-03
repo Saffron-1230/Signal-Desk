@@ -17,7 +17,8 @@
       <button class="view-tab is-active" id="tab-all" role="tab" aria-selected="true" aria-controls="panel-all" data-view="all">All updates</button>
       <button class="view-tab" id="tab-sources" role="tab" aria-selected="false" aria-controls="panel-sources" data-view="sources" tabindex="-1">By source</button>
     </nav>
-    <a id="refresh" class="refresh-button" href="https://github.com/Saffron-1230/saffron-edge-signal-desk/actions/workflows/pages.yml" target="_blank" rel="noopener noreferrer" title="Open the GitHub workflow to run an update"><span class="refresh-icon" aria-hidden="true">↻</span><span>Update from GitHub</span></a>
+    <button id="refresh" class="refresh-button" type="button"><span class="refresh-icon" aria-hidden="true">↻</span><span>Refresh</span></button>
+    <span id="refresh-status" class="sr-only" aria-live="polite"></span>
   </header>
 
   <main>
