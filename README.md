@@ -6,7 +6,7 @@ Signal Desk is Saffron Edge's free, public marketing and SEO news dashboard. It 
 
 After GitHub Pages is enabled, the dashboard is published at:
 
-https://saffron-1230.github.io/
+https://saffron-1230.github.io/Signal-Desk/
 
 ## Automatic updates
 
