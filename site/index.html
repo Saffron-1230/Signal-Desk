@@ -7,51 +7,91 @@
   <meta name="description" content="A publicly accessible, automatically updated marketing and SEO industry news dashboard.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@600;700;800&amp;display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Instrument+Serif:ital@0;1&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to articles</a>
+
+  <div class="announcement" role="note">
+    <span class="announcement-dot" aria-hidden="true"></span>
+    <span>Live marketing intelligence, refreshed every Monday and Thursday</span>
+    <span class="announcement-time">10:00 AM IST</span>
+  </div>
+
   <header class="topbar">
-    <a class="brand" href="./" aria-label="Signal Desk home"><span class="brand-mark">S</span><span>Signal Desk</span></a>
+    <a class="brand" href="./" aria-label="Signal Desk home">
+      <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+      <span class="brand-name">Signal Desk</span>
+    </a>
     <nav class="view-tabs" aria-label="Dashboard views" role="tablist">
       <button class="view-tab is-active" id="tab-all" role="tab" aria-selected="true" aria-controls="panel-all" data-view="all">All updates</button>
       <button class="view-tab" id="tab-sources" role="tab" aria-selected="false" aria-controls="panel-sources" data-view="sources" tabindex="-1">By source</button>
     </nav>
-    <button id="refresh" class="refresh-button" type="button"><span class="refresh-icon" aria-hidden="true">↻</span><span>Refresh</span></button>
+    <button id="refresh" class="refresh-button" type="button">
+      <span class="refresh-icon" aria-hidden="true">↻</span>
+      <span>Refresh</span>
+    </button>
     <span id="refresh-status" class="sr-only" aria-live="polite"></span>
   </header>
 
-  <main>
-    <section class="hero">
-      <div>
-        <p class="kicker"><span></span>YOUR INDUSTRY PULSE</p>
-        <h1>Latest signals.<br><em>One clear view.</em></h1>
+  <main id="main-content">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-orbit hero-orbit-one" aria-hidden="true"></div>
+      <div class="hero-orbit hero-orbit-two" aria-hidden="true"></div>
+      <p class="eyebrow"><span>Independent industry monitor</span></p>
+      <h1 id="hero-title">The marketing intelligence desk<br><em>where noise becomes signal</em></h1>
+      <p class="hero-copy">Follow the latest thinking from leading SEO, search, advertising, and marketing teams—carefully organized in one calm, current view.</p>
+      <div class="hero-status" aria-label="Dashboard status">
+        <span class="status-dot" aria-hidden="true"></span>
+        <div>
+          <small>Latest data refresh</small>
+          <strong id="last-updated">Loading latest refresh</strong>
+        </div>
       </div>
-      <div class="status-card">
-        <span class="status-dot"></span>
-        <div><small>LAST UPDATED</small><strong id="last-updated">Loading latest refresh</strong></div>
+      <div class="source-ribbon" aria-label="Sources monitored">
+        <span>Tracking</span>
+        <strong>Ahrefs</strong><i></i>
+        <strong>Search Engine Land</strong><i></i>
+        <strong>Semrush</strong><i></i>
+        <strong>Factors.ai</strong><i></i>
+        <strong>WebFX</strong><i></i>
+        <strong>Google</strong>
       </div>
     </section>
 
-    <section id="panel-all" class="view-panel" role="tabpanel" aria-labelledby="tab-all">
-      <div class="updates-heading">
-        <div><strong>Latest updates</strong><span id="result-count">Loading articles…</span></div>
-        <p>Every new article, across every source, in one newest-first stream.</p>
+    <section id="panel-all" class="view-panel content-shell" role="tabpanel" aria-labelledby="tab-all">
+      <div class="section-heading">
+        <div>
+          <p class="section-number">01 / LIVE FEED</p>
+          <h2>The latest updates,<br><em>all in one place</em></h2>
+        </div>
+        <div class="section-aside">
+          <p>Every new article across every monitored source, arranged newest first.</p>
+          <span id="result-count" class="result-count">Loading articles…</span>
+        </div>
       </div>
       <div id="all-feed" class="all-feed" aria-live="polite" aria-busy="true">
-        <div class="loading">Loading your news desk…</div>
+        <div class="loading"><span></span>Loading your intelligence desk…</div>
       </div>
     </section>
 
-    <section id="panel-sources" class="view-panel" role="tabpanel" aria-labelledby="tab-sources" hidden>
-      <div class="section-intro">
-        <div><p class="section-label">ARTICLE ARCHIVE</p><h2>Find articles by source and date</h2></div>
-        <p>Choose a brand and release month to narrow the archive.</p>
+    <section id="panel-sources" class="view-panel content-shell" role="tabpanel" aria-labelledby="tab-sources" hidden>
+      <div class="section-heading archive-heading">
+        <div>
+          <p class="section-number">02 / ARTICLE ARCHIVE</p>
+          <h2>Search the archive,<br><em>your way</em></h2>
+        </div>
+        <div class="section-aside">
+          <p>Choose a brand and release month, then arrange the results by date or source.</p>
+          <span id="source-result-count" class="result-count">Loading articles…</span>
+        </div>
       </div>
+
       <div class="controls" aria-label="Source archive filters">
         <div class="control-copy">
-          <strong>By source</strong>
-          <span id="source-result-count">Loading articles…</span>
+          <span class="filter-index">FILTERS</span>
+          <strong>Find a specific article</strong>
         </div>
         <div class="control-fields archive-controls">
           <label class="select-field">
@@ -72,15 +112,22 @@
           </label>
         </div>
       </div>
-      <div id="source-archive" class="all-feed" aria-live="polite" aria-busy="true">
-        <div class="loading">Loading the archive…</div>
+      <div id="source-archive" class="all-feed archive-feed" aria-live="polite" aria-busy="true">
+        <div class="loading"><span></span>Loading the archive…</div>
       </div>
     </section>
   </main>
 
   <footer>
-    <span>Signal Desk is hosted free on GitHub Pages.</span>
-    <span>Automatic refresh · Mondays &amp; Thursdays at 10:00 AM IST</span>
+    <a class="footer-brand" href="./" aria-label="Signal Desk home">
+      <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+      <span>Signal Desk</span>
+    </a>
+    <p>Marketing and SEO intelligence,<br>without the noise.</p>
+    <div>
+      <span>Hosted free on GitHub Pages</span>
+      <span>Automatic refresh · Mon &amp; Thu · 10:00 AM IST</span>
+    </div>
   </footer>
 
   <script src="./app.js"></script>
