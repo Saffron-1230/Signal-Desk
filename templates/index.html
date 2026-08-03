@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Signal Desk — Marketing & SEO Intelligence</title>
+  <meta name="description" content="A local, automatically updated marketing and SEO industry news dashboard.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="Signal Desk home"><span class="brand-mark">S</span><span>Signal Desk</span></a>
+    <nav class="view-tabs" aria-label="Dashboard views" role="tablist">
+      <button class="view-tab is-active" id="tab-all" role="tab" aria-selected="true" aria-controls="panel-all" data-view="all">All updates</button>
+      <button class="view-tab" id="tab-sources" role="tab" aria-selected="false" aria-controls="panel-sources" data-view="sources" tabindex="-1">By source</button>
+    </nav>
+    <button id="refresh" class="refresh-button" type="button"><span class="refresh-icon" aria-hidden="true">↻</span><span>Refresh now</span></button>
+    <span id="refresh-status" class="sr-only" aria-live="polite"></span>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <p class="kicker"><span></span>YOUR INDUSTRY PULSE</p>
+        <h1>Latest signals.<br><em>One clear view.</em></h1>
+      </div>
+      <div class="status-card">
+        <span class="status-dot"></span>
+        <div><small>LAST UPDATED</small><strong id="last-updated">Waiting for first refresh</strong></div>
+      </div>
+    </section>
+
+    <section id="panel-all" class="view-panel" role="tabpanel" aria-labelledby="tab-all">
+      <div class="updates-heading">
+        <div><strong>Latest updates</strong><span id="result-count">Loading articles…</span></div>
+        <p>Every new article, across every source, in one newest-first stream.</p>
+      </div>
+      <div id="all-feed" class="all-feed" aria-live="polite" aria-busy="true">
+        <div class="loading">Loading your news desk…</div>
+      </div>
+    </section>
+
+    <section id="panel-sources" class="view-panel" role="tabpanel" aria-labelledby="tab-sources" hidden>
+      <div class="section-intro">
+        <div><p class="section-label">ARTICLE ARCHIVE</p><h2>Find articles by source and date</h2></div>
+        <p>Choose a brand and release month to narrow the archive.</p>
+      </div>
+      <div class="controls" aria-label="Source archive filters">
+        <div class="control-copy">
+          <strong>By source</strong>
+          <span id="source-result-count">Loading articles…</span>
+        </div>
+        <div class="control-fields archive-controls">
+          <label class="select-field">
+            <span>Brand</span>
+            <select id="archive-brand-select">
+              <option value="all">All brands</option>
+            </select>
+          </label>
+          <label class="select-field">
+            <span>Release month</span>
+            <select id="archive-month-select">
+              <option value="all">All months</option>
+            </select>
+          </label>
+          <label class="select-field">
+            <span>Sort by</span>
+            <select id="archive-sort-select">
+              <option value="newest">Date — newest first</option>
+              <option value="oldest">Date — oldest first</option>
+              <option value="brand">Brand — A to Z</option>
+            </select>
+          </label>
+        </div>
+      </div>
+      <div id="source-archive" class="all-feed" aria-live="polite" aria-busy="true">
+        <div class="loading">Loading the archive…</div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>Signal Desk runs locally on your computer.</span>
+    <span>Automatic refresh · Mondays &amp; Thursdays at 10:00 AM</span>
+  </footer>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
