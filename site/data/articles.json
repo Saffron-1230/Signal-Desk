@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T09:41:38.591752+00:00",
+  "last_updated": "2026-08-05T18:09:29.153919+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4254,6 +4254,62 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "How to de-risk your SEO strategy when Google keeps changing the model behind your rankings",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZHdydHVGRnlURUFPOWVhNXN2NzNEYzVneDV3UjA0dEdmRmJTam5ra3BMU29tMFNRYklwbFRoenpkbWJBSGlpMXJfdHhzSS1JdlcweHZoZ2JTRHpvekVsdWM0cS1YRnF0ZTV3b0MtNDRZMV9URDJMa0NJb2w3ODRlUUV5RU1JeDMt?oc=5",
+          "published_at": "2026-08-05T16:40:00+00:00",
+          "excerpt": "How to de-risk your SEO strategy when Google keeps changing the model behind your rankings Search Engine Land",
+          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "10 SEO use cases for auditing your accessibility tree for AI search",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Xb1M1YmF1cFlwMEdLX0pYQzRYY2lCSG01LU1JNGpWVU1rN2E2V2tBcHN2cWlxbG4tUDNQZzR2Z05qWGJBX3d5eG1yRE9tZVN2MTBmT3BBanJfbnFWRm5lQ2kzMFY4LUswZ3ZTRERwS29QTmwtcXdz?oc=5",
+          "published_at": "2026-08-05T15:00:00+00:00",
+          "excerpt": "10 SEO use cases for auditing your accessibility tree for AI search Search Engine Land",
+          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "Google tightens Ads policy for government document providers",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlNoY2NFYWJZV0ZvM2ZOUW9NcWZ5N2l2WUx5WlNXWTI1eWtKMWlnWWRMdWlWVGQ3bWh0czMtRGh4SnhRdHg0OGcydUdsSGxoeG9HUzhVZ09PR05lX3ZSQkRpaWFBZDh3Tzc2RGhtWFlDTHR0Q3N4REUzcEhHLTF3Z0pOSW5KMDFWV3ZhQ29HcDY5eGU5RDlMVjM5Uno?oc=5",
+          "published_at": "2026-08-05T14:56:00+00:00",
+          "excerpt": "Google tightens Ads policy for government document providers Search Engine Land",
+          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "Why paid search could be your AI search advantage",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EY1lOMFB2UVpjZnhUaXByMjJzaVlpSzNkOHI3b1FJTHVyT2FXNUJCYllYbEtfUEJBYnQ0Tkh2TmNieWlCSWtoQlFwVmFjX3ZRUTRSNGNIbkdlWDVka3J3U0NnazJETXA0ejlNSWcteTJabXRsbEE?oc=5",
+          "published_at": "2026-08-05T12:30:00+00:00",
+          "excerpt": "Why paid search could be your AI search advantage Search Engine Land",
+          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "Google launches secure API access pilot for manager accounts",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTktURlJwb1d6SnNBaGVwWUpXbTM3SzNRMDBKT3ZtSGktMnM5NVNpLUwxQVFEbGxkRGcyV3I1WkRGUGktLWNxalg0TUcxZ1NUVlhFdXM1S2N0UnhvVkVaZTYwRktIMVp4N3BWWmdaU2hrWnQyTWt5eFBobXpudWVpNE41d0NvTk12dmg1Q1JOdmF3V0RBS2ZHb2UwMHI?oc=5",
+          "published_at": "2026-08-05T10:23:00+00:00",
+          "excerpt": "Google launches secure API access pilot for manager accounts Search Engine Land",
+          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "Should multilingual websites add English pages for AI visibility?",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQjhtT3I3Qk0wRXFid3ljcUFBUGVtOW5iT3JUbXpVVVQxRVZ2N3ZhU3ZwcHhtQmQ2Nkd0VmRUeGlLQ3dzcy1tRXpLcGN4T2dLaXhmZ3RMb2JlUVY1ckRlMi1KY1VLWXJUcnRycENfYWNPTklWYklwVVlmSi1Za1cwOE5DQnVBNlo0QXNJRnlB?oc=5",
+          "published_at": "2026-08-05T09:00:00+00:00",
+          "excerpt": "Should multilingual websites add English pages for AI visibility? Search Engine Land",
+          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "How to troubleshoot automated bidding in Google Ads",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcThvaUFwcDdUWHBrRDNGanRHTHFFZW1pVGVuOUtUQl9xVmRxekFQS25NQUpGQURWU3FOWUxhSG9NY3V2RW0yQlI4M2pQVVpvRHdleXhoRmk4NDZHQWhnZzhKTXJ4dWxGU1dzYUJGUUxjdlJvMXBIVm96R19xR0xEenhOQQ?oc=5",
+          "published_at": "2026-08-05T08:00:00+00:00",
+          "excerpt": "How to troubleshoot automated bidding in Google Ads Search Engine Land",
+          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "AI can knock on the door. Your CRM marketing platform is still the house.",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzk0VUhvNnVqdzkxZ0NfVXdTUFQ1UG5ZejVSbVBhdUZlbHg5N1BBNFhoaDFoZFJMSDJ4eENpYnJDcGo4M1RyX0lraVZja2U1Y3JaVVVHM000WkszRy1INWx1RjlZVzFhdkJNTVBJdkxERUZiOFJxOXNlWGlJQ2NhSWdndkdfOUlKRDg0eDAyeFdHeVdtUVl6VVc0eVFSeUR5a3dxcjZ2cjYwZHM?oc=5",
+          "published_at": "2026-08-04T23:00:00+00:00",
+          "excerpt": "AI can knock on the door. Your CRM marketing platform is still the house. Search Engine Land",
+          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
           "title": "Google Search testing forcing searchers to sign in to get more search results",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXdEVmY3NnJ4aHppYnZGbFhJeF82TW9JaUpvdUpFZENaWHVFbTlhVGRoRk5wMmhxMlBYc3R4ekt1QWpTemhRNFB6N0llTEMyRE9Vdk5vVEhIeVRIT0xyY1VvdUNWLVJ2OFlfM3AwR0MyeXU1dUdlRnBSeGh6VlNTOEFxVFJGY1NnRTBOXzljdGFfVWVHVy1LQk00TGV6cDF0aDZPZDE3YTROdlJGZFhOWTVYZw?oc=5",
           "published_at": "2026-08-04T13:18:00+00:00",
@@ -5171,6 +5227,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "Why frontloading your ad spend usually backfires",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MRnhzSUtTVndRWUhpeHNyUDNhQzg4QWo0X053T1NIQmF2a3Z6dGJaMGlOeVdSSUVMUVJvZ2ZrckQtb0FHNi1zRTVSendieTBCNkJ3RkNQVDFqQjRiX3NEYm5LM1k2aHV4OEswWnVRbFI1WDBKSUQ0VXhkTQ?oc=5",
+          "published_at": "2026-07-10T07:00:00+00:00",
+          "excerpt": "Why frontloading your ad spend usually backfires Search Engine Land",
+          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
           "title": "Winning the AI decision layer: From AI discovery to agentic commerce",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zaW5nU0p0dHFFWWtUSGY1Nkt2Q3BxbzBNTDJXMklORFh3UXZTejF4X2tJa0hTV2dMWTBkUEdDTFF2OUFJWlpPSnROUXJwcWd0T24xZ0x4dDZKRGF1bG5UOXcwMWtfTHRQR19PS2Ezc1AxVk5ZTjY4ZXBR?oc=5",
           "published_at": "2026-07-09T15:00:00+00:00",
@@ -5375,6 +5438,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "When AI Takes The Click, Click Worthiness Should Guide Your Strategy via @sejournal, @billhunt",
+          "url": "https://www.searchenginejournal.com/when-ai-takes-the-click-click-worthiness-should-guide-your-strategy/582587/",
+          "published_at": "2026-08-05T17:30:05+00:00",
+          "excerpt": "Search volume told you what people want to know. It no longer tells you whether they need you after AI answers. Click Worthiness does. The post When AI Takes The Click, Click Worthiness Should Guide Your Strategy appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-05T18:09:16.432041+00:00"
+        },
+        {
+          "title": "Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/microsoft-advertising-adds-ai-visibility-insights-pmax-testing-and-creative-preview-updates/584760/",
+          "published_at": "2026-08-05T17:00:19+00:00",
+          "excerpt": "Microsoft Advertising expands AI Visibility, Performance Max testing, and Ad Preview Hub with new reporting, experimentation, and creative review capabilities. The post Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates appeared first o…",
+          "fetched_at": "2026-08-05T18:09:16.432041+00:00"
+        },
+        {
+          "title": "AI Visibility Measurement: What To Track & What To Ignore",
+          "url": "https://www.searchenginejournal.com/ai-visibility-measurement-what-to-track-what-to-ignore/582009/",
+          "published_at": "2026-08-05T14:30:03+00:00",
+          "excerpt": "Citations, sentiment, and LLM referral traffic make poor KPIs. Here are the AI visibility metrics that actually connect to leads, pipeline, and revenue. The post AI Visibility Measurement: What To Track & What To Ignore appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-05T18:09:16.432041+00:00"
+        },
+        {
+          "title": "Reddit Wants To Be The Destination, Not Just The Source Behind Search & AI via @sejournal, @brentcsutoras",
+          "url": "https://www.searchenginejournal.com/reddit-wants-to-be-the-destination-not-just-the-source-behind-search-ai/584586/",
+          "published_at": "2026-08-05T12:00:08+00:00",
+          "excerpt": "Reddit's Q2 call laid out the daily destination strategy and the participation problem standing in its way. What marketers should do now. The post Reddit Wants To Be The Destination, Not Just The Source Behind Search & AI appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-05T18:09:16.432041+00:00"
+        },
+        {
           "title": "Reddit CEO Intends To Show More Reviews And Recommendations via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/reddit-ceo-intends-to-show-more-reviews-and-recommendations/584731/",
           "published_at": "2026-08-05T09:17:33+00:00",
@@ -5508,7 +5599,7 @@
           "fetched_at": "2026-08-03T15:53:28.442491+05:30"
         },
         {
-          "title": "WP Engine Partners With BigCommerce To Scale WordPress Stores via @sejournal, @martinibuster",
+          "title": "WP Engine Partners With BigCommerce To Scale WordPress Stores",
           "url": "https://www.searchenginejournal.com/wp-engine-bigcommerce-wordpress-stores/584343/",
           "published_at": "2026-07-30T23:04:36+00:00",
           "excerpt": "WP Engine announced Commerce Connect, a safe way for fast-growth brands to modernize and scale while preserving design, SEO, and user experience. The post WP Engine Partners With BigCommerce To Scale WordPress Stores appeared first on Search Engine Journal .",
@@ -6913,6 +7004,20 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "AI in digital marketing: why most teams are stuck optimizing the wrong 20%",
+          "url": "https://www.factors.ai/blog/ai-in-digital-marketing-maturity-guide",
+          "published_at": "2026-08-05T00:00:00+00:00",
+          "excerpt": "AI in digital marketing isn't a tools problem anymore. See why most B2B teams are stuck at stage one, what it's costing them, and how to audit where you stand.",
+          "fetched_at": "2026-08-05T18:09:25.105126+00:00"
+        },
+        {
+          "title": "AI email marketing automation: what actually changes for B2B teams",
+          "url": "https://www.factors.ai/blog/ai-email-marketing-automation-guide",
+          "published_at": "2026-08-05T00:00:00+00:00",
+          "excerpt": "Let’s see how AI email marketing automation actually works for B2B teams, where it earns its keep, and where most programs are wasting it.",
+          "fetched_at": "2026-08-05T18:09:25.105126+00:00"
+        },
+        {
           "title": "Best AI email marketing platforms for B2B teams in 2026",
           "url": "https://www.factors.ai/blog/ai-email-marketing-platforms-b2b-comparison",
           "published_at": "2026-08-03T00:00:00+00:00",
@@ -7103,6 +7208,20 @@
       "archive_titles_canonical": true,
       "color": "#178bd4",
       "articles": [
+        {
+          "title": "How Google Generative UI Will Impact Your Company’s SEO Strategy",
+          "url": "https://www.webfx.com/blog/ai/google-generative-ui/",
+          "published_at": "2026-08-05T16:25:20+00:00",
+          "excerpt": "The post How Google Generative UI Will Impact Your Company’s SEO Strategy appeared first on WebFX .",
+          "fetched_at": "2026-08-05T18:09:26.199578+00:00"
+        },
+        {
+          "title": "ChatGPT Ads Manager: How OpenAI’s Self-Serve Platform Works and Who Should Test It",
+          "url": "https://www.webfx.com/blog/ai/chatgpt-ads-manager/",
+          "published_at": "2026-08-05T16:05:15+00:00",
+          "excerpt": "The post ChatGPT Ads Manager: How OpenAI’s Self-Serve Platform Works and Who Should Test It appeared first on WebFX .",
+          "fetched_at": "2026-08-05T18:09:26.199578+00:00"
+        },
         {
           "title": "Go Social With the Best Social Media Companies in the World",
           "url": "https://www.webfx.com/blog/social-media/best-social-media-companies/",
@@ -7640,6 +7759,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "The next chapter of our AI momentum",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "published_at": "2026-08-05T16:00:00+00:00",
+          "excerpt": "Today, Google and Alphabet CEO Sundar Pichai shared some changes with Google DeepMind teams.",
+          "fetched_at": "2026-08-05T18:09:29.150981+00:00"
+        },
         {
           "title": "The latest AI news we announced in July 2026",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
