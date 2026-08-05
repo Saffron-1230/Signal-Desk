@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T13:33:02.714853+05:30",
+  "last_updated": "2026-08-05T09:41:38.591752+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -5143,6 +5143,20 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "OpenAI sets Aug. 9 end date for ChatGPT Atlas",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VcUZTTm8tSm1vdXZMUHRoZVpXSThGY2RjN3c1amNNM3lNckxDM2U0VVQ0cE9RZmxWSTZPSEpjd2Y3S0xmeEgwUHBrRER3M2VLeldubGxySlhGZ0ZWVjJiamRSYmV6d1h4WEZ5dlRfcVJyaWh0YlI0?oc=5",
+          "published_at": "2026-07-10T13:16:00+00:00",
+          "excerpt": "OpenAI sets Aug. 9 end date for ChatGPT Atlas Search Engine Land",
+          "fetched_at": "2026-08-05T09:41:17.163585+00:00"
+        },
+        {
+          "title": "Google’s Universal Commerce Protocol: The SEO implications",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRW9WZkZQMGVTaGZtV01idHNBT3FlMlpOTWZISWlPX1N3ZHFjRE1RMGtSbGRtT21NcWhIaml6cHpQWmNpXzFLZno0TExiakVwVXN5Vzdfc09wVk5ZY1p2UTZTNG5Dellfek9SOWdPNFFUQ3Y3LTA3LVZ2ZUZXTjVBX0FXdnBFUzZydTFoRHhJRHI?oc=5",
+          "published_at": "2026-07-10T13:00:00+00:00",
+          "excerpt": "Google’s Universal Commerce Protocol: The SEO implications Search Engine Land",
+          "fetched_at": "2026-08-05T09:41:17.163585+00:00"
+        },
+        {
           "title": "The latest jobs in search marketing",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
           "published_at": "2026-07-10T07:00:00+00:00",
@@ -5192,6 +5206,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "Why marketing mix modeling is still hard to get right",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qdmsxR3luRVlzOV9KcHdLSGstQ19KZi1GNm93Ui0zVHhFN2lYOXRFX0VLWjhqS2RZSWdTZ3phWVR4RHo5aEFRMEpSOTZ0SkhCSUhjT3FaUHdtRlhTMHJHamsxbW1sWVpvV04ybkRjRVBENHRRQnI0?oc=5",
+          "published_at": "2026-07-09T07:00:00+00:00",
+          "excerpt": "Why marketing mix modeling is still hard to get right Search Engine Land",
+          "fetched_at": "2026-08-05T09:41:17.163585+00:00"
+        },
+        {
           "title": "Why most original data never gets cited",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU2lkbWh0Y1o5eXlxdWJWVWFWNHFHSVFwNjVUdDFjeDZxajVVa2FXbmZ4TFR5WkJBdldCc242cGFxYXI5OVJ6bkdKQXVZbDFLMHBRMG1IeGpFcTBMeXBVc0N5ZHN4UExOaXNwT2tReTdxMDJHSE9GYjQ4UkZldkxHRw?oc=5",
           "published_at": "2026-07-08T15:00:00+00:00",
@@ -5218,6 +5239,20 @@
           "published_at": "2026-07-08T07:00:00+00:00",
           "excerpt": "How to build an AI-powered content gap analysis workflow Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "ChatGPT citations change when hidden search pipelines switch",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLU5CbWJ5Q0ptMDdCVGtvVmNmSmRVWThqQkNiMXF4S184LXJHb01GMUFZX1JvNWFGUzJiWnpJdU9pUFgycHF1NnlwUnZLTl84SmFrRG1Tdm51ZDRoWVBBWm1kOXAxQTlzSDc4aTNINWVIOS13aDJKb2ljZGdSX3k4TXJHNk1UWGl0VHZIYg?oc=5",
+          "published_at": "2026-07-08T07:00:00+00:00",
+          "excerpt": "ChatGPT citations change when hidden search pipelines switch Search Engine Land",
+          "fetched_at": "2026-08-05T09:41:17.163585+00:00"
+        },
+        {
+          "title": "Why you should opt out of Google Search Partners",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Pa3dDWkZVdTdVeEttVUJCQUlncnNfelU0RXZNOXNuSEFOQ0hXWXlnRjNjaGZPNjVxeTVYbDYxZ3Z1ekRHN0MtR3pKdFQ1WGNRUUxOdlk4aEEwRS1nLVc3Qkx3T2Q3a1RNamJodFhGLVYwVXRBYVNabXhB?oc=5",
+          "published_at": "2026-07-08T07:00:00+00:00",
+          "excerpt": "Why you should opt out of Google Search Partners Search Engine Land",
+          "fetched_at": "2026-08-05T09:41:17.163585+00:00"
         },
         {
           "title": "Google Search Console gains reporting on social and video platforms",
@@ -5339,6 +5374,13 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Reddit CEO Intends To Show More Reviews And Recommendations via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/reddit-ceo-intends-to-show-more-reviews-and-recommendations/584731/",
+          "published_at": "2026-08-05T09:17:33+00:00",
+          "excerpt": "Reddit CEO Steve Huffman revealed intent to leverage the platform's vast amount of evergreen content on recommendations and reviews. The post Reddit CEO Intends To Show More Reviews And Recommendations appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-05T09:41:27.925899+00:00"
+        },
         {
           "title": "What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/what-top-stories-inside-ai-overviews-means-for-publishers-and-brands-in-2026-and-beyond/584175/",
