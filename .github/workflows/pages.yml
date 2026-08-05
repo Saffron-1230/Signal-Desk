@@ -4,8 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    # 10:00 AM Asia/Kolkata on Mondays and Thursdays (04:30 UTC).
-    - cron: "30 4 * * 1,4"
+    # 10:00 AM and 6:00 PM Asia/Kolkata every day (04:30 and 12:30 UTC).
+    - cron: "30 4,12 * * *"
   workflow_dispatch:
 
 permissions:

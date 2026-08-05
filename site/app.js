@@ -9,6 +9,7 @@ const archiveSortSelect = document.querySelector('#archive-sort-select');
 const archiveBrandSelect = document.querySelector('#archive-brand-select');
 const archiveMonthSelect = document.querySelector('#archive-month-select');
 const tabs = [...document.querySelectorAll('[role="tab"]')];
+const updateWorkflowUrl = 'https://github.com/Saffron-1230/Signal-Desk/actions/workflows/pages.yml';
 
 let dashboardData = null;
 
@@ -22,16 +23,18 @@ function prettyDate(value, withTime = false) {
 }
 
 function monthLabel(value) {
-  const date = new Date(value || 0);
-  return Number.isNaN(date.getTime())
-    ? 'Date unavailable'
-    : new Intl.DateTimeFormat(undefined, { month: 'long', year: 'numeric' }).format(date);
+  const key = monthKey(value);
+  if (key === 'unknown') return 'Date unavailable';
+  const date = new Date(`${key}-15T12:00:00`);
+  return new Intl.DateTimeFormat(undefined, { month: 'long', year: 'numeric' }).format(date);
 }
 
 function monthKey(value) {
+  const calendarMatch = String(value || '').match(/^(\d{4})-(\d{2})/);
+  if (calendarMatch) return `${calendarMatch[1]}-${calendarMatch[2]}`;
   const date = new Date(value || 0);
   if (Number.isNaN(date.getTime())) return 'unknown';
-  return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+  return `${date.getUTCFullYear()}-${String(date.getUTCMonth() + 1).padStart(2, '0')}`;
 }
 
 function timestamp(value) {
@@ -135,6 +138,12 @@ function renderSourceArchive() {
   if (selectedBrand !== 'all') articles = articles.filter(article => article.sourceId === selectedBrand);
   if (selectedMonth !== 'all') articles = articles.filter(article => monthKey(articleDateValue(article)) === selectedMonth);
 
+  if (!articles.length && selectedMonth !== 'all') {
+    archiveMonthSelect.value = 'all';
+    renderSourceArchive();
+    return;
+  }
+
   if (sortMode === 'oldest') {
     articles.sort((a, b) => timestamp(articleDateValue(a)) - timestamp(articleDateValue(b)));
   } else if (sortMode === 'brand') {
@@ -160,8 +169,12 @@ function populateBrands() {
 
 function populateMonths() {
   const currentValue = archiveMonthSelect.value;
-  const months = [...new Map(articlesWithSources(dashboardData)
+  const selectedBrand = archiveBrandSelect.value;
+  const brandArticles = articlesWithSources(dashboardData)
+    .filter(article => selectedBrand === 'all' || article.sourceId === selectedBrand);
+  const months = [...new Map(brandArticles
     .sort((a, b) => timestamp(articleDateValue(b)) - timestamp(articleDateValue(a)))
+    .filter(article => monthKey(articleDateValue(article)) !== 'unknown')
     .map(article => [monthKey(articleDateValue(article)), monthLabel(articleDateValue(article))])).entries()];
   archiveMonthSelect.innerHTML = '<option value="all">All months</option>' + months
     .map(([value, label]) => `<option value="${escapeHtml(value)}">${escapeHtml(label)}</option>`)
@@ -202,7 +215,10 @@ tabs.forEach((tab, index) => {
 });
 
 archiveSortSelect.addEventListener('change', renderSourceArchive);
-archiveBrandSelect.addEventListener('change', renderSourceArchive);
+archiveBrandSelect.addEventListener('change', () => {
+  populateMonths();
+  renderSourceArchive();
+});
 archiveMonthSelect.addEventListener('change', renderSourceArchive);
 
 async function load() {
@@ -216,21 +232,12 @@ async function load() {
 }
 
 refresh.addEventListener('click', async () => {
-  if (refresh.disabled) return;
-  refresh.disabled = true;
-  refresh.classList.add('busy');
-  refresh.querySelector('span:last-child').textContent = 'Refreshing…';
-  refreshStatus.textContent = 'Checking for the latest published articles.';
-  try {
-    const data = await load();
-    refreshStatus.textContent = `Dashboard refreshed. Latest published update: ${prettyDate(data.last_updated, true)}.`;
-  } catch (error) {
-    refreshStatus.textContent = `${error.message}. Please try again.`;
-  } finally {
-    refresh.disabled = false;
-    refresh.classList.remove('busy');
-    refresh.querySelector('span:last-child').textContent = 'Refresh';
-  }
+  refreshStatus.textContent = 'Opening the secure GitHub update control. Choose Run workflow to collect and publish the newest articles.';
+  window.open(updateWorkflowUrl, '_blank', 'noopener,noreferrer');
+});
+
+window.addEventListener('focus', () => {
+  load().catch(() => {});
 });
 
 

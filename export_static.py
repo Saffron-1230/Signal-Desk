@@ -23,7 +23,7 @@ def main() -> None:
         result = refresh_all("github-actions")
         print(f"Collection finished with status: {result['status']}")
 
-    payload = dashboard_payload(limit=100)
+    payload = dashboard_payload()
     SITE_DATA.parent.mkdir(parents=True, exist_ok=True)
     temporary = SITE_DATA.with_suffix(".json.tmp")
     temporary.write_text(
