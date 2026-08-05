@@ -9,9 +9,10 @@ const archiveSortSelect = document.querySelector('#archive-sort-select');
 const archiveBrandSelect = document.querySelector('#archive-brand-select');
 const archiveMonthSelect = document.querySelector('#archive-month-select');
 const tabs = [...document.querySelectorAll('[role="tab"]')];
-const updateWorkflowUrl = 'https://github.com/Saffron-1230/Signal-Desk/actions/workflows/pages.yml';
 
 let dashboardData = null;
+let latestLoadId = 0;
+let refreshInProgress = false;
 
 function prettyDate(value, withTime = false) {
   if (!value) return withTime ? 'Waiting for first refresh' : 'Date unavailable';
@@ -221,23 +222,68 @@ archiveBrandSelect.addEventListener('change', () => {
 });
 archiveMonthSelect.addEventListener('change', renderSourceArchive);
 
+function dashboardSignature(data) {
+  if (!data) return '';
+  const articleCount = Object.values(data.sources || {})
+    .reduce((total, source) => total + (source.articles?.length || 0), 0);
+  return `${data.last_updated || ''}:${articleCount}`;
+}
+
 async function load() {
+  const loadId = ++latestLoadId;
+  const controller = new AbortController();
+  const timeoutId = window.setTimeout(() => controller.abort(), 15000);
   const dataUrl = new URL('./data/articles.json', window.location.href);
-  dataUrl.searchParams.set('v', Date.now());
-  const response = await fetch(dataUrl, { cache: 'no-store' });
-  if (!response.ok) throw new Error('Could not load articles');
-  const data = await response.json();
-  render(data);
-  return data;
+  dataUrl.searchParams.set('v', `${Date.now()}-${loadId}`);
+  try {
+    const response = await fetch(dataUrl, { cache: 'no-store', signal: controller.signal });
+    if (!response.ok) throw new Error('Could not load articles');
+    const data = await response.json();
+    if (loadId === latestLoadId) render(data);
+    return data;
+  } catch (error) {
+    if (error.name === 'AbortError') throw new Error('Refresh timed out');
+    throw error;
+  } finally {
+    window.clearTimeout(timeoutId);
+  }
 }
 
 refresh.addEventListener('click', async () => {
-  refreshStatus.textContent = 'Opening the secure GitHub update control. Choose Run workflow to collect and publish the newest articles.';
-  window.open(updateWorkflowUrl, '_blank', 'noopener,noreferrer');
+  if (refreshInProgress) return;
+
+  refreshInProgress = true;
+  const label = refresh.querySelector('span:last-child');
+  const previousSignature = dashboardSignature(dashboardData);
+  refresh.disabled = true;
+  refresh.classList.add('busy');
+  refresh.setAttribute('aria-busy', 'true');
+  label.textContent = 'Refreshing…';
+  refreshStatus.textContent = 'Checking for the latest published articles.';
+
+  try {
+    const data = await load();
+    const changed = dashboardSignature(data) !== previousSignature;
+    label.textContent = changed ? 'Updated' : 'Up to date';
+    refreshStatus.textContent = changed
+      ? `Dashboard updated. Latest data refresh: ${prettyDate(data.last_updated, true)}.`
+      : `Dashboard is already up to date. Latest data refresh: ${prettyDate(data.last_updated, true)}.`;
+  } catch (error) {
+    label.textContent = 'Try again';
+    refreshStatus.textContent = `${error.message}. The current articles remain available.`;
+  } finally {
+    window.setTimeout(() => {
+      refresh.disabled = false;
+      refresh.classList.remove('busy');
+      refresh.removeAttribute('aria-busy');
+      label.textContent = 'Refresh';
+      refreshInProgress = false;
+    }, 900);
+  }
 });
 
 window.addEventListener('focus', () => {
-  load().catch(() => {});
+  if (!refreshInProgress) load().catch(() => {});
 });
 
 
