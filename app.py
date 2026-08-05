@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import atexit
+import calendar
 import json
 import logging
 import os
@@ -8,7 +9,7 @@ import re
 import sqlite3
 import threading
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -26,35 +27,69 @@ DB_PATH = DATA_DIR / "articles.db"
 LOG_PATH = DATA_DIR / "refresh.log"
 USER_AGENT = "MarketingNewsDesk/1.0 (+local personal reader; respectful polling)"
 REQUEST_TIMEOUT = 20
-MAX_ITEMS_PER_SOURCE = 30
+MAX_ITEMS_PER_SOURCE = 100
 
 SOURCES = {
     "ahrefs": {
         "name": "Ahrefs Blog", "short": "AH", "site": "https://ahrefs.com/blog/",
-        "feeds": ["https://ahrefs.com/blog/feed/"], "color": "#ff6b35",
+        "feeds": ["https://ahrefs.com/blog/feed/"],
+        "hosts": ["ahrefs.com", "www.ahrefs.com"],
+        "archive_pages": ["https://ahrefs.com/blog/archive/"] + [
+            f"https://ahrefs.com/blog/archive/page/{page}/" for page in range(2, 21)
+        ],
+        "archive_listing_selector": "h3 a[href]",
+        "archive_container_class": "post-header",
+        "archive_titles_canonical": True,
+        "color": "#ff6b35",
     },
     "search-engine-land": {
         "name": "Search Engine Land", "short": "SL", "site": "https://searchengineland.com/",
-        "feeds": ["https://searchengineland.com/feed"], "color": "#18a66a",
+        "feeds": [
+            "https://searchengineland.com/feed",
+            "https://news.google.com/rss/search?q=site%3Asearchengineland.com%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+        ],
+        "title_suffix": " - Search Engine Land",
+        "color": "#18a66a",
     },
     "search-engine-journal": {
         "name": "Search Engine Journal", "short": "SJ", "site": "https://www.searchenginejournal.com/",
-        "feeds": ["https://www.searchenginejournal.com/feed/"], "color": "#2458d3",
+        "feeds": ["https://www.searchenginejournal.com/feed/"],
+        "hosts": ["searchenginejournal.com", "www.searchenginejournal.com"],
+        "archive_pages": [
+            f"https://www.searchenginejournal.com/page/{page}/" for page in range(2, 13)
+        ],
+        "archive_titles_canonical": True,
+        "color": "#2458d3",
     },
     "semrush": {
         "name": "Semrush Blog", "short": "SE", "site": "https://www.semrush.com/blog/",
-        "feeds": ["https://www.semrush.com/blog/feed/", "https://en.semrush.com/blog/feed/"], "color": "#8b5cf6",
+        "feeds": ["https://www.semrush.com/blog/feed/", "https://en.semrush.com/blog/feed/"],
+        "hosts": ["semrush.com", "www.semrush.com", "en.semrush.com"],
+        "include_paths": ["/blog/"],
+        "archive_pages": [
+            f"https://www.semrush.com/blog/?page={page}" for page in range(2, 13)
+        ],
+        "archive_titles_canonical": True,
+        "color": "#8b5cf6",
     },
     "factors-ai": {
         "name": "Factors.ai Blog", "short": "FA", "site": "https://www.factors.ai/blog",
         "feeds": [], "hosts": ["factors.ai", "www.factors.ai"],
         "include_paths": ["/blog/"], "listing_selector": "main .w-dyn-item > a[href]",
+        "title_selector": "h2, h3", "excerpt_selector": "p",
+        "listing_container_self": True,
         "color": "#6757d9",
     },
     "webfx": {
         "name": "WebFX Blog", "short": "WF", "site": "https://www.webfx.com/blog/",
         "feeds": ["https://www.webfx.com/blog/feed/"],
-        "hosts": ["webfx.com", "www.webfx.com"], "include_paths": ["/blog/"], "color": "#178bd4",
+        "hosts": ["webfx.com", "www.webfx.com"], "include_paths": ["/blog/"],
+        "archive_listing_selector": "a.blog-posts-list-item[href]",
+        "archive_container_class": "blog-posts-list-item",
+        "archive_title_selector": ".title",
+        "archive_excerpt_selector": ".content p",
+        "archive_titles_canonical": True,
+        "color": "#178bd4",
     },
     "google-ads": {
         "name": "Google Ads Blog", "short": "GA",
@@ -129,7 +164,19 @@ def source_allows_url(url: str, config: dict) -> bool:
 
 
 def filter_source_articles(articles: list[dict], config: dict) -> list[dict]:
-    return [article for article in articles if source_allows_url(article.get("url", ""), config)]
+    filtered = []
+    title_suffix = config.get("title_suffix", "")
+    for article in articles:
+        if not source_allows_url(article.get("url", ""), config):
+            continue
+        if title_suffix and article["title"].endswith(title_suffix):
+            article["title"] = article["title"][: -len(title_suffix)].rstrip()
+        filtered.append(article)
+    return filtered
+
+
+def normalized_title_key(value: str) -> str:
+    return re.sub(r"[^\w]+", " ", value.casefold()).strip()
 
 
 def init_db() -> None:
@@ -160,7 +207,8 @@ def init_db() -> None:
 
 
 def clean_html(value: str | None, limit: int = 280) -> str:
-    text = BeautifulSoup(value or "", "html.parser").get_text(" ", strip=True)
+    raw = value or ""
+    text = BeautifulSoup(raw, "html.parser").get_text(" ", strip=True) if "<" in raw else raw
     text = " ".join(text.split())
     return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
 
@@ -168,11 +216,14 @@ def clean_html(value: str | None, limit: int = 280) -> str:
 def normalize_date(entry: dict) -> str | None:
     stamp = entry.get("published_parsed") or entry.get("updated_parsed")
     if stamp:
-        return datetime.fromtimestamp(time.mktime(stamp)).astimezone().isoformat()
+        return datetime.fromtimestamp(calendar.timegm(stamp), timezone.utc).isoformat()
     raw = entry.get("published") or entry.get("updated")
     if raw:
         try:
-            return datetime.fromisoformat(raw.replace("Z", "+00:00")).astimezone().isoformat()
+            value = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+            if value.tzinfo is None:
+                value = value.replace(tzinfo=timezone.utc)
+            return value.astimezone(timezone.utc).isoformat()
         except ValueError:
             pass
     return None
@@ -183,27 +234,38 @@ def normalize_raw_date(raw: str | None) -> str | None:
         return None
     value = raw.strip()
     try:
-        return datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone().isoformat()
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        return parsed.astimezone(timezone.utc).isoformat()
     except ValueError:
         try:
-            return parsedate_to_datetime(value).astimezone().isoformat()
+            return parsedate_to_datetime(value).astimezone(timezone.utc).isoformat()
         except (TypeError, ValueError, OverflowError):
             return None
 
 
 def date_from_listing_text(value: str) -> str | None:
-    match = re.search(
-        r"\b(January|February|March|April|May|June|July|August|September|October|November|December)"
+    month_match = re.search(
+        r"\b(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|"
+        r"Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)"
         r"\s+\d{1,2},\s+\d{4}\b",
         value,
         flags=re.IGNORECASE,
     )
-    if not match:
-        return None
-    try:
-        return datetime.strptime(match.group(0), "%B %d, %Y").astimezone().isoformat()
-    except ValueError:
-        return None
+    numeric_match = re.search(r"\b\d{1,2}/\d{1,2}/\d{4}\b", value)
+    for match, formats in (
+        (month_match, ("%B %d, %Y", "%b %d, %Y")),
+        (numeric_match, ("%m/%d/%Y",)),
+    ):
+        if not match:
+            continue
+        for date_format in formats:
+            try:
+                return datetime.strptime(match.group(0), date_format).replace(tzinfo=timezone.utc).isoformat()
+            except ValueError:
+                continue
+    return None
 
 
 def fetch_feed(url: str) -> list[dict]:
@@ -260,19 +322,29 @@ def scrape_listing(site_url: str, config: dict) -> list[dict]:
     if config.get("include_paths") and not listing_selector:
         anchors.extend(soup.select("main a[href], article a[href]"))
     for anchor in anchors:
-        title = clean_html(anchor.get_text(" ", strip=True), 180)
+        selected_title = anchor.select_one(config.get("title_selector", "")) if config.get("title_selector") else None
+        title_node = selected_title if selected_title is not None else anchor
+        title = clean_html(title_node.get_text(" ", strip=True), 180)
         url = urljoin(site_url, anchor.get("href", ""))
         if len(title) < 12 or url in seen or not source_allows_url(url, config):
             continue
-        node = anchor.find_parent(["article", "li"]) or anchor.parent
+        container_class = config.get("listing_container_class")
+        if config.get("listing_container_self") or (container_class and container_class in anchor.get("class", [])):
+            node = anchor
+        else:
+            node = (
+                anchor.find_parent(class_=container_class)
+                if container_class
+                else anchor.find_parent(["article", "li"])
+            ) or anchor.parent
         date_node = node.select_one("time")
         raw_date = date_node.get("datetime") if date_node else None
         raw_date = normalize_raw_date(raw_date) or date_from_listing_text(node.get_text(" ", strip=True))
-        excerpt_node = node.select_one("p")
+        excerpt_node = node.select_one(config.get("excerpt_selector", "p"))
         results.append({
             "title": title, "url": url, "published_at": raw_date,
             "excerpt": clean_html(excerpt_node.get_text(" ") if excerpt_node else ""),
-            "title_checked": False,
+            "title_checked": bool(config.get("listing_titles_canonical")),
         })
         seen.add(url)
         if len(results) >= MAX_ITEMS_PER_SOURCE:
@@ -423,28 +495,57 @@ def repair_unverified_titles(limit: int = 60) -> tuple[int, int]:
 def collect_source(source_id: str, config: dict) -> tuple[list[dict], str]:
     errors = []
     feed_candidates = list(config["feeds"])
+    collected_articles = None
+    method = None
     for feed_url in feed_candidates:
         try:
             articles = filter_source_articles(fetch_feed(feed_url), config)
             if not articles:
                 raise RuntimeError("feed contained no matching articles")
-            return articles, f"RSS {feed_url}"
+            collected_articles = articles
+            method = f"RSS {feed_url}"
+            break
         except Exception as exc:
             errors.append(f"{feed_url}: {exc}")
-    try:
-        discovered = discover_feed(config["site"])
-        if discovered and discovered not in feed_candidates:
-            articles = filter_source_articles(fetch_feed(discovered), config)
-            if not articles:
-                raise RuntimeError("discovered feed contained no matching articles")
-            return articles, f"discovered RSS {discovered}"
-    except Exception as exc:
-        errors.append(f"feed discovery: {exc}")
-    try:
-        return scrape_listing(config["site"], config), "HTML fallback"
-    except Exception as exc:
-        errors.append(f"fallback: {exc}")
-    raise RuntimeError("; ".join(errors))
+    if collected_articles is None:
+        try:
+            discovered = discover_feed(config["site"])
+            if discovered and discovered not in feed_candidates:
+                articles = filter_source_articles(fetch_feed(discovered), config)
+                if not articles:
+                    raise RuntimeError("discovered feed contained no matching articles")
+                collected_articles = articles
+                method = f"discovered RSS {discovered}"
+        except Exception as exc:
+            errors.append(f"feed discovery: {exc}")
+    if collected_articles is None:
+        try:
+            collected_articles = scrape_listing(config["site"], config)
+            method = "HTML fallback"
+        except Exception as exc:
+            errors.append(f"fallback: {exc}")
+    if collected_articles is None:
+        raise RuntimeError("; ".join(errors))
+
+    combined = {article["url"]: article for article in collected_articles}
+    for archive_url in config.get("archive_pages", []):
+        archive_config = {
+            **config,
+            "listing_selector": config.get("archive_listing_selector"),
+            "listing_container_class": config.get("archive_container_class"),
+            "listing_titles_canonical": config.get("archive_titles_canonical", False),
+            "title_selector": config.get("archive_title_selector"),
+            "excerpt_selector": config.get("archive_excerpt_selector", "p"),
+        }
+        try:
+            archive_articles = scrape_listing(archive_url, archive_config)
+            for article in archive_articles:
+                combined.setdefault(article["url"], article)
+            method += f" + archive {archive_url}"
+        except Exception as exc:
+            log.warning("archive unavailable | source=%s | url=%s | %s", source_id, archive_url, exc)
+
+    return list(combined.values()), method
 
 
 def save_articles(source_id: str, articles: list[dict]) -> int:
@@ -454,7 +555,9 @@ def save_articles(source_id: str, articles: list[dict]) -> int:
             row["url"]
             for row in conn.execute("SELECT url FROM articles WHERE url IN (%s)" % ",".join(["?"] * len(articles)), [article["url"] for article in articles]).fetchall()
         } if articles else set()
+        new_count = 0
         for article in articles:
+            is_new_url = article["url"] not in existing_urls
             title_checked_at = now if article.get("title_checked") else None
             conn.execute(
                 """INSERT INTO articles(source_id,title,url,published_at,excerpt,fetched_at,title_checked_at) VALUES(?,?,?,?,?,?,?)
@@ -462,11 +565,14 @@ def save_articles(source_id: str, articles: list[dict]) -> int:
                      source_id=excluded.source_id,
                      title=CASE WHEN excluded.title_checked_at IS NOT NULL THEN excluded.title ELSE articles.title END,
                      title_checked_at=COALESCE(articles.title_checked_at,excluded.title_checked_at),
-                     published_at=COALESCE(articles.published_at,excluded.published_at),
+                     published_at=COALESCE(excluded.published_at,articles.published_at),
                      excerpt=CASE WHEN articles.excerpt='' THEN excluded.excerpt ELSE articles.excerpt END""",
                 (source_id, article["title"], article["url"], article.get("published_at"), article.get("excerpt", ""), now, title_checked_at),
             )
-    return sum(1 for article in articles if article["url"] not in existing_urls)
+            if is_new_url:
+                new_count += 1
+                existing_urls.add(article["url"])
+    return new_count
 
 
 def refresh_all(trigger: str = "manual") -> dict:
@@ -509,7 +615,7 @@ def refresh_all(trigger: str = "manual") -> dict:
         finished = datetime.now().astimezone().isoformat()
         status = "success" if failures == 0 else ("partial" if failures < len(SOURCES) else "failed")
         with db() as conn:
-            conn.execute("UPDATE runs SET finished_at=?,status=?,details=? WHERE id=?", (finished, status, str(summary), run_id))
+            conn.execute("UPDATE runs SET finished_at=?,status=?,details=? WHERE id=?", (finished, status, json.dumps(summary), run_id))
             conn.execute("INSERT OR REPLACE INTO metadata(key,value) VALUES('last_updated',?)", (finished,))
         log.info("refresh finished | status=%s | failures=%d", status, failures)
         return {"status": status, "last_updated": finished, "sources": summary}
@@ -524,20 +630,25 @@ def index():
 
 @app.get("/api/articles")
 def articles_api():
-    return jsonify(dashboard_payload(request.args.get("limit", 20, type=int)))
+    return jsonify(dashboard_payload(request.args.get("limit", type=int)))
 
 
-def dashboard_payload(limit: int = 100) -> dict:
+def dashboard_payload(limit: int | None = None) -> dict:
     """Return the serializable dashboard data used by Flask and GitHub Pages."""
-    limit = min(max(limit, 1), 100)
+    if limit is not None:
+        limit = min(max(limit, 1), 1000)
     grouped = {}
     with db() as conn:
         last = conn.execute("SELECT value FROM metadata WHERE key='last_updated'").fetchone()
         latest_run = conn.execute("SELECT status FROM runs ORDER BY id DESC LIMIT 1").fetchone()
         for source_id, config in SOURCES.items():
+            query = (
+                "SELECT title,url,published_at,excerpt,fetched_at FROM articles "
+                "WHERE source_id=? ORDER BY COALESCE(published_at,fetched_at) DESC"
+            )
             rows = conn.execute(
-                "SELECT title,url,published_at,excerpt,fetched_at FROM articles WHERE source_id=? ORDER BY COALESCE(published_at,fetched_at) DESC LIMIT ?",
-                (source_id, limit),
+                query + (" LIMIT ?" if limit is not None else ""),
+                (source_id, limit) if limit is not None else (source_id,),
             ).fetchall()
             grouped[source_id] = {**config, "articles": [dict(row) for row in rows]}
     return {

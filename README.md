@@ -10,9 +10,9 @@ https://saffron-1230.github.io/Signal-Desk/
 
 ## Automatic updates
 
-The GitHub Actions workflow refreshes the dashboard every Monday and Thursday at 10:00 AM Asia/Kolkata time. It fetches each source independently, retries failures once, updates the saved SQLite history, exports browser-ready JSON, and republishes the website.
+The GitHub Actions workflow refreshes the dashboard every day at 10:00 AM and 6:00 PM Asia/Kolkata time. It fetches each source independently, retries failures once, updates the saved SQLite history, exports the complete stored archive as browser-ready JSON, and republishes the website.
 
-The dashboard's **Refresh** button reloads the newest published data in place without leaving the website. To run an unscheduled source collection, the repository owner can open the repository's **Actions** tab, select **Refresh and publish Signal Desk**, choose **Run workflow**, and run it from the `main` branch.
+The dashboard's **Run update** button opens the secure GitHub workflow control. To run an unscheduled collection, choose **Run workflow** on the `main` branch. When you return to the dashboard, it checks the published data again automatically.
 
 ## Free-hosting design
 
