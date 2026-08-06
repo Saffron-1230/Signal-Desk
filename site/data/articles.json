@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T18:09:29.153919+00:00",
+  "last_updated": "2026-08-06T08:12:34.728303+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4261,11 +4261,25 @@
           "fetched_at": "2026-08-05T18:09:04.095756+00:00"
         },
         {
+          "title": "Microsoft Advertising adds excluded content terms for Audience Ads",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUN1dWVNLVlRLTg5Vy10aGlyQ2ZGMzlOdzdxdDMtMHJDbExwa0NyOEp4eVFHRllGSXEtVGFPdVFQY3BfeHNQOUVBRWgxVG9oME0yYnZsbWI4SG1SelM4WjRUQ0RpbURGUmVDSDZiY3VjWlRqaUQ1UDBXUlJYSE1BRVVzTVctSlpnTXliSElubFhKMmNQTkU2X3lSY0laMHA0SUoyMw?oc=5",
+          "published_at": "2026-08-05T15:20:00+00:00",
+          "excerpt": "Microsoft Advertising adds excluded content terms for Audience Ads Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
           "title": "10 SEO use cases for auditing your accessibility tree for AI search",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Xb1M1YmF1cFlwMEdLX0pYQzRYY2lCSG01LU1JNGpWVU1rN2E2V2tBcHN2cWlxbG4tUDNQZzR2Z05qWGJBX3d5eG1yRE9tZVN2MTBmT3BBanJfbnFWRm5lQ2kzMFY4LUswZ3ZTRERwS29QTmwtcXdz?oc=5",
           "published_at": "2026-08-05T15:00:00+00:00",
           "excerpt": "10 SEO use cases for auditing your accessibility tree for AI search Search Engine Land",
           "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "Does topical focus make your brand more visible?",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaEtxX3NDZXBaUHZFUU9uMjYtMXB2QjhYNF9yeG5PUTQ0M2RWQUlydjVIOTF4NUVwSnBab3hCSUhFaGdMRmd0WTF5bExoZzEwdFBmWXp0WC1IdjhuNGdpQ09CUVlROURtSlNNWk1Wc0FQNnZqXzAyZndBWUQ2aUsyQWhDREotWFl2UVg0?oc=5",
+          "published_at": "2026-08-05T15:00:00+00:00",
+          "excerpt": "Does topical focus make your brand more visible? Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
         },
         {
           "title": "Google tightens Ads policy for government document providers",
@@ -4275,6 +4289,20 @@
           "fetched_at": "2026-08-05T18:09:04.095756+00:00"
         },
         {
+          "title": "Public service Archives",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JWnlrNU83Wm1Uc0V3MDBjeUpiY3Ezb2diT09XOVUtWTFDUUU1NmFMeko5NkpROXF1MGRYQzNNcmZ6OHVyXzN3MFlGb25ZanIxbmU5eTVjU2l4c21mOHc?oc=5",
+          "published_at": "2026-08-05T14:56:00+00:00",
+          "excerpt": "Public service Archives Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
+          "title": "What happens when AI Overviews contradict paid search ads?",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFlTXhfd0ZDRGVhcWN3LUtyeC1naVBwbHNmZi1acm5IbXZaZ1dweEZCbHdiMTY0NTI2TnhxeC16alA3djljeVgyeHQ3VHVPUm5Cd1FXcTB6X3h5WHJBRVJvRVFlYlk3VzBKN1dqQVJVdHRydzJrdE5ra084cnBDQk93ZU1rb28?oc=5",
+          "published_at": "2026-08-05T13:30:00+00:00",
+          "excerpt": "What happens when AI Overviews contradict paid search ads? Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
           "title": "Why paid search could be your AI search advantage",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EY1lOMFB2UVpjZnhUaXByMjJzaVlpSzNkOHI3b1FJTHVyT2FXNUJCYllYbEtfUEJBYnQ0Tkh2TmNieWlCSWtoQlFwVmFjX3ZRUTRSNGNIbkdlWDVka3J3U0NnazJETXA0ejlNSWcteTJabXRsbEE?oc=5",
           "published_at": "2026-08-05T12:30:00+00:00",
@@ -4282,11 +4310,67 @@
           "fetched_at": "2026-08-05T18:09:04.095756+00:00"
         },
         {
+          "title": "Google Assistant to be discontinued on Android starting September 4",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjV1UWhTcGZnX3VHeWhtaUwzV3liMXF4a3Uwc2xhY0t3SmtyTGhOZGFzS256RVhHTHF4SHJDNVdRTl9XN25ZVmRNb055VGhFdktNRmM2enZjUjRTRWtpSF9pYWtVd1VtR2ZXd3I5TVlhWjVtSHllbTdpLWxwUFZrclBjUDB0bFB6azNOc3AxaDdkNjNadm4zLWFnR2RUbF9GVG5idktR?oc=5",
+          "published_at": "2026-08-05T12:08:00+00:00",
+          "excerpt": "Google Assistant to be discontinued on Android starting September 4 Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
+          "title": "Why the F.A.C.T.S. model is the key to search everywhere optimization",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNFYzdEg0a3RBM3NFSlNvZEQ5NnowdWVtWVJDcW0tTnJuOHBTbl9lVWlBYWItYVhFQWpxdVQ5UWFwSy05VWNQSHp6UzZwem9xbkdLanA5U0pKQTVZeDI0RFRRUjFPNHlQUVNDN1d1UHdDaWxvWHVCVU4tcXF0Ri1tZFlJWmR6NGFDVU8xUjE3M3dtbVA4RHZ2Y2RxcHc3V2RUQ2xKRWNNTQ?oc=5",
+          "published_at": "2026-08-05T11:00:00+00:00",
+          "excerpt": "Why the F.A.C.T.S. model is the key to search everywhere optimization Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
+          "title": "SOCi Archives",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jQk9WM3dyZ2tRMzN3T2dPX25nM18zSlM5aWRvN2N2S01SMk5OV19UNGtfeDNzWlJydjFtRlQzcEhfdWVhVlNyd2g5LU5tTWVX?oc=5",
+          "published_at": "2026-08-05T11:00:00+00:00",
+          "excerpt": "SOCi Archives Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
+          "title": "Google releases help doc for Performance Max pay-per-lead goals",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGU0bXRRT0lLeXItTVlQajBtNG5XbFozcF9sd3FWWi12MFpqQjljSV9LMkF3eEJaTFFOQVdyUzZvNTBFYy1xY1d6UUlKaE5SaFZpdUF3MHhOODloc0Nmd2Fwai02SDBSZTc2eGxiWUtGYWNTcXVENEZYckszUnB6bDdGV29hck1UeEVrNnd3VWJPRlJ6bHB2eVgtdFIyaVZ3?oc=5",
+          "published_at": "2026-08-05T10:30:00+00:00",
+          "excerpt": "Google releases help doc for Performance Max pay-per-lead goals Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
           "title": "Google launches secure API access pilot for manager accounts",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTktURlJwb1d6SnNBaGVwWUpXbTM3SzNRMDBKT3ZtSGktMnM5NVNpLUwxQVFEbGxkRGcyV3I1WkRGUGktLWNxalg0TUcxZ1NUVlhFdXM1S2N0UnhvVkVaZTYwRktIMVp4N3BWWmdaU2hrWnQyTWt5eFBobXpudWVpNE41d0NvTk12dmg1Q1JOdmF3V0RBS2ZHb2UwMHI?oc=5",
           "published_at": "2026-08-05T10:23:00+00:00",
           "excerpt": "Google launches secure API access pilot for manager accounts Search Engine Land",
           "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "Google tests clickable hyperlinks in Search ad descriptions",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUklqMGxvZFh1WDNCVkJJTHVid0RKZTNwMFpmRlBIZTZYSDVpbzNRUURzRENTQzdRM0F4cTRuVEVPbVZCcjdvN19UTHQxYlJWM2hNYTFXb3BLME9kdDIyV3YtWVFfcmdTdkpFYnhBU0VjSVNjMi13S1lPNHVLYVAwR0lTT1J5eHNLaHhyanlZQTkzb2pnLWhXLVpGbw?oc=5",
+          "published_at": "2026-08-05T10:19:00+00:00",
+          "excerpt": "Google tests clickable hyperlinks in Search ad descriptions Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
+          "title": "MarketWise Archives",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83UnN5TU5ubUd1LWZpNHhmdTlJYm8xV0JQX0EwMk5GcmJIZElZU3FiMDhiYWp0eDI5OXJIRjFwOXlZU1ctMnZKblVYNEQ0c3JjbU1Cczk1VnlhUQ?oc=5",
+          "published_at": "2026-08-05T10:00:00+00:00",
+          "excerpt": "MarketWise Archives Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
+          "title": "Alli Berry",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hb2t5eGRfNlZqWHVGbzUzLS1vOFlCdG9kQXM4TmI3QTgzSmtpOXhSanpsNVFXdnpvZW84TkRQbVRzbThyUlREdThOQWhYeFpNTktCeEJuZTVLQQ?oc=5",
+          "published_at": "2026-08-05T10:00:00+00:00",
+          "excerpt": "Alli Berry Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
+          "title": "How to launch a news publication that earns visibility in Google",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1neVE5dHBic1JyQy1MSUZMbGR1aGhfY0Jpczh3UlNWQVkwWmlvV3RoS2ZwcU1Cck0zaVNTU1lxRG1BYmdwbjBsdkRDN1VMMzZzNkhxTFdCZDNPY09ZaVFrYU5sVUMtVVhXU0VqaWZRLW4tNVlHa2FTQmVB?oc=5",
+          "published_at": "2026-08-05T10:00:00+00:00",
+          "excerpt": "How to launch a news publication that earns visibility in Google Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
         },
         {
           "title": "Should multilingual websites add English pages for AI visibility?",
@@ -4625,6 +4709,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "What 15.7 million AI Mode citations reveal about getting quoted by Google",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0xfUWd1Z1NxQ0U2VzlHWlJPSUsyaU5jN2t5emxOT0ppbmFmNHBkZFdJanZzOEFsalhtNHpEWEFPc3YtSGN6R0ZDNEdjdlp1QzlCTmRVV0FSTHdybHQyZ1NRR2J1MjFsZnpGSE9ndVA1dWtOSWtid095WjVUR2ZwWGVTM1lZMDA4aGVvTnJCZUlBMW1YMVJ4cUkzaHJNNDBhQjd1R1RSNzM0OV9iLXc?oc=5",
+          "published_at": "2026-07-29T11:00:00+00:00",
+          "excerpt": "What 15.7 million AI Mode citations reveal about getting quoted by Google Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
           "title": "SMX Advanced expands in 2027: See you in San Diego and Boston",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ydlZ5TVdFQnJ5MVVJWkpzYjZ5ZnNCbjVWMFdiVk5aZTZBbzRlZlotZXhoaDRIcm5wb1dJZDhMZkc2cFZwa2MyUUM4VEtqT1NnT2p6WHBkU2R0MU9uTlBXeTZvQTRnQXZKZFpZeVcxMmZzaE01dHR0eDRR?oc=5",
           "published_at": "2026-07-28T19:30:00+00:00",
@@ -4884,13 +4975,6 @@
           "fetched_at": "2026-07-24T10:42:58.894178+05:30"
         },
         {
-          "title": "Google says AI Max unlocks billions of new monetizable searches",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHFnTHpCOGhKcWxldkF0Z2tVT2N3dVprSEItTEVyek15MjRPSVBQZFZjZXlZS0lfdDN0NHh0dm8zSlVQcFBHNnFXMDVoS3N4bVlQUkJaYUxTb0dSZWRwWlBDNDJGMVJDR1l2NG4yNkF1Q3VFc3pvMUdIcU8yaUdkNzVqS3JYZHJiaEtv?oc=5",
-          "published_at": "2026-07-23T18:45:00+00:00",
-          "excerpt": "Google says AI Max unlocks billions of new monetizable searches Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "ChatGPT gains access to Yelp reviews, ratings, and photos",
           "url": "https://searchengineland.com/openai-yelp-deal-483326",
           "published_at": "2026-07-23T16:37:19+05:30",
@@ -4959,6 +5043,13 @@
           "published_at": "2026-07-23T12:00:00+05:30",
           "excerpt": "SEO skills are now the baseline. Learn how side projects, experiments, and other tangible work can make you more memorable.",
           "fetched_at": "2026-07-24T10:42:58.894178+05:30"
+        },
+        {
+          "title": "Google says AI Max unlocks billions of new monetizable searches",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHFnTHpCOGhKcWxldkF0Z2tVT2N3dVprSEItTEVyek15MjRPSVBQZFZjZXlZS0lfdDN0NHh0dm8zSlVQcFBHNnFXMDVoS3N4bVlQUkJaYUxTb0dSZWRwWlBDNDJGMVJDR1l2NG4yNkF1Q3VFc3pvMUdIcU8yaUdkNzVqS3JYZHJiaEtv?oc=5",
+          "published_at": "2026-07-23T07:00:00+00:00",
+          "excerpt": "Google says AI Max unlocks billions of new monetizable searches Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "ChatGPT gains access to Yelp reviews, ratings, and photos",
@@ -5276,6 +5367,13 @@
           "fetched_at": "2026-08-05T09:41:17.163585+00:00"
         },
         {
+          "title": "Google drops Next from Merchant Center Next",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONVBpZHpOMUI2ZVZ2QXpfRHNrUkRXVGVEdWlMWVhtc0xXcXBJeDVadXNuOV85UW53c1JCejFDT1dNYTNKWVlMSWNraFBnS19FS09ZZmZxTXhkQmlpUjVvMXFEdFpDcnRzaEpZTS1VSHkzcjFuZHdrakMwS3MzVHctLUx3Um1qdw?oc=5",
+          "published_at": "2026-07-09T07:00:00+00:00",
+          "excerpt": "Google drops Next from Merchant Center Next Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
           "title": "Why most original data never gets cited",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU2lkbWh0Y1o5eXlxdWJWVWFWNHFHSVFwNjVUdDFjeDZxajVVa2FXbmZ4TFR5WkJBdldCc242cGFxYXI5OVJ6bkdKQXVZbDFLMHBRMG1IeGpFcTBMeXBVc0N5ZHN4UExOaXNwT2tReTdxMDJHSE9GYjQ4UkZldkxHRw?oc=5",
           "published_at": "2026-07-08T15:00:00+00:00",
@@ -5437,6 +5535,34 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar] via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/the-trust-signals-that-get-your-brand-cited-by-ai-overviews-just-like-freshpet-webinar/584796/",
+          "published_at": "2026-08-06T07:45:50+00:00",
+          "excerpt": "Learn how Freshpet stands out in AI Overviews and why trust signals matter for brand recognition in AI search. The post The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar] appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-06T08:12:21.059466+00:00"
+        },
+        {
+          "title": "Google Chief Scientist Who Helped Build Modern Search And AI Steps Away via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-loses-the-engineer-who-helped-build-search-and-modern-ai/584785/",
+          "published_at": "2026-08-05T22:16:33+00:00",
+          "excerpt": "Google loses Jeff Dean, who helped build Google Search and AI, replaced by DeepMind's Demis Hassabis as Chief Scientist. The post Google Chief Scientist Who Helped Build Modern Search And AI Steps Away appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-06T08:12:21.059466+00:00"
+        },
+        {
+          "title": "AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/ai-referrals-are-recreating-the-oldest-mistake-in-conversion-optimization/584331/",
+          "published_at": "2026-08-05T20:12:01+00:00",
+          "excerpt": "If you run CRO or SEO, the oldest mistake in your discipline just came back wearing a new referrer string. Here's the fix. The post AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-06T08:12:21.059466+00:00"
+        },
+        {
+          "title": "The Future Of Discoverability",
+          "url": "https://www.searchenginejournal.com/the-future-of-discoverability/584489/",
+          "published_at": "2026-08-05T19:00:27+00:00",
+          "excerpt": "Articles alone stopped being a viable product. A discoverability framework for publishers: passive, active, owned – plus the intent-led journalism that gets you there. The post The Future Of Discoverability appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-06T08:12:21.059466+00:00"
+        },
         {
           "title": "When AI Takes The Click, Click Worthiness Should Guide Your Strategy via @sejournal, @billhunt",
           "url": "https://www.searchenginejournal.com/when-ai-takes-the-click-click-worthiness-should-guide-your-strategy/582587/",
@@ -7223,6 +7349,13 @@
           "fetched_at": "2026-08-05T18:09:26.199578+00:00"
         },
         {
+          "title": "Best GEO Agencies for Roofing Companies in 2026",
+          "url": "https://www.webfx.com/blog/home-services/best-geo-agencies-roofing/",
+          "published_at": "2026-08-04T17:55:39+00:00",
+          "excerpt": "The post Best GEO Agencies for Roofing Companies in 2026 appeared first on WebFX .",
+          "fetched_at": "2026-08-06T08:12:29.501748+00:00"
+        },
+        {
           "title": "Go Social With the Best Social Media Companies in the World",
           "url": "https://www.webfx.com/blog/social-media/best-social-media-companies/",
           "published_at": "2026-08-03T05:00:00+00:00",
@@ -7558,6 +7691,13 @@
       ],
       "color": "#34a853",
       "articles": [
+        {
+          "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
+          "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
+          "published_at": "2026-08-05T00:00:00+00:00",
+          "excerpt": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load balancing. This architectural shift introduces standardized…",
+          "fetched_at": "2026-08-06T08:12:33.861657+00:00"
+        },
         {
           "title": "A unified API for AI model routing",
           "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
