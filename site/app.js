@@ -13,6 +13,10 @@ const tabs = [...document.querySelectorAll('[role="tab"]')];
 let dashboardData = null;
 let latestLoadId = 0;
 let refreshInProgress = false;
+const archiveStartMonth = '2026-01';
+const refreshEndpoint = 'https://saffron-signal-desk-refresh.netlify.app/api/refresh';
+const refreshPollInterval = 5000;
+const refreshWaitLimit = 180000;
 
 function prettyDate(value, withTime = false) {
   if (!value) return withTime ? 'Waiting for first refresh' : 'Date unavailable';
@@ -36,6 +40,24 @@ function monthKey(value) {
   const date = new Date(value || 0);
   if (Number.isNaN(date.getTime())) return 'unknown';
   return `${date.getUTCFullYear()}-${String(date.getUTCMonth() + 1).padStart(2, '0')}`;
+}
+
+function archiveMonthKeys() {
+  const now = new Date();
+  let year = now.getFullYear();
+  let month = now.getMonth() + 1;
+  const months = [];
+
+  while (`${year}-${String(month).padStart(2, '0')}` >= archiveStartMonth) {
+    months.push(`${year}-${String(month).padStart(2, '0')}`);
+    month -= 1;
+    if (month === 0) {
+      month = 12;
+      year -= 1;
+    }
+  }
+
+  return months;
 }
 
 function timestamp(value) {
@@ -173,14 +195,14 @@ function populateMonths() {
   const selectedBrand = archiveBrandSelect.value;
   const brandArticles = articlesWithSources(dashboardData)
     .filter(article => selectedBrand === 'all' || article.sourceId === selectedBrand);
-  const months = [...new Map(brandArticles
-    .sort((a, b) => timestamp(articleDateValue(b)) - timestamp(articleDateValue(a)))
-    .filter(article => monthKey(articleDateValue(article)) !== 'unknown')
-    .map(article => [monthKey(articleDateValue(article)), monthLabel(articleDateValue(article))])).entries()];
-  archiveMonthSelect.innerHTML = '<option value="all">All months</option>' + months
-    .map(([value, label]) => `<option value="${escapeHtml(value)}">${escapeHtml(label)}</option>`)
+  const availableMonths = new Set(brandArticles
+    .map(article => monthKey(articleDateValue(article)))
+    .filter(value => value !== 'unknown'));
+  archiveMonthSelect.innerHTML = '<option value="all">All months</option>' + archiveMonthKeys()
+    .map(value => `<option value="${escapeHtml(value)}"${availableMonths.has(value) ? '' : ' disabled'}>${escapeHtml(monthLabel(value))}</option>`)
     .join('');
-  archiveMonthSelect.value = [...archiveMonthSelect.options].some(option => option.value === currentValue) ? currentValue : 'all';
+  archiveMonthSelect.value = [...archiveMonthSelect.options]
+    .some(option => option.value === currentValue && !option.disabled) ? currentValue : 'all';
 }
 
 function render(data) {
@@ -229,6 +251,20 @@ function dashboardSignature(data) {
   return `${data.last_updated || ''}:${articleCount}`;
 }
 
+function wait(milliseconds) {
+  return new Promise(resolve => window.setTimeout(resolve, milliseconds));
+}
+
+async function waitForPublishedRefresh(previousSignature) {
+  const startedAt = Date.now();
+  while (Date.now() - startedAt < refreshWaitLimit) {
+    await wait(refreshPollInterval);
+    const data = await load();
+    if (dashboardSignature(data) !== previousSignature) return data;
+  }
+  throw new Error('The update is still running. The dashboard will check again when you return.');
+}
+
 async function load() {
   const loadId = ++latestLoadId;
   const controller = new AbortController();
@@ -262,12 +298,26 @@ refresh.addEventListener('click', async () => {
   refreshStatus.textContent = 'Checking for the latest published articles.';
 
   try {
-    const data = await load();
-    const changed = dashboardSignature(data) !== previousSignature;
-    label.textContent = changed ? 'Updated' : 'Up to date';
-    refreshStatus.textContent = changed
-      ? `Dashboard updated. Latest data refresh: ${prettyDate(data.last_updated, true)}.`
-      : `Dashboard is already up to date. Latest data refresh: ${prettyDate(data.last_updated, true)}.`;
+    const response = await fetch(refreshEndpoint, {
+      method: 'POST',
+      cache: 'no-store',
+      headers: { Accept: 'application/json', 'Content-Type': 'application/json' },
+      body: '{}',
+    });
+    const result = await response.json().catch(() => ({}));
+    if (!response.ok) throw new Error(result.message || 'Refresh could not start');
+
+    if (result.status === 'recent') {
+      const data = await load();
+      label.textContent = 'Up to date';
+      refreshStatus.textContent = `Dashboard is already up to date. Latest data refresh: ${prettyDate(data.last_updated, true)}.`;
+    } else {
+      label.textContent = 'Updating sources…';
+      refreshStatus.textContent = 'Collecting every monitored source and publishing the latest articles.';
+      const data = await waitForPublishedRefresh(previousSignature);
+      label.textContent = 'Updated';
+      refreshStatus.textContent = `Dashboard updated. Latest data refresh: ${prettyDate(data.last_updated, true)}.`;
+    }
   } catch (error) {
     label.textContent = 'Try again';
     refreshStatus.textContent = `${error.message}. The current articles remain available.`;
