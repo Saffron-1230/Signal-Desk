@@ -16,7 +16,7 @@ let refreshInProgress = false;
 const archiveStartMonth = '2026-01';
 const refreshEndpoint = 'https://saffron-signal-desk-refresh.netlify.app/api/refresh';
 const refreshPollInterval = 5000;
-const refreshWaitLimit = 180000;
+const refreshWaitLimit = 600000;
 
 function prettyDate(value, withTime = false) {
   if (!value) return withTime ? 'Waiting for first refresh' : 'Date unavailable';
