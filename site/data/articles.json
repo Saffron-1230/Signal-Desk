@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T09:04:21.663692+00:00",
+  "last_updated": "2026-08-06T09:45:13.980278+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4392,6 +4392,13 @@
           "published_at": "2026-08-04T23:00:00+00:00",
           "excerpt": "AI can knock on the door. Your CRM marketing platform is still the house. Search Engine Land",
           "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "Pini Yakuel Archives",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EdzdDZWxJSG5iYVE0cXA5c09hWEhHRWJIZGRZYkxZWUk1MjhTeVh4RlhRLUhYXzVWUml4YmxLR2J2QkxrTWtGVXpvVVJ6Wm1pekZpWjNzMkYzQQ?oc=5",
+          "published_at": "2026-08-04T23:00:00+00:00",
+          "excerpt": "Pini Yakuel Archives Search Engine Land",
+          "fetched_at": "2026-08-06T09:44:58.547457+00:00"
         },
         {
           "title": "Google Search testing forcing searchers to sign in to get more search results",
