@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 data/refresh.log
 data/server-*.log
+.netlify/
