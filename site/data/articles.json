@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T08:33:47.513784+00:00",
+  "last_updated": "2026-08-07T15:34:27.535743+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4254,11 +4254,25 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Ads on ChatGPT - Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUhnMEZiaE9vWE1obkhFbDdpNHVGa3pPaUhqalBmclppWlQzNDcwXzk4X0lQd2J2SU5HWlVXeEt4eWliT1RJNTZyRC13Tk5Sc0EzRTdVTmpvNWVNV0tqS25RMTNhMzJGTW50cjZ6dEdrTkVjTU1wVGd4MWZqU2NaaDRjWXgzX3BhNDFkSXFEakdrQk5yRmkzVjc5TQ?oc=5",
+          "published_at": "2026-08-06T20:38:29+00:00",
+          "excerpt": "Ads on ChatGPT - Search Engine Land Search Engine Land",
+          "fetched_at": "2026-08-07T15:34:09.908511+00:00"
+        },
+        {
           "title": "Google to auto-upgrade automatically created assets to AI Max",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNFFIVzRYQ0dDLWNZXzZocWhzTUVjMFNBeGktdWlZMlFOYVF2UlNfM3BFR29mSHpJaHRlUTd1cS00NUx0UEt1UllpOFVCeWttYVJZdXVGTkk2RzhQUjhPSVIzYUQ5X1JrSksxWWFhM085MGtCdENYVC1NR3J6SWFOaVJnZ1dUckZYVUcxMUtMbVFDa25j?oc=5",
           "published_at": "2026-08-06T18:09:00+00:00",
           "excerpt": "Google to auto-upgrade automatically created assets to AI Max Search Engine Land",
           "fetched_at": "2026-08-07T08:33:23.050052+00:00"
+        },
+        {
+          "title": "New Google help doc details Deal Ends annotations for Shopping ads",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblJqaTZ6Y1VDNkZ1RFFQakxSSF9iV3JQRXpkQTlFWG9aVzJZQ001dnVkbWtJemR3ZV9XR1czVUduX0lWTWdHTlozamxFZzlTOGRqUEgxT3NSZEJkUDM1NzNOb2h1dzFhdS1SUEhuTXJJNWFxczlLNklHUFdXTUo0RmFZU0Exb2hNNlNpWWFrRk9zdUxvRXEtVnNVUEZmOXVWdW9oSg?oc=5",
+          "published_at": "2026-08-06T17:05:00+00:00",
+          "excerpt": "New Google help doc details Deal Ends annotations for Shopping ads Search Engine Land",
+          "fetched_at": "2026-08-07T15:34:09.908511+00:00"
         },
         {
           "title": "Email authentication Archives",
@@ -4315,6 +4329,13 @@
           "published_at": "2026-08-06T10:05:00+00:00",
           "excerpt": "Google leadership changes with Jeff Dean out, Demis Hassabis role change and more searchengineland.com",
           "fetched_at": "2026-08-06T12:20:42.147904+00:00"
+        },
+        {
+          "title": "Demis Hassabis Archives",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jM3ViZGRMYXZ2dGRxdHFadUN3bGtRU2ExTlZ0ZnF4THBXZUlwZkZKR2ktQ2xjTHpxM0JEcEZ5RmpfaGFRakxiNXJwUl92MG5MMm9RSDNrOUF0MWl2UUFF?oc=5",
+          "published_at": "2026-08-06T10:05:00+00:00",
+          "excerpt": "Demis Hassabis Archives Search Engine Land",
+          "fetched_at": "2026-08-07T15:34:09.908511+00:00"
         },
         {
           "title": "How to de-risk your SEO strategy when Google keeps changing the model behind your rankings",
@@ -4688,13 +4709,6 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "Google tests AI-generated descriptions in Shopping ads",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSVg4aXNDSUlxMDRyNEFrOS0wRkRnRXdvTkowbjk2bXc4LVJBeDhCTUNvRGdjeWl1VmM1dUIxcklqdFRJYmVXWDdoQUVSRDZxc3lLYWpxMzdaaldIY21EMjZ2OHY5XzZRX1ZndEtGZ2k4UXBHb2Z5UXlfRGZSTGdrREpnZVR0S0dSX0VNT1IyVG94NndC?oc=5",
-          "published_at": "2026-07-30T16:52:00+00:00",
-          "excerpt": "Google tests AI-generated descriptions in Shopping ads Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Selling SEO or AI services? Your sales team needs more than a pitch deck",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWhDZGd4dnhYYWdqT2RKaHdKZVZtaTM0TUw0RDRvUlJad3k3S2d4d080cHBHMGJTSEtXMW9scVVuazR1djgxTWRaMkZPdl9acFYyQUpoUzZHcmxYNEcxZzlzaUI1TUd2M0tjMHBfMEJjNDh5YTRXZzdFR2pqOHBENkFsREdraTZC?oc=5",
           "published_at": "2026-07-30T15:00:00+00:00",
@@ -4728,6 +4742,13 @@
           "published_at": "2026-07-30T11:00:00+00:00",
           "excerpt": "5 strategies for increasing AI visibility without messing up your SEO Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
+          "title": "Google tests AI-generated descriptions in Shopping ads",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSVg4aXNDSUlxMDRyNEFrOS0wRkRnRXdvTkowbjk2bXc4LVJBeDhCTUNvRGdjeWl1VmM1dUIxcklqdFRJYmVXWDdoQUVSRDZxc3lLYWpxMzdaaldIY21EMjZ2OHY5XzZRX1ZndEtGZ2k4UXBHb2Z5UXlfRGZSTGdrREpnZVR0S0dSX0VNT1IyVG94NndC?oc=5",
+          "published_at": "2026-07-30T07:00:00+00:00",
+          "excerpt": "Google tests AI-generated descriptions in Shopping ads Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "AI halftime report: H1 2026",
@@ -5341,7 +5362,7 @@
         {
           "title": "Why standard SEO advice fails for travel websites",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0ZRWmRpY2EyNGNmNGtWWFNiRjlza21mLVRZb0dRZ1VUZENwTlNwYVpINHR6ZmYxSGt0NmczR05XczNNRXVvTDZYZ04tRmRFUThxSUZxaEJCbXhpUEZaZ3pOTWhSLUhuX0llTmZVeVJlYmZVZFVCZWx5R2ZEblEtYWJLMA?oc=5",
-          "published_at": "2026-07-14T14:00:00+00:00",
+          "published_at": "2026-07-14T07:00:00+00:00",
           "excerpt": "Why standard SEO advice fails for travel websites Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
@@ -5620,6 +5641,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/gen-z-now-treats-claude-and-openai-like-consumer-brands-but-trust-is-still-an-issue/584449/",
+          "published_at": "2026-08-07T14:30:16+00:00",
+          "excerpt": "YouGov data shows Claude and OpenAI doubling Gen Z consideration while U.S. trust in AI assistants sits at 28%, a gap that reshapes GEO plans. The post Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-07T15:34:17.524808+00:00"
+        },
+        {
+          "title": "Google’s Ex-AI Chief Jeff Dean Explains How To Improve Context Engineering via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/googles-ex-ai-chief-jeff-dean-explains-how-to-improve-context-engineering/584955/",
+          "published_at": "2026-08-07T12:11:48+00:00",
+          "excerpt": "Google's former Chief Scientist explains why AI models are less important and why context engineering increasingly matters more. The post Google’s Ex-AI Chief Jeff Dean Explains How To Improve Context Engineering appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-07T15:34:17.524808+00:00"
+        },
+        {
+          "title": "How Cats.txt Showed LLMs.txt Evidence Is GEO Astrology",
+          "url": "https://www.searchenginejournal.com/how-cats-txt-showed-llms-txt-evidence-is-geo-astrology/584653/",
+          "published_at": "2026-08-07T12:00:42+00:00",
+          "excerpt": "The four arguments used to sell llms.txt would pass a text file about cats. Here's why that matters for every GEO tactic you're buying. The post How Cats.txt Showed LLMs.txt Evidence Is GEO Astrology appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-07T15:34:17.524808+00:00"
+        },
+        {
           "title": "The AEO Playbook: How to Get Cited & Stay Visible via @sejournal, @hethr_campbell",
           "url": "https://www.searchenginejournal.com/aeo-playbook-get-cited-stay-visible-recap/584926/",
           "published_at": "2026-08-07T07:45:43+00:00",
@@ -5746,24 +5788,17 @@
           "fetched_at": "2026-08-05T13:08:03.282789+05:30"
         },
         {
-          "title": "Google Now Reports AI Search Impressions. Here’s How To Read Them via @sejournal, @cshel",
+          "title": "Google Now Reports AI Search Impressions. Here’s How To Read Them",
           "url": "https://www.searchenginejournal.com/google-reports-ai-search-impressions-how-to-read-them/582824/",
           "published_at": "2026-08-04T14:30:39+00:00",
           "excerpt": "Comparing which pages Google uses in AI answers against how they rank conventionally is where the new Search Console report earns its keep. The post Google Now Reports AI Search Impressions. Here’s How To Read Them appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-05T13:08:03.282789+05:30"
         },
         {
-          "title": "Paid Search Absorbed Organic’s Collapse – Then Q2 Slowed Down via @sejournal, @brookeosmundson",
+          "title": "Paid Search Absorbed Organic’s Collapse – Then Q2 Slowed Down",
           "url": "https://www.searchenginejournal.com/paid-search-absorbed-organics-collapse-then-q2-slowed-down/583560/",
-          "published_at": "2026-08-04T12:00:50+00:00",
+          "published_at": "2026-08-04T00:00:00+00:00",
           "excerpt": "Google paid search growth slowed in Q2 2026. See what tougher comparisons and shifting ad spend mean for PPC budgets and H2 planning. The post Paid Search Absorbed Organic’s Collapse – Then Q2 Slowed Down appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-05T13:08:03.282789+05:30"
-        },
-        {
-          "title": "WooCommerce Social Login WordPress Plugin Enables Full Site Takeover via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/woocommerce-social-login-wordpress-plugin-enables-full-site-takeover/584601/",
-          "published_at": "2026-08-03T23:26:39+00:00",
-          "excerpt": "WooCommerce Social Login vulnerability enables unauthenticated attackers to gain full control of ecommerce sites. The post WooCommerce Social Login WordPress Plugin Enables Full Site Takeover appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-05T13:08:03.282789+05:30"
         },
         {
@@ -5800,6 +5835,13 @@
           "published_at": "2026-08-03T00:00:00+00:00",
           "excerpt": "Google's updated documentation refresh shows where to focus on when updating your own content for SEO. The post Google’s Documentation Refresh Offers Ideas For SEO Content Updates appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-03T15:53:28.442491+05:30"
+        },
+        {
+          "title": "WooCommerce Social Login WordPress Plugin Enables Full Site Takeover",
+          "url": "https://www.searchenginejournal.com/woocommerce-social-login-wordpress-plugin-enables-full-site-takeover/584601/",
+          "published_at": "2026-08-03T00:00:00+00:00",
+          "excerpt": "WooCommerce Social Login vulnerability enables unauthenticated attackers to gain full control of ecommerce sites. The post WooCommerce Social Login WordPress Plugin Enables Full Site Takeover appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-05T13:08:03.282789+05:30"
         },
         {
           "title": "Snapchat Clamps Down On AI-Generated Videos",
@@ -8067,6 +8109,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "See what 5 builders are making with Gemini Omni",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/",
+          "published_at": "2026-08-07T14:00:00+00:00",
+          "excerpt": "Gemini Omni images",
+          "fetched_at": "2026-08-07T15:34:27.533343+00:00"
+        },
         {
           "title": "How Gemini plans such detailed vacation itineraries for you",
           "url": "https://blog.google/products-and-platforms/products/gemini/how-gemini-plans-trips/",
