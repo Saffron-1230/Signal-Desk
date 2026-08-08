@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T15:34:27.535743+00:00",
+  "last_updated": "2026-08-08T06:27:08.149395+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4254,6 +4254,48 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "ChatGPT Ads rolls out oCPC campaigns, AAM and product carousels",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkFJNk9Kb2xfbG9jMUpEMWdRNTdwYXRBNnZvN2pMT1p2dnBBUllvOHNZbmVyUFVCZVVyZmdjMHhtbDNNbTI3TmI0OU5QQ2Zxd29ZNEc3cW5TMnlmN25xME5Odlc0cWN6VjB0STdGWHlfdzdlN2ExYlczT0p3dUlDU2NDLWhITG9Hbjh5UDJNQ2ZzRnY0NGdIWElWTUZ2OFU?oc=5",
+          "published_at": "2026-08-07T17:51:00+00:00",
+          "excerpt": "ChatGPT Ads rolls out oCPC campaigns, AAM and product carousels Search Engine Land",
+          "fetched_at": "2026-08-08T06:26:46.274032+00:00"
+        },
+        {
+          "title": "Google expands Limited Ad Serving policy across all Ads",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWFVam13cEFJOTF4Wm43NGdCTDRMQlVsX20wRF9kYU9SWkJlaHVhWjNsbmRBcEt2SWk3QkM5VzhRbGpNM1lpdFZQU1dvbTVib2RYM09JTjI0bWx6eVhqRUhVRFJtMGQ0OThLT0dKb2I1TXgxTWZ0aEhMcHp5MlEyOFlnSHdsVU1Ib000bDF4WGRnaVhqQUE?oc=5",
+          "published_at": "2026-08-07T17:07:00+00:00",
+          "excerpt": "Google expands Limited Ad Serving policy across all Ads Search Engine Land",
+          "fetched_at": "2026-08-08T06:26:46.274032+00:00"
+        },
+        {
+          "title": "YouTube tests image ads during horizontal mobile playback",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmxDTHRJVFQtME45TVduTUVMQXE4U0pEeEwwcjNaQXRjV0p3U1ZfX3hXejVhMmVDY0dSd3dmQXFQYXB2NEJtYTNUcmN2WXZXOUhXQ1lrMl9hWHJVb1BtbTFyeHg5RlBDdjdzOFI3OXUwb0ljSlNoRkcweGFneFpGR2J3ZDNWbnBXX2JoU1BqUmttc2x2eWtGZg?oc=5",
+          "published_at": "2026-08-07T16:43:00+00:00",
+          "excerpt": "YouTube tests image ads during horizontal mobile playback Search Engine Land",
+          "fetched_at": "2026-08-08T06:26:46.274032+00:00"
+        },
+        {
+          "title": "Google Ads adds dedicated reporting for new customer acquisition",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUhGaTZ5MjlBQVJ5cjJXc0kzMkNITThwYy1sZGVXVXRmZzRnZENDTXdIUkR1bUl4LXBDZjNkOGdwSVVqSGR1VU9WaWRwZ3dmd0ROVXhvZWJzb2FEQWthOGhESG5Pa0VoZXBUSW1Yend5Ti05YTAxdHNFczRCaGhKdDMzTXZMeEMxQnFZck1nRy13WXhJU2w1VHhuX3JBNHRzdGc?oc=5",
+          "published_at": "2026-08-07T16:16:00+00:00",
+          "excerpt": "Google Ads adds dedicated reporting for new customer acquisition Search Engine Land",
+          "fetched_at": "2026-08-08T06:26:46.274032+00:00"
+        },
+        {
+          "title": "How business context changes AI recommendations",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjRyTkwxb1JoM2F1T1pWbFQ2TnFPVGZTZV9FdnpFbDJBbE1ubU1yZlR1bXA0UUZnUjEyQUFRd09TRjdWeXNEZjExcTVTRXBtM1ZUSnpuck8zOGtyNjUzNEN4U3VKcHZKV3BpcFpiUDJSankxa0lSSWl4LUd4YVpfZlozbUZZUQ?oc=5",
+          "published_at": "2026-08-07T14:36:00+00:00",
+          "excerpt": "How business context changes AI recommendations Search Engine Land",
+          "fetched_at": "2026-08-08T06:26:46.274032+00:00"
+        },
+        {
+          "title": "You can’t demand the click if you won’t give the link",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3Z1VXBpV1pzRXZPdUhYbkxKTG5PYmRxbzI2WVhNTDJ5QUxMVkNYcjhMcjgxVFVFN0V0RzdBUXg1ZzRoU1JtSXZYel9Pd3QyczQyYWJFX2xpMklOVTBlTGVrekdoVHByV2w0MlpjOHNCblowWGkyd05wekZyOWRuRG84ajFkSDBGc1BMWVhKNGo?oc=5",
+          "published_at": "2026-08-07T11:00:00+00:00",
+          "excerpt": "You can’t demand the click if you won’t give the link Search Engine Land",
+          "fetched_at": "2026-08-08T06:26:46.274032+00:00"
+        },
+        {
           "title": "Ads on ChatGPT - Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUhnMEZiaE9vWE1obkhFbDdpNHVGa3pPaUhqalBmclppWlQzNDcwXzk4X0lQd2J2SU5HWlVXeEt4eWliT1RJNTZyRC13Tk5Sc0EzRTdVTmpvNWVNV0tqS25RMTNhMzJGTW50cjZ6dEdrTkVjTU1wVGd4MWZqU2NaaDRjWXgzX3BhNDFkSXFEakdrQk5yRmkzVjc5TQ?oc=5",
           "published_at": "2026-08-06T20:38:29+00:00",
@@ -5395,6 +5437,13 @@
           "fetched_at": "2026-08-05T09:41:17.163585+00:00"
         },
         {
+          "title": "Link building for legitimacy: Building brand credibility in a competitive search environment",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1UxTWtWTGlOVllNaFhIbWYyNDJ4OVN1Ny1LYmFWZjYzR3BxUEt1R2ZHaUwyckc2X0dBMmJQRDYyOGZuNDdJRkNnemp6eDJyVDhLMmFxYU5KOWxJVVgzd1hkNVpMMExZT0w4a3I2TlNSVUlLNHpWbm1RZFJVclJBZTdCMFJWNS1RQTdzVC1LdWhMSlpxYkFISnZybmE2bjdsYm1N?oc=5",
+          "published_at": "2026-07-10T11:00:00+00:00",
+          "excerpt": "Link building for legitimacy: Building brand credibility in a competitive search environment Search Engine Land",
+          "fetched_at": "2026-08-08T06:26:46.274032+00:00"
+        },
+        {
           "title": "The latest jobs in search marketing",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
           "published_at": "2026-07-10T07:00:00+00:00",
@@ -5641,6 +5690,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "AI Search Only Feels New If Your SEO Was Shallow via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/",
+          "published_at": "2026-08-07T19:00:31+00:00",
+          "excerpt": "AI search only feels like a new sport to the people who were never really training. Here's what actually changed, and what didn't. The post AI Search Only Feels New If Your SEO Was Shallow appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-08T06:26:55.744069+00:00"
+        },
+        {
           "title": "Gen Z Now Treats Claude And OpenAI Like Consumer Brands, But Trust Is Still An Issue via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/gen-z-now-treats-claude-and-openai-like-consumer-brands-but-trust-is-still-an-issue/584449/",
           "published_at": "2026-08-07T14:30:16+00:00",
@@ -5781,17 +5837,17 @@
           "fetched_at": "2026-08-05T13:08:03.282789+05:30"
         },
         {
-          "title": "Report That Cloudflare AI Bot Blocking Prevents Googlebot From Indexing Sites via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/report-that-cloudflare-ai-bot-blocking-prevents-googlebot-from-indexing-sites/584673/",
-          "published_at": "2026-08-04T15:18:58+00:00",
-          "excerpt": "Anecdotal report that blocking AI training bots with Cloudflare blocks Googlebot from indexing websites. The post Report That Cloudflare AI Bot Blocking Prevents Googlebot From Indexing Sites appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-05T13:08:03.282789+05:30"
-        },
-        {
           "title": "Google Now Reports AI Search Impressions. Here’s How To Read Them",
           "url": "https://www.searchenginejournal.com/google-reports-ai-search-impressions-how-to-read-them/582824/",
           "published_at": "2026-08-04T14:30:39+00:00",
           "excerpt": "Comparing which pages Google uses in AI answers against how they rank conventionally is where the new Search Console report earns its keep. The post Google Now Reports AI Search Impressions. Here’s How To Read Them appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-05T13:08:03.282789+05:30"
+        },
+        {
+          "title": "Report That Cloudflare AI Bot Blocking Prevents Googlebot From Indexing Sites",
+          "url": "https://www.searchenginejournal.com/report-that-cloudflare-ai-bot-blocking-prevents-googlebot-from-indexing-sites/584673/",
+          "published_at": "2026-08-04T00:00:00+00:00",
+          "excerpt": "Anecdotal report that blocking AI training bots with Cloudflare blocks Googlebot from indexing websites. The post Report That Cloudflare AI Bot Blocking Prevents Googlebot From Indexing Sites appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-05T13:08:03.282789+05:30"
         },
         {
