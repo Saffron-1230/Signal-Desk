@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T06:27:08.149395+00:00",
+  "last_updated": "2026-08-08T14:18:40.658602+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4289,6 +4289,20 @@
           "fetched_at": "2026-08-08T06:26:46.274032+00:00"
         },
         {
+          "title": "What six perspectives reveal about demand generation in AI search",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd1RlUmMzMXRYc05BN1FEclcxWndpYklaZ1R3Q1RaYWdncEVGTVU4N0cySEZPQTAzYVU2NFJRSGhtazRxcFJzdTRWcVVTanRkX2pLUml2Yk5wVWpQSC0yTjNKc1BnUVpHQ3IzcjlJUXdNY3ZwNFRiWGlxOHlaVm91bXV3?oc=5",
+          "published_at": "2026-08-07T13:00:00+00:00",
+          "excerpt": "What six perspectives reveal about demand generation in AI search Search Engine Land",
+          "fetched_at": "2026-08-08T14:18:21.029758+00:00"
+        },
+        {
+          "title": "Your rankings aren’t telling you what your customers see",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaU1aSzBReS1RNDBwclNsQjJXMTE0RGprRHhmc2JtZGZzRjh1MkdmelJYTnZaNi1vNndpNEpIbGZUaC1tYjBRT244cDRPMnAtWFltRFBHMEFVeXJRZVItUzJwT2gtMVZoRUppNkNtdFg3VzdWY1RmTHR6ck42NnNaSE9QSWdjTFcyU0F5SlZEYVJHQkFHNVE?oc=5",
+          "published_at": "2026-08-07T12:00:00+00:00",
+          "excerpt": "Your rankings aren’t telling you what your customers see Search Engine Land",
+          "fetched_at": "2026-08-08T14:18:21.029758+00:00"
+        },
+        {
           "title": "You can’t demand the click if you won’t give the link",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3Z1VXBpV1pzRXZPdUhYbkxKTG5PYmRxbzI2WVhNTDJ5QUxMVkNYcjhMcjgxVFVFN0V0RzdBUXg1ZzRoU1JtSXZYel9Pd3QyczQyYWJFX2xpMklOVTBlTGVrekdoVHByV2w0MlpjOHNCblowWGkyd05wekZyOWRuRG84ajFkSDBGc1BMWVhKNGo?oc=5",
           "published_at": "2026-08-07T11:00:00+00:00",
@@ -4940,25 +4954,11 @@
           "fetched_at": "2026-07-28T09:57:08.511109+05:30"
         },
         {
-          "title": "Microsoft Ads adds Ad Preview Hub to Performance Max",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObUhTZ2xiNXF4YXFUWWw4UktPd0liS0JfSGRvU3RmZTFHaloyTW5LVzlFYS1XTEhlWWY5MWRCempnUi01VVBiX2hFZHhVQjRiVjRJVGU3U0NLYkJCdXBhZkV6SGdIQWVqOWZyOE5CVkVwQWpXQ2Y5UlZjRHViakQyNjlDOEZVRm9rMEVBZENfQ3puUQ?oc=5",
-          "published_at": "2026-07-27T16:59:00+00:00",
-          "excerpt": "Microsoft Ads adds Ad Preview Hub to Performance Max Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Google begins rolling out in-account certification applications",
           "url": "https://searchengineland.com/google-begins-rolling-out-in-account-certification-applications-483588",
           "published_at": "2026-07-27T16:44:56+05:30",
           "excerpt": "Eligible advertisers will soon be able to apply for select policy certifications directly within their Google Ads accounts.",
           "fetched_at": "2026-07-28T09:57:08.511109+05:30"
-        },
-        {
-          "title": "Google begins rolling out in-account certification applications",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWxkcTZHeUozc01EVm1tQjRUZWZaNGs5ajFKMHA1T3M4bV8wbDI0VVQwRzRDM1VLLVhhaEpCc19XYV9OR09UanZmdEpENG1raTQ5QUtsSVk2NWZEbDZXbUZCYUJ3S043c0g4T0hYU1E2TlBhN3pPcG5vOFktTW1LLUtLNEE1eUlmSlBheF9Rc1lkYnA3QlVLR1BpWGc5VWxy?oc=5",
-          "published_at": "2026-07-27T16:44:00+00:00",
-          "excerpt": "Google begins rolling out in-account certification applications Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "Why Google Business Profile address changes can disrupt local rankings",
@@ -5015,6 +5015,27 @@
           "published_at": "2026-07-27T12:00:00+00:00",
           "excerpt": "SEO and PPC alignment starts with your org chart Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Google begins rolling out in-account certification applications",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWxkcTZHeUozc01EVm1tQjRUZWZaNGs5ajFKMHA1T3M4bV8wbDI0VVQwRzRDM1VLLVhhaEpCc19XYV9OR09UanZmdEpENG1raTQ5QUtsSVk2NWZEbDZXbUZCYUJ3S043c0g4T0hYU1E2TlBhN3pPcG5vOFktTW1LLUtLNEE1eUlmSlBheF9Rc1lkYnA3QlVLR1BpWGc5VWxy?oc=5",
+          "published_at": "2026-07-27T07:00:00+00:00",
+          "excerpt": "Google begins rolling out in-account certification applications Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Microsoft Ads adds Ad Preview Hub to Performance Max",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObUhTZ2xiNXF4YXFUWWw4UktPd0liS0JfSGRvU3RmZTFHaloyTW5LVzlFYS1XTEhlWWY5MWRCempnUi01VVBiX2hFZHhVQjRiVjRJVGU3U0NLYkJCdXBhZkV6SGdIQWVqOWZyOE5CVkVwQWpXQ2Y5UlZjRHViakQyNjlDOEZVRm9rMEVBZENfQ3puUQ?oc=5",
+          "published_at": "2026-07-27T07:00:00+00:00",
+          "excerpt": "Microsoft Ads adds Ad Preview Hub to Performance Max Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Google makes passkeys mandatory for Google Ads API users",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTThKRGxsQ2xJYmhoWUhQb0tpTnJSVl9ZUW10dHlGdWw4N011VWxmNExPdjk5MER6SE93OTVRMmRYckFmWlRrTFk5Ny1CNnFqZDhQZGg1YW0xVDJadDJuczZOWUZidGdiY2VMTC11T1RsQldWbzg4R1A5VEw0RUV5RjRJVzlpWUtLT0tCNjAzaThCM3JfTWtJ?oc=5",
+          "published_at": "2026-07-27T07:00:00+00:00",
+          "excerpt": "Google makes passkeys mandatory for Google Ads API users Search Engine Land",
+          "fetched_at": "2026-08-08T14:18:21.029758+00:00"
         },
         {
           "title": "ChatGPT Ads adds conversion bidding, geo exclusions and bulk campaign tools",
@@ -5178,7 +5199,7 @@
           "fetched_at": "2026-07-24T10:42:58.894178+05:30"
         },
         {
-          "title": "Google says AI Max unlocks billions of new monetizable searches - searchengineland.com",
+          "title": "Google says AI Max unlocks billions of new monetizable searches",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHFnTHpCOGhKcWxldkF0Z2tVT2N3dVprSEItTEVyek15MjRPSVBQZFZjZXlZS0lfdDN0NHh0dm8zSlVQcFBHNnFXMDVoS3N4bVlQUkJaYUxTb0dSZWRwWlBDNDJGMVJDR1l2NG4yNkF1Q3VFc3pvMUdIcU8yaUdkNzVqS3JYZHJiaEtv?oc=5",
           "published_at": "2026-07-23T07:00:00+00:00",
           "excerpt": "Google says AI Max unlocks billions of new monetizable searches Search Engine Land",
@@ -5430,13 +5451,6 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "OpenAI sets Aug. 9 end date for ChatGPT Atlas",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VcUZTTm8tSm1vdXZMUHRoZVpXSThGY2RjN3c1amNNM3lNckxDM2U0VVQ0cE9RZmxWSTZPSEpjd2Y3S0xmeEgwUHBrRER3M2VLeldubGxySlhGZ0ZWVjJiamRSYmV6d1h4WEZ5dlRfcVJyaWh0YlI0?oc=5",
-          "published_at": "2026-07-10T13:16:00+00:00",
-          "excerpt": "OpenAI sets Aug. 9 end date for ChatGPT Atlas Search Engine Land",
-          "fetched_at": "2026-08-05T09:41:17.163585+00:00"
-        },
-        {
           "title": "Link building for legitimacy: Building brand credibility in a competitive search environment",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1UxTWtWTGlOVllNaFhIbWYyNDJ4OVN1Ny1LYmFWZjYzR3BxUEt1R2ZHaUwyckc2X0dBMmJQRDYyOGZuNDdJRkNnemp6eDJyVDhLMmFxYU5KOWxJVVgzd1hkNVpMMExZT0w4a3I2TlNSVUlLNHpWbm1RZFJVclJBZTdCMFJWNS1RQTdzVC1LdWhMSlpxYkFISnZybmE2bjdsYm1N?oc=5",
           "published_at": "2026-07-10T11:00:00+00:00",
@@ -5462,6 +5476,13 @@
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRW9WZkZQMGVTaGZtV01idHNBT3FlMlpOTWZISWlPX1N3ZHFjRE1RMGtSbGRtT21NcWhIaml6cHpQWmNpXzFLZno0TExiakVwVXN5Vzdfc09wVk5ZY1p2UTZTNG5Dellfek9SOWdPNFFUQ3Y3LTA3LVZ2ZUZXTjVBX0FXdnBFUzZydTFoRHhJRHI?oc=5",
           "published_at": "2026-07-10T07:00:00+00:00",
           "excerpt": "Google’s Universal Commerce Protocol: The SEO implications Search Engine Land",
+          "fetched_at": "2026-08-05T09:41:17.163585+00:00"
+        },
+        {
+          "title": "OpenAI sets Aug. 9 end date for ChatGPT Atlas",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VcUZTTm8tSm1vdXZMUHRoZVpXSThGY2RjN3c1amNNM3lNckxDM2U0VVQ0cE9RZmxWSTZPSEpjd2Y3S0xmeEgwUHBrRER3M2VLeldubGxySlhGZ0ZWVjJiamRSYmV6d1h4WEZ5dlRfcVJyaWh0YlI0?oc=5",
+          "published_at": "2026-07-10T07:00:00+00:00",
+          "excerpt": "OpenAI sets Aug. 9 end date for ChatGPT Atlas Search Engine Land",
           "fetched_at": "2026-08-05T09:41:17.163585+00:00"
         },
         {
@@ -5689,6 +5710,13 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/",
+          "published_at": "2026-08-08T12:00:30+00:00",
+          "excerpt": "AI's impact outpaced our ability to measure it in H1 2026. Indig's citation data, agent share shifts, and the intelligence-versus-agency split explain what changes next. The post AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands appeared first on…",
+          "fetched_at": "2026-08-08T14:18:29.727217+00:00"
+        },
         {
           "title": "AI Search Only Feels New If Your SEO Was Shallow via @sejournal, @slobodanmanic",
           "url": "https://www.searchenginejournal.com/ai-search-only-feels-new-if-your-seo-was-shallow/584115/",
