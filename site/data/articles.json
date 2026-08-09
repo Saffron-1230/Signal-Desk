@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T14:18:40.658602+00:00",
+  "last_updated": "2026-08-09T07:41:44.465744+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4268,6 +4268,13 @@
           "fetched_at": "2026-08-08T06:26:46.274032+00:00"
         },
         {
+          "title": "Microsoft Advertising adds bulk editing for disapproved assets",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXZMdnl5dnBTMjRBMjY4aElHX0V5QVp3cXl2Yi15R1ROMTVNNTQ5TW9lWkpRdi1PWC0xb2V0SGpyTEJXd250dmZsUXJjejlyRWhhT3hZTXRIUFpBZU5uYkxBN3NWVWZ5cVdfZWtXUUNsbkJZLU9QZzRQZ1ZKN3VsT3JpdjR6VmVYcnh2a2VJbVZ4RjA1MkxJZzk0c2xtRTA?oc=5",
+          "published_at": "2026-08-07T16:59:00+00:00",
+          "excerpt": "Microsoft Advertising adds bulk editing for disapproved assets Search Engine Land",
+          "fetched_at": "2026-08-09T07:41:23.643288+00:00"
+        },
+        {
           "title": "YouTube tests image ads during horizontal mobile playback",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmxDTHRJVFQtME45TVduTUVMQXE4U0pEeEwwcjNaQXRjV0p3U1ZfX3hXejVhMmVDY0dSd3dmQXFQYXB2NEJtYTNUcmN2WXZXOUhXQ1lrMl9hWHJVb1BtbTFyeHg5RlBDdjdzOFI3OXUwb0ljSlNoRkcweGFneFpGR2J3ZDNWbnBXX2JoU1BqUmttc2x2eWtGZg?oc=5",
           "published_at": "2026-08-07T16:43:00+00:00",
@@ -4343,6 +4350,13 @@
           "published_at": "2026-08-06T16:39:00+00:00",
           "excerpt": "New Google Ads help doc outlines corporate email rules Search Engine Land",
           "fetched_at": "2026-08-07T08:33:23.050052+00:00"
+        },
+        {
+          "title": "Email authentication Archives",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pRVhUMFEtS2JSdzFRRmRrWWVRZWN0RnVEckVPeXNLQTh5YTRDOWlyOVQ4MGRCd1dLMGpyX0dHdE5MREEySDZNRDg5bG15bDhzT3Zwd1UwTjMtM3pfV1VNUXpTZDhTZ3M?oc=5",
+          "published_at": "2026-08-06T16:39:00+00:00",
+          "excerpt": "Email authentication Archives Search Engine Land",
+          "fetched_at": "2026-08-09T07:41:23.643288+00:00"
         },
         {
           "title": "Google explains what advertisers should expect from Smart Bidding changes",
@@ -4434,6 +4448,13 @@
           "published_at": "2026-08-05T14:56:00+00:00",
           "excerpt": "Public service Archives Search Engine Land",
           "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
+          "title": "Public service Archives",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ROURVU0xlR2NYT2R0VmdmNVBxbXJiOG45WVdfNjlER0VNTHdqTk1saFAxOXl1VFVicWE1MWJ0SXljRU5oU3dzSzZwa0hkODdWMEFkQ0RURnUyQjRBbVpN?oc=5",
+          "published_at": "2026-08-05T14:56:00+00:00",
+          "excerpt": "Public service Archives Search Engine Land",
+          "fetched_at": "2026-08-09T07:41:23.643288+00:00"
         },
         {
           "title": "What happens when AI Overviews contradict paid search ads?",
@@ -4539,6 +4560,13 @@
           "published_at": "2026-08-04T23:00:00+00:00",
           "excerpt": "Pini Yakuel Archives Search Engine Land",
           "fetched_at": "2026-08-06T09:44:58.547457+00:00"
+        },
+        {
+          "title": "Pini Yakuel Archives",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1c3k1Y1Y3QUg4LUZMOXlnYVpNXy03YTllWk5RZzVHOWxLUm1JbDF3T0otRmRJRlAzNEZXX3JyVGVxTlpaYWJ0ME1jQWIwZmxXVkMxQUdfVU1Dc0k?oc=5",
+          "published_at": "2026-08-04T23:00:00+00:00",
+          "excerpt": "Pini Yakuel Archives Search Engine Land",
+          "fetched_at": "2026-08-09T07:41:23.643288+00:00"
         },
         {
           "title": "Google Search testing forcing searchers to sign in to get more search results",
@@ -4744,13 +4772,6 @@
           "fetched_at": "2026-08-03T15:53:27.227864+05:30"
         },
         {
-          "title": "AI models favor familiar brands in search: Study",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT0g3SDNOR0JieGFQM2RQbVdJRWNjMjB3bS1TeHlLRTE4Q1NNbV9YNWd3aDgzSmdEVWJTZjh6LUJJVjJ0WFFSdGxzaDN4X0Z3YmtEZWhoQ19LMXFSajRRVk9Tc2FfdUdHbG1hRXRBNEZ2dXoteDBXUDVISUdLNHRYMWZobnRkcHc?oc=5",
-          "published_at": "2026-07-30T18:56:00+00:00",
-          "excerpt": "AI models favor familiar brands in search: Study Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Google launches Structured Data Files v10.1 for Display & Video 360",
           "url": "https://searchengineland.com/google-launches-structured-data-files-v10-1-for-display-video-360-484050",
           "published_at": "2026-07-30T17:24:16+05:30",
@@ -4807,6 +4828,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "AI models favor familiar brands in search: Study",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT0g3SDNOR0JieGFQM2RQbVdJRWNjMjB3bS1TeHlLRTE4Q1NNbV9YNWd3aDgzSmdEVWJTZjh6LUJJVjJ0WFFSdGxzaDN4X0Z3YmtEZWhoQ19LMXFSajRRVk9Tc2FfdUdHbG1hRXRBNEZ2dXoteDBXUDVISUdLNHRYMWZobnRkcHc?oc=5",
+          "published_at": "2026-07-30T07:00:00+00:00",
+          "excerpt": "AI models favor familiar brands in search: Study Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
           "title": "AI halftime report: H1 2026",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qUnd0UUpGZGtXQ2ZEX0w4OUxuY1JtVHE3WTJlcWxmR3FYN0NXa2E4QlVyNkE4TXJqUXQ0NnIwRHI5aFJXcW9UVXNTVDhaSzNTMU5uMXVtbkpIYkkyS2xCYVkyOG12UV9OZUFOcFROcw?oc=5",
           "published_at": "2026-07-29T18:19:00+00:00",
@@ -4818,20 +4846,6 @@
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RNGlzTnN6SGZrVGlDZ3AyWldpampKcXlXTUhTYjFOM1I4OC1BMDlGMXM2dElzNDNuUWl5RUtfd2ZtMUxoQno5QldLU3V4elRrX3Q0VXVaQkloSTZCRE9YbHNpTEVHSXBvMEI0?oc=5",
           "published_at": "2026-07-29T15:00:00+00:00",
           "excerpt": "How SEO scope creep happens and 7 ways to prevent it Search Engine Land",
-          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
-        },
-        {
-          "title": "Ghost citations: Why AI search cites your content, not your brand",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LdnprcmFoUDNob1dhcEh1eVVRSVBUQkFqQkhfSnd5UURnaElaOVMzb3JKbi1kQWJ6dmJ4THZhUFNSaFg1azBpRU1lX0xPN0JVZEg2VVFtMkpuUVBBMElJWGMzcXpycFFpbkdrQnhn?oc=5",
-          "published_at": "2026-07-29T14:00:00+00:00",
-          "excerpt": "Ghost citations: Why AI search cites your content, not your brand Search Engine Land",
-          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
-        },
-        {
-          "title": "How to scale SEO content updates with Claude Code",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1WFhUNFFwTy1fYk94RWRvSEg3SzZWV01FZldGc3VTSTlxdm5OSWl4Y3BrTnJRQ2cwbm1BcW1zNDhXOThqVVBtdlJCUktVZTJfNEdpSWkzaTVkYmwya1dvYm9qdmNGbWYtdU5GVUpPN09hUmJZRWNkcXU0N2hsQQ?oc=5",
-          "published_at": "2026-07-29T13:00:00+00:00",
-          "excerpt": "How to scale SEO content updates with Claude Code Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
@@ -4863,6 +4877,20 @@
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
+          "title": "Ghost citations: Why AI search cites your content, not your brand",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LdnprcmFoUDNob1dhcEh1eVVRSVBUQkFqQkhfSnd5UURnaElaOVMzb3JKbi1kQWJ6dmJ4THZhUFNSaFg1azBpRU1lX0xPN0JVZEg2VVFtMkpuUVBBMElJWGMzcXpycFFpbkdrQnhn?oc=5",
+          "published_at": "2026-07-29T07:00:00+00:00",
+          "excerpt": "Ghost citations: Why AI search cites your content, not your brand Search Engine Land",
+          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
+          "title": "How to scale SEO content updates with Claude Code",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1WFhUNFFwTy1fYk94RWRvSEg3SzZWV01FZldGc3VTSTlxdm5OSWl4Y3BrTnJRQ2cwbm1BcW1zNDhXOThqVVBtdlJCUktVZTJfNEdpSWkzaTVkYmwya1dvYm9qdmNGbWYtdU5GVUpPN09hUmJZRWNkcXU0N2hsQQ?oc=5",
+          "published_at": "2026-07-29T07:00:00+00:00",
+          "excerpt": "How to scale SEO content updates with Claude Code Search Engine Land",
+          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
           "title": "SMX Advanced expands in 2027: See you in San Diego and Boston",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ydlZ5TVdFQnJ5MVVJWkpzYjZ5ZnNCbjVWMFdiVk5aZTZBbzRlZlotZXhoaDRIcm5wb1dJZDhMZkc2cFZwa2MyUUM4VEtqT1NnT2p6WHBkU2R0MU9uTlBXeTZvQTRnQXZKZFpZeVcxMmZzaE01dHR0eDRR?oc=5",
           "published_at": "2026-07-28T19:30:00+00:00",
@@ -4881,13 +4909,6 @@
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBobHhWYnJoTURqMGlma0lpRzZMUDhtRnd6aFpkU0lkUUs2OU1FTFk1OUw3SzY0WXRpdzVIZll6ZVZCSmVsZ2gwVEdyZzRnTTZFX1dEWFFzQUFCYlZGV3JReWFTUndUWGhaQmNlMXNkbzVWdm5jZGVTS3Z3?oc=5",
           "published_at": "2026-07-28T15:00:00+00:00",
           "excerpt": "Attribution vs. incrementality: Why you need both Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
-          "title": "Google indexed Claude Chats because Anthropic didn't block your private chats from search engines",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDhObjZ4M2JaNGRoaGdnODhYbzJlVkZtdUpqVGt2bzZXU1BiY1h6eFFtaGQta2lzNldJd1QweE5fWkk3Z0RGYm5OYUtWMHZHSXlZZGZGb2dXTnV0YkV2VEZmclFRN2FsSW5qeGFmWVNXUVBQdjE0Nzg5MlVoMjhON3BPYmlKb3JIRkN2VzJ5b2VKOWtaeUxDd01Wb3dpMllIYzVaMjZCOXU1dGZDZThUOVllbmhkbGhGNDBMZ0RlN2gwM3JfMUtydWsyV1A?oc=5",
-          "published_at": "2026-07-28T13:34:00+00:00",
-          "excerpt": "Google indexed Claude Chats because Anthropic didn't block your private chats from search engines Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
@@ -4923,6 +4944,13 @@
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iN2dkbW10MjVPRXRBc2laOTlXV2pGV3BicWk3VFE2c1FrVVNBcHpPV0RKcU03bGtNaDJHTEVsUkJucDNaRnJfeTdIaDZZTHJ6QjVRVnJqR2gyVlhmTDlMSTlENEFEVWcxWGN6RUdjRzB6SlBrZVFYREp3?oc=5",
           "published_at": "2026-07-28T07:00:00+00:00",
           "excerpt": "Why creator content belongs in your AI search strategy Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Google indexed Claude Chats because Anthropic didn't block your private chats from search engines",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDhObjZ4M2JaNGRoaGdnODhYbzJlVkZtdUpqVGt2bzZXU1BiY1h6eFFtaGQta2lzNldJd1QweE5fWkk3Z0RGYm5OYUtWMHZHSXlZZGZGb2dXTnV0YkV2VEZmclFRN2FsSW5qeGFmWVNXUVBQdjE0Nzg5MlVoMjhON3BPYmlKb3JIRkN2VzJ5b2VKOWtaeUxDd01Wb3dpMllIYzVaMjZCOXU1dGZDZThUOVllbmhkbGhGNDBMZ0RlN2gwM3JfMUtydWsyV1A?oc=5",
+          "published_at": "2026-07-28T07:00:00+00:00",
+          "excerpt": "Google indexed Claude Chats because Anthropic didn't block your private chats from search engines Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
@@ -5241,13 +5269,6 @@
           "fetched_at": "2026-07-23T12:40:07.709298+05:30"
         },
         {
-          "title": "AI Overviews vs. featured snippets: What the data says about CTR, traffic, and conversions",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ScVNDbkhqc0RiMjBWLTRIZUp0SC1ZWGk2bzllUnhxRlRlWk5oVHZqbkliUXVOc0xnRktWcS10ZTJjeDdLb21IV1JVajZRNDFEdFhueGtJQUt4YVBlNll2ZkFOZmEyUkEwU2E1VVhuVHFPV0E2U19Z?oc=5",
-          "published_at": "2026-07-22T18:12:00+00:00",
-          "excerpt": "AI Overviews vs. featured snippets: What the data says about CTR, traffic, and conversions Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Google Ads rolls out video campaign groups globally",
           "url": "https://searchengineland.com/google-ads-rolls-out-video-campaign-groups-globally-483180",
           "published_at": "2026-07-22T16:41:45+05:30",
@@ -5302,6 +5323,20 @@
           "published_at": "2026-07-22T07:00:00+00:00",
           "excerpt": "How semantics and topical authority improve local SEO Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "AI Overviews vs. featured snippets: What the data says about CTR, traffic, and conversions",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ScVNDbkhqc0RiMjBWLTRIZUp0SC1ZWGk2bzllUnhxRlRlWk5oVHZqbkliUXVOc0xnRktWcS10ZTJjeDdLb21IV1JVajZRNDFEdFhueGtJQUt4YVBlNll2ZkFOZmEyUkEwU2E1VVhuVHFPV0E2U19Z?oc=5",
+          "published_at": "2026-07-22T07:00:00+00:00",
+          "excerpt": "AI Overviews vs. featured snippets: What the data says about CTR, traffic, and conversions Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Google loses key DMCA claims against SerpApi in scraping lawsuit",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUFQQ3drcERBSmNGMXdlUXcwRXJhOEUyZWFHRWx3VFZpVUJmUzN4RGVFb1RPOG80aFo5dXF3MlNGUWdmVTNyekxSVG51MTQxc0UyMmdLUXpzbWxqTXdpTVZQTlJzOEh4bXd4RjkzcV9mYlM2ZnVkXzFXZU5NUUlxbWY2VjVKdEtkQVZqa2l5VnR5YWN5TGhSX29kck1ZZXczaUE?oc=5",
+          "published_at": "2026-07-22T07:00:00+00:00",
+          "excerpt": "Google loses key DMCA claims against SerpApi in scraping lawsuit Search Engine Land",
+          "fetched_at": "2026-08-09T07:41:23.643288+00:00"
         },
         {
           "title": "ChatGPT topic ownership is rare, and SEO alone doesn’t explain it",
