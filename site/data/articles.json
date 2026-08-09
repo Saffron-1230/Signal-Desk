@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T07:41:44.465744+00:00",
+  "last_updated": "2026-08-09T14:20:33.478328+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4541,6 +4541,13 @@
           "fetched_at": "2026-08-05T18:09:04.095756+00:00"
         },
         {
+          "title": "Pieter Serraris",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04NUJVSGxqN0FmWE41cnlPSWhxOUdNZFRMTlg1MkJLR1ZPT09NWk9jUE02WTFCbHVyYUE2SDJIb19QcXhRWjdPWDRtM0t3TGpFT25KWVozek1GVkszd2J5Vw?oc=5",
+          "published_at": "2026-08-05T09:00:00+00:00",
+          "excerpt": "Pieter Serraris Search Engine Land",
+          "fetched_at": "2026-08-09T14:20:18.342390+00:00"
+        },
+        {
           "title": "How to troubleshoot automated bidding in Google Ads",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcThvaUFwcDdUWHBrRDNGanRHTHFFZW1pVGVuOUtUQl9xVmRxekFQS25NQUpGQURWU3FOWUxhSG9NY3V2RW0yQlI4M2pQVVpvRHdleXhoRmk4NDZHQWhnZzhKTXJ4dWxGU1dzYUJGUUxjdlJvMXBIVm96R19xR0xEenhOQQ?oc=5",
           "published_at": "2026-08-05T08:00:00+00:00",
@@ -4688,13 +4695,6 @@
           "fetched_at": "2026-08-03T15:53:27.227864+05:30"
         },
         {
-          "title": "OpenAI appears to be building chatbot-native ads that launch AI agents",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWt6d1JrWHphRURBOE9fQ1B5NTlJcWJ6SXpCUXFwQlJsMzRNdnRXLUluWnRSYUFkc0IxdHFXU1lXR2s3b1pCeGZfZEQ2UjdKZ3ZiMjZvS0dPUm1TNDV6N1FEZ0NYc0Jqb3pfWF9YTS1WN3hrMEVkRjIwdEFyWU5hcFFtY1BoRXJiQzdKNlliWnBRNmlmLWQwUkswdmJMRUNxdHVKeElMM0pZUQ?oc=5",
-          "published_at": "2026-07-31T15:01:00+00:00",
-          "excerpt": "OpenAI appears to be building chatbot-native ads that launch AI agents Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Why every SEO team now needs a social topical map",
           "url": "https://searchengineland.com/seo-social-topical-map-484018",
           "published_at": "2026-07-31T15:00:00+05:30",
@@ -4714,13 +4714,6 @@
           "published_at": "2026-07-31T14:00:00+05:30",
           "excerpt": "The biggest gains come from using AI to accelerate strategy, not replace original thinking. See where to draw the line.",
           "fetched_at": "2026-08-03T15:53:27.227864+05:30"
-        },
-        {
-          "title": "AI makes SEO faster, but human expertise still wins",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjdXRTREejVCREpPbllZOEI4QlNmV2s1RXg2OEdfZklNQ3BUZWJCaWtoNEtMNzZOT0pWMGswQ213TExZNENaeWhydlV1U0tOdEJ4Vlc1bWs0dEhxVFI2amJ0MlZtOWF0ek5GS2JuU05ZQzh4ZEVUdFBWMVFrczdCUjRDbWFHenlaRUgtSWQ4QQ?oc=5",
-          "published_at": "2026-07-31T14:00:00+00:00",
-          "excerpt": "AI makes SEO faster, but human expertise still wins Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "AI shopping starts with your product feed, not your product page",
@@ -4765,6 +4758,20 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "OpenAI appears to be building chatbot-native ads that launch AI agents",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWt6d1JrWHphRURBOE9fQ1B5NTlJcWJ6SXpCUXFwQlJsMzRNdnRXLUluWnRSYUFkc0IxdHFXU1lXR2s3b1pCeGZfZEQ2UjdKZ3ZiMjZvS0dPUm1TNDV6N1FEZ0NYc0Jqb3pfWF9YTS1WN3hrMEVkRjIwdEFyWU5hcFFtY1BoRXJiQzdKNlliWnBRNmlmLWQwUkswdmJMRUNxdHVKeElMM0pZUQ?oc=5",
+          "published_at": "2026-07-31T07:00:00+00:00",
+          "excerpt": "OpenAI appears to be building chatbot-native ads that launch AI agents Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "AI makes SEO faster, but human expertise still wins",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjdXRTREejVCREpPbllZOEI4QlNmV2s1RXg2OEdfZklNQ3BUZWJCaWtoNEtMNzZOT0pWMGswQ213TExZNENaeWhydlV1U0tOdEJ4Vlc1bWs0dEhxVFI2amJ0MlZtOWF0ek5GS2JuU05ZQzh4ZEVUdFBWMVFrczdCUjRDbWFHenlaRUgtSWQ4QQ?oc=5",
+          "published_at": "2026-07-31T07:00:00+00:00",
+          "excerpt": "AI makes SEO faster, but human expertise still wins Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
           "title": "AI models favor familiar brands in search: Study",
           "url": "https://searchengineland.com/ai-models-favor-familiar-brands-search-study-484054",
           "published_at": "2026-07-30T18:56:25+05:30",
@@ -4800,13 +4807,6 @@
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
-          "title": "Multi-location SEO: How to structure geographic pages at scale",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFhhMVJyUno1am5YdmlPRllMaEVlMnFzUE9KOVZvNHhFU2k2NEtJMzZMR1piMXd6RHV2MEV0dUJNYm9GUWN0NjV0NkR1WGUwME9Xd3luTkNlSjROWFE5aldIcVhkNTBjZlhKUG5mUVVnRUlLaFFtbmduLW1GdllvYXgxSlB6RHF0?oc=5",
-          "published_at": "2026-07-30T13:00:00+00:00",
-          "excerpt": "Multi-location SEO: How to structure geographic pages at scale Search Engine Land",
-          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
-        },
-        {
           "title": "How to turn news articles into assets for AI search",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dQWlBBQURFb0p0N0w5TDVXTjBSX3dmNnFpUTZKTGdoNzdQdkxFbWhST0RQWGR3ZFFjVU1fTHp3Sl9vbFlXR1pUbXVWUjZWdXQ2dTRpLTBkNW9jdTlrQTZ3VWJsaFVqLS1YU0k0MmFGTUtWdTA2ekk3RE9OSGxsSnJB?oc=5",
           "published_at": "2026-07-30T12:00:00+00:00",
@@ -4818,6 +4818,13 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmItdlMzYVZRYWgwV21jNVlOZnF0QmZmZ3ZXQlRNX1VVWWViYUNxZDJVZExXOGJJcXBxNjlRc1RzY2l0LVBrcWs5NXVNSXZIeXg1T2ZIY1c1dlFsS1JZOE1rd0NGdUtWbmdtamhDNGt5SnowRUhTbkJVcEthWC1JeVRyQ1l2U212cTFGS05hYVJsWndsZ2JYOHRpY1Vjd1N2dExQbVBWaDQ?oc=5",
           "published_at": "2026-07-30T11:00:00+00:00",
           "excerpt": "5 strategies for increasing AI visibility without messing up your SEO Search Engine Land",
+          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
+          "title": "Multi-location SEO: How to structure geographic pages at scale",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFhhMVJyUno1am5YdmlPRllMaEVlMnFzUE9KOVZvNHhFU2k2NEtJMzZMR1piMXd6RHV2MEV0dUJNYm9GUWN0NjV0NkR1WGUwME9Xd3luTkNlSjROWFE5aldIcVhkNTBjZlhKUG5mUVVnRUlLaFFtbmduLW1GdllvYXgxSlB6RHF0?oc=5",
+          "published_at": "2026-07-30T07:00:00+00:00",
+          "excerpt": "Multi-location SEO: How to structure geographic pages at scale Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
@@ -8028,7 +8035,7 @@
           "fetched_at": "2026-08-06T08:12:33.861657+00:00"
         },
         {
-          "title": "A unified API for AI model routing",
+          "title": "Model routing with Google Cloud API Gateway",
           "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
           "published_at": "2026-08-04T00:00:00+05:30",
           "excerpt": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Developers can easily configure these ro…",
