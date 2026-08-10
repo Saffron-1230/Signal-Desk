@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T09:02:22.128928+00:00",
+  "last_updated": "2026-08-10T15:40:40.030724+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4254,6 +4254,27 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google brings new AI agent capabilities to Ads and Analytics",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm43eGdpeTRmd2RIcVJhbHowWG5XYnFuY3o5WnhpSlBORzhZTjc5ZlpEZS1aUEZzSl9kaHF1bzlkeEpyYktldUdsZC1xOGN1TDF0QTZIWnVMTU5VR2x4ekxCR0dXXzZhQTBWd1dmVVhBWmNvN0ZnbEJOZVpaWEQ0azdhQ05EaWRWNWJMTVVLVzJzSkp4RjAzd2lQNGM?oc=5",
+          "published_at": "2026-08-10T14:43:00+00:00",
+          "excerpt": "Google brings new AI agent capabilities to Ads and Analytics Search Engine Land",
+          "fetched_at": "2026-08-10T15:40:15.209025+00:00"
+        },
+        {
+          "title": "Why the traditional link building model no longer works for AI search",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnVjU1ZYZFBCckZvRTd4Y1NtM0hPLUFoQ1pRMEk4d01CLVNNMTlvcGtxc3JoREw4MGltMFJKM1JfU3pZQ2hOenF3Njl2UkRpSThPZEZCZHNNVHZuLXZJeFM3eHg5b0xrVklEQnNtU3BaeFp6bEVQNUUyYUM1UTdrMjRScWpoamVGRDRHOUpObHhscHlDd3BLWQ?oc=5",
+          "published_at": "2026-08-10T14:00:00+00:00",
+          "excerpt": "Why the traditional link building model no longer works for AI search Search Engine Land",
+          "fetched_at": "2026-08-10T15:40:15.209025+00:00"
+        },
+        {
+          "title": "How customers build confidence across the search journey",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTZzY21JcXJpb3l2cmh3SHBweHlsUlg2MXc5b1FmQTUyaTlVRUxVaC1peHREd0R6Nkw0WmxFcE4yeWhHbUFRX2V2dmVydUNqd3NDOEU4OXZFWWJMVG9GN3piWTlnQVV1dFAycXVDa01oWkJ4amlLb284OUhZeFgzbUs2TQ?oc=5",
+          "published_at": "2026-08-10T12:00:00+00:00",
+          "excerpt": "How customers build confidence across the search journey Search Engine Land",
+          "fetched_at": "2026-08-10T15:40:15.209025+00:00"
+        },
+        {
           "title": "ChatGPT Ads rolls out oCPC campaigns, AAM and product carousels",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkFJNk9Kb2xfbG9jMUpEMWdRNTdwYXRBNnZvN2pMT1p2dnBBUllvOHNZbmVyUFVCZVVyZmdjMHhtbDNNbTI3TmI0OU5QQ2Zxd29ZNEc3cW5TMnlmN25xME5Odlc0cWN6VjB0STdGWHlfdzdlN2ExYlczT0p3dUlDU2NDLWhITG9Hbjh5UDJNQ2ZzRnY0NGdIWElWTUZ2OFU?oc=5",
           "published_at": "2026-08-07T17:51:00+00:00",
@@ -4793,13 +4814,6 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "Selling SEO or AI services? Your sales team needs more than a pitch deck",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWhDZGd4dnhYYWdqT2RKaHdKZVZtaTM0TUw0RDRvUlJad3k3S2d4d080cHBHMGJTSEtXMW9scVVuazR1djgxTWRaMkZPdl9acFYyQUpoUzZHcmxYNEcxZzlzaUI1TUd2M0tjMHBfMEJjNDh5YTRXZzdFR2pqOHBENkFsREdraTZC?oc=5",
-          "published_at": "2026-07-30T15:00:00+00:00",
-          "excerpt": "Selling SEO or AI services? Your sales team needs more than a pitch deck Search Engine Land",
-          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
-        },
-        {
           "title": "How to build a keyword clustering tool with Python",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtRW5jejhEOTFsWmMxdVFrLWlIczRDSy1qT0t1U1BUY1dFSnlXUXpsRTlZRjVSSzFVUzN6b1RpRk5lQklRaDEwZXhzNDdJRHNscFNEMWdGSDRaalVFZjdqNG1MTW5USXBha0tDc3lOaFptSDBD?oc=5",
           "published_at": "2026-07-30T14:00:00+00:00",
@@ -4818,6 +4832,13 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFhhMVJyUno1am5YdmlPRllMaEVlMnFzUE9KOVZvNHhFU2k2NEtJMzZMR1piMXd6RHV2MEV0dUJNYm9GUWN0NjV0NkR1WGUwME9Xd3luTkNlSjROWFE5aldIcVhkNTBjZlhKUG5mUVVnRUlLaFFtbmduLW1GdllvYXgxSlB6RHF0?oc=5",
           "published_at": "2026-07-30T07:00:00+00:00",
           "excerpt": "Multi-location SEO: How to structure geographic pages at scale Search Engine Land",
+          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
+          "title": "Selling SEO or AI services? Your sales team needs more than a pitch deck",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWhDZGd4dnhYYWdqT2RKaHdKZVZtaTM0TUw0RDRvUlJad3k3S2d4d080cHBHMGJTSEtXMW9scVVuazR1djgxTWRaMkZPdl9acFYyQUpoUzZHcmxYNEcxZzlzaUI1TUd2M0tjMHBfMEJjNDh5YTRXZzdFR2pqOHBENkFsREdraTZC?oc=5",
+          "published_at": "2026-07-30T07:00:00+00:00",
+          "excerpt": "Selling SEO or AI services? Your sales team needs more than a pitch deck Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
@@ -5753,6 +5774,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-analytics-will-benchmark-campaigns-through-ask-advisor/585213/",
+          "published_at": "2026-08-10T14:30:42+00:00",
+          "excerpt": "Google announced that its Ask Advisor AI agent will compare campaign performance in Google Analytics against anonymized averages from similar businesses. The post Google Announces Campaign Benchmarking In Google Analytics appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-10T15:40:28.040525+00:00"
+        },
+        {
+          "title": "Microsoft Clarity Now Separates Branded And Non-Branded AI Citations via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/clarity-branded-non-branded-ai-citations/584654/",
+          "published_at": "2026-08-10T13:06:54+00:00",
+          "excerpt": "Clarity now splits AI citation queries into branded and non-branded. The two mean different things, and only one counts as discovery. The post Microsoft Clarity Now Separates Branded And Non-Branded AI Citations appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-10T15:40:28.040525+00:00"
+        },
+        {
+          "title": "Common Crawl Published A Manual For Being Visible To AI, I Automated It via @sejournal, @suganthan",
+          "url": "https://www.searchenginejournal.com/common-crawl-published-a-manual-for-being-visible-to-ai-i-automated-it/584466/",
+          "published_at": "2026-08-10T12:00:21+00:00",
+          "excerpt": "Check captures, robots.txt history, block fingerprints and a live CCBot probe for any domain, free, straight from Common Crawl's own archives. The post Common Crawl Published A Manual For Being Visible To AI, I Automated It appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-10T15:40:28.040525+00:00"
+        },
+        {
           "title": "How To Remove Negative Content From Google Before AI Answers Cite It via @sejournal, @EraseDotCom",
           "url": "https://www.searchenginejournal.com/how-to-remove-negative-content-from-google-before-ai-answers-cite-it-spa/582989/",
           "published_at": "2026-08-10T05:00:33+00:00",
@@ -5879,24 +5921,10 @@
           "fetched_at": "2026-08-05T18:09:16.432041+00:00"
         },
         {
-          "title": "Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/microsoft-advertising-adds-ai-visibility-insights-pmax-testing-and-creative-preview-updates/584760/",
-          "published_at": "2026-08-05T17:00:19+00:00",
-          "excerpt": "Microsoft Advertising expands AI Visibility, Performance Max testing, and Ad Preview Hub with new reporting, experimentation, and creative review capabilities. The post Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates appeared first o…",
-          "fetched_at": "2026-08-05T18:09:16.432041+00:00"
-        },
-        {
           "title": "AI Visibility Measurement: What To Track & What To Ignore",
           "url": "https://www.searchenginejournal.com/ai-visibility-measurement-what-to-track-what-to-ignore/582009/",
           "published_at": "2026-08-05T14:30:03+00:00",
           "excerpt": "Citations, sentiment, and LLM referral traffic make poor KPIs. Here are the AI visibility metrics that actually connect to leads, pipeline, and revenue. The post AI Visibility Measurement: What To Track & What To Ignore appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-05T18:09:16.432041+00:00"
-        },
-        {
-          "title": "Reddit Wants To Be The Destination, Not Just The Source Behind Search & AI via @sejournal, @brentcsutoras",
-          "url": "https://www.searchenginejournal.com/reddit-wants-to-be-the-destination-not-just-the-source-behind-search-ai/584586/",
-          "published_at": "2026-08-05T12:00:08+00:00",
-          "excerpt": "Reddit's Q2 call laid out the daily destination strategy and the participation problem standing in its way. What marketers should do now. The post Reddit Wants To Be The Destination, Not Just The Source Behind Search & AI appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-05T18:09:16.432041+00:00"
         },
         {
@@ -5905,6 +5933,20 @@
           "published_at": "2026-08-05T00:00:00+00:00",
           "excerpt": "Reddit CEO Steve Huffman revealed intent to leverage the platform's vast amount of evergreen content on recommendations and reviews. The post Reddit CEO Intends To Show More Reviews And Recommendations appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-05T09:41:27.925899+00:00"
+        },
+        {
+          "title": "Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates",
+          "url": "https://www.searchenginejournal.com/microsoft-advertising-adds-ai-visibility-insights-pmax-testing-and-creative-preview-updates/584760/",
+          "published_at": "2026-08-05T00:00:00+00:00",
+          "excerpt": "Microsoft Advertising expands AI Visibility, Performance Max testing, and Ad Preview Hub with new reporting, experimentation, and creative review capabilities. The post Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates appeared first o…",
+          "fetched_at": "2026-08-05T18:09:16.432041+00:00"
+        },
+        {
+          "title": "Reddit Wants To Be The Destination, Not Just The Source Behind Search & AI",
+          "url": "https://www.searchenginejournal.com/reddit-wants-to-be-the-destination-not-just-the-source-behind-search-ai/584586/",
+          "published_at": "2026-08-05T00:00:00+00:00",
+          "excerpt": "Reddit's Q2 call laid out the daily destination strategy and the participation problem standing in its way. What marketers should do now. The post Reddit Wants To Be The Destination, Not Just The Source Behind Search & AI appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-05T18:09:16.432041+00:00"
         },
         {
           "title": "What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond via @sejournal, @gregjarboe",
@@ -6739,11 +6781,39 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
+          "url": "https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/",
+          "published_at": "2026-08-10T09:52:00+00:00",
+          "excerpt": "Google traffic is slowly declining. Learn how to future-proof your business in the AI era.",
+          "fetched_at": "2026-08-10T15:40:33.604309+00:00"
+        },
+        {
+          "title": "What is organic traffic? (And how to increase it)",
+          "url": "https://www.semrush.com/blog/organic-traffic/",
+          "published_at": "2026-08-10T08:58:00+00:00",
+          "excerpt": "Organic traffic is the visitors who land on your site through unpaid search results. Increase yours in 5 steps.",
+          "fetched_at": "2026-08-10T15:40:33.604309+00:00"
+        },
+        {
+          "title": "Local SEO keyword research: A step-by-step guide",
+          "url": "https://www.semrush.com/blog/local-keyword-research/",
+          "published_at": "2026-08-10T08:41:00+00:00",
+          "excerpt": "Local SEO keyword research in six steps: find the terms customers use, validate intent, and improve visibility on Google Search, Maps, and AI answers.",
+          "fetched_at": "2026-08-10T15:40:33.604309+00:00"
+        },
+        {
           "title": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
           "url": "https://www.semrush.com/blog/chatgpt-topical-focus-study/",
           "published_at": "2026-08-03T13:00:00+00:00",
           "excerpt": "Can authority in one ChatGPT topic help you win another? Our study shows where topical authority carries over — and where it stops.",
           "fetched_at": "2026-08-05T13:08:05.400393+05:30"
+        },
+        {
+          "title": "Margarita Loktionova",
+          "url": "https://www.semrush.com/blog/user/margarita-loktionova/",
+          "published_at": "2026-08-03T00:00:00+00:00",
+          "excerpt": "We analyzed 1,000+ Content SEO Manager job listings to reveal the skills, AI expertise, and SEO trends shaping this emerging role.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "7 best AI visibility tracking tools for agencies by need",
@@ -6851,13 +6921,6 @@
           "fetched_at": "2026-07-24T10:43:01.707942+05:30"
         },
         {
-          "title": "Margarita Loktionova",
-          "url": "https://www.semrush.com/blog/user/margarita-loktionova/",
-          "published_at": "2026-07-23T00:00:00+00:00",
-          "excerpt": "We analyzed 1,000+ Content SEO Manager job listings to reveal the skills, AI expertise, and SEO trends shaping this emerging role.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "What are backlinks in SEO & how do I get them?",
           "url": "https://www.semrush.com/blog/what-are-backlinks/",
           "published_at": "2026-07-22T10:22:00+00:00",
@@ -6895,7 +6958,7 @@
         {
           "title": "Link building for SEO: What works in 2026",
           "url": "https://www.semrush.com/blog/link-building/",
-          "published_at": "2026-07-17T10:24:00+00:00",
+          "published_at": "2026-07-17T00:00:00+00:00",
           "excerpt": "Learn what link building involves and how it improves your visibility in search engines and AI systems.",
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
@@ -6909,7 +6972,7 @@
         {
           "title": "How to do AI search optimization for local businesses",
           "url": "https://www.semrush.com/blog/ai-search-optimization-for-local-businesses/",
-          "published_at": "2026-07-15T11:05:00+00:00",
+          "published_at": "2026-07-15T00:00:00+00:00",
           "excerpt": "See how AI search decides which local business to recommend, and how to become the one it names.",
           "fetched_at": "2026-07-22T12:30:58.295142+05:30"
         },
@@ -7440,9 +7503,16 @@
         {
           "title": "AI search marketing: how B2B brands get cited in 2026",
           "url": "https://www.factors.ai/blog/ai-search-visibility-for-b2b-saas",
-          "published_at": "2026-08-07T00:00:00+00:00",
+          "published_at": "2026-08-10T00:00:00+00:00",
           "excerpt": "AI search marketing means getting cited by ChatGPT and Perplexity, not just ranked on Google. Here's how B2B SaaS teams build real AI search visibility.",
           "fetched_at": "2026-08-07T08:33:42.491071+00:00"
+        },
+        {
+          "title": "Top 22 Account-Based Marketing (ABM) Tools for 2026",
+          "url": "https://www.factors.ai/blog/top-abm-tools",
+          "published_at": "2026-08-10T00:00:00+00:00",
+          "excerpt": "Compare the 22 best ABM tools for 2026 including Factors.ai, Demandbase, and 6sense. Learn pricing, pros/cons, and real user insights. Find the right account-based marketing platform for your team.",
+          "fetched_at": "2026-08-10T15:40:35.659324+00:00"
         },
         {
           "title": "AI digital marketing examples worth stealing",
@@ -8242,6 +8312,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Venmo is giving you a new way to pay on Google Play.",
+          "url": "https://blog.google/products-and-platforms/platforms/google-play/venmo-google-play-store/",
+          "published_at": "2026-08-10T12:00:00+00:00",
+          "excerpt": "Venmo is now available as a payment option on Google Play, giving you more flexibility at checkout.",
+          "fetched_at": "2026-08-10T15:40:40.027962+00:00"
+        },
         {
           "title": "See what 5 builders are making with Gemini Omni",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/",
