@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T14:20:33.478328+00:00",
+  "last_updated": "2026-08-10T09:02:22.128928+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4702,13 +4702,6 @@
           "fetched_at": "2026-08-03T15:53:27.227864+05:30"
         },
         {
-          "title": "Why every SEO team now needs a social topical map",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85RjdOYWxQSjQwcUszcXNjQ1FoWVRfQ3VqcUFVVlZkd1EwSm45OS1FeEFndHJLaW04RVJtVUQ5WGJGa2steDh4X0JjOEIyWVJuUnRyR05DanJfV2F0RHExT0Z5ZG9LcXVINGc?oc=5",
-          "published_at": "2026-07-31T15:00:00+00:00",
-          "excerpt": "Why every SEO team now needs a social topical map Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "AI makes SEO faster, but human expertise still wins",
           "url": "https://searchengineland.com/ai-makes-seo-faster-but-human-expertise-still-wins-484003",
           "published_at": "2026-07-31T14:00:00+05:30",
@@ -4772,6 +4765,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "Why every SEO team now needs a social topical map",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85RjdOYWxQSjQwcUszcXNjQ1FoWVRfQ3VqcUFVVlZkd1EwSm45OS1FeEFndHJLaW04RVJtVUQ5WGJGa2steDh4X0JjOEIyWVJuUnRyR05DanJfV2F0RHExT0Z5ZG9LcXVINGc?oc=5",
+          "published_at": "2026-07-31T07:00:00+00:00",
+          "excerpt": "Why every SEO team now needs a social topical map Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
           "title": "AI models favor familiar brands in search: Study",
           "url": "https://searchengineland.com/ai-models-favor-familiar-brands-search-study-484054",
           "published_at": "2026-07-30T18:56:25+05:30",
@@ -4807,16 +4807,9 @@
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
-          "title": "How to turn news articles into assets for AI search",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dQWlBBQURFb0p0N0w5TDVXTjBSX3dmNnFpUTZKTGdoNzdQdkxFbWhST0RQWGR3ZFFjVU1fTHp3Sl9vbFlXR1pUbXVWUjZWdXQ2dTRpLTBkNW9jdTlrQTZ3VWJsaFVqLS1YU0k0MmFGTUtWdTA2ekk3RE9OSGxsSnJB?oc=5",
-          "published_at": "2026-07-30T12:00:00+00:00",
-          "excerpt": "How to turn news articles into assets for AI search Search Engine Land",
-          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
-        },
-        {
           "title": "5 strategies for increasing AI visibility without messing up your SEO",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmItdlMzYVZRYWgwV21jNVlOZnF0QmZmZ3ZXQlRNX1VVWWViYUNxZDJVZExXOGJJcXBxNjlRc1RzY2l0LVBrcWs5NXVNSXZIeXg1T2ZIY1c1dlFsS1JZOE1rd0NGdUtWbmdtamhDNGt5SnowRUhTbkJVcEthWC1JeVRyQ1l2U212cTFGS05hYVJsWndsZ2JYOHRpY1Vjd1N2dExQbVBWaDQ?oc=5",
-          "published_at": "2026-07-30T11:00:00+00:00",
+          "published_at": "2026-07-30T07:00:00+00:00",
           "excerpt": "5 strategies for increasing AI visibility without messing up your SEO Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
@@ -4825,6 +4818,13 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFhhMVJyUno1am5YdmlPRllMaEVlMnFzUE9KOVZvNHhFU2k2NEtJMzZMR1piMXd6RHV2MEV0dUJNYm9GUWN0NjV0NkR1WGUwME9Xd3luTkNlSjROWFE5aldIcVhkNTBjZlhKUG5mUVVnRUlLaFFtbmduLW1GdllvYXgxSlB6RHF0?oc=5",
           "published_at": "2026-07-30T07:00:00+00:00",
           "excerpt": "Multi-location SEO: How to structure geographic pages at scale Search Engine Land",
+          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
+          "title": "How to turn news articles into assets for AI search",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dQWlBBQURFb0p0N0w5TDVXTjBSX3dmNnFpUTZKTGdoNzdQdkxFbWhST0RQWGR3ZFFjVU1fTHp3Sl9vbFlXR1pUbXVWUjZWdXQ2dTRpLTBkNW9jdTlrQTZ3VWJsaFVqLS1YU0k0MmFGTUtWdTA2ekk3RE9OSGxsSnJB?oc=5",
+          "published_at": "2026-07-30T07:00:00+00:00",
+          "excerpt": "How to turn news articles into assets for AI search Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
@@ -4840,20 +4840,6 @@
           "published_at": "2026-07-30T07:00:00+00:00",
           "excerpt": "AI models favor familiar brands in search: Study Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
-          "title": "AI halftime report: H1 2026",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qUnd0UUpGZGtXQ2ZEX0w4OUxuY1JtVHE3WTJlcWxmR3FYN0NXa2E4QlVyNkE4TXJqUXQ0NnIwRHI5aFJXcW9UVXNTVDhaSzNTMU5uMXVtbkpIYkkyS2xCYVkyOG12UV9OZUFOcFROcw?oc=5",
-          "published_at": "2026-07-29T18:19:00+00:00",
-          "excerpt": "AI halftime report: H1 2026 Search Engine Land",
-          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
-        },
-        {
-          "title": "How SEO scope creep happens and 7 ways to prevent it",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RNGlzTnN6SGZrVGlDZ3AyWldpampKcXlXTUhTYjFOM1I4OC1BMDlGMXM2dElzNDNuUWl5RUtfd2ZtMUxoQno5QldLU3V4elRrX3Q0VXVaQkloSTZCRE9YbHNpTEVHSXBvMEI0?oc=5",
-          "published_at": "2026-07-29T15:00:00+00:00",
-          "excerpt": "How SEO scope creep happens and 7 ways to prevent it Search Engine Land",
-          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
           "title": "How prompt injection puts your brand and AI workflows at risk",
@@ -4884,6 +4870,13 @@
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
+          "title": "AI halftime report: H1 2026",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qUnd0UUpGZGtXQ2ZEX0w4OUxuY1JtVHE3WTJlcWxmR3FYN0NXa2E4QlVyNkE4TXJqUXQ0NnIwRHI5aFJXcW9UVXNTVDhaSzNTMU5uMXVtbkpIYkkyS2xCYVkyOG12UV9OZUFOcFROcw?oc=5",
+          "published_at": "2026-07-29T07:00:00+00:00",
+          "excerpt": "AI halftime report: H1 2026 Search Engine Land",
+          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
           "title": "Ghost citations: Why AI search cites your content, not your brand",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LdnprcmFoUDNob1dhcEh1eVVRSVBUQkFqQkhfSnd5UURnaElaOVMzb3JKbi1kQWJ6dmJ4THZhUFNSaFg1azBpRU1lX0xPN0JVZEg2VVFtMkpuUVBBMElJWGMzcXpycFFpbkdrQnhn?oc=5",
           "published_at": "2026-07-29T07:00:00+00:00",
@@ -4895,6 +4888,13 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1WFhUNFFwTy1fYk94RWRvSEg3SzZWV01FZldGc3VTSTlxdm5OSWl4Y3BrTnJRQ2cwbm1BcW1zNDhXOThqVVBtdlJCUktVZTJfNEdpSWkzaTVkYmwya1dvYm9qdmNGbWYtdU5GVUpPN09hUmJZRWNkcXU0N2hsQQ?oc=5",
           "published_at": "2026-07-29T07:00:00+00:00",
           "excerpt": "How to scale SEO content updates with Claude Code Search Engine Land",
+          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
+          "title": "How SEO scope creep happens and 7 ways to prevent it",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RNGlzTnN6SGZrVGlDZ3AyWldpampKcXlXTUhTYjFOM1I4OC1BMDlGMXM2dElzNDNuUWl5RUtfd2ZtMUxoQno5QldLU3V4elRrX3Q0VXVaQkloSTZCRE9YbHNpTEVHSXBvMEI0?oc=5",
+          "published_at": "2026-07-29T07:00:00+00:00",
+          "excerpt": "How SEO scope creep happens and 7 ways to prevent it Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
@@ -5031,13 +5031,6 @@
           "fetched_at": "2026-07-28T09:57:08.511109+05:30"
         },
         {
-          "title": "7 feedback loops for self-improving AI content workflows",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBleXV6bnFnVUNUbUdwRmtTczNISFQwaHdJVzRwQ1E4bUhyQU9BeHF5ZEZYZ0RSRjRvcmM1WHdYV0xsVGk3SVFrTHFFOEVSYjc0VjlYOFd1a2ItbHJkTWtBLWJSRUF4MEhzYUNEalVPY0t2RmZCNkVPSFNfQQ?oc=5",
-          "published_at": "2026-07-27T13:00:00+00:00",
-          "excerpt": "7 feedback loops for self-improving AI content workflows Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "SEO and PPC alignment starts with your org chart",
           "url": "https://searchengineland.com/seo-ppc-alignment-483407",
           "published_at": "2026-07-27T12:00:00+05:30",
@@ -5056,6 +5049,13 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWxkcTZHeUozc01EVm1tQjRUZWZaNGs5ajFKMHA1T3M4bV8wbDI0VVQwRzRDM1VLLVhhaEpCc19XYV9OR09UanZmdEpENG1raTQ5QUtsSVk2NWZEbDZXbUZCYUJ3S043c0g4T0hYU1E2TlBhN3pPcG5vOFktTW1LLUtLNEE1eUlmSlBheF9Rc1lkYnA3QlVLR1BpWGc5VWxy?oc=5",
           "published_at": "2026-07-27T07:00:00+00:00",
           "excerpt": "Google begins rolling out in-account certification applications Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "7 feedback loops for self-improving AI content workflows",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBleXV6bnFnVUNUbUdwRmtTczNISFQwaHdJVzRwQ1E4bUhyQU9BeHF5ZEZYZ0RSRjRvcmM1WHdYV0xsVGk3SVFrTHFFOEVSYjc0VjlYOFd1a2ItbHJkTWtBLWJSRUF4MEhzYUNEalVPY0t2RmZCNkVPSFNfQQ?oc=5",
+          "published_at": "2026-07-27T07:00:00+00:00",
+          "excerpt": "7 feedback loops for self-improving AI content workflows Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
@@ -5675,7 +5675,7 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "Google I/O Archives - searchengineland.com",
+          "title": "Google I/O Archives",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PRGlMeWhmcG1OQ2tzNkFqeFZUdFBvSE11ZnJiRHdRU201dFEyQUlGdWh1ZzVmLUVaVXJwVU1UNzd5SVJsMWhGcXdERW4yZDllUHJGeGFETTM?oc=5",
           "published_at": "2026-04-20T02:06:40+00:00",
           "excerpt": "Google I/O Archives Search Engine Land",
@@ -5752,6 +5752,13 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "How To Remove Negative Content From Google Before AI Answers Cite It via @sejournal, @EraseDotCom",
+          "url": "https://www.searchenginejournal.com/how-to-remove-negative-content-from-google-before-ai-answers-cite-it-spa/582989/",
+          "published_at": "2026-08-10T05:00:33+00:00",
+          "excerpt": "Can you remove negative content from Google? Uncover the truth about suppression and overcoming unfavorable online articles. The post How To Remove Negative Content From Google Before AI Answers Cite It appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-10T09:02:12.771468+00:00"
+        },
         {
           "title": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/",
@@ -5893,9 +5900,9 @@
           "fetched_at": "2026-08-05T18:09:16.432041+00:00"
         },
         {
-          "title": "Reddit CEO Intends To Show More Reviews And Recommendations via @sejournal, @martinibuster",
+          "title": "Reddit CEO Intends To Show More Reviews And Recommendations",
           "url": "https://www.searchenginejournal.com/reddit-ceo-intends-to-show-more-reviews-and-recommendations/584731/",
-          "published_at": "2026-08-05T09:17:33+00:00",
+          "published_at": "2026-08-05T00:00:00+00:00",
           "excerpt": "Reddit CEO Steve Huffman revealed intent to leverage the platform's vast amount of evergreen content on recommendations and reviews. The post Reddit CEO Intends To Show More Reviews And Recommendations appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-05T09:41:27.925899+00:00"
         },
@@ -6746,6 +6753,13 @@
           "fetched_at": "2026-08-03T15:53:30.575992+05:30"
         },
         {
+          "title": "Alex Lindley",
+          "url": "https://www.semrush.com/blog/user/alex-lindley/",
+          "published_at": "2026-07-31T00:00:00+00:00",
+          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "Digital PR for AI visibility: 5 tactics + how to measure",
           "url": "https://www.semrush.com/blog/digital-pr-for-ai-visibility/",
           "published_at": "2026-07-30T10:42:00+00:00",
@@ -7292,13 +7306,6 @@
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
         {
-          "title": "Alex Lindley",
-          "url": "https://www.semrush.com/blog/user/alex-lindley/",
-          "published_at": "2026-05-21T00:00:00+00:00",
-          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "What is PPC? A starter guide to pay-per-click advertising",
           "url": "https://www.semrush.com/blog/what-is-ppc/",
           "published_at": "2026-05-21T00:00:00+00:00",
@@ -7468,14 +7475,14 @@
         {
           "title": "Best AI email marketing platforms for B2B teams in 2026",
           "url": "https://www.factors.ai/blog/ai-email-marketing-platforms-b2b-comparison",
-          "published_at": "2026-08-03T00:00:00+00:00",
+          "published_at": "2026-08-04T00:00:00+00:00",
           "excerpt": "I compared the AI email marketing platforms B2B teams actually use in 2026, what their AI really does, and which one fits your stage.",
           "fetched_at": "2026-08-05T13:08:09.010495+05:30"
         },
         {
           "title": "AI email marketing: the parts that actually move pipeline",
           "url": "https://www.factors.ai/blog/ai-email-marketing-b2b",
-          "published_at": "2026-08-03T00:00:00+00:00",
+          "published_at": "2026-08-04T00:00:00+00:00",
           "excerpt": "AI email marketing for B2B teams, explained without the hype. Segmentation, personalization, timing, and the metrics that actually matter.",
           "fetched_at": "2026-08-05T13:08:09.010495+05:30"
         },
