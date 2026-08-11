@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T08:15:26.063106+00:00",
+  "last_updated": "2026-08-11T15:44:05.301490+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4254,11 +4254,46 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "12 things Reddit needs to make its ad platform more competitive",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVQVhjSW4yb2VGZEUtYXl5aG03VG1FVjBXeFlKLTVhVGl6UDItSTFzR2hkcmNHcnN1c2I2SjRfa2RzNnFkWU8xU3FsdmZVVGZYTnJ4SEdZaEFDQzg5VEllRVVSRHhqczRrWXRKZVhaYTBXSDNIVWN4cGNaRQ?oc=5",
+          "published_at": "2026-08-11T15:00:00+00:00",
+          "excerpt": "12 things Reddit needs to make its ad platform more competitive Search Engine Land",
+          "fetched_at": "2026-08-11T15:43:38.234812+00:00"
+        },
+        {
+          "title": "A 5-layer framework for measuring AI search performance",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWtET0tJLVNQR3MzQ0RzWDN2NFE2dWpkdDk1ZU4tM2dzS1I5UW9mb3NpVG9odi1MSWxZTWY5SFFTTXBNZUxmUmZaVzlYUE9VaEdYV2l0amQyXzJTcXVHLW1WU2ljNUFsOWROYzFnSVkwdnJsYTBOLS14RG90NVRSdV9xc1I?oc=5",
+          "published_at": "2026-08-11T13:00:00+00:00",
+          "excerpt": "A 5-layer framework for measuring AI search performance Search Engine Land",
+          "fetched_at": "2026-08-11T15:43:38.234812+00:00"
+        },
+        {
           "title": "Google confirms testing new buttons on home page to drive users to AI-powered search features",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQk56Wlg3eEFUVXh4eU9NYk11dTYzNmZtMTFTR2FYT0gyVUtRMWJhNTNBNlAtWWRMeFRvaDVnbTZsbFNSN3FfN19TUC1PV3dSUENpcDdZZDQwMzJVSG5JYjRTcW42VTJjSlZvSDZkb0lKYlRJaTNPem5ybTFiaXkzWG4wUi1MaGlxTWx6a1lzU29TMTJJV2V4ZUVWUVZUWkZvZ2xFRHpFVDJQNThvUldGNzV1UHIya1ozNXFhbnpTT3hHelRaMEw4NA?oc=5",
           "published_at": "2026-08-11T00:36:00+00:00",
           "excerpt": "Google confirms testing new buttons on home page to drive users to AI-powered search features Search Engine Land",
           "fetched_at": "2026-08-11T08:15:01.248184+00:00"
+        },
+        {
+          "title": "Study: ChatGPT ads appear on 26% of commercial prompts",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1puSm1laUFYbUNNUlFoX25HVTNwRWFHWFo5dXpmWjdLcE5vUjIxVHFqbk80eEY3TTlLOWQwZEhMQnFwMWVKd3VGZUIxZDQ2V0FhbG4teWVSeDJDVkxjQlFjMHVoWWNGdUVBSzkxUkdVWlkzcDZUQXlQaVYxdngxNHJ3dzZvTURMVmZoMUVWVDc1UQ?oc=5",
+          "published_at": "2026-08-10T22:21:00+00:00",
+          "excerpt": "Study: ChatGPT ads appear on 26% of commercial prompts Search Engine Land",
+          "fetched_at": "2026-08-11T15:43:38.234812+00:00"
+        },
+        {
+          "title": "Google investigates Merchant Center outage",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVMzM29aV21oVDhONHJicElWRlBTSWZVbzhEdF9Id3dxRC1tRk1SMDFVc0VhREpTZXlCazRaNE83aGFudWZFUGdkRkZ3Q3BhYUNuc0Z1NXVlcjBFNkF2bjFMUGRFaFAwOEFFUVJFckYzZUdTZy1hRGhFeld4di04Z2tHVUM?oc=5",
+          "published_at": "2026-08-10T15:51:00+00:00",
+          "excerpt": "Google investigates Merchant Center outage Search Engine Land",
+          "fetched_at": "2026-08-11T15:43:38.234812+00:00"
+        },
+        {
+          "title": "Yelp brings restaurant reservations and waitlists to ChatGPT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWtrMWw2WWFWYy1LdE95TUltLVdmRFhqZjNZQ1ZzaUgtRW8wcHZHWDdGUWVHcFl3eUd6T2Vnd0ItMzVFVldCRVNjWTNtOThDUFppQkR0dFpqalVwd1YwWHdhNG5RZ0lkTmktdnBheEV1NFB0QThwM3ktOWVBY3NPZjdEdGJaV1RZQjZ3QmxYNXYxemtWVmRaTmVna3U?oc=5",
+          "published_at": "2026-08-10T15:39:00+00:00",
+          "excerpt": "Yelp brings restaurant reservations and waitlists to ChatGPT Search Engine Land",
+          "fetched_at": "2026-08-11T15:43:38.234812+00:00"
         },
         {
           "title": "Technical SEO testing: How to build a stronger experiment",
@@ -4891,13 +4926,6 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "How prompt injection puts your brand and AI workflows at risk",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVS1QbGlWTWg3RF84NDdNYWQ1R09VcXVsRmVrTlBYU2dNYlhwTGdoaGZRQlcyTF94MXlGWUd2MVlvZ2UtSmV5blh0bDVWV01BdjIwQXpQbk4yblN4RDl5RGFEUFVoZzUyNG9zM2hJWFA1UnpPT3c4amVPOUkzbXJlVzBn?oc=5",
-          "published_at": "2026-07-29T12:00:00+00:00",
-          "excerpt": "How prompt injection puts your brand and AI workflows at risk Search Engine Land",
-          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
-        },
-        {
           "title": "Pillarbase",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jRVRtcDVjekl5bk9ZYmNfMGxsWjZSSmR1UHN5UTlzS0JfY3otRXFfeC1sdUkzdkIxVVJmQ3I1Umc4Y3BFeldSalhla1BOc005R3RZRg?oc=5",
           "published_at": "2026-07-29T11:00:00+00:00",
@@ -4947,6 +4975,13 @@
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
+          "title": "How prompt injection puts your brand and AI workflows at risk",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVS1QbGlWTWg3RF84NDdNYWQ1R09VcXVsRmVrTlBYU2dNYlhwTGdoaGZRQlcyTF94MXlGWUd2MVlvZ2UtSmV5blh0bDVWV01BdjIwQXpQbk4yblN4RDl5RGFEUFVoZzUyNG9zM2hJWFA1UnpPT3c4amVPOUkzbXJlVzBn?oc=5",
+          "published_at": "2026-07-29T07:00:00+00:00",
+          "excerpt": "How prompt injection puts your brand and AI workflows at risk Search Engine Land",
+          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
           "title": "SMX Advanced expands in 2027: See you in San Diego and Boston",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ydlZ5TVdFQnJ5MVVJWkpzYjZ5ZnNCbjVWMFdiVk5aZTZBbzRlZlotZXhoaDRIcm5wb1dJZDhMZkc2cFZwa2MyUUM4VEtqT1NnT2p6WHBkU2R0MU9uTlBXeTZvQTRnQXZKZFpZeVcxMmZzaE01dHR0eDRR?oc=5",
           "published_at": "2026-07-28T19:30:00+00:00",
@@ -4975,13 +5010,6 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "5 strategies to remove negative search results in 2026",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWl1RVQ0aDdKMXRZdnFJQ0JMdzd0Wm93aThZaWx4UmV5WkxSX2ktTGpURzN2TGJoVlhFV2dmZzdwS01EY0FnM3ZFdWFmaXdCVEd4cUtSdzl2ZElHY1duZ0pZNkdxMFF3RzJhcDRCTFlFZmtwTVlaR0FmRk1vZUxIYXJZTngzZ3JZZEY0Z0VTRF96Tm9U?oc=5",
-          "published_at": "2026-07-28T11:00:00+00:00",
-          "excerpt": "5 strategies to remove negative search results in 2026 Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Putting Google Ads AI Max’s automated ad copy to the test",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYkRIb0lleVZUX1V0X1lsSmRoZVFfa1FOMlF4RVJ6SzZNYnVuQzV3WFdjTnVKR3BLN210NE1kWEprTXk2WnEtV0h4bXd3Snp3MXZQSFRQV0ZkR1cxMmVtdzB6TkpKd3FtY2swdTk3c0d5SEJsX1BHMWlKS2RzeV91NWc0dw?oc=5",
           "published_at": "2026-07-28T07:00:00+00:00",
@@ -4994,6 +5022,13 @@
           "published_at": "2026-07-28T07:00:00+00:00",
           "excerpt": "Google rolls out AI content labels in asset studio Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
+          "title": "5 strategies to remove negative search results in 2026",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWl1RVQ0aDdKMXRZdnFJQ0JMdzd0Wm93aThZaWx4UmV5WkxSX2ktTGpURzN2TGJoVlhFV2dmZzdwS01EY0FnM3ZFdWFmaXdCVEd4cUtSdzl2ZElHY1duZ0pZNkdxMFF3RzJhcDRCTFlFZmtwTVlaR0FmRk1vZUxIYXJZTngzZ3JZZEY0Z0VTRF96Tm9U?oc=5",
+          "published_at": "2026-07-28T07:00:00+00:00",
+          "excerpt": "5 strategies to remove negative search results in 2026 Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "Why creator content belongs in your AI search strategy",
@@ -5809,6 +5844,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "How TransUnion’s AI Findings Should Change the Way SEOs Pitch GEO via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/how-transunions-ai-findings-should-change-the-way-seos-pitch-geo/584922/",
+          "published_at": "2026-08-11T14:30:56+00:00",
+          "excerpt": "TransUnion's survey of 100 marketing leaders shows AI search blind spots mirror walled garden measurement gaps. Frame GEO as a company-wide problem to get funded. The post How TransUnion’s AI Findings Should Change the Way SEOs Pitch GEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-11T15:43:52.339079+00:00"
+        },
+        {
+          "title": "YouTube Updates Partner Program Terms & Shorts Payout Rules via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/youtube-updates-partner-program-terms-shorts-payout-rules/585331/",
+          "published_at": "2026-08-11T12:13:24+00:00",
+          "excerpt": "YouTube announced Partner Program changes taking effect in 2027, including new Shorts earnings rules, activity checks, and a terms deadline. The post YouTube Updates Partner Program Terms & Shorts Payout Rules appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-11T15:43:52.339079+00:00"
+        },
+        {
+          "title": "The AI Detection False Economy: Fueling FOW (Fear of Writing) via @sejournal, @andybetts1",
+          "url": "https://www.searchenginejournal.com/the-ai-detection-false-economy-fueling-fear-of-writing/584967/",
+          "published_at": "2026-08-11T12:00:08+00:00",
+          "excerpt": "AI detectors gave wildly different verdicts on the same human-written article, and even flagged writing from 2014. The post The AI Detection False Economy: Fueling FOW (Fear of Writing) appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-11T15:43:52.339079+00:00"
+        },
+        {
+          "title": "WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/wpforms-lite-accused-of-adding-backdoor-i-tested-it-and-was-surprised/585273/",
+          "published_at": "2026-08-11T09:03:14+00:00",
+          "excerpt": "WPForms Lite WordPress plugin accused of adding a backdoor to new installs. I gave it and try and what happened was unexpected. The post WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-11T15:43:52.339079+00:00"
+        },
+        {
           "title": "You don't have to figure out the AI search shift alone.",
           "url": "https://www.searchenginejournal.com/sej-pro/?itm_source=website&itm_medium=home-featured&itm_campaign=website-home-featured#:~:text=every%20single%20month-,SEJ%20Pro%20Course%20w,-/Loren%20Baker%3A",
           "published_at": null,
@@ -5942,14 +6005,7 @@
           "fetched_at": "2026-08-06T08:12:21.059466+00:00"
         },
         {
-          "title": "Google Chief Scientist Who Helped Build Modern Search And AI Steps Away via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/google-loses-the-engineer-who-helped-build-search-and-modern-ai/584785/",
-          "published_at": "2026-08-05T22:16:33+00:00",
-          "excerpt": "Google loses Jeff Dean, who helped build Google Search and AI, replaced by DeepMind's Demis Hassabis as Chief Scientist. The post Google Chief Scientist Who Helped Build Modern Search And AI Steps Away appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-06T08:12:21.059466+00:00"
-        },
-        {
-          "title": "AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization via @sejournal, @slobodanmanic",
+          "title": "AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization",
           "url": "https://www.searchenginejournal.com/ai-referrals-are-recreating-the-oldest-mistake-in-conversion-optimization/584331/",
           "published_at": "2026-08-05T20:12:01+00:00",
           "excerpt": "If you run CRO or SEO, the oldest mistake in your discipline just came back wearing a new referrer string. Here's the fix. The post AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization appeared first on Search Engine Journal .",
@@ -5996,6 +6052,13 @@
           "published_at": "2026-08-05T00:00:00+00:00",
           "excerpt": "Reddit's Q2 call laid out the daily destination strategy and the participation problem standing in its way. What marketers should do now. The post Reddit Wants To Be The Destination, Not Just The Source Behind Search & AI appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-05T18:09:16.432041+00:00"
+        },
+        {
+          "title": "Google Chief Scientist Who Helped Build Modern Search And AI Steps Away",
+          "url": "https://www.searchenginejournal.com/google-loses-the-engineer-who-helped-build-search-and-modern-ai/584785/",
+          "published_at": "2026-08-05T00:00:00+00:00",
+          "excerpt": "Google loses Jeff Dean, who helped build Google Search and AI, replaced by DeepMind's Demis Hassabis as Chief Scientist. The post Google Chief Scientist Who Helped Build Modern Search And AI Steps Away appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-06T08:12:21.059466+00:00"
         },
         {
           "title": "What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond via @sejournal, @gregjarboe",
@@ -6830,6 +6893,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Topical Gravity: Why topics are the new unit of your search strategy",
+          "url": "https://www.semrush.com/blog/topical-gravity/",
+          "published_at": "2026-08-11T13:00:00+00:00",
+          "excerpt": "Search has become a topic-level game. Here‘s a framework to build, measure, and grow topical authority across AI and Google.",
+          "fetched_at": "2026-08-11T15:43:57.955650+00:00"
+        },
+        {
           "title": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
           "url": "https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/",
           "published_at": "2026-08-10T09:52:00+00:00",
@@ -6849,6 +6919,13 @@
           "published_at": "2026-08-10T08:41:00+00:00",
           "excerpt": "Local SEO keyword research in six steps: find the terms customers use, validate intent, and improve visibility on Google Search, Maps, and AI answers.",
           "fetched_at": "2026-08-10T15:40:33.604309+00:00"
+        },
+        {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-08-10T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
@@ -6935,13 +7012,6 @@
           "fetched_at": "2026-07-28T09:57:10.843327+05:30"
         },
         {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-07-27T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "Semrush reviews: What people say about the platform",
           "url": "https://www.semrush.com/blog/semrush-reviews/",
           "published_at": "2026-07-24T16:34:00+00:00",
@@ -7000,7 +7070,7 @@
         {
           "title": "How to measure AI share of voice using Semrush",
           "url": "https://www.semrush.com/blog/how-to-measure-ai-share-of-voice/",
-          "published_at": "2026-07-17T10:35:00+00:00",
+          "published_at": "2026-07-17T00:00:00+00:00",
           "excerpt": "Learn how to measure your AI share of voice in AI search with Semrush, so you can start improving it.",
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
@@ -7549,6 +7619,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "15 Best B2B demand gen agencies(and how to pick the right one)",
+          "url": "https://www.factors.ai/blog/b2b-demand-generation-agencies",
+          "published_at": "2026-08-11T00:00:00+00:00",
+          "excerpt": "Struggling to turn marketing into pipeline? Explore 15 top B2B demand gen and inbound agencies, how they differ, and how to pick the right partner.",
+          "fetched_at": "2026-08-11T15:43:59.997915+00:00"
+        },
         {
           "title": "AI search marketing: how B2B brands get cited in 2026",
           "url": "https://www.factors.ai/blog/ai-search-visibility-for-b2b-saas",
@@ -8147,6 +8224,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+          "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+          "published_at": "2026-08-11T00:00:00+00:00",
+          "excerpt": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4, enabling real-time local reasoning for robotics. Developers can qu…",
+          "fetched_at": "2026-08-11T15:44:04.439228+00:00"
+        },
+        {
           "title": "Agent Plugins package your skills, tools, and more",
           "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
           "published_at": "2026-08-06T00:00:00+00:00",
@@ -8361,6 +8445,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Google Health announces a strategic partnership with Abbott, a leader in health and wellness.",
+          "url": "https://blog.google/products-and-platforms/products/google-health/abbott-google-health-partnership/",
+          "published_at": "2026-08-11T13:00:00+00:00",
+          "excerpt": "Google Health is teaming up with Abbott to give more holistic views of metabolic and women’s health.",
+          "fetched_at": "2026-08-11T15:44:05.298622+00:00"
+        },
+        {
+          "title": "Expanding the Google AI Professional Certificate with vibe coding",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/vibe-coding-course/",
+          "published_at": "2026-08-11T13:00:00+00:00",
+          "excerpt": "Vibe Coding trailer",
+          "fetched_at": "2026-08-11T15:44:05.298622+00:00"
+        },
         {
           "title": "Have more fun at the state fair with these Google tools",
           "url": "https://blog.google/products-and-platforms/products/gemini/state-fair-tips/",
