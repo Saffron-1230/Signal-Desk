@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T15:40:40.030724+00:00",
+  "last_updated": "2026-08-11T08:15:26.063106+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4254,6 +4254,20 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google confirms testing new buttons on home page to drive users to AI-powered search features",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQk56Wlg3eEFUVXh4eU9NYk11dTYzNmZtMTFTR2FYT0gyVUtRMWJhNTNBNlAtWWRMeFRvaDVnbTZsbFNSN3FfN19TUC1PV3dSUENpcDdZZDQwMzJVSG5JYjRTcW42VTJjSlZvSDZkb0lKYlRJaTNPem5ybTFiaXkzWG4wUi1MaGlxTWx6a1lzU29TMTJJV2V4ZUVWUVZUWkZvZ2xFRHpFVDJQNThvUldGNzV1UHIya1ozNXFhbnpTT3hHelRaMEw4NA?oc=5",
+          "published_at": "2026-08-11T00:36:00+00:00",
+          "excerpt": "Google confirms testing new buttons on home page to drive users to AI-powered search features Search Engine Land",
+          "fetched_at": "2026-08-11T08:15:01.248184+00:00"
+        },
+        {
+          "title": "Technical SEO testing: How to build a stronger experiment",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlZHSXlpMUVKdFJ3eXNiRGZTQXAwQnRZdW93NUtlbVdlOUl0OHZjSHMxcFl6UF8tcHFkY2ZkUVNoS2ZJa3ZCd09IT2FNcW5SdVBMVkpHaXlhOHRoaHBoYXdKQ0VxYTV0U2phaHNlMTFmUGFENmhJQk00aTZyVU1JQThSemhvb0FPTG84?oc=5",
+          "published_at": "2026-08-10T15:00:00+00:00",
+          "excerpt": "Technical SEO testing: How to build a stronger experiment Search Engine Land",
+          "fetched_at": "2026-08-11T08:15:01.248184+00:00"
+        },
+        {
           "title": "Google brings new AI agent capabilities to Ads and Analytics",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm43eGdpeTRmd2RIcVJhbHowWG5XYnFuY3o5WnhpSlBORzhZTjc5ZlpEZS1aUEZzSl9kaHF1bzlkeEpyYktldUdsZC1xOGN1TDF0QTZIWnVMTU5VR2x4ekxCR0dXXzZhQTBWd1dmVVhBWmNvN0ZnbEJOZVpaWEQ0azdhQ05EaWRWNWJMTVVLVzJzSkp4RjAzd2lQNGM?oc=5",
           "published_at": "2026-08-10T14:43:00+00:00",
@@ -4266,6 +4280,13 @@
           "published_at": "2026-08-10T14:00:00+00:00",
           "excerpt": "Why the traditional link building model no longer works for AI search Search Engine Land",
           "fetched_at": "2026-08-10T15:40:15.209025+00:00"
+        },
+        {
+          "title": "How to run ChatGPT ads: A step-by-step guide from early campaigns",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aUGxiRFRsV21QZ20zQ0JuNTRGeHprTHA3ejcya090bWh1eXM4MUlmWWo2bHRnUWVkTlJlaS1PV2l3c1EtWjBjblNseWlGSE15TVNnV09KRk04WmN1QkZnYg?oc=5",
+          "published_at": "2026-08-10T13:00:00+00:00",
+          "excerpt": "How to run ChatGPT ads: A step-by-step guide from early campaigns Search Engine Land",
+          "fetched_at": "2026-08-11T08:15:01.248184+00:00"
         },
         {
           "title": "How customers build confidence across the search journey",
@@ -4597,6 +4618,13 @@
           "fetched_at": "2026-08-09T07:41:23.643288+00:00"
         },
         {
+          "title": "Straight from the source: 2026 Search Engine Land Awards judges reveal what makes an application award-worthy",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX1VhQTQ2SGktd1M0SktreDJLR0thd1dFNU9mZVk1LWZZdGt5N0pkdV9HdHZGRHNtQm1vYXlkbWpRQkIxNnRoZTZhLVBCMVhQMVl4Qjdtc3lleGFtN1kzSHd1N2xSVFE1RC1Oc1AzbXhka2lXelNNdlVTbDhKank3MWJOcVNsWGdzSDFKMVRiUWp3QUhnNWRiOXYwbGJJbWJjN21xd0RXZ25fdkxxRlZDYXFZaVJsRnZYUnpMRFpQMFdoWGN5OEpjbHZ2bXVtMXVUMDdScWVDdTlFcE9o?oc=5",
+          "published_at": "2026-08-04T15:56:00+00:00",
+          "excerpt": "Straight from the source: 2026 Search Engine Land Awards judges reveal what makes an application award-worthy Search Engine Land",
+          "fetched_at": "2026-08-11T08:15:01.248184+00:00"
+        },
+        {
           "title": "Google Search testing forcing searchers to sign in to get more search results",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXdEVmY3NnJ4aHppYnZGbFhJeF82TW9JaUpvdUpFZENaWHVFbTlhVGRoRk5wMmhxMlBYc3R4ekt1QWpTemhRNFB6N0llTEMyRE9Vdk5vVEhIeVRIT0xyY1VvdUNWLVJ2OFlfM3AwR0MyeXU1dUdlRnBSeGh6VlNTOEFxVFJGY1NnRTBOXzljdGFfVWVHVy1LQk00TGV6cDF0aDZPZDE3YTROdlJGZFhOWTVYZw?oc=5",
           "published_at": "2026-08-04T13:18:00+00:00",
@@ -4702,13 +4730,6 @@
           "fetched_at": "2026-08-03T15:53:27.227864+05:30"
         },
         {
-          "title": "Google Analytics adds campaign diagnostics for missing aggregate identifiers",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVhxdnBkdW1vVmc2d0JtNjhwRW9PTTh6cF9JWVU2U3ZWei1WSGFRNl9NeW43ejIzd0pRTTVWN1YzeEJKa3Z2ekwweThOb2xKQ2EzSU1jSTJFVHk3TXVUaWE1QlMwMzRGR2FNb1BRU1VxcjE5czNjOVoxbS15anRCTkFXOWdWWFVfcFJaOWlRTWlHdjQtUDI3U3h4X3JFY3dJSnJsazA3M3l3U0RFMS1yZEtB?oc=5",
-          "published_at": "2026-07-31T17:33:00+00:00",
-          "excerpt": "Google Analytics adds campaign diagnostics for missing aggregate identifiers Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "OpenAI appears to be building chatbot-native ads that launch AI agents",
           "url": "https://searchengineland.com/openai-appears-to-be-building-chatbot-native-ads-that-launch-ai-agents-484107",
           "published_at": "2026-07-31T15:01:40+05:30",
@@ -4786,6 +4807,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "Google Analytics adds campaign diagnostics for missing aggregate identifiers",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVhxdnBkdW1vVmc2d0JtNjhwRW9PTTh6cF9JWVU2U3ZWei1WSGFRNl9NeW43ejIzd0pRTTVWN1YzeEJKa3Z2ekwweThOb2xKQ2EzSU1jSTJFVHk3TXVUaWE1QlMwMzRGR2FNb1BRU1VxcjE5czNjOVoxbS15anRCTkFXOWdWWFVfcFJaOWlRTWlHdjQtUDI3U3h4X3JFY3dJSnJsazA3M3l3U0RFMS1yZEtB?oc=5",
+          "published_at": "2026-07-31T07:00:00+00:00",
+          "excerpt": "Google Analytics adds campaign diagnostics for missing aggregate identifiers Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
           "title": "Why every SEO team now needs a social topical map",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85RjdOYWxQSjQwcUszcXNjQ1FoWVRfQ3VqcUFVVlZkd1EwSm45OS1FeEFndHJLaW04RVJtVUQ5WGJGa2steDh4X0JjOEIyWVJuUnRyR05DanJfV2F0RHExT0Z5ZG9LcXVINGc?oc=5",
           "published_at": "2026-07-31T07:00:00+00:00",
@@ -4814,13 +4842,6 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "How to build a keyword clustering tool with Python",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtRW5jejhEOTFsWmMxdVFrLWlIczRDSy1qT0t1U1BUY1dFSnlXUXpsRTlZRjVSSzFVUzN6b1RpRk5lQklRaDEwZXhzNDdJRHNscFNEMWdGSDRaalVFZjdqNG1MTW5USXBha0tDc3lOaFptSDBD?oc=5",
-          "published_at": "2026-07-30T14:00:00+00:00",
-          "excerpt": "How to build a keyword clustering tool with Python Search Engine Land",
-          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
-        },
-        {
           "title": "5 strategies for increasing AI visibility without messing up your SEO",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmItdlMzYVZRYWgwV21jNVlOZnF0QmZmZ3ZXQlRNX1VVWWViYUNxZDJVZExXOGJJcXBxNjlRc1RzY2l0LVBrcWs5NXVNSXZIeXg1T2ZIY1c1dlFsS1JZOE1rd0NGdUtWbmdtamhDNGt5SnowRUhTbkJVcEthWC1JeVRyQ1l2U212cTFGS05hYVJsWndsZ2JYOHRpY1Vjd1N2dExQbVBWaDQ?oc=5",
           "published_at": "2026-07-30T07:00:00+00:00",
@@ -4846,6 +4867,13 @@
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dQWlBBQURFb0p0N0w5TDVXTjBSX3dmNnFpUTZKTGdoNzdQdkxFbWhST0RQWGR3ZFFjVU1fTHp3Sl9vbFlXR1pUbXVWUjZWdXQ2dTRpLTBkNW9jdTlrQTZ3VWJsaFVqLS1YU0k0MmFGTUtWdTA2ekk3RE9OSGxsSnJB?oc=5",
           "published_at": "2026-07-30T07:00:00+00:00",
           "excerpt": "How to turn news articles into assets for AI search Search Engine Land",
+          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
+          "title": "How to build a keyword clustering tool with Python",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtRW5jejhEOTFsWmMxdVFrLWlIczRDSy1qT0t1U1BUY1dFSnlXUXpsRTlZRjVSSzFVUzN6b1RpRk5lQklRaDEwZXhzNDdJRHNscFNEMWdGSDRaalVFZjdqNG1MTW5USXBha0tDc3lOaFptSDBD?oc=5",
+          "published_at": "2026-07-30T07:00:00+00:00",
+          "excerpt": "How to build a keyword clustering tool with Python Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
@@ -5101,13 +5129,6 @@
           "fetched_at": "2026-07-27T09:55:46.963074+05:30"
         },
         {
-          "title": "ChatGPT Ads adds conversion bidding, geo exclusions and bulk campaign tools - searchengineland.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekZoZDVEb3JxTlk4OHJ3amVPY1RMNlNDWWVvOWR3eTA0ZHFPODdwajhIWjhvTW5VUDF1UXpwaWk1bnhQOHV6U0szWWlrbHc0WjUycHZtaGZhZkFiMmI3V3FJenBRRTB3QXJlclROR1BaT2E5bDRrZlVhUEdfdTJJZDZqem5WVF9uajFWSDFFNHFoTnE2UXdwUENfMlZDSEphOU1xVW0wb3JnWFdTOU04?oc=5",
-          "published_at": "2026-07-24T21:24:00+00:00",
-          "excerpt": "ChatGPT Ads adds conversion bidding, geo exclusions and bulk campaign tools Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Google Ads Editor 2.13 brings AI Max support to Shopping campaigns",
           "url": "https://searchengineland.com/google-ads-editor-2-13-brings-ai-max-support-to-shopping-campaigns-483506",
           "published_at": "2026-07-24T19:11:53+05:30",
@@ -5171,10 +5192,10 @@
           "fetched_at": "2026-07-27T09:55:46.963074+05:30"
         },
         {
-          "title": "How to build an ecommerce product discovery engine",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEkwQXc0ck8tNGJkb1RaQU1hMDA3c1FrWHpPMWg0cllPUmloQzRRcVNod3R1enJDbzZBbF9kMlNjbDZ3NE8yTDRGNTBTblBPSkMzOUhpWWtaNXlfeVdtMF9vcUdOUVUyM1JVRk1VUzlaSDNRREZHWTQ2ZjNuSEZNdlduWldETnQyQ1h4OA?oc=5",
-          "published_at": "2026-07-23T19:53:00+00:00",
-          "excerpt": "How to build an ecommerce product discovery engine Search Engine Land",
+          "title": "ChatGPT Ads adds conversion bidding, geo exclusions and bulk campaign tools",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekZoZDVEb3JxTlk4OHJ3amVPY1RMNlNDWWVvOWR3eTA0ZHFPODdwajhIWjhvTW5VUDF1UXpwaWk1bnhQOHV6U0szWWlrbHc0WjUycHZtaGZhZkFiMmI3V3FJenBRRTB3QXJlclROR1BaT2E5bDRrZlVhUEdfdTJJZDZqem5WVF9uajFWSDFFNHFoTnE2UXdwUENfMlZDSEphOU1xVW0wb3JnWFdTOU04?oc=5",
+          "published_at": "2026-07-24T07:00:00+00:00",
+          "excerpt": "ChatGPT Ads adds conversion bidding, geo exclusions and bulk campaign tools Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
@@ -5287,6 +5308,13 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51QkJHLW1xa3p3Y3NiMEtGbzZOdTlpQXdzZVJJR09OaUlBZEFoWDU1WnhUWjd3aW1OT0haQURKTThvSUd3bTZ3OEptZXQtTVh1eXBVTV9fYTZfY05ybDVIaVlueXpmVTFhRzBBV0dUMA?oc=5",
           "published_at": "2026-07-23T07:00:00+00:00",
           "excerpt": "How to find trending topics and publish before they peak Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "How to build an ecommerce product discovery engine",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEkwQXc0ck8tNGJkb1RaQU1hMDA3c1FrWHpPMWg0cllPUmloQzRRcVNod3R1enJDbzZBbF9kMlNjbDZ3NE8yTDRGNTBTblBPSkMzOUhpWWtaNXlfeVdtMF9vcUdOUVUyM1JVRk1VUzlaSDNRREZHWTQ2ZjNuSEZNdlduWldETnQyQ1h4OA?oc=5",
+          "published_at": "2026-07-23T07:00:00+00:00",
+          "excerpt": "How to build an ecommerce product discovery engine Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
@@ -5463,6 +5491,13 @@
           "published_at": "2026-07-20T07:00:00+00:00",
           "excerpt": "Local Services Ads come to Google Ads via Performance Max Search Engine Land",
           "fetched_at": "2026-08-07T08:33:23.050052+00:00"
+        },
+        {
+          "title": "How AI Search Is Reshaping Link Building Strategy in 2026",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VYkw3S1B3WHhMMnNVQzRfWmNWczc2ZW5SWE1iSkRxNEp1cmpxV1VUY3o0UG04b2hnbHF4Y3FoYWoyNWZ1XzNJLVMxbGNDQ3lSVFBQdUpNVUFTNk10cTRkMnFoZlVDTDVWUlBSdk9iZGxHT2Y5RXc?oc=5",
+          "published_at": "2026-07-20T07:00:00+00:00",
+          "excerpt": "How AI Search Is Reshaping Link Building Strategy in 2026 Search Engine Land",
+          "fetched_at": "2026-08-11T08:15:01.248184+00:00"
         },
         {
           "title": "Google expands Performance Max product reporting across all networks",
@@ -5773,6 +5808,20 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "You don't have to figure out the AI search shift alone.",
+          "url": "https://www.searchenginejournal.com/sej-pro/?itm_source=website&itm_medium=home-featured&itm_campaign=website-home-featured#:~:text=every%20single%20month-,SEJ%20Pro%20Course%20w,-/Loren%20Baker%3A",
+          "published_at": null,
+          "excerpt": "SEJ Pro delivers industry intelligence reports, practitioner playbooks, and direct access to experts so you know what's actually changing in search, and what to do about it.",
+          "fetched_at": "2026-08-11T08:15:13.940138+00:00"
+        },
+        {
+          "title": "The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads",
+          "url": "https://www.searchenginejournal.com/the-scenic-route-to-roi-mastering-non-linear-targeting-in-google-ads/581784/",
+          "published_at": "2026-08-10T19:02:53+00:00",
+          "excerpt": "Six real non-linear campaigns showing which adjacent Google Ads segments actually reach restricted or niche audiences. The post The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-11T08:15:13.940138+00:00"
+        },
         {
           "title": "Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-analytics-will-benchmark-campaigns-through-ask-advisor/585213/",
@@ -8312,6 +8361,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Have more fun at the state fair with these Google tools",
+          "url": "https://blog.google/products-and-platforms/products/gemini/state-fair-tips/",
+          "published_at": "2026-08-10T16:00:00+00:00",
+          "excerpt": "New state fair food Google search",
+          "fetched_at": "2026-08-11T08:15:25.398518+00:00"
+        },
         {
           "title": "Venmo is giving you a new way to pay on Google Play.",
           "url": "https://blog.google/products-and-platforms/platforms/google-play/venmo-google-play-store/",
