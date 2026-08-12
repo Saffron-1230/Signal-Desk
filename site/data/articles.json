@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T08:51:01.351215+00:00",
+  "last_updated": "2026-08-12T15:41:09.536671+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -5879,6 +5879,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "OpenAI Allows Some Health & Finance Ads In ChatGPT via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/openai-allows-some-health-finance-ads-in-chatgpt/585516/",
+          "published_at": "2026-08-12T15:14:23+00:00",
+          "excerpt": "OpenAI's ad rules now allow some health and finance advertisers in ChatGPT, while placement restrictions still apply to sensitive conversations. The post OpenAI Allows Some Health & Finance Ads In ChatGPT appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-12T15:40:59.332478+00:00"
+        },
+        {
+          "title": "Cloudflare Gives AI Agents Wallets That Pay For What They Access via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/",
+          "published_at": "2026-08-12T14:30:08+00:00",
+          "excerpt": "Cloudflare announced wallets and optional identity handles for AI agents on August 4, extending paid access past crawlers to any caller and any resource. The post Cloudflare Gives AI Agents Wallets That Pay For What They Access appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-12T15:40:59.332478+00:00"
+        },
+        {
+          "title": "Google Is Ending Target Overperformance – What to Fix Before August 17 via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/google-is-ending-target-overperformance-what-to-fix-before-august-17/584875/",
+          "published_at": "2026-08-12T12:00:33+00:00",
+          "excerpt": "Google Smart Bidding changes August 17. Learn which Target CPA and Target ROAS campaigns to audit and what to update before the deadline. The post Google Is Ending Target Overperformance – What to Fix Before August 17 appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-12T15:40:59.332478+00:00"
+        },
+        {
+          "title": "Automattic Fires Back At WP Engine’s Motion For Sanctions via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/automattic-fires-back-at-wp-engines-motion-for-sanctions/585472/",
+          "published_at": "2026-08-12T10:33:17+00:00",
+          "excerpt": "Automattic rebuts WP Engine, says Matt Mullenweg's \"personal communications with romantic partners\" has \"nothing to do with this case.\" The post Automattic Fires Back At WP Engine’s Motion For Sanctions appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-12T15:40:59.332478+00:00"
+        },
+        {
           "title": "ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/chatgpts-search-index-serves-small-sites-too-data-shows/585388/",
           "published_at": "2026-08-11T19:11:46+00:00",
@@ -5907,7 +5935,7 @@
           "fetched_at": "2026-08-12T08:50:48.738611+00:00"
         },
         {
-          "title": "How TransUnion’s AI Findings Should Change the Way SEOs Pitch GEO via @sejournal, @gregjarboe",
+          "title": "What TransUnion’s AI Research Reveals About How Brands Actually Get Cited via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/how-transunions-ai-findings-should-change-the-way-seos-pitch-geo/584922/",
           "published_at": "2026-08-11T14:30:56+00:00",
           "excerpt": "TransUnion's survey of 100 marketing leaders shows AI search blind spots mirror walled garden measurement gaps. Frame GEO as a company-wide problem to get funded. The post How TransUnion’s AI Findings Should Change the Way SEOs Pitch GEO appeared first on Search Engine Journal .",
@@ -6019,7 +6047,7 @@
           "fetched_at": "2026-08-07T08:33:35.804703+00:00"
         },
         {
-          "title": "WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability via @sejournal, @martinibuster",
+          "title": "WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability",
           "url": "https://www.searchenginejournal.com/wordpress-security-release-7-0-3-fixes-high-severity-xss-vulnerability/584927/",
           "published_at": "2026-08-06T23:02:34+00:00",
           "excerpt": "WordPress security update fixes 12 vulnerabilities. Security researcher: \"nastiest one is a login screen XSS.\" The post WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability appeared first on Search Engine Journal .",
@@ -8543,6 +8571,104 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Made by Google 2026",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "Check out the latest announcements about Pixel devices at Made by Google 2026.",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "Now you can connect even more of your favorite apps and services to Gemini.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "Connect your favorite services directly to Gemini to help you plan trips, manage projects and tackle your daily to-do list.",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "Sharing between Pixel devices is now just a tap away.",
+          "url": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "Sharing between Android devices is even easier, starting with Pixel. Use Quick Share and tap to send contact info and more.",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "7 can’t-miss updates from our Pixel 11 launch",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "Thumbnail image of YouTube video for the launch of Pixel 11 Pro and Pixel 11 Pro XL",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "The Pixel 11 series: Your most personal Pixel yet",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "Close-up video of Pixel 11 Pro in Canyon",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "Keep tabs on your valuables with Google Pixel Tag",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "Pixel Tag attached to a keychain, resting inside a small trinket box.",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "A close up video of the Pixel Watch 5",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "Here’s your first look at the newest Pixel devices.",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/new-pixel-devices-2026/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "Here’s a first look at our new Pixel devices, including new Pixel 11 phones, Pixel Watch 5, and our first-ever Pixel Tag.",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "New accessories for Pixel 11 phones are here.",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "Google is rolling out new Pixel accessories as part of Made by Google",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "Here’s what’s new with Pixel Buds Pro 2 and Pixel Buds 2a.",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "Google is launching a new color and upgraded features for Pixel Buds Pro 2 and Pixel Buds 2a as part of Made by Google.",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
+          "url": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "The video shows Health Guardian features on a phone.",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "How your Pixel Watch steps in if you stop breathing",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "The video shows the Breathing Emergency Detection feature on a Pixel Watch.",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "How we built the new GPS on Pixel Watch 5",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "Man jogging wearing Pixel Watch 5",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
+        {
+          "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "excerpt": "Video showing Pixel 11 Pro Fold, new features and upgrades",
+          "fetched_at": "2026-08-12T15:41:09.533153+00:00"
+        },
         {
           "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
