@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T15:44:05.301490+00:00",
+  "last_updated": "2026-08-12T08:51:01.351215+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4254,6 +4254,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "SMX Now: The Target bidding apocalypse and how we’ve been here before",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUc5VGJzZFhubU5NelJmcG1ObFBFYVRpal9QcDFGbFVlZFgwRm9jdHJId2o2WFotdF9iYi03NXFLX3pHalJPT1NlWmhtbXdma3VqN2k5emdDNFFOQnFxVk9PQUg2d1dIYjMtYzdTd2x2Y0o4LVhPY1N6bXNRMGxDUi00NFhmUUdfc2dOUzNEZ3NTQUc1Z0ZHMFh5Y3ZjM056blRlSHVR?oc=5",
+          "published_at": "2026-08-11T20:57:00+00:00",
+          "excerpt": "SMX Now: The Target bidding apocalypse and how we’ve been here before Search Engine Land",
+          "fetched_at": "2026-08-12T08:50:36.331222+00:00"
+        },
+        {
+          "title": "Anthropic adds AI text watermarking to Claude models worldwide",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SM3d6b2RoM3Yzc0QzQlQ1cUhoYVQ1cEFxb0R1aUl2Rm1tUlFOT2xBaEZzVThBZ09sQUNuT0dLU0dtLWNDUFJKYmtjSmRFOUNLRk5zckpicDc0b2tiTFE5V3FZNmJha1FwNFpSanYtUUU?oc=5",
+          "published_at": "2026-08-11T19:34:00+00:00",
+          "excerpt": "Anthropic adds AI text watermarking to Claude models worldwide Search Engine Land",
+          "fetched_at": "2026-08-12T08:50:36.331222+00:00"
+        },
+        {
+          "title": "300 French newspapers file complaint over Google AI Overviews",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmhGaTRLOFJmSDFKeWZGcWROcG1KQ29femo3dnFHQnRHZ3JjekZqbURySU1pS1dFR2h0cHpWYkxmNE1WU1lOQmNsZldpM3dOUmVuSENpQ2h3N09xOXFxaVNjd3Y1MDVSQnZaeFdvVGhobVVmaWhEM19JcmNxZ2liMlA4X3hXdkxMQ3ZF?oc=5",
+          "published_at": "2026-08-11T17:21:00+00:00",
+          "excerpt": "300 French newspapers file complaint over Google AI Overviews Search Engine Land",
+          "fetched_at": "2026-08-12T08:50:36.331222+00:00"
+        },
+        {
+          "title": "Google tests advertiser list above mobile Search ads",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3J5dnhyX3h2NTkyRGZnQkd5NzFFTEQ4Q0JSdjVQdVd5MnVPajNOa3lrSUpSbWZjU1cwR0wtUHJ3UVA5MFBqbE52YnpxVl81NFRPd0Utelo0Nmw4NElEYmQ1SXFkaXVDdnoyTHQ1MVVjd3pwT05KVWlFNkl1Zmd6YXllOGlncllzWV81QnpMd0dYQQ?oc=5",
+          "published_at": "2026-08-11T16:17:00+00:00",
+          "excerpt": "Google tests advertiser list above mobile Search ads Search Engine Land",
+          "fetched_at": "2026-08-12T08:50:36.331222+00:00"
+        },
+        {
           "title": "12 things Reddit needs to make its ad platform more competitive",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVQVhjSW4yb2VGZEUtYXl5aG03VG1FVjBXeFlKLTVhVGl6UDItSTFzR2hkcmNHcnN1c2I2SjRfa2RzNnFkWU8xU3FsdmZVVGZYTnJ4SEdZaEFDQzg5VEllRVVSRHhqczRrWXRKZVhaYTBXSDNIVWN4cGNaRQ?oc=5",
           "published_at": "2026-08-11T15:00:00+00:00",
@@ -4266,6 +4294,13 @@
           "published_at": "2026-08-11T13:00:00+00:00",
           "excerpt": "A 5-layer framework for measuring AI search performance Search Engine Land",
           "fetched_at": "2026-08-11T15:43:38.234812+00:00"
+        },
+        {
+          "title": "How to decide whether a keyword deserves its own page",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZSzVuV0pvZUhjdDdaWUc1QVFmcFRPWlJ6VnJFQzBxc0xxaGJudExyUXdUT1hlOTdyRi02OWRWdTN4T2dMeXlQLUo0R3lNV2RoSjNMVl8tY2NVOTk1TmJyZU5hb3gySmJYMk5fcw?oc=5",
+          "published_at": "2026-08-11T12:00:00+00:00",
+          "excerpt": "How to decide whether a keyword deserves its own page Search Engine Land",
+          "fetched_at": "2026-08-12T08:50:36.331222+00:00"
         },
         {
           "title": "Google confirms testing new buttons on home page to drive users to AI-powered search features",
@@ -4870,13 +4905,6 @@
           "fetched_at": "2026-08-03T15:53:27.227864+05:30"
         },
         {
-          "title": "Google launches Structured Data Files v10.1 for Display & Video 360",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUNJM0twVmJ5OUpMM2R1blZUeVJidjU3SFdUakhxVWVfRmxHMTRZd0RBYzB3MjFpbzJlOHd1WlU4TWRaRGZweTRYVGw5Y1JMeFVTRUhfa2Exb0xWZFhpUlZNN2pnam42SFA2NWdPUnNpakMtY1N5cU5NWW9nQlhQeDBQWmhPVVpwS1htYVFyc0lRNm85YWlrTVVLZmRmcE9UWW1B?oc=5",
-          "published_at": "2026-07-30T17:24:00+00:00",
-          "excerpt": "Google launches Structured Data Files v10.1 for Display & Video 360 Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "5 strategies for increasing AI visibility without messing up your SEO",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmItdlMzYVZRYWgwV21jNVlOZnF0QmZmZ3ZXQlRNX1VVWWViYUNxZDJVZExXOGJJcXBxNjlRc1RzY2l0LVBrcWs5NXVNSXZIeXg1T2ZIY1c1dlFsS1JZOE1rd0NGdUtWbmdtamhDNGt5SnowRUhTbkJVcEthWC1JeVRyQ1l2U212cTFGS05hYVJsWndsZ2JYOHRpY1Vjd1N2dExQbVBWaDQ?oc=5",
           "published_at": "2026-07-30T07:00:00+00:00",
@@ -4912,6 +4940,13 @@
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
+          "title": "Google launches Structured Data Files v10.1 for Display & Video 360",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUNJM0twVmJ5OUpMM2R1blZUeVJidjU3SFdUakhxVWVfRmxHMTRZd0RBYzB3MjFpbzJlOHd1WlU4TWRaRGZweTRYVGw5Y1JMeFVTRUhfa2Exb0xWZFhpUlZNN2pnam42SFA2NWdPUnNpakMtY1N5cU5NWW9nQlhQeDBQWmhPVVpwS1htYVFyc0lRNm85YWlrTVVLZmRmcE9UWW1B?oc=5",
+          "published_at": "2026-07-30T07:00:00+00:00",
+          "excerpt": "Google launches Structured Data Files v10.1 for Display & Video 360 Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
           "title": "Google tests AI-generated descriptions in Shopping ads",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSVg4aXNDSUlxMDRyNEFrOS0wRkRnRXdvTkowbjk2bXc4LVJBeDhCTUNvRGdjeWl1VmM1dUIxcklqdFRJYmVXWDdoQUVSRDZxc3lLYWpxMzdaaldIY21EMjZ2OHY5XzZRX1ZndEtGZ2k4UXBHb2Z5UXlfRGZSTGdrREpnZVR0S0dSX0VNT1IyVG94NndC?oc=5",
           "published_at": "2026-07-30T07:00:00+00:00",
@@ -4923,13 +4958,6 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT0g3SDNOR0JieGFQM2RQbVdJRWNjMjB3bS1TeHlLRTE4Q1NNbV9YNWd3aDgzSmdEVWJTZjh6LUJJVjJ0WFFSdGxzaDN4X0Z3YmtEZWhoQ19LMXFSajRRVk9Tc2FfdUdHbG1hRXRBNEZ2dXoteDBXUDVISUdLNHRYMWZobnRkcHc?oc=5",
           "published_at": "2026-07-30T07:00:00+00:00",
           "excerpt": "AI models favor familiar brands in search: Study Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
-          "title": "Pillarbase",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jRVRtcDVjekl5bk9ZYmNfMGxsWjZSSmR1UHN5UTlzS0JfY3otRXFfeC1sdUkzdkIxVVJmQ3I1Umc4Y3BFeldSalhla1BOc005R3RZRg?oc=5",
-          "published_at": "2026-07-29T11:00:00+00:00",
-          "excerpt": "Pillarbase Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
@@ -4982,17 +5010,17 @@
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
+          "title": "Pillarbase",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jRVRtcDVjekl5bk9ZYmNfMGxsWjZSSmR1UHN5UTlzS0JfY3otRXFfeC1sdUkzdkIxVVJmQ3I1Umc4Y3BFeldSalhla1BOc005R3RZRg?oc=5",
+          "published_at": "2026-07-29T07:00:00+00:00",
+          "excerpt": "Pillarbase Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
           "title": "SMX Advanced expands in 2027: See you in San Diego and Boston",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ydlZ5TVdFQnJ5MVVJWkpzYjZ5ZnNCbjVWMFdiVk5aZTZBbzRlZlotZXhoaDRIcm5wb1dJZDhMZkc2cFZwa2MyUUM4VEtqT1NnT2p6WHBkU2R0MU9uTlBXeTZvQTRnQXZKZFpZeVcxMmZzaE01dHR0eDRR?oc=5",
           "published_at": "2026-07-28T19:30:00+00:00",
           "excerpt": "SMX Advanced expands in 2027: See you in San Diego and Boston Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
-          "title": "Google Ads appears to separate Target CPA and Target ROAS bidding strategies",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3B0NkFjbWwwRW92MlVUQmNpZE5UQVZyMzA1dFBJd1pqMnJCSXNjX0hyb0k1U1ctZDRxOVZKVnpGcWVuTGlRUUVWUWRIU0hOd1p1eDRTYmZNMC0zTm4tQk10TVpWTWRqaUtjTVRNX3R6RzgyazNwV05CZGl5Zk90dVZXQWJsZ1FxYXFqR3JpYXhmOERYRWtRb2xzSXVwWWYzSFVSREZlelhPclBUazNSVFZR?oc=5",
-          "published_at": "2026-07-28T16:04:00+00:00",
-          "excerpt": "Google Ads appears to separate Target CPA and Target ROAS bidding strategies Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
@@ -5022,6 +5050,13 @@
           "published_at": "2026-07-28T07:00:00+00:00",
           "excerpt": "Google rolls out AI content labels in asset studio Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
+          "title": "Google Ads appears to separate Target CPA and Target ROAS bidding strategies",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3B0NkFjbWwwRW92MlVUQmNpZE5UQVZyMzA1dFBJd1pqMnJCSXNjX0hyb0k1U1ctZDRxOVZKVnpGcWVuTGlRUUVWUWRIU0hOd1p1eDRTYmZNMC0zTm4tQk10TVpWTWRqaUtjTVRNX3R6RzgyazNwV05CZGl5Zk90dVZXQWJsZ1FxYXFqR3JpYXhmOERYRWtRb2xzSXVwWWYzSFVSREZlelhPclBUazNSVFZR?oc=5",
+          "published_at": "2026-07-28T07:00:00+00:00",
+          "excerpt": "Google Ads appears to separate Target CPA and Target ROAS bidding strategies Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "5 strategies to remove negative search results in 2026",
@@ -5844,6 +5879,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/chatgpts-search-index-serves-small-sites-too-data-shows/585388/",
+          "published_at": "2026-08-11T19:11:46+00:00",
+          "excerpt": "New data finds no difference in how OpenAI's in-house search index served licensed and unlicensed sites. The post ChatGPT’s Search Index Serves Small Sites Too, Data Shows appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-12T08:50:48.738611+00:00"
+        },
+        {
+          "title": "The Metric Most SEOs Are Still Not Measuring In The Age Of AI via @sejournal, @SequinsNsearch",
+          "url": "https://www.searchenginejournal.com/the-metric-most-seos-are-still-not-measuring-in-the-age-of-ai/584027/",
+          "published_at": "2026-08-11T19:00:19+00:00",
+          "excerpt": "AI answers now shape choices before anyone reaches your site. Measuring alignment with decision drivers matters more than measuring the clicks that follow. The post The Metric Most SEOs Are Still Not Measuring In The Age Of AI appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-12T08:50:48.738611+00:00"
+        },
+        {
+          "title": "Organic Traffic Dropped? What to Tell Clients & the AI Visibility Metrics to Report Instead",
+          "url": "https://www.searchenginejournal.com/organic-traffic-dropped-what-to-tell-clients-the-ai-visibility-metrics-to-report-instead-spa/584388/",
+          "published_at": "2026-08-11T18:59:11+00:00",
+          "excerpt": "Is your organic traffic dropped? Learn the reasons behind this common issue affecting many agencies today. The post Organic Traffic Dropped? What to Tell Clients & the AI Visibility Metrics to Report Instead appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-12T08:50:48.738611+00:00"
+        },
+        {
+          "title": "Anthropic To Mark Claude Text & Files Under EU AI Act Code via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/anthropic-claude-watermarks-eu-ai-act-code/585355/",
+          "published_at": "2026-08-11T16:03:35+00:00",
+          "excerpt": "Anthropic will embed invisible watermarks in Claude text and sign generated files. The post Anthropic To Mark Claude Text & Files Under EU AI Act Code appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-12T08:50:48.738611+00:00"
+        },
+        {
           "title": "How TransUnion’s AI Findings Should Change the Way SEOs Pitch GEO via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/how-transunions-ai-findings-should-change-the-way-seos-pitch-geo/584922/",
           "published_at": "2026-08-11T14:30:56+00:00",
@@ -5851,7 +5914,7 @@
           "fetched_at": "2026-08-11T15:43:52.339079+00:00"
         },
         {
-          "title": "YouTube Updates Partner Program Terms & Shorts Payout Rules via @sejournal, @MattGSouthern",
+          "title": "YouTube Adds New Shorts Payout Rules To Partner Program Terms via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/youtube-updates-partner-program-terms-shorts-payout-rules/585331/",
           "published_at": "2026-08-11T12:13:24+00:00",
           "excerpt": "YouTube announced Partner Program changes taking effect in 2027, including new Shorts earnings rules, activity checks, and a terms deadline. The post YouTube Updates Partner Program Terms & Shorts Payout Rules appeared first on Search Engine Journal .",
@@ -5984,18 +6047,11 @@
           "fetched_at": "2026-08-07T08:33:35.804703+00:00"
         },
         {
-          "title": "WordPress 7.1 Accessibility Change May Break Some Plugins via @sejournal, @martinibuster",
+          "title": "WordPress 7.1 Accessibility Change May Break Some Plugins",
           "url": "https://www.searchenginejournal.com/wordpress-7-1-accessibility-change-may-break-some-plugins/584820/",
           "published_at": "2026-08-06T13:10:41+00:00",
           "excerpt": "A WordPress 7.1 accessibility improvement could impact some plugins that make changes in the admin screens. The post WordPress 7.1 Accessibility Change May Break Some Plugins appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-07T08:33:35.804703+00:00"
-        },
-        {
-          "title": "How AI Search Trends Are Changing PPC Campaign Structures – Ask A PPC via @sejournal, @navahf",
-          "url": "https://www.searchenginejournal.com/how-ai-search-trends-are-changing-ppc-campaign-structures-ask-a-ppc/584004/",
-          "published_at": "2026-08-06T12:00:53+00:00",
-          "excerpt": "AI research habits are reshaping PPC accounts. Here is when to consolidate, when to segment, and how conversion values keep budget flowing to valuable buyers. The post How AI Search Trends Are Changing PPC Campaign Structures – Ask A PPC appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-06T12:20:48.351972+00:00"
         },
         {
           "title": "The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar] via @sejournal, @hethr_campbell",
@@ -6003,6 +6059,13 @@
           "published_at": "2026-08-06T07:45:50+00:00",
           "excerpt": "Learn how Freshpet stands out in AI Overviews and why trust signals matter for brand recognition in AI search. The post The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar] appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-06T08:12:21.059466+00:00"
+        },
+        {
+          "title": "How AI Search Trends Are Changing PPC Campaign Structures – Ask A PPC",
+          "url": "https://www.searchenginejournal.com/how-ai-search-trends-are-changing-ppc-campaign-structures-ask-a-ppc/584004/",
+          "published_at": "2026-08-06T00:00:00+00:00",
+          "excerpt": "AI research habits are reshaping PPC accounts. Here is when to consolidate, when to segment, and how conversion values keep budget flowing to valuable buyers. The post How AI Search Trends Are Changing PPC Campaign Structures – Ask A PPC appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-06T12:20:48.351972+00:00"
         },
         {
           "title": "AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization",
@@ -6425,7 +6488,7 @@
           "fetched_at": "2026-07-24T10:43:00.176489+05:30"
         },
         {
-          "title": "How Freshpet Earned AI’s Trust: A GEO & AI Visibility Playbook",
+          "title": "From Invisible to Cited: The 3-Part GEO Strategy That Put Freshpet in AI Overviews",
           "url": "https://www.searchenginejournal.com/webinar-lp-how-freshpet-earned-ai-trust-geo-ai-visibility-playbook/",
           "published_at": "2026-07-23T13:47:11+00:00",
           "excerpt": "See how Freshpet earned AI citations with a GEO playbook. Learn the credibility signals, find visibility gaps, and protect market share. Register free.",
@@ -6892,6 +6955,13 @@
       "archive_titles_canonical": true,
       "color": "#8b5cf6",
       "articles": [
+        {
+          "title": "234 ChatGPT prompts (and how to write your own)",
+          "url": "https://www.semrush.com/blog/chatgpt-prompts/",
+          "published_at": "2026-08-12T06:58:00+00:00",
+          "excerpt": "Copy-ready 234 ChatGPT prompts for marketing, SEO, sales, and 10+ use cases, plus the PROMPT framework for writing your own.",
+          "fetched_at": "2026-08-12T08:50:53.416880+00:00"
+        },
         {
           "title": "Topical Gravity: Why topics are the new unit of your search strategy",
           "url": "https://www.semrush.com/blog/topical-gravity/",
@@ -7860,6 +7930,27 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "Yelp ChatGPT: Why Your Next Lead May Start in a Chat Window",
+          "url": "https://www.webfx.com/blog/ai/yelp-chatgpt/",
+          "published_at": "2026-08-07T13:07:59+00:00",
+          "excerpt": "The post Yelp ChatGPT: Why Your Next Lead May Start in a Chat Window appeared first on WebFX .",
+          "fetched_at": "2026-08-12T08:50:55.660207+00:00"
+        },
+        {
+          "title": "How We Cut Cost Per Qualified Lead by 47% With Value-Based Bidding",
+          "url": "https://www.webfx.com/blog/ppc/value-based-bidding/",
+          "published_at": "2026-08-06T13:17:46+00:00",
+          "excerpt": "The post How We Cut Cost Per Qualified Lead by 47% With Value-Based Bidding appeared first on WebFX .",
+          "fetched_at": "2026-08-12T08:50:55.660207+00:00"
+        },
+        {
+          "title": "Apple Maps Ads Could Help Businesses Capture Decision-Ready Searchers",
+          "url": "https://www.webfx.com/blog/ppc/apple-maps-ads/",
+          "published_at": "2026-08-06T11:22:26+00:00",
+          "excerpt": "The post Apple Maps Ads Could Help Businesses Capture Decision-Ready Searchers appeared first on WebFX .",
+          "fetched_at": "2026-08-12T08:50:55.660207+00:00"
+        },
+        {
           "title": "Microsoft AI Performance Dashboard Explained: What This New Tool Tracks and How Marketers Should Use It",
           "url": "https://www.webfx.com/blog/ai/microsoft-ai-performance-dashboard/",
           "published_at": "2026-08-06T10:24:40+00:00",
@@ -8231,6 +8322,13 @@
           "fetched_at": "2026-08-11T15:44:04.439228+00:00"
         },
         {
+          "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+          "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+          "published_at": "2026-08-11T00:00:00+00:00",
+          "excerpt": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses this new paradigm by utilizing its strict compiler, integrated…",
+          "fetched_at": "2026-08-12T08:51:00.523025+00:00"
+        },
+        {
           "title": "Agent Plugins package your skills, tools, and more",
           "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
           "published_at": "2026-08-06T00:00:00+00:00",
@@ -8445,6 +8543,27 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+          "published_at": "2026-08-11T17:00:00+00:00",
+          "excerpt": "AMIE promotional video",
+          "fetched_at": "2026-08-12T08:51:01.348448+00:00"
+        },
+        {
+          "title": "Stream free movies and shows on Google TV Freeplay",
+          "url": "https://blog.google/products-and-platforms/platforms/google-tv/google-freeplay-free-on-demand-tv-shows-movies/",
+          "published_at": "2026-08-11T17:00:00+00:00",
+          "excerpt": "Image of the “Free movies & shows” tab on Google TV Freeplay.",
+          "fetched_at": "2026-08-12T08:51:01.348448+00:00"
+        },
+        {
+          "title": "More than 1 billion people are using the Gemini app every month.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/",
+          "published_at": "2026-08-11T16:00:00+00:00",
+          "excerpt": "The Gemini app has officially surpassed 1 billion monthly users, making it the fastest-growing product in Google’s history. Here’s some data about how people are using G…",
+          "fetched_at": "2026-08-12T08:51:01.348448+00:00"
+        },
         {
           "title": "Google Health announces a strategic partnership with Abbott, a leader in health and wellness.",
           "url": "https://blog.google/products-and-platforms/products/google-health/abbott-google-health-partnership/",
