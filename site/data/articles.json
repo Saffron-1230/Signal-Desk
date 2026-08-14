@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T15:41:35.680468+00:00",
+  "last_updated": "2026-08-14T08:47:35.058203+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4261,6 +4261,55 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google Ads is removing language targeting from Search campaigns",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUEwT3NpRk1wVzhfZjhCQTdpeEp6eF90NjEyUFVaRkhJT2lGM3lYR0lFVTIxVm9yVk1ubTNZb0RIMFF6YmtqRkVyTEtQVUh4R29ydjhKOHFQS1Ixdl9BZUNSQ3Q3SU1semFxZ2VyNElIaDduMjA5R3VsaTJpWVlCcjV4d3lOSk5nbnlSVmszTDhwd2pmdEgteW12QnZwSDZz?oc=5",
+          "published_at": "2026-08-13T21:30:00+00:00",
+          "excerpt": "Google Ads is removing language targeting from Search campaigns Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
+        },
+        {
+          "title": "Shopify: AI referrals up 197%, but organic search still leads traffic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSS02MEZiOE1yTU9nU25veGRIMlJWTWZFTVVGWlhfT2ZJLWFFaEJsM01jVE92Ym1DSmExVjZjSEVINm1Gb05aV3pSNkYwOTdOT0lGRFhCUzd6c284RVU2NG9kLU9mVVRkTW9UT2pYMHNZTE5LalN0emN2VFJhbmNLNVZtV3A0d3NjNk1Ha2Q2dlhVdw?oc=5",
+          "published_at": "2026-08-13T17:56:00+00:00",
+          "excerpt": "Shopify: AI referrals up 197%, but organic search still leads traffic Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
+        },
+        {
+          "title": "Microsoft Clarity AI Scrape-to-Referral insights report",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnZJYndldGl2c0V1c3RuRUkwNTU4WlJpY1BoeVRjZ01LamVxUVhhbWFQUWZtYXpicy1UWGRIdzc4QjlvZDE2UVJDbW44SUFiaTk0ZVZjb2xJNVFHSG9tRS0xVlBwaGt2X2FrdEJrQUFzcVdSUTZlaFJDY0tlZmdWTkJhZHI3QzVsRHk3Y29nelBzUTV4Z3c?oc=5",
+          "published_at": "2026-08-13T17:42:00+00:00",
+          "excerpt": "Microsoft Clarity AI Scrape-to-Referral insights report Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
+        },
+        {
+          "title": "Link building works better when you think beyond links",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvQzd3UjJVQ2Z5Y0pfc2wwb2ppUXF2d1dFTlBuakpCckJSSnd0MTJhMV90aDJlQXZ6RWFzb3Rsc1ZzZUlraExqQ292SXBIcUFBanZmcmJBQUJhQ2s2U0xkNWhVekg?oc=5",
+          "published_at": "2026-08-13T15:00:00+00:00",
+          "excerpt": "Link building works better when you think beyond links Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
+        },
+        {
+          "title": "Your B2B SEO can win the click and lose the consideration",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WLUJhbEd5QjF3U2tpa09DVlh5eHdaU3N2THdYcmV4bHpFcXpxWVhMWmxJck53enN3R0wyT1hnWjhoby0xVEtqSWpfYXJjRWdvSC1ILUZNTDFTakJUM3FsbGV4X1dMVXdTYzNlZmxoOHpKbGJpQk5lSTNnb1U?oc=5",
+          "published_at": "2026-08-13T14:00:00+00:00",
+          "excerpt": "Your B2B SEO can win the click and lose the consideration Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
+        },
+        {
+          "title": "Only 1.1% of news publisher visits come directly from AI: Study",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JNlRMMzR1cE5Lek15UnVkdU9HNXVqLW9rZTVQQWZVUVNrRDNlS2JibC1KSXNPUzBGem1Vc29OTnJMQTNMLV9JcERDazBhWkhwcjdnTy1MajVHeVVsc0ZiLVFOQ0dEcW9IVUtnbHNMSDdkdWFXQTU1MFl4WQ?oc=5",
+          "published_at": "2026-08-13T13:09:00+00:00",
+          "excerpt": "Only 1.1% of news publisher visits come directly from AI: Study Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
+        },
+        {
+          "title": "Most AI visibility gains are just technical debt repayment",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VYVJfSVV1VF8tZlZNcGM5Qm45cDg3U0NXQ1lOTndOYVVYS2NwQjAxRjZic09kdU10dTNZVlhBankxbV9sSkt1b0RPclhjZ0pBWlN2TG9uNTduRDE2TXR1R3U5MXB0TWtTQ2ZmWF8ySDFSZElHV2dzNXV3?oc=5",
+          "published_at": "2026-08-13T13:00:00+00:00",
+          "excerpt": "Most AI visibility gains are just technical debt repayment Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
+        },
+        {
           "title": "Why SEO uncertainty is creating opportunities for challengers",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DTGhKelYwTkYyWUNpMTVFRURONGd4N2lkSjA5a0xIcUdhbk9kTW1WazRrLWxzZVFsTlc3MzM5Y1ZoUHVCMWVSaGsybEFjZWlhdEJFQ0NhOFNkN0o3QndCU2x3RUJ1THVCclJOWDVpOWVaXzloS3V3c25PVFZnZw?oc=5",
           "published_at": "2026-08-13T12:00:00+00:00",
@@ -4275,11 +4324,25 @@
           "fetched_at": "2026-08-13T08:54:21.786273+00:00"
         },
         {
+          "title": "Lanham Act Archives",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hWEs0WldCUHhlSzVqN284eVpxbjQ0b1praWp1S3VWV1MxcUVSOWloRnI4ZGZ6RkQwMTBGS1VWdi1QaXlKajFFaVBpS3l6MTY2TmFFVWlEdFNuZw?oc=5",
+          "published_at": "2026-08-12T17:24:00+00:00",
+          "excerpt": "Lanham Act Archives Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
+        },
+        {
           "title": "Google adds Local customer optimization to Performance Max",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDZLSWJ5Q1l6M3FQM002R1c4T2JvVWh0LWE1VG9wZHhXaGhMdU16SURmZEZJcXY1QVd2ZGVoRVZOVXFoSUJwWE1JQUpHUmRqVEhsc1NxMVFNNnhpWGRKNl9oZUZ3MnpOeGRPUTgzZHFhRDRhYzJqbGlPNDk0cEtLRzdiSDRKTExmS2t5OWNRbjBwa3NRRFoxN1JR?oc=5",
           "published_at": "2026-08-12T16:48:00+00:00",
           "excerpt": "Google adds Local customer optimization to Performance Max searchengineland.com",
           "fetched_at": "2026-08-13T08:54:21.786273+00:00"
+        },
+        {
+          "title": "Google updates YouTube and Discover Feed ad requirements",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajVFTC1fRkJNM2FhOHNkRVR3Q3BuQkhXaERpdkhOT181RFh5ZDNqbmFweVFaSENRRk5udkktR0M4dDZYZXVlQTM2UW1QbTZNSmwzVXFaMHBnV0FjRlpaX2ZHaHh4UnVQNHJzWHU5Q3VpY0lwZEYyZGcxbUlDc1ljaGdVM3NMYW9BWUoxck5yd1Z6cW1PWU9R?oc=5",
+          "published_at": "2026-08-12T15:54:00+00:00",
+          "excerpt": "Google updates YouTube and Discover Feed ad requirements Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
         },
         {
           "title": "Google to migrate Travel campaigns to Search campaigns for Travel",
@@ -4583,13 +4646,6 @@
           "fetched_at": "2026-08-07T15:34:09.908511+00:00"
         },
         {
-          "title": "How to de-risk your SEO strategy when Google keeps changing the model behind your rankings",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZHdydHVGRnlURUFPOWVhNXN2NzNEYzVneDV3UjA0dEdmRmJTam5ra3BMU29tMFNRYklwbFRoenpkbWJBSGlpMXJfdHhzSS1JdlcweHZoZ2JTRHpvekVsdWM0cS1YRnF0ZTV3b0MtNDRZMV9URDJMa0NJb2w3ODRlUUV5RU1JeDMt?oc=5",
-          "published_at": "2026-08-05T16:40:00+00:00",
-          "excerpt": "How to de-risk your SEO strategy when Google keeps changing the model behind your rankings Search Engine Land",
-          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
-        },
-        {
           "title": "Microsoft Advertising adds excluded content terms for Audience Ads",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUN1dWVNLVlRLTg5Vy10aGlyQ2ZGMzlOdzdxdDMtMHJDbExwa0NyOEp4eVFHRllGSXEtVGFPdVFQY3BfeHNQOUVBRWgxVG9oME0yYnZsbWI4SG1SelM4WjRUQ0RpbURGUmVDSDZiY3VjWlRqaUQ1UDBXUlJYSE1BRVVzTVctSlpnTXliSElubFhKMmNQTkU2X3lSY0laMHA0SUoyMw?oc=5",
           "published_at": "2026-08-05T15:20:00+00:00",
@@ -4637,13 +4693,6 @@
           "published_at": "2026-08-05T13:30:00+00:00",
           "excerpt": "What happens when AI Overviews contradict paid search ads? Search Engine Land",
           "fetched_at": "2026-08-06T08:12:11.610152+00:00"
-        },
-        {
-          "title": "Why paid search could be your AI search advantage",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EY1lOMFB2UVpjZnhUaXByMjJzaVlpSzNkOHI3b1FJTHVyT2FXNUJCYllYbEtfUEJBYnQ0Tkh2TmNieWlCSWtoQlFwVmFjX3ZRUTRSNGNIbkdlWDVka3J3U0NnazJETXA0ejlNSWcteTJabXRsbEE?oc=5",
-          "published_at": "2026-08-05T12:30:00+00:00",
-          "excerpt": "Why paid search could be your AI search advantage Search Engine Land",
-          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
         },
         {
           "title": "Google Assistant to be discontinued on Android starting September 4",
@@ -4720,6 +4769,20 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcThvaUFwcDdUWHBrRDNGanRHTHFFZW1pVGVuOUtUQl9xVmRxekFQS25NQUpGQURWU3FOWUxhSG9NY3V2RW0yQlI4M2pQVVpvRHdleXhoRmk4NDZHQWhnZzhKTXJ4dWxGU1dzYUJGUUxjdlJvMXBIVm96R19xR0xEenhOQQ?oc=5",
           "published_at": "2026-08-05T08:00:00+00:00",
           "excerpt": "How to troubleshoot automated bidding in Google Ads Search Engine Land",
+          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "How to de-risk your SEO strategy when Google keeps changing the model behind your rankings",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZHdydHVGRnlURUFPOWVhNXN2NzNEYzVneDV3UjA0dEdmRmJTam5ra3BMU29tMFNRYklwbFRoenpkbWJBSGlpMXJfdHhzSS1JdlcweHZoZ2JTRHpvekVsdWM0cS1YRnF0ZTV3b0MtNDRZMV9URDJMa0NJb2w3ODRlUUV5RU1JeDMt?oc=5",
+          "published_at": "2026-08-05T07:00:00+00:00",
+          "excerpt": "How to de-risk your SEO strategy when Google keeps changing the model behind your rankings Search Engine Land",
+          "fetched_at": "2026-08-05T18:09:04.095756+00:00"
+        },
+        {
+          "title": "Why paid search could be your AI search advantage",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EY1lOMFB2UVpjZnhUaXByMjJzaVlpSzNkOHI3b1FJTHVyT2FXNUJCYllYbEtfUEJBYnQ0Tkh2TmNieWlCSWtoQlFwVmFjX3ZRUTRSNGNIbkdlWDVka3J3U0NnazJETXA0ejlNSWcteTJabXRsbEE?oc=5",
+          "published_at": "2026-08-05T07:00:00+00:00",
+          "excerpt": "Why paid search could be your AI search advantage Search Engine Land",
           "fetched_at": "2026-08-05T18:09:04.095756+00:00"
         },
         {
@@ -5942,6 +6005,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Is Removing Language Targeting From Search Campaigns via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/google-is-removing-language-targeting-from-search-campaigns/585592/",
+          "published_at": "2026-08-13T21:30:33+00:00",
+          "excerpt": "Google Ads is changing language targeting for Search and Performance Max in September 2026. Learn what’s changing and what advertisers need to know. The post Google Is Removing Language Targeting From Search Campaigns appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-14T08:47:20.920360+00:00"
+        },
+        {
+          "title": "The GEO Trust Gap: SEOs Want The Data, But Not The Platforms Selling It via @sejournal, @DuaneForrester",
+          "url": "https://www.searchenginejournal.com/the-geo-trust-gap-seos-want-the-data-but-not-the-platforms-selling-it/585161/",
+          "published_at": "2026-08-13T19:00:43+00:00",
+          "excerpt": "Practitioners value AI visibility data highly and won't fund the platforms selling it. New survey data on what's actually blocking the category. The post The GEO Trust Gap: SEOs Want The Data, But Not The Platforms Selling It appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-14T08:47:20.920360+00:00"
+        },
+        {
+          "title": "The PPC Clean-Up: How to Audit and Fix ‘Value Inflation’ in Google Ads",
+          "url": "https://www.searchenginejournal.com/the-ppc-clean-up-how-to-audit-and-fix-value-inflation-in-google-ads/583009/",
+          "published_at": "2026-08-13T17:30:31+00:00",
+          "excerpt": "PPC managers inheriting an account: verify the conversion value before touching the bid strategy. Five checks that separate real revenue from phantom value. The post The PPC Clean-Up: How to Audit and Fix ‘Value Inflation’ in Google Ads appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-14T08:47:20.920360+00:00"
+        },
+        {
           "title": "Why Anthropic’s Claude Watermark May Be A New Text-Marking Method via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/why-anthropics-claude-watermark-may-be-a-new-text-marking-method/585703/",
           "published_at": "2026-08-13T15:23:00+00:00",
@@ -5977,7 +6061,7 @@
           "fetched_at": "2026-08-13T08:54:29.708388+00:00"
         },
         {
-          "title": "How to Create Health & YMYL Content That Performs in AI Search",
+          "title": "How To Create YMYL Content That Gets Cited In AI Search",
           "url": "https://www.searchenginejournal.com/how-to-create-health-ymyl-content-that-performs-in-ai-search/584431/",
           "published_at": "2026-08-12T19:00:47+00:00",
           "excerpt": "Thin health content was always risky. With AI Overviews answering most medical queries, it's now invisible. Here's what earns citations instead. The post How to Create Health & YMYL Content That Performs in AI Search appeared first on Search Engine Journal .",
@@ -6061,14 +6145,7 @@
           "fetched_at": "2026-08-11T15:43:52.339079+00:00"
         },
         {
-          "title": "The AI Detection False Economy: Fueling FOW (Fear of Writing) via @sejournal, @andybetts1",
-          "url": "https://www.searchenginejournal.com/the-ai-detection-false-economy-fueling-fear-of-writing/584967/",
-          "published_at": "2026-08-11T12:00:08+00:00",
-          "excerpt": "AI detectors gave wildly different verdicts on the same human-written article, and even flagged writing from 2014. The post The AI Detection False Economy: Fueling FOW (Fear of Writing) appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-11T15:43:52.339079+00:00"
-        },
-        {
-          "title": "WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised via @sejournal, @martinibuster",
+          "title": "WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised",
           "url": "https://www.searchenginejournal.com/wpforms-lite-accused-of-adding-backdoor-i-tested-it-and-was-surprised/585273/",
           "published_at": "2026-08-11T09:03:14+00:00",
           "excerpt": "WPForms Lite WordPress plugin accused of adding a backdoor to new installs. I gave it and try and what happened was unexpected. The post WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised appeared first on Search Engine Journal .",
@@ -6082,11 +6159,11 @@
           "fetched_at": "2026-08-11T08:15:13.940138+00:00"
         },
         {
-          "title": "The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads",
-          "url": "https://www.searchenginejournal.com/the-scenic-route-to-roi-mastering-non-linear-targeting-in-google-ads/581784/",
-          "published_at": "2026-08-10T19:02:53+00:00",
-          "excerpt": "Six real non-linear campaigns showing which adjacent Google Ads segments actually reach restricted or niche audiences. The post The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-11T08:15:13.940138+00:00"
+          "title": "The AI Detection False Economy: Fueling FOW (Fear of Writing)",
+          "url": "https://www.searchenginejournal.com/the-ai-detection-false-economy-fueling-fear-of-writing/584967/",
+          "published_at": "2026-08-11T00:00:00+00:00",
+          "excerpt": "AI detectors gave wildly different verdicts on the same human-written article, and even flagged writing from 2014. The post The AI Detection False Economy: Fueling FOW (Fear of Writing) appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-11T15:43:52.339079+00:00"
         },
         {
           "title": "Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern",
@@ -6115,6 +6192,13 @@
           "published_at": "2026-08-10T05:00:33+00:00",
           "excerpt": "Can you remove negative content from Google? Uncover the truth about suppression and overcoming unfavorable online articles. The post How To Remove Negative Content From Google Before AI Answers Cite It appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-10T09:02:12.771468+00:00"
+        },
+        {
+          "title": "The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads",
+          "url": "https://www.searchenginejournal.com/the-scenic-route-to-roi-mastering-non-linear-targeting-in-google-ads/581784/",
+          "published_at": "2026-08-10T00:00:00+00:00",
+          "excerpt": "Six real non-linear campaigns showing which adjacent Google Ads segments actually reach restricted or niche audiences. The post The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-11T08:15:13.940138+00:00"
         },
         {
           "title": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
@@ -7096,6 +7180,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Claude watermarks its output: what content teams should know",
+          "url": "https://www.semrush.com/blog/claude-ai-watermarks/",
+          "published_at": "2026-08-13T14:56:00+00:00",
+          "excerpt": "Anthropic now marks content that Claude generates or edits. Here’s how the watermarks work, what they can‘t prove, and what content teams should do.",
+          "fetched_at": "2026-08-14T08:47:26.906249+00:00"
+        },
+        {
           "title": "AI keyword research: How to use free chatbot tools",
           "url": "https://www.semrush.com/blog/ai-keyword-research/",
           "published_at": "2026-08-13T11:09:00+00:00",
@@ -7266,7 +7357,7 @@
         {
           "title": "Website marketing: A guide for the AI search era",
           "url": "https://www.semrush.com/blog/website-marketing/",
-          "published_at": "2026-07-22T10:05:00+00:00",
+          "published_at": "2026-07-22T00:00:00+00:00",
           "excerpt": "Website marketing strategies that build the credibility AI systems use to decide which brands to recommend.",
           "fetched_at": "2026-07-23T12:40:10.406784+05:30"
         },
@@ -8476,6 +8567,20 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
+          "url": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
+          "published_at": "2026-08-13T00:00:00+00:00",
+          "excerpt": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By processing assets entirely locally with a highly optimized me…",
+          "fetched_at": "2026-08-14T08:47:34.186612+00:00"
+        },
+        {
+          "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
+          "url": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
+          "published_at": "2026-08-13T00:00:00+00:00",
+          "excerpt": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a 1.86x speedup for real-time streaming, the engineering team pipe…",
+          "fetched_at": "2026-08-14T08:47:34.186612+00:00"
+        },
+        {
           "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
           "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
           "published_at": "2026-08-11T00:00:00+00:00",
@@ -8704,6 +8809,34 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+          "published_at": "2026-08-13T17:00:00+00:00",
+          "excerpt": "Spark icon next to the text \"Gemini 3.7 Flash\", all on a light blue backgorund",
+          "fetched_at": "2026-08-14T08:47:35.054653+00:00"
+        },
+        {
+          "title": "Bring your spreadsheet data to life with Sheets canvas",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+          "published_at": "2026-08-13T16:45:00+00:00",
+          "excerpt": "The video shows Sheets canvas in action.",
+          "fetched_at": "2026-08-14T08:47:35.054653+00:00"
+        },
+        {
+          "title": "Get updates while your Pixel 11 Pro is face down with HiLight.",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/",
+          "published_at": "2026-08-13T16:00:00+00:00",
+          "excerpt": "HiLight, a new Pixel 11 Pro feature, gently glows to notify you of timely updates — keeping you informed when your phone is down.",
+          "fetched_at": "2026-08-14T08:47:35.054653+00:00"
+        },
+        {
+          "title": "Stay present while taking pictures with Magic Capture on Pixel 11.",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/",
+          "published_at": "2026-08-13T16:00:00+00:00",
+          "excerpt": "Pixel 11’s new Magic Capture feature finds the best shots from dynamic scenes so you don’t miss precious moments trying to capture them.",
+          "fetched_at": "2026-08-14T08:47:35.054653+00:00"
+        },
         {
           "title": "Omni experts share what excites them most about the model.",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
