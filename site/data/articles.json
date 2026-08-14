@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T08:47:35.058203+00:00",
+  "last_updated": "2026-08-14T15:13:29.202923+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "Claude Now Watermarks Everything It Writes. Here’s What It Means for Marketers",
+          "url": "https://ahrefs.com/blog/claude-now-watermarks-everything-it-writes/",
+          "published_at": "2026-08-14T13:39:21+00:00",
+          "excerpt": "For most marketers, I don’t think so. Google has said for years that it doesn’t care how content is produced, only whether it exists to manipulate rankings. And our own research shows that AI-generated content already performs in search: 5.3% … Read more ›",
+          "fetched_at": "2026-08-14T15:13:03.006090+00:00"
+        },
         {
           "title": "37 Proven Ways to Use AI in Marketing",
           "url": "https://ahrefs.com/blog/how-to-use-ai-in-marketing/",
@@ -4261,6 +4268,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "LLM traffic converts differently — here’s what to do about it",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYzlLOU9aUEptYlVFSlZyZkJad1dJNWMyRldUZEVobmlVN0xXZGM5a1pYSFBNaHhhNlhRLWVhSm9ERjRxNUxOem94X0txVmZrNTFVTDEzMDZnaVhzcmJRNlM3eXNHUEZ5bnhobTFTZkxZRHVxQU5QcGRFRkZ2WE03SHJiaVllZw?oc=5",
+          "published_at": "2026-08-14T14:00:00+00:00",
+          "excerpt": "LLM traffic converts differently — here’s what to do about it Search Engine Land",
+          "fetched_at": "2026-08-14T15:13:04.205163+00:00"
+        },
+        {
           "title": "Google Ads is removing language targeting from Search campaigns",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUEwT3NpRk1wVzhfZjhCQTdpeEp6eF90NjEyUFVaRkhJT2lGM3lYR0lFVTIxVm9yVk1ubTNZb0RIMFF6YmtqRkVyTEtQVUh4R29ydjhKOHFQS1Ixdl9BZUNSQ3Q3SU1semFxZ2VyNElIaDduMjA5R3VsaTJpWVlCcjV4d3lOSk5nbnlSVmszTDhwd2pmdEgteW12QnZwSDZz?oc=5",
           "published_at": "2026-08-13T21:30:00+00:00",
@@ -4331,6 +4345,13 @@
           "fetched_at": "2026-08-14T08:47:10.073034+00:00"
         },
         {
+          "title": "Google adds real-time reporting endpoint to Campaign Manager 360 API",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmdoVEZ3OEwtUGZZYUxJWFp3WlpIc3VtY2I0Zko5UWctdGFuLVgyVTlpdm1kMk9EZUVONUl4d1lMaExSZUxLVVJ0Q1ZBeUlPaFdrQWdqOUN1WW5vOE56Z3VNcnFyY3F2aFhkQy0taUdzNVM4bEQzZ25IR1FoUngybWZldEQ2VXVOa1hmNTFWcTdmWl9ZNkhNSUI0X0J0MFRlZ3pkeHZPRQ?oc=5",
+          "published_at": "2026-08-12T16:57:00+00:00",
+          "excerpt": "Google adds real-time reporting endpoint to Campaign Manager 360 API Search Engine Land",
+          "fetched_at": "2026-08-14T15:13:04.205163+00:00"
+        },
+        {
           "title": "Google adds Local customer optimization to Performance Max",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDZLSWJ5Q1l6M3FQM002R1c4T2JvVWh0LWE1VG9wZHhXaGhMdU16SURmZEZJcXY1QVd2ZGVoRVZOVXFoSUJwWE1JQUpHUmRqVEhsc1NxMVFNNnhpWGRKNl9oZUZ3MnpOeGRPUTgzZHFhRDRhYzJqbGlPNDk0cEtLRzdiSDRKTExmS2t5OWNRbjBwa3NRRFoxN1JR?oc=5",
           "published_at": "2026-08-12T16:48:00+00:00",
@@ -4343,6 +4364,13 @@
           "published_at": "2026-08-12T15:54:00+00:00",
           "excerpt": "Google updates YouTube and Discover Feed ad requirements Search Engine Land",
           "fetched_at": "2026-08-14T08:47:10.073034+00:00"
+        },
+        {
+          "title": "Google updates Merchant Center with cross-platform reporting",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFV4c01ZM05ZUVVaNzF2cWRwTXYwQzRkQjFOTW4xSFgzdGFEd09uZHR1SFJ4QWc0VlBub2hmMkZrWXZUbjdDZDVZRUh3LUxEVVM4SXNUdFhCVnlZZTcxcFRxWUpMdFdlM2VjSnlPcXlrVV9HOWhkNGkwaFo1Qnk0U1dzRkkwRks1SlBsQ01kbm8ydVZkY09seGVUNnU?oc=5",
+          "published_at": "2026-08-12T15:39:00+00:00",
+          "excerpt": "Google updates Merchant Center with cross-platform reporting Search Engine Land",
+          "fetched_at": "2026-08-14T15:13:04.205163+00:00"
         },
         {
           "title": "Google to migrate Travel campaigns to Search campaigns for Travel",
@@ -4597,13 +4625,6 @@
           "fetched_at": "2026-08-09T07:41:23.643288+00:00"
         },
         {
-          "title": "Google explains what advertisers should expect from Smart Bidding changes",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJOWlBSTEJtUlRSYTBCVFBqTVV0WXVZWmd3Y3hmUU51YTZBSXpsdTRuaDkzSzlRU3VscS1WUWhJVEU3WXF2WHpxelpzTHBGSnJWU1pMbXhyRkpXLWF2d0pPVXIxM0RKM3JuYUlfSDlJaExLSG14d3dHei1QOWdEendzY1p1eGQ0eWNLN21KbE1QVzNBT3dtZi10Nnhpb1B4SnExMjdrVWFwQ1pBS3c?oc=5",
-          "published_at": "2026-08-06T16:14:00+00:00",
-          "excerpt": "Google explains what advertisers should expect from Smart Bidding changes Search Engine Land",
-          "fetched_at": "2026-08-07T08:33:23.050052+00:00"
-        },
-        {
           "title": "The demand capture trap that’s making search more expensive",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTVQzN0YxUzV2WVRjQ1VZYkx6T1ZPcV9TVXF2cndYbGZwaVJYSVk2RGdBS2hvSDZwQndQeEZTdlBUc3J3ZndkdERLUDYwbXM4ZUc3c3hSc09pM204ZXAwaXYyUnIzSGdYRDB4ejZIdm52Ymh2NEZZd0JZODRqMjBRdEdTUTJHQXpOZVFzVg?oc=5",
           "published_at": "2026-08-06T14:00:00+00:00",
@@ -4644,6 +4665,13 @@
           "published_at": "2026-08-06T10:05:00+00:00",
           "excerpt": "Demis Hassabis Archives Search Engine Land",
           "fetched_at": "2026-08-07T15:34:09.908511+00:00"
+        },
+        {
+          "title": "Google explains what advertisers should expect from Smart Bidding changes",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJOWlBSTEJtUlRSYTBCVFBqTVV0WXVZWmd3Y3hmUU51YTZBSXpsdTRuaDkzSzlRU3VscS1WUWhJVEU3WXF2WHpxelpzTHBGSnJWU1pMbXhyRkpXLWF2d0pPVXIxM0RKM3JuYUlfSDlJaExLSG14d3dHei1QOWdEendzY1p1eGQ0eWNLN21KbE1QVzNBT3dtZi10Nnhpb1B4SnExMjdrVWFwQ1pBS3c?oc=5",
+          "published_at": "2026-08-06T07:00:00+00:00",
+          "excerpt": "Google explains what advertisers should expect from Smart Bidding changes Search Engine Land",
+          "fetched_at": "2026-08-07T08:33:23.050052+00:00"
         },
         {
           "title": "Microsoft Advertising adds excluded content terms for Audience Ads",
@@ -4723,13 +4751,6 @@
           "fetched_at": "2026-08-05T18:09:04.095756+00:00"
         },
         {
-          "title": "Google tests clickable hyperlinks in Search ad descriptions",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUklqMGxvZFh1WDNCVkJJTHVid0RKZTNwMFpmRlBIZTZYSDVpbzNRUURzRENTQzdRM0F4cTRuVEVPbVZCcjdvN19UTHQxYlJWM2hNYTFXb3BLME9kdDIyV3YtWVFfcmdTdkpFYnhBU0VjSVNjMi13S1lPNHVLYVAwR0lTT1J5eHNLaHhyanlZQTkzb2pnLWhXLVpGbw?oc=5",
-          "published_at": "2026-08-05T10:19:00+00:00",
-          "excerpt": "Google tests clickable hyperlinks in Search ad descriptions Search Engine Land",
-          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
-        },
-        {
           "title": "MarketWise Archives",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83UnN5TU5ubUd1LWZpNHhmdTlJYm8xV0JQX0EwMk5GcmJIZElZU3FiMDhiYWp0eDI5OXJIRjFwOXlZU1ctMnZKblVYNEQ0c3JjbU1Cczk1VnlhUQ?oc=5",
           "published_at": "2026-08-05T10:00:00+00:00",
@@ -4790,6 +4811,13 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGU0bXRRT0lLeXItTVlQajBtNG5XbFozcF9sd3FWWi12MFpqQjljSV9LMkF3eEJaTFFOQVdyUzZvNTBFYy1xY1d6UUlKaE5SaFZpdUF3MHhOODloc0Nmd2Fwai02SDBSZTc2eGxiWUtGYWNTcXVENEZYckszUnB6bDdGV29hck1UeEVrNnd3VWJPRlJ6bHB2eVgtdFIyaVZ3?oc=5",
           "published_at": "2026-08-05T07:00:00+00:00",
           "excerpt": "Google releases help doc for Performance Max pay-per-lead goals Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
+          "title": "Google tests clickable hyperlinks in Search ad descriptions",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUklqMGxvZFh1WDNCVkJJTHVid0RKZTNwMFpmRlBIZTZYSDVpbzNRUURzRENTQzdRM0F4cTRuVEVPbVZCcjdvN19UTHQxYlJWM2hNYTFXb3BLME9kdDIyV3YtWVFfcmdTdkpFYnhBU0VjSVNjMi13S1lPNHVLYVAwR0lTT1J5eHNLaHhyanlZQTkzb2pnLWhXLVpGbw?oc=5",
+          "published_at": "2026-08-05T07:00:00+00:00",
+          "excerpt": "Google tests clickable hyperlinks in Search ad descriptions Search Engine Land",
           "fetched_at": "2026-08-06T08:12:11.610152+00:00"
         },
         {
@@ -6005,6 +6033,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Cloudflare: Machine Traffic Could Hit 1,000x Human Traffic In 5 Years via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/the-biggest-ai-crawler-on-my-website-was-hunting-for-credentials/585159/",
+          "published_at": "2026-08-14T14:30:22+00:00",
+          "excerpt": "One company measures the bot problem, frames it, and sells the fix. Cloudflare now owns both the meter and the valve. Check your own logs. The post Cloudflare: Machine Traffic Could Hit 1,000x Human Traffic In 5 Years appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-14T15:13:16.708155+00:00"
+        },
+        {
+          "title": "ChatGPT Already Knows Who It’ll Recommend Before It Searches via @sejournal, @suganthan",
+          "url": "https://www.searchenginejournal.com/chatgpt-already-knows-who-itll-recommend-before-it-searches/585162/",
+          "published_at": "2026-08-14T12:00:06+00:00",
+          "excerpt": "ChatGPT names brands in its own search queries before it fetches anything. Being in that query is worth 33 times more. The post ChatGPT Already Knows Who It’ll Recommend Before It Searches appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-14T15:13:16.708155+00:00"
+        },
+        {
           "title": "Google Is Removing Language Targeting From Search Campaigns via @sejournal, @brookeosmundson",
           "url": "https://www.searchenginejournal.com/google-is-removing-language-targeting-from-search-campaigns/585592/",
           "published_at": "2026-08-13T21:30:33+00:00",
@@ -6138,13 +6180,6 @@
           "fetched_at": "2026-08-11T15:43:52.339079+00:00"
         },
         {
-          "title": "YouTube Adds New Shorts Payout Rules To Partner Program Terms via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/youtube-updates-partner-program-terms-shorts-payout-rules/585331/",
-          "published_at": "2026-08-11T12:13:24+00:00",
-          "excerpt": "YouTube announced Partner Program changes taking effect in 2027, including new Shorts earnings rules, activity checks, and a terms deadline. The post YouTube Updates Partner Program Terms & Shorts Payout Rules appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-11T15:43:52.339079+00:00"
-        },
-        {
           "title": "WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised",
           "url": "https://www.searchenginejournal.com/wpforms-lite-accused-of-adding-backdoor-i-tested-it-and-was-surprised/585273/",
           "published_at": "2026-08-11T09:03:14+00:00",
@@ -6157,6 +6192,13 @@
           "published_at": null,
           "excerpt": "SEJ Pro delivers industry intelligence reports, practitioner playbooks, and direct access to experts so you know what's actually changing in search, and what to do about it.",
           "fetched_at": "2026-08-11T08:15:13.940138+00:00"
+        },
+        {
+          "title": "YouTube Adds New Shorts Payout Rules To Partner Program Terms",
+          "url": "https://www.searchenginejournal.com/youtube-updates-partner-program-terms-shorts-payout-rules/585331/",
+          "published_at": "2026-08-11T00:00:00+00:00",
+          "excerpt": "YouTube announced Partner Program changes taking effect in 2027, including new Shorts earnings rules, activity checks, and a terms deadline. The post YouTube Updates Partner Program Terms & Shorts Payout Rules appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-11T15:43:52.339079+00:00"
         },
         {
           "title": "The AI Detection False Economy: Fueling FOW (Fear of Writing)",
@@ -7432,7 +7474,7 @@
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
         {
-          "title": "The 7 best AI visibility tools to win AI search in 2026",
+          "title": "The 8 best AI visibility tools to win AI search in 2026",
           "url": "https://www.semrush.com/blog/best-ai-visibility-tools/",
           "published_at": "2026-07-08T00:00:00+00:00",
           "excerpt": "Explore these tried and tested AI visibility tools that help you monitor, analyze, and improve your brand presence across AI search engines.",
