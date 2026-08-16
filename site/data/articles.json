@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T05:50:02.677782+00:00",
+  "last_updated": "2026-08-16T13:49:14.561780+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4380,6 +4380,13 @@
           "fetched_at": "2026-08-14T08:47:10.073034+00:00"
         },
         {
+          "title": "Montway Archives",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kV2VfdjNycUpaaXk3VkxGVTYzYWowcU5UTTE0TlQ2QUppOW5BRmVwd2xtSkxVWkFwSTdFQlBLMFA3ZWRpM2FudHVsRzlnT0pIMlBfbi13?oc=5",
+          "published_at": "2026-08-12T17:24:00+00:00",
+          "excerpt": "Montway Archives Search Engine Land",
+          "fetched_at": "2026-08-16T13:48:53.305164+00:00"
+        },
+        {
           "title": "Google adds real-time reporting endpoint to Campaign Manager 360 API",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmdoVEZ3OEwtUGZZYUxJWFp3WlpIc3VtY2I0Zko5UWctdGFuLVgyVTlpdm1kMk9EZUVONUl4d1lMaExSZUxLVVJ0Q1ZBeUlPaFdrQWdqOUN1WW5vOE56Z3VNcnFyY3F2aFhkQy0taUdzNVM4bEQzZ25IR1FoUngybWZldEQ2VXVOa1hmNTFWcTdmWl9ZNkhNSUI0X0J0MFRlZ3pkeHZPRQ?oc=5",
           "published_at": "2026-08-12T16:57:00+00:00",
@@ -4483,6 +4490,13 @@
           "published_at": "2026-08-11T15:00:00+00:00",
           "excerpt": "12 things Reddit needs to make its ad platform more competitive Search Engine Land",
           "fetched_at": "2026-08-11T15:43:38.234812+00:00"
+        },
+        {
+          "title": "DMCA as a weapon: How to fight fraudulent takedown claims",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2VCN1JNV1k3dHc0R0NIbHlkMEJlZGhOY3g3RkllaUpIOFZGdmp3Z3Z3Vm15SEVxU3JzZmJ5U3pwRTBsQXVtaF9LcW9FdDVfd3lnX1Vod3FNRDdxWE4yZDFnZEg2aENaaDF6RGJ2X0pQRkFReUpsejVmOGhhXzdJd0JwVWRBSDA?oc=5",
+          "published_at": "2026-08-11T14:00:00+00:00",
+          "excerpt": "DMCA as a weapon: How to fight fraudulent takedown claims Search Engine Land",
+          "fetched_at": "2026-08-16T13:48:53.305164+00:00"
         },
         {
           "title": "A 5-layer framework for measuring AI search performance",
@@ -5227,13 +5241,6 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "SMX Advanced expands in 2027: See you in San Diego and Boston",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ydlZ5TVdFQnJ5MVVJWkpzYjZ5ZnNCbjVWMFdiVk5aZTZBbzRlZlotZXhoaDRIcm5wb1dJZDhMZkc2cFZwa2MyUUM4VEtqT1NnT2p6WHBkU2R0MU9uTlBXeTZvQTRnQXZKZFpZeVcxMmZzaE01dHR0eDRR?oc=5",
-          "published_at": "2026-07-28T19:30:00+00:00",
-          "excerpt": "SMX Advanced expands in 2027: See you in San Diego and Boston Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Attribution vs. incrementality: Why you need both",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBobHhWYnJoTURqMGlma0lpRzZMUDhtRnd6aFpkU0lkUUs2OU1FTFk1OUw3SzY0WXRpdzVIZll6ZVZCSmVsZ2gwVEdyZzRnTTZFX1dEWFFzQUFCYlZGV3JReWFTUndUWGhaQmNlMXNkbzVWdm5jZGVTS3Z3?oc=5",
           "published_at": "2026-07-28T15:00:00+00:00",
@@ -5287,6 +5294,13 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDhObjZ4M2JaNGRoaGdnODhYbzJlVkZtdUpqVGt2bzZXU1BiY1h6eFFtaGQta2lzNldJd1QweE5fWkk3Z0RGYm5OYUtWMHZHSXlZZGZGb2dXTnV0YkV2VEZmclFRN2FsSW5qeGFmWVNXUVBQdjE0Nzg5MlVoMjhON3BPYmlKb3JIRkN2VzJ5b2VKOWtaeUxDd01Wb3dpMllIYzVaMjZCOXU1dGZDZThUOVllbmhkbGhGNDBMZ0RlN2gwM3JfMUtydWsyV1A?oc=5",
           "published_at": "2026-07-28T07:00:00+00:00",
           "excerpt": "Google indexed Claude Chats because Anthropic didn't block your private chats from search engines Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "SMX Advanced expands in 2027: See you in San Diego and Boston",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ydlZ5TVdFQnJ5MVVJWkpzYjZ5ZnNCbjVWMFdiVk5aZTZBbzRlZlotZXhoaDRIcm5wb1dJZDhMZkc2cFZwa2MyUUM4VEtqT1NnT2p6WHBkU2R0MU9uTlBXeTZvQTRnQXZKZFpZeVcxMmZzaE01dHR0eDRR?oc=5",
+          "published_at": "2026-07-28T07:00:00+00:00",
+          "excerpt": "SMX Advanced expands in 2027: See you in San Diego and Boston Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
