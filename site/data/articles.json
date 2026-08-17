@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T06:02:44.499302+00:00",
+  "last_updated": "2026-08-17T14:03:56.919704+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4268,6 +4268,20 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "The $113,000 paid search test: How much traffic did organic replace?",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZbTNVYkdLY0Y2VW0yVW92TUhrRGQ5R09tSnRKbnBVeHFzR2JaNmkzd0FoR094RFpDNEFwQXBMTVo4YmVqTkUtVlV4TGM0RHA3NXJXOGxZRV8wY1hRUDhFbkVWRG9ydFkwYk0wY0lNaDlCZ2I1NVp3?oc=5",
+          "published_at": "2026-08-17T13:00:00+00:00",
+          "excerpt": "The $113,000 paid search test: How much traffic did organic replace? Search Engine Land",
+          "fetched_at": "2026-08-17T14:03:30.663803+00:00"
+        },
+        {
+          "title": "Inside ChatGPT’s retrieval stack: The index, cache, and pages it actually reads",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdTFLekQ2eWI1blQzWFg2TjF2SF91UlNWczk2ZExqS3dHa0lpTTJLeEhlcERsWGRoVmZlbDh6bmZ3MTlzMWxfTEtRLTNNM3ZyT1BpT0dRTEtaYlRxUlNJbXpfRENfNUE1SDNtODQ5NnhRa3VEUFRWT2NfX2NtVkN0Y3YxMA?oc=5",
+          "published_at": "2026-08-17T12:00:00+00:00",
+          "excerpt": "Inside ChatGPT’s retrieval stack: The index, cache, and pages it actually reads Search Engine Land",
+          "fetched_at": "2026-08-17T14:03:30.663803+00:00"
+        },
+        {
           "title": "Gemini 3.7 Flash rolling out in Google Search",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWVhmWWZXV216YW1IZDhqTW9KVmt4MUp1RzZyWlgxWHFabDBtbUNqV1JudmU2TVFEQ3BDZ3hZelNGWE9BU0tXLWYwdElEMENsSDFhQmpUREExek9YMWlxMVB2a1BiYUV1ekFYRE9RUjZUOE5JeGJMR1BadWVPbmdoM2dGYjExWTdK?oc=5",
           "published_at": "2026-08-14T18:30:00+00:00",
@@ -4280,6 +4294,13 @@
           "published_at": "2026-08-14T15:00:00+00:00",
           "excerpt": "The 4-step roadmap to AI agents for Google Ads searchengineland.com",
           "fetched_at": "2026-08-15T05:45:07.678326+00:00"
+        },
+        {
+          "title": "Google Merchant Center for Agencies now supports up to 1,000 linked accounts",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTd4eDBYWkhUckN5Zk03QXVaUEVvWDc4SU9rSkhUWlV6ejdld3ZDUHAxVUpadVAxN1JZcnpwcVlIWXBwUUtLaFVnM1RrN1lmaURKX3dDMTJmWjhKNUJBM3dldXlnaWRSQ0d6WlAyeGdIbFRSQmZwM2JYQ284VF9BN2dPSmJHWFVDeHJtUGNvUll4bHAtQXdUR05aWmd3SnZfMGhVdWZrdXkyZHg4b1FaNA?oc=5",
+          "published_at": "2026-08-14T14:52:00+00:00",
+          "excerpt": "Google Merchant Center for Agencies now supports up to 1,000 linked accounts Search Engine Land",
+          "fetched_at": "2026-08-17T14:03:30.663803+00:00"
         },
         {
           "title": "Google Analytics adds custom conversion attribution windows",
@@ -4800,13 +4821,6 @@
           "fetched_at": "2026-08-06T08:12:11.610152+00:00"
         },
         {
-          "title": "Google Assistant to be discontinued on Android starting September 4 - searchengineland.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjV1UWhTcGZnX3VHeWhtaUwzV3liMXF4a3Uwc2xhY0t3SmtyTGhOZGFzS256RVhHTHF4SHJDNVdRTl9XN25ZVmRNb055VGhFdktNRmM2enZjUjRTRWtpSF9pYWtVd1VtR2ZXd3I5TVlhWjVtSHllbTdpLWxwUFZrclBjUDB0bFB6azNOc3AxaDdkNjNadm4zLWFnR2RUbF9GVG5idktR?oc=5",
-          "published_at": "2026-08-05T12:08:00+00:00",
-          "excerpt": "Google Assistant to be discontinued on Android starting September 4 Search Engine Land",
-          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
-        },
-        {
           "title": "Why the F.A.C.T.S. model is the key to search everywhere optimization",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNFYzdEg0a3RBM3NFSlNvZEQ5NnowdWVtWVJDcW0tTnJuOHBTbl9lVWlBYWItYVhFQWpxdVQ5UWFwSy05VWNQSHp6UzZwem9xbkdLanA5U0pKQTVZeDI0RFRRUjFPNHlQUVNDN1d1UHdDaWxvWHVCVU4tcXF0Ri1tZFlJWmR6NGFDVU8xUjE3M3dtbVA4RHZ2Y2RxcHc3V2RUQ2xKRWNNTQ?oc=5",
           "published_at": "2026-08-05T11:00:00+00:00",
@@ -4898,11 +4912,25 @@
           "fetched_at": "2026-08-06T08:12:11.610152+00:00"
         },
         {
+          "title": "Google Assistant to be discontinued on Android starting September 4",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjV1UWhTcGZnX3VHeWhtaUwzV3liMXF4a3Uwc2xhY0t3SmtyTGhOZGFzS256RVhHTHF4SHJDNVdRTl9XN25ZVmRNb055VGhFdktNRmM2enZjUjRTRWtpSF9pYWtVd1VtR2ZXd3I5TVlhWjVtSHllbTdpLWxwUFZrclBjUDB0bFB6azNOc3AxaDdkNjNadm4zLWFnR2RUbF9GVG5idktR?oc=5",
+          "published_at": "2026-08-05T07:00:00+00:00",
+          "excerpt": "Google Assistant to be discontinued on Android starting September 4 Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
           "title": "Public service Archives",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JWnlrNU83Wm1Uc0V3MDBjeUpiY3Ezb2diT09XOVUtWTFDUUU1NmFMeko5NkpROXF1MGRYQzNNcmZ6OHVyXzN3MFlGb25ZanIxbmU5eTVjU2l4c21mOHc?oc=5",
           "published_at": "2026-08-05T07:00:00+00:00",
           "excerpt": "Public service Archives Search Engine Land",
           "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
+          "title": "MarketWise Archives",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kRGFHa3Y5a1NHekpOMW8wdzYtWmxzUE1xVTBjUERFenJUQUxMSTNHRVl3TThNLVRoLTNJcUlsRkRoMFpzcHhUeGRYQ3dFX1ZBb2Fmc0lmTmY?oc=5",
+          "published_at": "2026-08-05T07:00:00+00:00",
+          "excerpt": "MarketWise Archives Search Engine Land",
+          "fetched_at": "2026-08-17T14:03:30.663803+00:00"
         },
         {
           "title": "AI can knock on the door. Your CRM marketing platform is still the house.",
@@ -4989,17 +5017,17 @@
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
-          "title": "Keyword research meets prompt research: A smarter way to prioritize topics",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVRLRkZYdjNWSE9tZ1pvNVZMLWgwcmsxYnB6RTY2aVJVWkNCSTdKZG1JSURhcG9nVExWQm1UeXdWLTBpTXdtYnJydzJKaWMzV2MtbDJrcU9mbHdtajhNN1NiRGlkU3AtcUpkdmdfWEQzWThDLVJ6V1E0bXBuV0tSeU9RUU51dWpLOWhMMjZUOA?oc=5",
-          "published_at": "2026-08-03T13:00:00+00:00",
-          "excerpt": "Keyword research meets prompt research: A smarter way to prioritize topics Search Engine Land",
-          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
-        },
-        {
           "title": "GEO for people who have to hit revenue targets",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUcGhxNHFlZEpIYjZwMDN3OHk1Y3h0UW9pN3RwTkg2bnBISWFPRG4yX21mY0xKcmVLTUZFeGhxMTh6dUNrMjdfckVKZENuY2hqZ3RJeHVoUWhpMW41RERaclYzd3FGZVowZjZ3?oc=5",
           "published_at": "2026-08-03T12:00:00+00:00",
           "excerpt": "GEO for people who have to hit revenue targets Search Engine Land",
+          "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
+          "title": "Keyword research meets prompt research: A smarter way to prioritize topics",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVRLRkZYdjNWSE9tZ1pvNVZMLWgwcmsxYnB6RTY2aVJVWkNCSTdKZG1JSURhcG9nVExWQm1UeXdWLTBpTXdtYnJydzJKaWMzV2MtbDJrcU9mbHdtajhNN1NiRGlkU3AtcUpkdmdfWEQzWThDLVJ6V1E0bXBuV0tSeU9RUU51dWpLOWhMMjZUOA?oc=5",
+          "published_at": "2026-08-03T07:00:00+00:00",
+          "excerpt": "Keyword research meets prompt research: A smarter way to prioritize topics Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
@@ -6152,6 +6180,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "AI Assistants Are Choosing Local Businesses For Your Customers via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/ai-assistants-are-choosing-local-businesses-for-your-customers/585275/",
+          "published_at": "2026-08-17T12:00:06+00:00",
+          "excerpt": "AI assistants narrow local searches before customers reach a website. See how Google builds those answers and which local signals businesses can optimize. The post AI Assistants Are Choosing Local Businesses For Your Customers appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-17T14:03:45.047091+00:00"
+        },
+        {
+          "title": "Google: Subject/Object Entity Order Affects AI Answers via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-subject-object-entity-order-affects-ai-answers/586089/",
+          "published_at": "2026-08-17T11:11:31+00:00",
+          "excerpt": "Google's research shows that LLMs struggle to recall facts when questions reverse the usual subject/object entity order. The post Google: Subject/Object Entity Order Affects AI Answers appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-17T14:03:45.047091+00:00"
+        },
+        {
           "title": "You don't have to figure out the AI search shift alone.",
           "url": "https://www.searchenginejournal.com/sej-pro/?itm_source=website&itm_medium=home-featured&itm_campaign=website-home-featured#:~:text=every%20single%20month-,SEJ%20Pro%20Live%20AMA,-AMA%20with%20Reddit",
           "published_at": null,
@@ -6194,7 +6236,7 @@
           "fetched_at": "2026-08-15T05:45:15.391179+00:00"
         },
         {
-          "title": "What A Claude Watermark Can & Can’t Tell You About Authorship via @sejournal, @MattGSouthern",
+          "title": "Claude’s Watermark Confirms AI Output, Not Authorship via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/what-a-claude-watermark-can-cant-tell-you-about-authorship/585754/",
           "published_at": "2026-08-14T19:00:39+00:00",
           "excerpt": "Anthropic plans to watermark Claude text. This article explains what a watermark can confirm and why not finding one doesn't mean the text isn't AI-generated. The post What A Claude Watermark Can & Can’t Tell You About Authorship appeared first on Search Engine Journal .",
@@ -6215,14 +6257,14 @@
           "fetched_at": "2026-08-14T15:13:16.708155+00:00"
         },
         {
-          "title": "ChatGPT Already Knows Who It’ll Recommend Before It Searches via @sejournal, @suganthan",
+          "title": "ChatGPT Already Knows Who’s In The Running Before It Searches via @sejournal, @suganthan",
           "url": "https://www.searchenginejournal.com/chatgpt-already-knows-who-itll-recommend-before-it-searches/585162/",
           "published_at": "2026-08-14T12:00:06+00:00",
           "excerpt": "ChatGPT names brands in its own search queries before it fetches anything. Being in that query is worth 33 times more. The post ChatGPT Already Knows Who It’ll Recommend Before It Searches appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-14T15:13:16.708155+00:00"
         },
         {
-          "title": "Google Is Removing Language Targeting From Search Campaigns via @sejournal, @brookeosmundson",
+          "title": "Google Ads Is Retiring Language Targeting In Search Campaigns via @sejournal, @brookeosmundson",
           "url": "https://www.searchenginejournal.com/google-is-removing-language-targeting-from-search-campaigns/585592/",
           "published_at": "2026-08-13T21:30:33+00:00",
           "excerpt": "Google Ads is changing language targeting for Search and Performance Max in September 2026. Learn what’s changing and what advertisers need to know. The post Google Is Removing Language Targeting From Search Campaigns appeared first on Search Engine Journal .",
@@ -6292,13 +6334,6 @@
           "fetched_at": "2026-08-13T08:54:29.708388+00:00"
         },
         {
-          "title": "OpenAI Allows Some Health & Finance Ads In ChatGPT via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/openai-allows-some-health-finance-ads-in-chatgpt/585516/",
-          "published_at": "2026-08-12T15:14:23+00:00",
-          "excerpt": "OpenAI's ad rules now allow some health and finance advertisers in ChatGPT, while placement restrictions still apply to sensitive conversations. The post OpenAI Allows Some Health & Finance Ads In ChatGPT appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-12T15:40:59.332478+00:00"
-        },
-        {
           "title": "Cloudflare Gives AI Agents Wallets That Pay For What They Access via @sejournal, @slobodanmanic",
           "url": "https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/",
           "published_at": "2026-08-12T14:30:08+00:00",
@@ -6310,6 +6345,13 @@
           "url": "https://www.searchenginejournal.com/automattic-fires-back-at-wp-engines-motion-for-sanctions/585472/",
           "published_at": "2026-08-12T10:33:17+00:00",
           "excerpt": "Automattic rebuts WP Engine, says Matt Mullenweg's \"personal communications with romantic partners\" has \"nothing to do with this case.\" The post Automattic Fires Back At WP Engine’s Motion For Sanctions appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-12T15:40:59.332478+00:00"
+        },
+        {
+          "title": "OpenAI Allows Some Health & Finance Ads In ChatGPT",
+          "url": "https://www.searchenginejournal.com/openai-allows-some-health-finance-ads-in-chatgpt/585516/",
+          "published_at": "2026-08-12T00:00:00+00:00",
+          "excerpt": "OpenAI's ad rules now allow some health and finance advertisers in ChatGPT, while placement restrictions still apply to sensitive conversations. The post OpenAI Allows Some Health & Finance Ads In ChatGPT appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-12T15:40:59.332478+00:00"
         },
         {
@@ -7397,6 +7439,48 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "SEO content: A complete guide for search and AI",
+          "url": "https://www.semrush.com/blog/seo-content/",
+          "published_at": "2026-08-17T10:53:00+00:00",
+          "excerpt": "SEO content now has three audiences: users, search engines, and AI. Follow this five-step workflow to create pages that rank and get cited.",
+          "fetched_at": "2026-08-17T14:03:51.544370+00:00"
+        },
+        {
+          "title": "SEO strategy in 2026: how to build one (+ free workbook)",
+          "url": "https://www.semrush.com/blog/seo-strategy/",
+          "published_at": "2026-08-17T10:08:00+00:00",
+          "excerpt": "Create a modern SEO strategy that earns qualified leads across search and AI answers. Get a free workbook to make the six decisions that matter.",
+          "fetched_at": "2026-08-17T14:03:51.544370+00:00"
+        },
+        {
+          "title": "SEO for a new website: A sequencing guide for your first 90 days",
+          "url": "https://www.semrush.com/blog/seo-for-new-website/",
+          "published_at": "2026-08-17T09:29:00+00:00",
+          "excerpt": "SEO for a new website is all about sequencing. This guide covers what to do before and after launch, plus how to show up in AI answers like ChatGPT.",
+          "fetched_at": "2026-08-17T14:03:51.544370+00:00"
+        },
+        {
+          "title": "What is query fan-out? How to find & optimize for subqueries",
+          "url": "https://www.semrush.com/blog/query-fan-out/",
+          "published_at": "2026-08-17T09:16:00+00:00",
+          "excerpt": "Query fan-out splits one AI prompt into a dozen or more subqueries. Learn how to find the ones that matter for your brand, and how to cover them.",
+          "fetched_at": "2026-08-17T14:03:51.544370+00:00"
+        },
+        {
+          "title": "How to do prompt research for AI SEO",
+          "url": "https://www.semrush.com/blog/prompt-research-for-ai-seo/",
+          "published_at": "2026-08-17T09:03:00+00:00",
+          "excerpt": "Learn a repeatable process for prompt research that shows where your brand competes and where it doesn‘t.",
+          "fetched_at": "2026-08-17T14:03:51.544370+00:00"
+        },
+        {
+          "title": "Sergei Rogulin",
+          "url": "https://www.semrush.com/blog/user/sergei-rogulin/",
+          "published_at": "2026-08-17T00:00:00+00:00",
+          "excerpt": "How we nearly tripled our share of voice and boosted our AI visibility with Enterprise AIO and AI Visibility Toolkit. A systematic approach with real data.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "Claude watermarks its output: what content teams should know",
           "url": "https://www.semrush.com/blog/claude-ai-watermarks/",
           "published_at": "2026-08-13T14:56:00+00:00",
@@ -7409,6 +7493,13 @@
           "published_at": "2026-08-13T11:09:00+00:00",
           "excerpt": "We tested 5 free chatbots for AI keyword research. See how they performed and how to validate their suggestions with real search data.",
           "fetched_at": "2026-08-13T15:41:29.761859+00:00"
+        },
+        {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-08-13T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "234 ChatGPT prompts (and how to write your own)",
@@ -7446,13 +7537,6 @@
           "fetched_at": "2026-08-10T15:40:33.604309+00:00"
         },
         {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-08-10T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
           "url": "https://www.semrush.com/blog/chatgpt-topical-focus-study/",
           "published_at": "2026-08-03T13:00:00+00:00",
@@ -7474,13 +7558,6 @@
           "fetched_at": "2026-08-03T15:53:30.575992+05:30"
         },
         {
-          "title": "Alex Lindley",
-          "url": "https://www.semrush.com/blog/user/alex-lindley/",
-          "published_at": "2026-07-31T00:00:00+00:00",
-          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "Digital PR for AI visibility: 5 tactics + how to measure",
           "url": "https://www.semrush.com/blog/digital-pr-for-ai-visibility/",
           "published_at": "2026-07-30T10:42:00+00:00",
@@ -7500,13 +7577,6 @@
           "published_at": "2026-07-30T10:07:00+00:00",
           "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
           "fetched_at": "2026-08-03T15:53:30.575992+05:30"
-        },
-        {
-          "title": "Cecilia Meis",
-          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
-          "published_at": "2026-07-30T00:00:00+00:00",
-          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Keyword mapping for SEO: Guide + free template",
@@ -7539,7 +7609,7 @@
         {
           "title": "Semrush reviews: What people say about the platform",
           "url": "https://www.semrush.com/blog/semrush-reviews/",
-          "published_at": "2026-07-24T16:34:00+00:00",
+          "published_at": "2026-07-24T00:00:00+00:00",
           "excerpt": "Semrush has over 6,300 online reviews across G2 and Capterra. Read a summary of the top themes seen across them.",
           "fetched_at": "2026-07-27T09:55:50.147637+05:30"
         },
@@ -7553,30 +7623,37 @@
         {
           "title": "The Content SEO Manager: How a brand-new role took over content marketing [Study]",
           "url": "https://www.semrush.com/blog/content-seo-manager-study/",
-          "published_at": "2026-07-23T13:00:00+00:00",
+          "published_at": "2026-07-23T00:00:00+00:00",
           "excerpt": "We analyzed 1,000+ Content SEO Manager job listings to reveal the skills, AI expertise, and SEO trends shaping this emerging role.",
           "fetched_at": "2026-07-24T10:43:01.707942+05:30"
         },
         {
           "title": "What is a landing page? What to know + examples",
           "url": "https://www.semrush.com/blog/what-is-a-landing-page/",
-          "published_at": "2026-07-23T09:42:00+00:00",
+          "published_at": "2026-07-23T00:00:00+00:00",
           "excerpt": "A landing page is designed to drive one action. Here are 7 best practices to improve your landing pages.",
           "fetched_at": "2026-07-24T10:43:01.707942+05:30"
         },
         {
           "title": "What are backlinks in SEO & how do I get them?",
           "url": "https://www.semrush.com/blog/what-are-backlinks/",
-          "published_at": "2026-07-22T10:22:00+00:00",
+          "published_at": "2026-07-22T00:00:00+00:00",
           "excerpt": "Backlinks are links pointing to your website from other sites and can improve your website’s visibility.",
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
         {
           "title": "Website marketing: A guide for the AI search era",
           "url": "https://www.semrush.com/blog/website-marketing/",
-          "published_at": "2026-07-22T10:05:00+00:00",
+          "published_at": "2026-07-22T00:00:00+00:00",
           "excerpt": "Website marketing strategies that build the credibility AI systems use to decide which brands to recommend.",
           "fetched_at": "2026-07-23T12:40:10.406784+05:30"
+        },
+        {
+          "title": "Cecilia Meis",
+          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
+          "published_at": "2026-07-22T00:00:00+00:00",
+          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "The 9 Best Generative Engine Optimization (GEO) Tools of 2026",
@@ -7985,13 +8062,6 @@
           "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
-          "title": "Sergei Rogulin",
-          "url": "https://www.semrush.com/blog/user/sergei-rogulin/",
-          "published_at": "2026-05-29T00:00:00+00:00",
-          "excerpt": "How we nearly tripled our share of voice and boosted our AI visibility with Enterprise AIO and AI Visibility Toolkit. A systematic approach with real data.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "Ecommerce marketing: 10 strategies for search and AI in 2026",
           "url": "https://www.semrush.com/blog/ecommerce-marketing/",
           "published_at": "2026-05-22T00:00:00+00:00",
@@ -8011,6 +8081,13 @@
           "published_at": "2026-05-21T00:00:00+00:00",
           "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
+        },
+        {
+          "title": "Alex Lindley",
+          "url": "https://www.semrush.com/blog/user/alex-lindley/",
+          "published_at": "2026-05-21T00:00:00+00:00",
+          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "What is PPC? A starter guide to pay-per-click advertising",
@@ -8145,9 +8222,9 @@
       "color": "#6757d9",
       "articles": [
         {
-          "title": "ZoomInfo Pricing in 2026: Plans, Costs, Alternatives & Overview",
+          "title": "How Much Does ZoomInfo Actually Cost in 2026?",
           "url": "https://www.factors.ai/blog/zoominfo-pricing",
-          "published_at": "2026-08-13T00:00:00+00:00",
+          "published_at": "2026-08-17T00:00:00+00:00",
           "excerpt": "ZoomInfo costs anywhere from $15K to $60K+ a year. Get the full pricing breakdown and see whether a lower-cost alternative makes more sense.",
           "fetched_at": "2026-08-13T15:41:31.820113+00:00"
         },
@@ -9047,6 +9124,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Get closer to the game with Gemini and Pixel",
+          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+          "published_at": "2026-08-17T08:00:00+00:00",
+          "excerpt": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+          "fetched_at": "2026-08-17T14:03:56.916514+00:00"
+        },
         {
           "title": "Introducing Gemini 3.7 Flash",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
