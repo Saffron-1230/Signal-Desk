@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T13:49:14.561780+00:00",
+  "last_updated": "2026-08-17T06:02:44.499302+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,6 +4310,13 @@
           "fetched_at": "2026-08-15T13:46:47.979254+00:00"
         },
         {
+          "title": "The missing step in vibe coding: Verify what actually shipped",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2RzLVVsRWxRRXRzNmZaMk5zSE82cTBFNUFNRHFRc3BtaG52bE1CQ0lGNkVZSnc2emppb2hSbXdidXdmSFl4ZkcyN2NuY0lpT0xRWkl1Z1RtalB5SkpQYzhrTmhOdGxZdUxpU0FjM1llTnV6cUhORS1kanZ2SVR1VGxQeEI0U1lEYnF4aWcxTXlzRk0ydGhSOUpZbkU?oc=5",
+          "published_at": "2026-08-14T12:00:00+00:00",
+          "excerpt": "The missing step in vibe coding: Verify what actually shipped Search Engine Land",
+          "fetched_at": "2026-08-17T06:02:20.210984+00:00"
+        },
+        {
           "title": "Google Ads is removing language targeting from Search campaigns",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUEwT3NpRk1wVzhfZjhCQTdpeEp6eF90NjEyUFVaRkhJT2lGM3lYR0lFVTIxVm9yVk1ubTNZb0RIMFF6YmtqRkVyTEtQVUh4R29ydjhKOHFQS1Ixdl9BZUNSQ3Q3SU1semFxZ2VyNElIaDduMjA5R3VsaTJpWVlCcjV4d3lOSk5nbnlSVmszTDhwd2pmdEgteW12QnZwSDZz?oc=5",
           "published_at": "2026-08-13T21:30:00+00:00",
@@ -4385,6 +4392,20 @@
           "published_at": "2026-08-12T17:24:00+00:00",
           "excerpt": "Montway Archives Search Engine Land",
           "fetched_at": "2026-08-16T13:48:53.305164+00:00"
+        },
+        {
+          "title": "Matthew Kennelly Archives",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEM1ZObkxTRURYanBGeTdBZGxsTnhyRnVUTndUV0FCOU9jMEswaDJNcVdUSkxtdHBBQVFta2JRNG1ZRGY0QjFyRHNheW8zYWRMbEpjMDZUYjI5ZGxidkJVTQ?oc=5",
+          "published_at": "2026-08-12T17:24:00+00:00",
+          "excerpt": "Matthew Kennelly Archives Search Engine Land",
+          "fetched_at": "2026-08-17T06:02:20.210984+00:00"
+        },
+        {
+          "title": "Montway Archives",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UTWVLS0JYZkVUZExFRHpocVl6aDRUT1o2RDhKSTgyaEd5cEhxcGZlbDlkaEFrWk5FdDV2X0FsN0lmYy04RF9hM3F3a2tEcmJJYzhKUg?oc=5",
+          "published_at": "2026-08-12T17:24:00+00:00",
+          "excerpt": "Montway Archives Search Engine Land",
+          "fetched_at": "2026-08-17T06:02:20.210984+00:00"
         },
         {
           "title": "Google adds real-time reporting endpoint to Campaign Manager 360 API",
@@ -4618,20 +4639,6 @@
           "fetched_at": "2026-08-08T06:26:46.274032+00:00"
         },
         {
-          "title": "How business context changes AI recommendations",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjRyTkwxb1JoM2F1T1pWbFQ2TnFPVGZTZV9FdnpFbDJBbE1ubU1yZlR1bXA0UUZnUjEyQUFRd09TRjdWeXNEZjExcTVTRXBtM1ZUSnpuck8zOGtyNjUzNEN4U3VKcHZKV3BpcFpiUDJSankxa0lSSWl4LUd4YVpfZlozbUZZUQ?oc=5",
-          "published_at": "2026-08-07T14:36:00+00:00",
-          "excerpt": "How business context changes AI recommendations Search Engine Land",
-          "fetched_at": "2026-08-08T06:26:46.274032+00:00"
-        },
-        {
-          "title": "What six perspectives reveal about demand generation in AI search",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd1RlUmMzMXRYc05BN1FEclcxWndpYklaZ1R3Q1RaYWdncEVGTVU4N0cySEZPQTAzYVU2NFJRSGhtazRxcFJzdTRWcVVTanRkX2pLUml2Yk5wVWpQSC0yTjNKc1BnUVpHQ3IzcjlJUXdNY3ZwNFRiWGlxOHlaVm91bXV3?oc=5",
-          "published_at": "2026-08-07T13:00:00+00:00",
-          "excerpt": "What six perspectives reveal about demand generation in AI search Search Engine Land",
-          "fetched_at": "2026-08-08T14:18:21.029758+00:00"
-        },
-        {
           "title": "You can’t demand the click if you won’t give the link",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3Z1VXBpV1pzRXZPdUhYbkxKTG5PYmRxbzI2WVhNTDJ5QUxMVkNYcjhMcjgxVFVFN0V0RzdBUXg1ZzRoU1JtSXZYel9Pd3QyczQyYWJFX2xpMklOVTBlTGVrekdoVHByV2w0MlpjOHNCblowWGkyd05wekZyOWRuRG84ajFkSDBGc1BMWVhKNGo?oc=5",
           "published_at": "2026-08-07T11:00:00+00:00",
@@ -4639,10 +4646,24 @@
           "fetched_at": "2026-08-08T06:26:46.274032+00:00"
         },
         {
+          "title": "How business context changes AI recommendations",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjRyTkwxb1JoM2F1T1pWbFQ2TnFPVGZTZV9FdnpFbDJBbE1ubU1yZlR1bXA0UUZnUjEyQUFRd09TRjdWeXNEZjExcTVTRXBtM1ZUSnpuck8zOGtyNjUzNEN4U3VKcHZKV3BpcFpiUDJSankxa0lSSWl4LUd4YVpfZlozbUZZUQ?oc=5",
+          "published_at": "2026-08-07T07:00:00+00:00",
+          "excerpt": "How business context changes AI recommendations Search Engine Land",
+          "fetched_at": "2026-08-08T06:26:46.274032+00:00"
+        },
+        {
           "title": "Your rankings aren’t telling you what your customers see",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaU1aSzBReS1RNDBwclNsQjJXMTE0RGprRHhmc2JtZGZzRjh1MkdmelJYTnZaNi1vNndpNEpIbGZUaC1tYjBRT244cDRPMnAtWFltRFBHMEFVeXJRZVItUzJwT2gtMVZoRUppNkNtdFg3VzdWY1RmTHR6ck42NnNaSE9QSWdjTFcyU0F5SlZEYVJHQkFHNVE?oc=5",
           "published_at": "2026-08-07T07:00:00+00:00",
           "excerpt": "Your rankings aren’t telling you what your customers see Search Engine Land",
+          "fetched_at": "2026-08-08T14:18:21.029758+00:00"
+        },
+        {
+          "title": "What six perspectives reveal about demand generation in AI search",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd1RlUmMzMXRYc05BN1FEclcxWndpYklaZ1R3Q1RaYWdncEVGTVU4N0cySEZPQTAzYVU2NFJRSGhtazRxcFJzdTRWcVVTanRkX2pLUml2Yk5wVWpQSC0yTjNKc1BnUVpHQ3IzcjlJUXdNY3ZwNFRiWGlxOHlaVm91bXV3?oc=5",
+          "published_at": "2026-08-07T07:00:00+00:00",
+          "excerpt": "What six perspectives reveal about demand generation in AI search Search Engine Land",
           "fetched_at": "2026-08-08T14:18:21.029758+00:00"
         },
         {
@@ -4766,13 +4787,6 @@
         },
         {
           "title": "Public service Archives",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JWnlrNU83Wm1Uc0V3MDBjeUpiY3Ezb2diT09XOVUtWTFDUUU1NmFMeko5NkpROXF1MGRYQzNNcmZ6OHVyXzN3MFlGb25ZanIxbmU5eTVjU2l4c21mOHc?oc=5",
-          "published_at": "2026-08-05T14:56:00+00:00",
-          "excerpt": "Public service Archives Search Engine Land",
-          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
-        },
-        {
-          "title": "Public service Archives",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ROURVU0xlR2NYT2R0VmdmNVBxbXJiOG45WVdfNjlER0VNTHdqTk1saFAxOXl1VFVicWE1MWJ0SXljRU5oU3dzSzZwa0hkODdWMEFkQ0RURnUyQjRBbVpN?oc=5",
           "published_at": "2026-08-05T14:56:00+00:00",
           "excerpt": "Public service Archives Search Engine Land",
@@ -4881,6 +4895,13 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUklqMGxvZFh1WDNCVkJJTHVid0RKZTNwMFpmRlBIZTZYSDVpbzNRUURzRENTQzdRM0F4cTRuVEVPbVZCcjdvN19UTHQxYlJWM2hNYTFXb3BLME9kdDIyV3YtWVFfcmdTdkpFYnhBU0VjSVNjMi13S1lPNHVLYVAwR0lTT1J5eHNLaHhyanlZQTkzb2pnLWhXLVpGbw?oc=5",
           "published_at": "2026-08-05T07:00:00+00:00",
           "excerpt": "Google tests clickable hyperlinks in Search ad descriptions Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
+          "title": "Public service Archives",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JWnlrNU83Wm1Uc0V3MDBjeUpiY3Ezb2diT09XOVUtWTFDUUU1NmFMeko5NkpROXF1MGRYQzNNcmZ6OHVyXzN3MFlGb25ZanIxbmU5eTVjU2l4c21mOHc?oc=5",
+          "published_at": "2026-08-05T07:00:00+00:00",
+          "excerpt": "Public service Archives Search Engine Land",
           "fetched_at": "2026-08-06T08:12:11.610152+00:00"
         },
         {
@@ -5059,13 +5080,6 @@
           "fetched_at": "2026-08-03T15:53:27.227864+05:30"
         },
         {
-          "title": "Why separating brand and non-brand campaigns improves ROAS",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVjBlSkRERjNKQXhmdzB1dnNrY2MweEpsdDM0cDFTZEltSG9WVW5KOUdEeDVoTUFxNFdDd0dzVzRINWRheWROMFJrWGFNMVFfeE9aUi1LbjlVa3dFa2lUTUZiTnZZU2RuZlRGbmpWXzZrY0ZUV1NVSGZmV1pTRVFzbDVJQQ?oc=5",
-          "published_at": "2026-07-31T12:00:00+00:00",
-          "excerpt": "Why separating brand and non-brand campaigns improves ROAS Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "AI is building your digital experience. It’s also making it less accessible. by AudioEye",
           "url": "https://searchengineland.com/ai-is-building-your-digital-experience-its-also-making-it-less-accessible-483855",
           "published_at": "2026-07-31T11:00:00+05:30",
@@ -5091,6 +5105,13 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjdXRTREejVCREpPbllZOEI4QlNmV2s1RXg2OEdfZklNQ3BUZWJCaWtoNEtMNzZOT0pWMGswQ213TExZNENaeWhydlV1U0tOdEJ4Vlc1bWs0dEhxVFI2amJ0MlZtOWF0ek5GS2JuU05ZQzh4ZEVUdFBWMVFrczdCUjRDbWFHenlaRUgtSWQ4QQ?oc=5",
           "published_at": "2026-07-31T07:00:00+00:00",
           "excerpt": "AI makes SEO faster, but human expertise still wins Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Why separating brand and non-brand campaigns improves ROAS",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVjBlSkRERjNKQXhmdzB1dnNrY2MweEpsdDM0cDFTZEltSG9WVW5KOUdEeDVoTUFxNFdDd0dzVzRINWRheWROMFJrWGFNMVFfeE9aUi1LbjlVa3dFa2lUTUZiTnZZU2RuZlRGbmpWXzZrY0ZUV1NVSGZmV1pTRVFzbDVJQQ?oc=5",
+          "published_at": "2026-07-31T07:00:00+00:00",
+          "excerpt": "Why separating brand and non-brand campaigns improves ROAS Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
@@ -5808,6 +5829,20 @@
           "fetched_at": "2026-08-11T08:15:01.248184+00:00"
         },
         {
+          "title": "Data ethics Archives",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UWWU4clRqdHdNSmhqS2FjWkFjOUZPSVQ4NU1mMkgyelYwRE83T1lQUWlKLWdqQzVNTUo2RFBUUGo0Rmwzc2wwLWpCTEp3NmVhYXVlSG93V1FVdw?oc=5",
+          "published_at": "2026-07-20T07:00:00+00:00",
+          "excerpt": "Data ethics Archives Search Engine Land",
+          "fetched_at": "2026-08-17T06:02:20.210984+00:00"
+        },
+        {
+          "title": "Answer engine optimization Archives",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rbV83bzlMQXlpN2R3eWtzeGdjOHFkbG4xVUptVmk3NVBSdHVEWERQRDJJSXgzbHYxejBYLURLbWRkN0xZRGVEdUo2WDdoTUE?oc=5",
+          "published_at": "2026-07-20T07:00:00+00:00",
+          "excerpt": "Answer engine optimization Archives Search Engine Land",
+          "fetched_at": "2026-08-17T06:02:20.210984+00:00"
+        },
+        {
           "title": "Google expands Performance Max product reporting across all networks",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkxVYXFhLWFRRFpRRnl6OFNOazdSOU8xeHZoeW95Vk5Zc2JUNVVSUXNDQXltajA0dHRkSmFhVG5wNGMxRnFkUkd4YV84a3ZwMXIxYTJ5U0tfcmwzR0IxRFkweHdxUHdNaTRpQ29ueXVKUnBhdkpHSXFVcTZfYkczRk1iTXVFQW5NMVM3Sm5pNVZMOUI4aUFrZDNWbHE1YTdZR21GY3VyNA?oc=5",
           "published_at": "2026-07-16T19:09:00+00:00",
@@ -6116,6 +6151,13 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "You don't have to figure out the AI search shift alone.",
+          "url": "https://www.searchenginejournal.com/sej-pro/?itm_source=website&itm_medium=home-featured&itm_campaign=website-home-featured#:~:text=every%20single%20month-,SEJ%20Pro%20Live%20AMA,-AMA%20with%20Reddit",
+          "published_at": null,
+          "excerpt": "SEJ Pro delivers industry intelligence reports, practitioner playbooks, and direct access to experts so you know what's actually changing in search, and what to do about it.",
+          "fetched_at": "2026-08-17T06:02:33.439210+00:00"
+        },
         {
           "title": "ChatGPT’s Index, GA Benchmarks, Google Refiles Complaint – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-chatgpts-index-ga-benchmarks-google-refiles-complaint/585748/",
