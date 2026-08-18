@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T14:03:56.919704+00:00",
+  "last_updated": "2026-08-18T05:52:05.224696+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4268,6 +4268,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google Search Console Generative AI Performance Report in Search data bug",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEZmYlhJZ2pIQ084bndqdkdGVkNCWF92NGtkTHcxYzBickxxLUVlbzk3Y0U2QU8yVVVHYWhyczZva25oeGFjUDVBaGhVVHdfY2ZzS1hnWmtfYjVZemhKSzVGV3FFb3Zoc0dHSEpObzlLcFl2dEVheVhCRngxV2F0Sjc5aU1GUnJmQUpXc3BTeTZpQUtTNElYZlRNYzJhSDRUWFcwRWh1YlRFaWJFcUE?oc=5",
+          "published_at": "2026-08-17T19:55:00+00:00",
+          "excerpt": "Google Search Console Generative AI Performance Report in Search data bug Search Engine Land",
+          "fetched_at": "2026-08-18T05:51:38.436007+00:00"
+        },
+        {
+          "title": "Google Search pauses AI-generated images within AI Overviews",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFFUbHFyRndaWWN5cjNkbUsyNmFCSlVkdTc0LXZXRWRqemxiQXUzSzlvcHQ5OERRR2V1aDNlZll5WVJnRlozbnlfdjNyQWx5d3FpVlFHc29tX1FSRVlESFBGd21kaHJVckZFX0lEYmZrMzhYYktVMHl4TGNZSlVZXzVvTElKNGZkcldlNWF3MUxwbFVVcDc5Z2FRSjc?oc=5",
+          "published_at": "2026-08-17T16:55:00+00:00",
+          "excerpt": "Google Search pauses AI-generated images within AI Overviews Search Engine Land",
+          "fetched_at": "2026-08-18T05:51:38.436007+00:00"
+        },
+        {
+          "title": "Google updates Demand Gen view-through conversion optimization",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbTByU3JCNDczd1kxQks4ME9JRXdiUGQ5SkNyc1Y1N3RabVRWQm9fRU5Yc0JPdEZONjgzbHJSdHR5VUVxUzBaZmFNVlZmcnNYV00zdGtmMjF1emJFSThnNFU2SlowaHpXT21md2x4ZFBnSzVQWHhnQkEwa0lYVTNEbHdkdDlxbXBTOVdpcXFOVWFXUkdqM25UZzJQVGl0bU0?oc=5",
+          "published_at": "2026-08-17T15:43:00+00:00",
+          "excerpt": "Google updates Demand Gen view-through conversion optimization Search Engine Land",
+          "fetched_at": "2026-08-18T05:51:38.436007+00:00"
+        },
+        {
+          "title": "The AI visibility index: Which brands are vanishing from AI search?",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeFlzN1VLQXoxN1FNWFNfdV82cURlMV9qR2oyaFJ5TEkwUnRPQXY5MGZ2WlRIN091aHk5T2pyUnB2ZjhoeDkwaHJkY20wWllDdDczVGJYcl84YTF6eHA1RWh2ZG8xcFVyR25Dc3VNSHRONVdhTnY0UC0wN3Zad3ZKX1htR0NOSS1VWk9teTM0VG4?oc=5",
+          "published_at": "2026-08-17T14:00:00+00:00",
+          "excerpt": "The AI visibility index: Which brands are vanishing from AI search? Search Engine Land",
+          "fetched_at": "2026-08-18T05:51:38.436007+00:00"
+        },
+        {
           "title": "The $113,000 paid search test: How much traffic did organic replace?",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZbTNVYkdLY0Y2VW0yVW92TUhrRGQ5R09tSnRKbnBVeHFzR2JaNmkzd0FoR094RFpDNEFwQXBMTVo4YmVqTkUtVlV4TGM0RHA3NXJXOGxZRV8wY1hRUDhFbkVWRG9ydFkwYk0wY0lNaDlCZ2I1NVp3?oc=5",
           "published_at": "2026-08-17T13:00:00+00:00",
@@ -4322,6 +4350,13 @@
           "published_at": "2026-08-14T14:00:00+00:00",
           "excerpt": "LLM traffic converts differently — here’s what to do about it Search Engine Land",
           "fetched_at": "2026-08-14T15:13:04.205163+00:00"
+        },
+        {
+          "title": "The latest jobs in search marketing",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+          "published_at": "2026-08-14T13:41:00+00:00",
+          "excerpt": "The latest jobs in search marketing Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "Demand Gen shows why PPC can no longer hide behind intent",
@@ -4695,13 +4730,6 @@
           "fetched_at": "2026-08-07T15:34:09.908511+00:00"
         },
         {
-          "title": "Google to auto-upgrade automatically created assets to AI Max",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNFFIVzRYQ0dDLWNZXzZocWhzTUVjMFNBeGktdWlZMlFOYVF2UlNfM3BFR29mSHpJaHRlUTd1cS00NUx0UEt1UllpOFVCeWttYVJZdXVGTkk2RzhQUjhPSVIzYUQ5X1JrSksxWWFhM085MGtCdENYVC1NR3J6SWFOaVJnZ1dUckZYVUcxMUtMbVFDa25j?oc=5",
-          "published_at": "2026-08-06T18:09:00+00:00",
-          "excerpt": "Google to auto-upgrade automatically created assets to AI Max Search Engine Land",
-          "fetched_at": "2026-08-07T08:33:23.050052+00:00"
-        },
-        {
           "title": "New Google help doc details Deal Ends annotations for Shopping ads",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblJqaTZ6Y1VDNkZ1RFFQakxSSF9iV3JQRXpkQTlFWG9aVzJZQ001dnVkbWtJemR3ZV9XR1czVUduX0lWTWdHTlozamxFZzlTOGRqUEgxT3NSZEJkUDM1NzNOb2h1dzFhdS1SUEhuTXJJNWFxczlLNklHUFdXTUo0RmFZU0Exb2hNNlNpWWFrRk9zdUxvRXEtVnNVUEZmOXVWdW9oSg?oc=5",
           "published_at": "2026-08-06T17:05:00+00:00",
@@ -4772,6 +4800,13 @@
           "fetched_at": "2026-08-07T15:34:09.908511+00:00"
         },
         {
+          "title": "Google to auto-upgrade automatically created assets to AI Max",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNFFIVzRYQ0dDLWNZXzZocWhzTUVjMFNBeGktdWlZMlFOYVF2UlNfM3BFR29mSHpJaHRlUTd1cS00NUx0UEt1UllpOFVCeWttYVJZdXVGTkk2RzhQUjhPSVIzYUQ5X1JrSksxWWFhM085MGtCdENYVC1NR3J6SWFOaVJnZ1dUckZYVUcxMUtMbVFDa25j?oc=5",
+          "published_at": "2026-08-06T07:00:00+00:00",
+          "excerpt": "Google to auto-upgrade automatically created assets to AI Max Search Engine Land",
+          "fetched_at": "2026-08-07T08:33:23.050052+00:00"
+        },
+        {
           "title": "Google explains what advertisers should expect from Smart Bidding changes",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJOWlBSTEJtUlRSYTBCVFBqTVV0WXVZWmd3Y3hmUU51YTZBSXpsdTRuaDkzSzlRU3VscS1WUWhJVEU3WXF2WHpxelpzTHBGSnJWU1pMbXhyRkpXLWF2d0pPVXIxM0RKM3JuYUlfSDlJaExLSG14d3dHei1QOWdEendzY1p1eGQ0eWNLN21KbE1QVzNBT3dtZi10Nnhpb1B4SnExMjdrVWFwQ1pBS3c?oc=5",
           "published_at": "2026-08-06T07:00:00+00:00",
@@ -4818,13 +4853,6 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFlTXhfd0ZDRGVhcWN3LUtyeC1naVBwbHNmZi1acm5IbXZaZ1dweEZCbHdiMTY0NTI2TnhxeC16alA3djljeVgyeHQ3VHVPUm5Cd1FXcTB6X3h5WHJBRVJvRVFlYlk3VzBKN1dqQVJVdHRydzJrdE5ra084cnBDQk93ZU1rb28?oc=5",
           "published_at": "2026-08-05T13:30:00+00:00",
           "excerpt": "What happens when AI Overviews contradict paid search ads? Search Engine Land",
-          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
-        },
-        {
-          "title": "Why the F.A.C.T.S. model is the key to search everywhere optimization",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNFYzdEg0a3RBM3NFSlNvZEQ5NnowdWVtWVJDcW0tTnJuOHBTbl9lVWlBYWItYVhFQWpxdVQ5UWFwSy05VWNQSHp6UzZwem9xbkdLanA5U0pKQTVZeDI0RFRRUjFPNHlQUVNDN1d1UHdDaWxvWHVCVU4tcXF0Ri1tZFlJWmR6NGFDVU8xUjE3M3dtbVA4RHZ2Y2RxcHc3V2RUQ2xKRWNNTQ?oc=5",
-          "published_at": "2026-08-05T11:00:00+00:00",
-          "excerpt": "Why the F.A.C.T.S. model is the key to search everywhere optimization Search Engine Land",
           "fetched_at": "2026-08-06T08:12:11.610152+00:00"
         },
         {
@@ -4912,6 +4940,13 @@
           "fetched_at": "2026-08-06T08:12:11.610152+00:00"
         },
         {
+          "title": "Why the F.A.C.T.S. model is the key to search everywhere optimization",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNFYzdEg0a3RBM3NFSlNvZEQ5NnowdWVtWVJDcW0tTnJuOHBTbl9lVWlBYWItYVhFQWpxdVQ5UWFwSy05VWNQSHp6UzZwem9xbkdLanA5U0pKQTVZeDI0RFRRUjFPNHlQUVNDN1d1UHdDaWxvWHVCVU4tcXF0Ri1tZFlJWmR6NGFDVU8xUjE3M3dtbVA4RHZ2Y2RxcHc3V2RUQ2xKRWNNTQ?oc=5",
+          "published_at": "2026-08-05T07:00:00+00:00",
+          "excerpt": "Why the F.A.C.T.S. model is the key to search everywhere optimization Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
           "title": "Google Assistant to be discontinued on Android starting September 4",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjV1UWhTcGZnX3VHeWhtaUwzV3liMXF4a3Uwc2xhY0t3SmtyTGhOZGFzS256RVhHTHF4SHJDNVdRTl9XN25ZVmRNb055VGhFdktNRmM2enZjUjRTRWtpSF9pYWtVd1VtR2ZXd3I5TVlhWjVtSHllbTdpLWxwUFZrclBjUDB0bFB6azNOc3AxaDdkNjNadm4zLWFnR2RUbF9GVG5idktR?oc=5",
           "published_at": "2026-08-05T07:00:00+00:00",
@@ -4989,13 +5024,6 @@
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
         },
         {
-          "title": "Ana Kostic shared why \"best practice\" cost her client 40% of revenue.",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWHFKcmdVb3pNQ1ZtYUpXQ0dNVXlSQVgxcXpwWGR4UmJ4R1VZWUFoeU5UNC16dHNpTkI4STdnbFVjZ2xpQ1FzTUZjQ0R5MTA5M3Fyb1RSZjAzUFA4S1F5ejBZZ0JvV2czS1hwcFpHcmtaSm04cTN1eDdLWWlRQzJaUzU4S093RmlBZGRnRWpZZW40YmtlcDVBTnJnWXl6SWhEcTlj?oc=5",
-          "published_at": "2026-08-03T15:08:00+00:00",
-          "excerpt": "Ana Kostic shared why \"best practice\" cost her client 40% of revenue. Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Ana Kostic Archives",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hOUl4RVhtVkNFNjFaVVBQVFZpUFJlOHQ3T290bDVfRW5RZ3N3NlEyekhpY3MtUERZczk4OW85Z3p3UU81UUJNdGt5SFZrajc0dlNxYWxjTHlMUQ?oc=5",
           "published_at": "2026-08-03T15:08:00+00:00",
@@ -5029,6 +5057,13 @@
           "published_at": "2026-08-03T07:00:00+00:00",
           "excerpt": "Keyword research meets prompt research: A smarter way to prioritize topics Search Engine Land",
           "fetched_at": "2026-08-05T13:10:25.301893+05:30"
+        },
+        {
+          "title": "Ana Kostic shared why \"best practice\" cost her client 40% of revenue.",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWHFKcmdVb3pNQ1ZtYUpXQ0dNVXlSQVgxcXpwWGR4UmJ4R1VZWUFoeU5UNC16dHNpTkI4STdnbFVjZ2xpQ1FzTUZjQ0R5MTA5M3Fyb1RSZjAzUFA4S1F5ejBZZ0JvV2czS1hwcFpHcmtaSm04cTN1eDdLWWlRQzJaUzU4S093RmlBZGRnRWpZZW40YmtlcDVBTnJnWXl6SWhEcTlj?oc=5",
+          "published_at": "2026-08-03T07:00:00+00:00",
+          "excerpt": "Ana Kostic shared why \"best practice\" cost her client 40% of revenue. Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "How to measure your brand’s visibility in Gemini",
@@ -5829,6 +5864,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "ChatGPT topic ownership is rare, and SEO alone doesn’t explain it",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXTE82VWd3OW9qWnVGMzAyNVBtdmdhU3lidGp0YXVSdFlEbDJxRmRKa2pmaEI2SHkxbkZjbmRkQXAxOElieS1TMTVIaGtMTUk2UmVMeWR4cmEzMHp6ZkxzT1hpdF9KTnlydkNFSVZhT0Q?oc=5",
+          "published_at": "2026-07-21T07:00:00+00:00",
+          "excerpt": "ChatGPT topic ownership is rare, and SEO alone doesn’t explain it Search Engine Land",
+          "fetched_at": "2026-08-18T05:51:38.436007+00:00"
+        },
+        {
           "title": "Google confirms Local Inventory Ads will be enabled by default",
           "url": "https://searchengineland.com/google-confirms-local-inventory-ads-will-be-enabled-by-default-482779",
           "published_at": "2026-07-20T21:33:43+05:30",
@@ -5925,13 +5967,6 @@
           "published_at": "2026-07-10T11:00:00+00:00",
           "excerpt": "Link building for legitimacy: Building brand credibility in a competitive search environment Search Engine Land",
           "fetched_at": "2026-08-08T06:26:46.274032+00:00"
-        },
-        {
-          "title": "The latest jobs in search marketing",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-          "published_at": "2026-07-10T07:00:00+00:00",
-          "excerpt": "The latest jobs in search marketing Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "Resolve",
@@ -6180,6 +6215,41 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "YouTube Changes How It Counts Views On Long-Form & Live via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/youtube-changes-how-it-counts-views-on-long-form-live/586166/",
+          "published_at": "2026-08-17T20:10:31+00:00",
+          "excerpt": "YouTube is changing how it counts views on long-form videos and live streams. The post YouTube Changes How It Counts Views On Long-Form & Live appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-18T05:51:52.833978+00:00"
+        },
+        {
+          "title": "The AI Conversations Leaking Into Your Search Console via @sejournal, @suganthan",
+          "url": "https://www.searchenginejournal.com/the-ai-conversations-leaking-into-your-search-console/585663/",
+          "published_at": "2026-08-17T19:00:05+00:00",
+          "excerpt": "Search Console records what people say to AI Mode. Here's how to pull those fragments out and sort them into seven buckets. The post The AI Conversations Leaking Into Your Search Console appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-18T05:51:52.833978+00:00"
+        },
+        {
+          "title": "Google Lets You Turn Off Visible Watermarks In Gemini via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-lets-you-turn-off-visible-watermarks-in-gemini/586145/",
+          "published_at": "2026-08-17T17:00:44+00:00",
+          "excerpt": "Google Gemini allows users to disable the visible watermark on AI-generated images, videos, and music, while SynthID and C2PA marks stay embedded. The post Google Lets You Turn Off Visible Watermarks In Gemini appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-18T05:51:52.833978+00:00"
+        },
+        {
+          "title": "Llms.txt V2 Adds Formal Markdown Linking For AI Agents via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/llms-txt-v2-formal-markdown-linking-ai-agents/586119/",
+          "published_at": "2026-08-17T16:06:23+00:00",
+          "excerpt": "A v2 update to the llms.txt spec has shipped, adding formal link relations that help AI agents locate Markdown versions of pages. The post Llms.txt V2 Adds Formal Markdown Linking For AI Agents appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-18T05:51:52.833978+00:00"
+        },
+        {
+          "title": "The Paid ‘Search’ Email Placement: Right Place, Right Time via @sejournal, @jonkagan",
+          "url": "https://www.searchenginejournal.com/the-paid-search-email-placement-right-place-right-time/583613/",
+          "published_at": "2026-08-17T14:30:29+00:00",
+          "excerpt": "Email placements work, but not as a replacement for email marketing. What Demand Gen and Audience Ads actually deliver, and how to set them up. The post The Paid ‘Search’ Email Placement: Right Place, Right Time appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-18T05:51:52.833978+00:00"
+        },
+        {
           "title": "AI Assistants Are Choosing Local Businesses For Your Customers via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/ai-assistants-are-choosing-local-businesses-for-your-customers/585275/",
           "published_at": "2026-08-17T12:00:06+00:00",
@@ -6299,7 +6369,7 @@
           "fetched_at": "2026-08-13T15:41:24.579113+00:00"
         },
         {
-          "title": "How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? – Ask An SEO via @sejournal, @HelenPollitt1",
+          "title": "How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? – Ask An SEO",
           "url": "https://www.searchenginejournal.com/how-do-i-know-if-ai-overviews-are-taking-clicks-from-my-site-and-what-can-i-do-about-it-ask-an-seo/583417/",
           "published_at": "2026-08-13T12:00:20+00:00",
           "excerpt": "Stable rankings, stable impressions, falling CTR: the signature of AI Overview click loss. Learn to spot it and decide what's worth recovering. The post How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? – Ask An SEO appeared first on Search…",
@@ -6317,13 +6387,6 @@
           "url": "https://www.searchenginejournal.com/google-gemini-passes-1b-monthly-users-63-now-use-voice/585624/",
           "published_at": "2026-08-13T01:00:07+00:00",
           "excerpt": "Google says its Gemini app passed 1 billion monthly users and reports that 63% now use voice, alongside camera, uploads, and app automation data. The post Google Gemini Passes 1B Monthly Users, 63% Now Use Voice appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-13T08:54:29.708388+00:00"
-        },
-        {
-          "title": "How To Create YMYL Content That Gets Cited In AI Search",
-          "url": "https://www.searchenginejournal.com/how-to-create-health-ymyl-content-that-performs-in-ai-search/584431/",
-          "published_at": "2026-08-12T19:00:47+00:00",
-          "excerpt": "Thin health content was always risky. With AI Overviews answering most medical queries, it's now invisible. Here's what earns citations instead. The post How to Create Health & YMYL Content That Performs in AI Search appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-13T08:54:29.708388+00:00"
         },
         {
@@ -6360,6 +6423,13 @@
           "published_at": "2026-08-12T00:00:00+00:00",
           "excerpt": "Google Smart Bidding changes August 17. Learn which Target CPA and Target ROAS campaigns to audit and what to update before the deadline. The post Google Is Ending Target Overperformance – What to Fix Before August 17 appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-12T15:40:59.332478+00:00"
+        },
+        {
+          "title": "How To Create YMYL Content That Gets Cited In AI Search",
+          "url": "https://www.searchenginejournal.com/how-to-create-health-ymyl-content-that-performs-in-ai-search/584431/",
+          "published_at": "2026-08-12T00:00:00+00:00",
+          "excerpt": "Thin health content was always risky. With AI Overviews answering most medical queries, it's now invisible. Here's what earns citations instead. The post How to Create Health & YMYL Content That Performs in AI Search appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-13T08:54:29.708388+00:00"
         },
         {
           "title": "ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern",
@@ -8469,6 +8539,13 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "How to Detect AI-Generated Content in 2026",
+          "url": "https://www.webfx.com/blog/ai/how-to-detect-ai-content/",
+          "published_at": "2026-08-17T13:21:20+00:00",
+          "excerpt": "The post How to Detect AI-Generated Content in 2026 appeared first on WebFX .",
+          "fetched_at": "2026-08-18T05:52:01.027155+00:00"
+        },
+        {
           "title": "How to Get ROI From Yelp Ads: A Revenue-First Guide",
           "url": "https://www.webfx.com/blog/ppc/yelp-advertising-roi/",
           "published_at": "2026-08-14T12:48:01+00:00",
@@ -8881,6 +8958,13 @@
       ],
       "color": "#34a853",
       "articles": [
+        {
+          "title": "Build zero-trust AI agents with Google's Agent Development Kit",
+          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
+          "published_at": "2026-08-17T00:00:00+00:00",
+          "excerpt": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections and malicious execution, developers must implement hardware…",
+          "fetched_at": "2026-08-18T05:52:04.389843+00:00"
+        },
         {
           "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
           "url": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
