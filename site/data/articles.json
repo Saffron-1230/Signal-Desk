@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T05:52:05.224696+00:00",
+  "last_updated": "2026-08-18T14:16:51.607998+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4268,11 +4268,32 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google Ads will use generative AI to resize Performance Max video ads",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0dnTFhyTThjYVk3TFJES1hZYTFNdDV6Rkd0d3pRTHlLeUxzVmRMU01rbWk0aFFXZG5tQWJGVU05SlVCaDVNNXQ3blFiTmU1dlQ3MUVaZktHbHU1Z2h6MWdWMVNXZDlpU1dIN1RXZEdvelI2eU9UZVV6YjlBU1RraWtVNV90UWtpeklBaUUwVnBoMGVOemQtSDlNeF9HSGt5elJPWldCMDQ?oc=5",
+          "published_at": "2026-08-17T22:45:00+00:00",
+          "excerpt": "Google Ads will use generative AI to resize Performance Max video ads Search Engine Land",
+          "fetched_at": "2026-08-18T14:16:30.009584+00:00"
+        },
+        {
+          "title": "ChatGPT draws more paid clicks from Google than any other top destination",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEV2LXdTNmZVTEFLUzdibUhPLWNnR196UXJRWERsSlN1UW53YXllSjhXbUhUZ2tVcDZabklQekcyUmZnTERTOWRDZ1RHSkxLUkxUUzl1VVdJQjBBUExXMWRQQXRzenJnMnpmRHZ6a3FPajc3b0xXNzQyclJRTjViS2RlaGZBbS11XzAxWVVrMEY4UnpwTDJ1Tko0UEoyemZlRDNsaEVfX0hrVnpxNHc?oc=5",
+          "published_at": "2026-08-17T22:30:00+00:00",
+          "excerpt": "ChatGPT draws more paid clicks from Google than any other top destination Search Engine Land",
+          "fetched_at": "2026-08-18T14:16:30.009584+00:00"
+        },
+        {
           "title": "Google Search Console Generative AI Performance Report in Search data bug",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEZmYlhJZ2pIQ084bndqdkdGVkNCWF92NGtkTHcxYzBickxxLUVlbzk3Y0U2QU8yVVVHYWhyczZva25oeGFjUDVBaGhVVHdfY2ZzS1hnWmtfYjVZemhKSzVGV3FFb3Zoc0dHSEpObzlLcFl2dEVheVhCRngxV2F0Sjc5aU1GUnJmQUpXc3BTeTZpQUtTNElYZlRNYzJhSDRUWFcwRWh1YlRFaWJFcUE?oc=5",
           "published_at": "2026-08-17T19:55:00+00:00",
           "excerpt": "Google Search Console Generative AI Performance Report in Search data bug Search Engine Land",
           "fetched_at": "2026-08-18T05:51:38.436007+00:00"
+        },
+        {
+          "title": "Want more AI visibility and citations? Start monitoring trends",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnNlNUlBY2R4Ykp2N2JEUldlUWRxTnlWLWtfSTNuUkozWVZOUjhUbG9rSFliRU1DdVhoMHdVcDdWYm5BcGxXNDJGZ21fYURvMWtreXk1Um5PbWk1d3pBdHZQTHFId0NkcWVNd3AwQ21CdGxyR2hQSnhpOWY2TUk5X1pZNVEzaUtUR2c?oc=5",
+          "published_at": "2026-08-17T17:05:00+00:00",
+          "excerpt": "Want more AI visibility and citations? Start monitoring trends Search Engine Land",
+          "fetched_at": "2026-08-18T14:16:30.009584+00:00"
         },
         {
           "title": "Google Search pauses AI-generated images within AI Overviews",
@@ -4308,6 +4329,13 @@
           "published_at": "2026-08-17T12:00:00+00:00",
           "excerpt": "Inside ChatGPT’s retrieval stack: The index, cache, and pages it actually reads Search Engine Land",
           "fetched_at": "2026-08-17T14:03:30.663803+00:00"
+        },
+        {
+          "title": "ArXiv Archives",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94eDI0WnpfWXhUNHhReWxhVlNXaXg1ZVA2R24xQVhseUxWZTlLMXpDV3RzaTBNNFcwTDBWcFMtc2E3dUZmVVB6d2FnT0ZaQ3V2SGc?oc=5",
+          "published_at": "2026-08-17T12:00:00+00:00",
+          "excerpt": "ArXiv Archives Search Engine Land",
+          "fetched_at": "2026-08-18T14:16:30.009584+00:00"
         },
         {
           "title": "Gemini 3.7 Flash rolling out in Google Search",
@@ -4590,13 +4618,6 @@
           "fetched_at": "2026-08-12T08:50:36.331222+00:00"
         },
         {
-          "title": "Google confirms testing new buttons on home page to drive users to AI-powered search features",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQk56Wlg3eEFUVXh4eU9NYk11dTYzNmZtMTFTR2FYT0gyVUtRMWJhNTNBNlAtWWRMeFRvaDVnbTZsbFNSN3FfN19TUC1PV3dSUENpcDdZZDQwMzJVSG5JYjRTcW42VTJjSlZvSDZkb0lKYlRJaTNPem5ybTFiaXkzWG4wUi1MaGlxTWx6a1lzU29TMTJJV2V4ZUVWUVZUWkZvZ2xFRHpFVDJQNThvUldGNzV1UHIya1ozNXFhbnpTT3hHelRaMEw4NA?oc=5",
-          "published_at": "2026-08-11T00:36:00+00:00",
-          "excerpt": "Google confirms testing new buttons on home page to drive users to AI-powered search features Search Engine Land",
-          "fetched_at": "2026-08-11T08:15:01.248184+00:00"
-        },
-        {
           "title": "Study: ChatGPT ads appear on 26% of commercial prompts",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1puSm1laUFYbUNNUlFoX25HVTNwRWFHWFo5dXpmWjdLcE5vUjIxVHFqbk80eEY3TTlLOWQwZEhMQnFwMWVKd3VGZUIxZDQ2V0FhbG4teWVSeDJDVkxjQlFjMHVoWWNGdUVBSzkxUkdVWlkzcDZUQXlQaVYxdngxNHJ3dzZvTURMVmZoMUVWVDc1UQ?oc=5",
           "published_at": "2026-08-10T22:21:00+00:00",
@@ -4651,6 +4672,13 @@
           "published_at": "2026-08-10T12:00:00+00:00",
           "excerpt": "How customers build confidence across the search journey Search Engine Land",
           "fetched_at": "2026-08-10T15:40:15.209025+00:00"
+        },
+        {
+          "title": "Google confirms testing new buttons on home page to drive users to AI-powered search features",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQk56Wlg3eEFUVXh4eU9NYk11dTYzNmZtMTFTR2FYT0gyVUtRMWJhNTNBNlAtWWRMeFRvaDVnbTZsbFNSN3FfN19TUC1PV3dSUENpcDdZZDQwMzJVSG5JYjRTcW42VTJjSlZvSDZkb0lKYlRJaTNPem5ybTFiaXkzWG4wUi1MaGlxTWx6a1lzU29TMTJJV2V4ZUVWUVZUWkZvZ2xFRHpFVDJQNThvUldGNzV1UHIya1ozNXFhbnpTT3hHelRaMEw4NA?oc=5",
+          "published_at": "2026-08-10T07:00:00+00:00",
+          "excerpt": "Google confirms testing new buttons on home page to drive users to AI-powered search features Search Engine Land",
+          "fetched_at": "2026-08-11T08:15:01.248184+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -6215,6 +6243,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "What We Can Learn From Evolving ChatGPT Fan-Out Queries via @sejournal, @lilyraynyc",
+          "url": "https://www.searchenginejournal.com/what-we-can-learn-from-evolving-chatgpt-fan-out-queries/586254/",
+          "published_at": "2026-08-18T13:01:30+00:00",
+          "excerpt": "ChatGPT's search behavior is starting to look like E-E-A-T. Here's the data behind that theory, and what to do about it. The post What We Can Learn From Evolving ChatGPT Fan-Out Queries appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-18T14:16:41.676385+00:00"
+        },
+        {
+          "title": "Get Your Business Found & Chosen In AI Search [Free SEJ Live Event]",
+          "url": "https://www.searchenginejournal.com/get-your-business-found-chosen-in-ai-search-free-sej-live-event/584710/",
+          "published_at": "2026-08-18T12:00:54+00:00",
+          "excerpt": "Turn AI-driven local discovery into actual customers. SEJ Live on August 26 brings three hours of practical guidance and live Q&A. The post Get Your Business Found & Chosen In AI Search [Free SEJ Live Event] appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-18T14:16:41.676385+00:00"
+        },
+        {
           "title": "YouTube Changes How It Counts Views On Long-Form & Live via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/youtube-changes-how-it-counts-views-on-long-form-live/586166/",
           "published_at": "2026-08-17T20:10:31+00:00",
@@ -6355,20 +6397,6 @@
           "fetched_at": "2026-08-14T08:47:20.920360+00:00"
         },
         {
-          "title": "Why Anthropic’s Claude Watermark May Be A New Text-Marking Method via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/why-anthropics-claude-watermark-may-be-a-new-text-marking-method/585703/",
-          "published_at": "2026-08-13T15:23:00+00:00",
-          "excerpt": "Anthropic has revealed enough about Claude's watermark to identify how it might work. A new research paper may be the clue. The post Why Anthropic’s Claude Watermark May Be A New Text-Marking Method appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-13T15:41:24.579113+00:00"
-        },
-        {
-          "title": "Reddit Preserved The Part Of The Internet We Broke via @sejournal, @brentcsutoras",
-          "url": "https://www.searchenginejournal.com/reddit-preserved-the-part-of-the-internet-we-broke/585485/",
-          "published_at": "2026-08-13T14:30:44+00:00",
-          "excerpt": "Search referrals measure how people reach Reddit. They don't measure why people go looking for it, and that gap is where the value sits. The post Reddit Preserved The Part Of The Internet We Broke appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-13T15:41:24.579113+00:00"
-        },
-        {
           "title": "How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? – Ask An SEO",
           "url": "https://www.searchenginejournal.com/how-do-i-know-if-ai-overviews-are-taking-clicks-from-my-site-and-what-can-i-do-about-it-ask-an-seo/583417/",
           "published_at": "2026-08-13T12:00:20+00:00",
@@ -6388,6 +6416,20 @@
           "published_at": "2026-08-13T01:00:07+00:00",
           "excerpt": "Google says its Gemini app passed 1 billion monthly users and reports that 63% now use voice, alongside camera, uploads, and app automation data. The post Google Gemini Passes 1B Monthly Users, 63% Now Use Voice appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-13T08:54:29.708388+00:00"
+        },
+        {
+          "title": "Why Anthropic’s Claude Watermark May Be A New Text-Marking Method",
+          "url": "https://www.searchenginejournal.com/why-anthropics-claude-watermark-may-be-a-new-text-marking-method/585703/",
+          "published_at": "2026-08-13T00:00:00+00:00",
+          "excerpt": "Anthropic has revealed enough about Claude's watermark to identify how it might work. A new research paper may be the clue. The post Why Anthropic’s Claude Watermark May Be A New Text-Marking Method appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-13T15:41:24.579113+00:00"
+        },
+        {
+          "title": "Reddit Preserved The Part Of The Internet We Broke",
+          "url": "https://www.searchenginejournal.com/reddit-preserved-the-part-of-the-internet-we-broke/585485/",
+          "published_at": "2026-08-13T00:00:00+00:00",
+          "excerpt": "Search referrals measure how people reach Reddit. They don't measure why people go looking for it, and that gap is where the value sits. The post Reddit Preserved The Part Of The Internet We Broke appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-13T15:41:24.579113+00:00"
         },
         {
           "title": "Google Amends SerpApi Suit With Content Licensing Terms via @sejournal, @MattGSouthern",
@@ -9208,6 +9250,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
+          "published_at": "2026-08-18T09:00:00+00:00",
+          "excerpt": "A high-altitude view of a commercial airplane flying above a layer of clouds, with a distinct white contrail trailing behind it.",
+          "fetched_at": "2026-08-18T14:16:51.605086+00:00"
+        },
         {
           "title": "Get closer to the game with Gemini and Pixel",
           "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
