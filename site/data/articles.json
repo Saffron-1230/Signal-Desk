@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T05:54:04.671320+00:00",
+  "last_updated": "2026-08-19T14:18:20.576320+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4268,6 +4268,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google Ads is finally building a stronger foundation for B2B lead gen",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzZJQWxOVGpNc0ZvRFNhYXBuUWlPb3NpUUVLaWxvdXRPaHVWcGNKX192UkdldnFMS3U1ZkpFUXpwTFFBOWQxMXRNcEV2MWRjRUFyYWpZSXRFRTJPbThpNnlPT200dWs2TXRRRVB4LVYtSGZEYVBIZHJ6TlJzNFY3OXkyV1pRZw?oc=5",
+          "published_at": "2026-08-19T13:00:00+00:00",
+          "excerpt": "Google Ads is finally building a stronger foundation for B2B lead gen Search Engine Land",
+          "fetched_at": "2026-08-19T14:17:56.895044+00:00"
+        },
+        {
           "title": "Google releases August 2026 spam update",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczdic2xoeUphYVlrT2ZoSVBjLVBIbEN5RHR1dkFOQVpHRTRISGVYUmIzQ3FTaFlQUmFXUlBKYUVMY21XYTRCaFkxZWpEQm9WOVVnQVh0WG8tMWU1RHVObm9MNnhuRmh3TWZHd2J2MDZOMGFXX1E2VG1NeTNjQzM2SQ?oc=5",
           "published_at": "2026-08-18T16:37:00+00:00",
@@ -5274,6 +5281,13 @@
           "published_at": "2026-07-31T07:00:00+00:00",
           "excerpt": "Why every SEO team now needs a social topical map Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Carrefour Archives",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jT1pTRUtreHQ3VUdRYXpRdDJtR2dVRW5qMTkxaU91UlZHNHFoM2dOeTNCV3hELUtGdTdGMG4zbkpISGprODhvNlFHckJyNDBvTDE1d09ydw?oc=5",
+          "published_at": "2026-07-31T07:00:00+00:00",
+          "excerpt": "Carrefour Archives Search Engine Land",
+          "fetched_at": "2026-08-19T14:17:56.895044+00:00"
         },
         {
           "title": "AI models favor familiar brands in search: Study",
@@ -6292,6 +6306,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "How To Track Google AI Mode Traffic In Search Console via @sejournal, @suganthan",
+          "url": "https://www.searchenginejournal.com/how-to-track-google-ai-mode-traffic-in-search-console/586194/",
+          "published_at": "2026-08-19T12:00:51+00:00",
+          "excerpt": "Search Console hides AI Mode query data by default. This breakdown compares four extraction methods, including a free ML-powered tool. The post How To Track Google AI Mode Traffic In Search Console appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-19T14:18:08.513261+00:00"
+        },
+        {
+          "title": "Google Answers Why Spam Updates Need To Happen via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-answers-why-spam-updates-need-to-happen/586382/",
+          "published_at": "2026-08-19T10:42:13+00:00",
+          "excerpt": "Why does Google have spam updates every once in a while? Google’s John Mueller answers that question and explains the reason why Google doesn’t just get rid of spam on a regular basis with existing algorithms. Spam Algorithms And Updates There are many kinds of search spam, and…",
+          "fetched_at": "2026-08-19T14:18:08.513261+00:00"
+        },
+        {
+          "title": "Google Answers Why Search Updates Aren’t Announced Right Away via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-answers-why-search-updates-arent-announced-right-away/586370/",
+          "published_at": "2026-08-19T10:19:30+00:00",
+          "excerpt": "Google's John Mueller explains why updates aren't announced earlier when rankings are already bouncing around. The post Google Answers Why Search Updates Aren’t Announced Right Away appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-19T14:18:08.513261+00:00"
+        },
+        {
           "title": "How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches",
           "url": "https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/",
           "published_at": "2026-08-18T19:00:48+00:00",
@@ -6439,13 +6474,6 @@
           "fetched_at": "2026-08-15T05:45:15.391179+00:00"
         },
         {
-          "title": "YouTube Measures Creator Video on Branded Search Lift, But The Attribution Gap Still Exists via @sejournal, @gregjarboe",
-          "url": "https://www.searchenginejournal.com/youtube-measures-creator-video-on-branded-search-lift-but-the-attribution-gap-still-exists/584876/",
-          "published_at": "2026-08-14T17:30:21+00:00",
-          "excerpt": "Google's creator playbook proves creator campaigns lift branded search, but omits attribution windows, baselines, and controls. The post YouTube Measures Creator Video on Branded Search Lift, But The Attribution Gap Still Exists appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-15T05:45:15.391179+00:00"
-        },
-        {
           "title": "Cloudflare: Machine Traffic Could Hit 1,000x Human Traffic In 5 Years via @sejournal, @slobodanmanic",
           "url": "https://www.searchenginejournal.com/the-biggest-ai-crawler-on-my-website-was-hunting-for-credentials/585159/",
           "published_at": "2026-08-14T14:30:22+00:00",
@@ -6458,6 +6486,13 @@
           "published_at": "2026-08-14T12:00:06+00:00",
           "excerpt": "ChatGPT names brands in its own search queries before it fetches anything. Being in that query is worth 33 times more. The post ChatGPT Already Knows Who It’ll Recommend Before It Searches appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-14T15:13:16.708155+00:00"
+        },
+        {
+          "title": "YouTube Measures Creator Video on Branded Search Lift, But The Attribution Gap Still Exists",
+          "url": "https://www.searchenginejournal.com/youtube-measures-creator-video-on-branded-search-lift-but-the-attribution-gap-still-exists/584876/",
+          "published_at": "2026-08-14T00:00:00+00:00",
+          "excerpt": "Google's creator playbook proves creator campaigns lift branded search, but omits attribution windows, baselines, and controls. The post YouTube Measures Creator Video on Branded Search Lift, But The Attribution Gap Still Exists appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-15T05:45:15.391179+00:00"
         },
         {
           "title": "The GEO Trust Gap: SEOs Want The Data, But Not The Platforms Selling It",
@@ -7635,6 +7670,20 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "The ultimate guide to creating a content marketing strategy",
+          "url": "https://www.semrush.com/blog/content-marketing-strategy-guide/",
+          "published_at": "2026-08-19T08:34:00+00:00",
+          "excerpt": "This step-by-step guide teaches you how to build a content marketing strategy for your business.",
+          "fetched_at": "2026-07-22T11:51:12.570259+05:30"
+        },
+        {
+          "title": "Microsoft Clarity adds an AI Scrape-to-Referral Ratio",
+          "url": "https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/",
+          "published_at": "2026-08-19T08:22:00+00:00",
+          "excerpt": "Microsoft Clarity‘s AI Scrape-to-Referral Ratio compares what AI crawlers take from your site with what they send back.",
+          "fetched_at": "2026-08-19T14:18:14.635691+00:00"
+        },
+        {
           "title": "SEO content: A complete guide for search and AI",
           "url": "https://www.semrush.com/blog/seo-content/",
           "published_at": "2026-08-17T10:53:00+00:00",
@@ -7670,11 +7719,25 @@
           "fetched_at": "2026-08-17T14:03:51.544370+00:00"
         },
         {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-08-17T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "Sergei Rogulin",
           "url": "https://www.semrush.com/blog/user/sergei-rogulin/",
           "published_at": "2026-08-17T00:00:00+00:00",
           "excerpt": "How we nearly tripled our share of voice and boosted our AI visibility with Enterprise AIO and AI Visibility Toolkit. A systematic approach with real data.",
           "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
+          "title": "Michael Ofei",
+          "url": "https://www.semrush.com/blog/user/michael-ofei/",
+          "published_at": "2026-08-17T00:00:00+00:00",
+          "excerpt": "Create a modern SEO strategy that earns qualified leads across search and AI answers. Get a free workbook to make the six decisions that matter.",
+          "fetched_at": "2026-08-19T14:18:14.635691+00:00"
         },
         {
           "title": "Claude watermarks its output: what content teams should know",
@@ -7689,13 +7752,6 @@
           "published_at": "2026-08-13T11:09:00+00:00",
           "excerpt": "We tested 5 free chatbots for AI keyword research. See how they performed and how to validate their suggestions with real search data.",
           "fetched_at": "2026-08-13T15:41:29.761859+00:00"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-08-13T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "234 ChatGPT prompts (and how to write your own)",
@@ -7791,14 +7847,14 @@
         {
           "title": "How to find AI visibility gaps with Semrush",
           "url": "https://www.semrush.com/blog/find-ai-visibility-gaps-with-semrush/",
-          "published_at": "2026-07-27T09:34:00+00:00",
+          "published_at": "2026-07-27T00:00:00+00:00",
           "excerpt": "Find AI visibility gaps with Semrush. Spot prompts and sources where competitors get cited but you don‘t.",
           "fetched_at": "2026-07-28T09:57:10.843327+05:30"
         },
         {
           "title": "13 Advanced SEO techniques & strategies for 2026",
           "url": "https://www.semrush.com/blog/advanced-seo/",
-          "published_at": "2026-07-27T09:12:00+00:00",
+          "published_at": "2026-07-27T00:00:00+00:00",
           "excerpt": "Advanced SEO techniques include optimizing content for AI extraction and improving crawl depth.",
           "fetched_at": "2026-07-28T09:57:10.843327+05:30"
         },
@@ -8328,13 +8384,6 @@
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
         {
-          "title": "The Ultimate Guide to Creating a Content Marketing Strategy",
-          "url": "https://www.semrush.com/blog/content-marketing-strategy-guide/",
-          "published_at": "2025-10-29T00:00:00+00:00",
-          "excerpt": "This step-by-step guide teaches you how to build a content marketing strategy for your business.",
-          "fetched_at": "2026-07-22T11:51:12.570259+05:30"
-        },
-        {
           "title": "Banner Ad Sizes: Choosing the Right Size",
           "url": "https://www.semrush.com/blog/banner-ad-sizes/",
           "published_at": "2024-10-18T00:00:00+00:00",
@@ -8417,6 +8466,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "Top 12 Marketing Attribution Tools in 2026 (Compared)",
+          "url": "https://www.factors.ai/blog/top-marketing-attribution-tools",
+          "published_at": "2026-08-19T00:00:00+00:00",
+          "excerpt": "Compare the top 12 marketing attribution tools for 2026. Detailed pricing, features, pros & cons, and a side-by-side comparison table to find the best fit for your B2B stack.",
+          "fetched_at": "2026-08-19T14:18:16.628633+00:00"
+        },
         {
           "title": "How Much Does ZoomInfo Actually Cost in 2026?",
           "url": "https://www.factors.ai/blog/zoominfo-pricing",
