@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T05:56:20.445229+00:00",
+  "last_updated": "2026-08-20T14:21:54.621168+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4268,6 +4268,27 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "The next AI money grab: Charging for editorial corrections",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KQ3d5UV85TFpPNlliVU83T0tuN2VreUZ6RTRWY3FRLUNtUnFpSFZENzd6ejhhaUozZE9lX0VLQlNjZ2QzWFdQRmhtTC1UTEliRGVPMXg3NzdQQjNwZlU0cWt3Tk9pd3VRY3BkdVpyYzBzeHJFN3FfWUV4QQ?oc=5",
+          "published_at": "2026-08-20T12:00:00+00:00",
+          "excerpt": "The next AI money grab: Charging for editorial corrections Search Engine Land",
+          "fetched_at": "2026-08-20T14:21:32.060296+00:00"
+        },
+        {
+          "title": "Google Ads API v25.1 expands measurement and insights",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaUxvbDlSanRXUTBnTU03VUZnMXNlcklmOE1SZ3VBeENJdjlKSDVnaV84UDVmWHA4anpMTGJ3dWJOdWtJd2lUVUMtZFp0VHBEWmVrVVRDMjlaMDRPR3FWa3pUbGJPaWVUVnU3OG05ZEhaTDJpUlYxeVVMZ2hpdHBreUEzRWRiYUlXdUN0ZHJEZHdiT1U?oc=5",
+          "published_at": "2026-08-19T21:06:00+00:00",
+          "excerpt": "Google Ads API v25.1 expands measurement and insights Search Engine Land",
+          "fetched_at": "2026-08-20T14:21:32.060296+00:00"
+        },
+        {
+          "title": "Microsoft Advertising rolls out AI Max globally for Search campaigns",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWsxc0VDUFNQaHlLWVkxcGFCeVFnaXd4bXFSLTZBd1QzOW9NbDByODlVa0lENVFUeVlmODQtcWp6RWRDSFJvSDR6UE9xNC0wclltdy1LQUhqdU1UZFd5Wm0yVmNnR1B1aHh3ckZiZ0huSG1ZR1htRk5rNDVtYW94WnJiTHFDeUI3Nl9rQkRWamFHZVd5U0FWZ2V0VG93LUJPeWhaYXVKSQ?oc=5",
+          "published_at": "2026-08-19T20:46:00+00:00",
+          "excerpt": "Microsoft Advertising rolls out AI Max globally for Search campaigns Search Engine Land",
+          "fetched_at": "2026-08-20T14:21:32.060296+00:00"
+        },
+        {
           "title": "Business websites dominate Gemini local AI search citations: Study",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUgwdTJ1UHZQZXU5UDM1dVZwQjhqcHBkVlNhTHFFeDFrN0puakhIY0dZQkZhMDNJcVVXbjZQb3J3eVBqVFhjVmlIS2dxTjJHUDJEa05Fb1pvaE9kZUJRMFhudExLOGgtcXRLb3hQZ09JUXRWZ1dRajJfbU5sZTQ5S25vaWJQQm1aS2VLS01fNkxnRXY0WjJv?oc=5",
           "published_at": "2026-08-19T18:43:00+00:00",
@@ -4287,6 +4308,13 @@
           "published_at": "2026-08-19T15:00:00+00:00",
           "excerpt": "JavaScript links can make your pages invisible to AI search Search Engine Land",
           "fetched_at": "2026-08-20T05:56:03.249732+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yQjJwS2JkQlNDSGZhUWpzeC1pbUVrZ1lhQ1luaGtXelFMQkZJSURQaWw1aUNYdHE4eTZwNXRUcXhSeGxzLVhzTGVZcFZLd2FyOTBRSGFFZEZVRllvSWlCSkJQZUpDdjJfQVFZSWZxRDdXZ2JaeFpZSg?oc=5",
+          "published_at": "2026-08-19T14:55:05+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-08-20T14:21:32.060296+00:00"
         },
         {
           "title": "Reddit’s ChatGPT Search citations fell 86% in four days: Report",
@@ -4315,6 +4343,13 @@
           "published_at": "2026-08-19T13:00:00+00:00",
           "excerpt": "Google Ads is finally building a stronger foundation for B2B lead gen Search Engine Land",
           "fetched_at": "2026-08-19T14:17:56.895044+00:00"
+        },
+        {
+          "title": "Slop antibodies: The link between AI slop, watermarking, and commodity content",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVo5d1U4WkNyX2tBQW9iVkZUSEl0MWkxZndXaWg2ODBsdlZWczltZHZlcXJJMUZVQ0kzSmpmejBuU2ZKYmtZd293NmFOQ1V3RXdyY3FONnZjNHRKUWV1NFJWTGltV3FJOE96a0wxX2pwUUxEVFZlcUhPWUpIMjhFMlkzRVk1TUNDbG9UOGJ3eU5vR09BTFc5UnZ3RDJGY1RpR0FvZFJuSW5sTG9UeWtiQg?oc=5",
+          "published_at": "2026-08-19T12:00:00+00:00",
+          "excerpt": "Slop antibodies: The link between AI slop, watermarking, and commodity content Search Engine Land",
+          "fetched_at": "2026-08-20T14:21:32.060296+00:00"
         },
         {
           "title": "Google releases August 2026 spam update",
@@ -4681,13 +4716,6 @@
           "fetched_at": "2026-08-12T08:50:36.331222+00:00"
         },
         {
-          "title": "Google tests advertiser list above mobile Search ads",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3J5dnhyX3h2NTkyRGZnQkd5NzFFTEQ4Q0JSdjVQdVd5MnVPajNOa3lrSUpSbWZjU1cwR0wtUHJ3UVA5MFBqbE52YnpxVl81NFRPd0Utelo0Nmw4NElEYmQ1SXFkaXVDdnoyTHQ1MVVjd3pwT05KVWlFNkl1Zmd6YXllOGlncllzWV81QnpMd0dYQQ?oc=5",
-          "published_at": "2026-08-11T16:17:00+00:00",
-          "excerpt": "Google tests advertiser list above mobile Search ads Search Engine Land",
-          "fetched_at": "2026-08-12T08:50:36.331222+00:00"
-        },
-        {
           "title": "Google adds Campaign Data Import Validation Report",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeERzeVo4ajNRaFpKTTNBYjFsZm5xQ1dINEEtOS15X3JwVFJRUXphaENBczB1TFlvOW4wd1kzTTVFclNsNEFDS0RKODFsWFI3aktEZklPZU5lMHVPaDVCbWxMUmVtMURiWWo2bFByQ19ZT2tzQTZYWi03NWdKS1J1LUhOUF9EaFREVEgxeEYyTQ?oc=5",
           "published_at": "2026-08-11T15:32:00+00:00",
@@ -4718,8 +4746,15 @@
         {
           "title": "How to decide whether a keyword deserves its own page",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZSzVuV0pvZUhjdDdaWUc1QVFmcFRPWlJ6VnJFQzBxc0xxaGJudExyUXdUT1hlOTdyRi02OWRWdTN4T2dMeXlQLUo0R3lNV2RoSjNMVl8tY2NVOTk1TmJyZU5hb3gySmJYMk5fcw?oc=5",
-          "published_at": "2026-08-11T12:00:00+00:00",
+          "published_at": "2026-08-11T07:00:00+00:00",
           "excerpt": "How to decide whether a keyword deserves its own page Search Engine Land",
+          "fetched_at": "2026-08-12T08:50:36.331222+00:00"
+        },
+        {
+          "title": "Google tests advertiser list above mobile Search ads",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3J5dnhyX3h2NTkyRGZnQkd5NzFFTEQ4Q0JSdjVQdVd5MnVPajNOa3lrSUpSbWZjU1cwR0wtUHJ3UVA5MFBqbE52YnpxVl81NFRPd0Utelo0Nmw4NElEYmQ1SXFkaXVDdnoyTHQ1MVVjd3pwT05KVWlFNkl1Zmd6YXllOGlncllzWV81QnpMd0dYQQ?oc=5",
+          "published_at": "2026-08-11T07:00:00+00:00",
+          "excerpt": "Google tests advertiser list above mobile Search ads Search Engine Land",
           "fetched_at": "2026-08-12T08:50:36.331222+00:00"
         },
         {
@@ -4947,13 +4982,6 @@
           "fetched_at": "2026-08-07T08:33:23.050052+00:00"
         },
         {
-          "title": "Microsoft Advertising adds excluded content terms for Audience Ads",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUN1dWVNLVlRLTg5Vy10aGlyQ2ZGMzlOdzdxdDMtMHJDbExwa0NyOEp4eVFHRllGSXEtVGFPdVFQY3BfeHNQOUVBRWgxVG9oME0yYnZsbWI4SG1SelM4WjRUQ0RpbURGUmVDSDZiY3VjWlRqaUQ1UDBXUlJYSE1BRVVzTVctSlpnTXliSElubFhKMmNQTkU2X3lSY0laMHA0SUoyMw?oc=5",
-          "published_at": "2026-08-05T15:20:00+00:00",
-          "excerpt": "Microsoft Advertising adds excluded content terms for Audience Ads Search Engine Land",
-          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
-        },
-        {
           "title": "10 SEO use cases for auditing your accessibility tree for AI search",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Xb1M1YmF1cFlwMEdLX0pYQzRYY2lCSG01LU1JNGpWVU1rN2E2V2tBcHN2cWlxbG4tUDNQZzR2Z05qWGJBX3d5eG1yRE9tZVN2MTBmT3BBanJfbnFWRm5lQ2kzMFY4LUswZ3ZTRERwS29QTmwtcXdz?oc=5",
           "published_at": "2026-08-05T15:00:00+00:00",
@@ -5087,6 +5115,13 @@
           "fetched_at": "2026-08-06T08:12:11.610152+00:00"
         },
         {
+          "title": "Microsoft Advertising adds excluded content terms for Audience Ads",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUN1dWVNLVlRLTg5Vy10aGlyQ2ZGMzlOdzdxdDMtMHJDbExwa0NyOEp4eVFHRllGSXEtVGFPdVFQY3BfeHNQOUVBRWgxVG9oME0yYnZsbWI4SG1SelM4WjRUQ0RpbURGUmVDSDZiY3VjWlRqaUQ1UDBXUlJYSE1BRVVzTVctSlpnTXliSElubFhKMmNQTkU2X3lSY0laMHA0SUoyMw?oc=5",
+          "published_at": "2026-08-05T07:00:00+00:00",
+          "excerpt": "Microsoft Advertising adds excluded content terms for Audience Ads Search Engine Land",
+          "fetched_at": "2026-08-06T08:12:11.610152+00:00"
+        },
+        {
           "title": "Public service Archives",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JWnlrNU83Wm1Uc0V3MDBjeUpiY3Ezb2diT09XOVUtWTFDUUU1NmFMeko5NkpROXF1MGRYQzNNcmZ6OHVyXzN3MFlGb25ZanIxbmU5eTVjU2l4c21mOHc?oc=5",
           "published_at": "2026-08-05T07:00:00+00:00",
@@ -5211,6 +5246,13 @@
           "published_at": "2026-08-03T07:00:00+00:00",
           "excerpt": "Disclaimer Archives Search Engine Land",
           "fetched_at": "2026-08-16T05:49:42.653828+00:00"
+        },
+        {
+          "title": "Ana Kostic Archives",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80LUY3V0V4b3FNM292b2M1dUgwRy1OZlRBeTh4a2xqMExna1dpbFlPNU5FMHRxc3RqOGg2b3JPQkgwOVQ2M3hNSGQ5bGxOMjE5d0xRdTl3Umk?oc=5",
+          "published_at": "2026-08-03T07:00:00+00:00",
+          "excerpt": "Ana Kostic Archives Search Engine Land",
+          "fetched_at": "2026-08-20T14:21:32.060296+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -6355,6 +6397,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Prompt Injections Just Proved Something SEO Has Known For 25 Years via @sejournal, @theshelleywalsh",
+          "url": "https://www.searchenginejournal.com/prompt-injection-just-proved-something-seo-has-known-for-25-years/586405/",
+          "published_at": "2026-08-20T12:00:39+00:00",
+          "excerpt": "Hidden white-on-white text was an SEO trick 25 years ago. Now, it tells AI models what to conclude about you. The post Prompt Injections Just Proved Something SEO Has Known For 25 Years appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-20T14:21:42.356243+00:00"
+        },
+        {
           "title": "Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/",
           "published_at": "2026-08-19T22:03:26+00:00",
@@ -6411,7 +6460,7 @@
           "fetched_at": "2026-08-19T14:18:08.513261+00:00"
         },
         {
-          "title": "Google Answers Why Search Updates Aren’t Announced Right Away via @sejournal, @martinibuster",
+          "title": "Google Explains Why Search Updates Aren’t Announced Right Away via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-answers-why-search-updates-arent-announced-right-away/586370/",
           "published_at": "2026-08-19T10:19:30+00:00",
           "excerpt": "Google's John Mueller explains why updates aren't announced earlier when rankings are already bouncing around. The post Google Answers Why Search Updates Aren’t Announced Right Away appeared first on Search Engine Journal .",
@@ -6488,13 +6537,6 @@
           "fetched_at": "2026-08-18T05:51:52.833978+00:00"
         },
         {
-          "title": "Llms.txt V2 Adds Formal Markdown Linking For AI Agents via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/llms-txt-v2-formal-markdown-linking-ai-agents/586119/",
-          "published_at": "2026-08-17T16:06:23+00:00",
-          "excerpt": "A v2 update to the llms.txt spec has shipped, adding formal link relations that help AI agents locate Markdown versions of pages. The post Llms.txt V2 Adds Formal Markdown Linking For AI Agents appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-18T05:51:52.833978+00:00"
-        },
-        {
           "title": "AI Assistants Are Choosing Local Businesses For Your Customers via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/ai-assistants-are-choosing-local-businesses-for-your-customers/585275/",
           "published_at": "2026-08-17T12:00:06+00:00",
@@ -6514,6 +6556,13 @@
           "published_at": null,
           "excerpt": "SEJ Pro delivers industry intelligence reports, practitioner playbooks, and direct access to experts so you know what's actually changing in search, and what to do about it.",
           "fetched_at": "2026-08-17T06:02:33.439210+00:00"
+        },
+        {
+          "title": "Llms.txt V2 Adds Formal Markdown Linking For AI Agents",
+          "url": "https://www.searchenginejournal.com/llms-txt-v2-formal-markdown-linking-ai-agents/586119/",
+          "published_at": "2026-08-17T00:00:00+00:00",
+          "excerpt": "A v2 update to the llms.txt spec has shipped, adding formal link relations that help AI agents locate Markdown versions of pages. The post Llms.txt V2 Adds Formal Markdown Linking For AI Agents appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-18T05:51:52.833978+00:00"
         },
         {
           "title": "The Paid ‘Search’ Email Placement: Right Place, Right Time",
@@ -7761,6 +7810,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Google Search Console: the ultimate guide for 2026",
+          "url": "https://www.semrush.com/blog/google-search-console/",
+          "published_at": "2026-08-20T12:57:00+00:00",
+          "excerpt": "Learn how to properly set up GSC + use it to spot site issues and areas for improvement.",
+          "fetched_at": "2026-08-20T14:21:49.206486+00:00"
+        },
+        {
           "title": "The ultimate guide to creating a content marketing strategy",
           "url": "https://www.semrush.com/blog/content-marketing-strategy-guide/",
           "published_at": "2026-08-19T08:34:00+00:00",
@@ -8811,6 +8867,13 @@
       "archive_titles_canonical": true,
       "color": "#178bd4",
       "articles": [
+        {
+          "title": "Is AI Content Bad for SEO? Here’s What Determines Ranking",
+          "url": "https://www.webfx.com/blog/ai/dangers-ai-content/",
+          "published_at": "2026-08-20T12:40:44+00:00",
+          "excerpt": "The post Is AI Content Bad for SEO? Here’s What Determines Ranking appeared first on WebFX .",
+          "fetched_at": "2026-08-20T14:21:51.851996+00:00"
+        },
         {
           "title": "Will AI Replace Marketing Jobs? The Truth About AI Use in Marketing",
           "url": "https://www.webfx.com/blog/ai/will-ai-replace-marketing-jobs/",
