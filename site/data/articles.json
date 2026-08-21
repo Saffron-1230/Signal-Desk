@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T14:21:54.621168+00:00",
+  "last_updated": "2026-08-21T05:59:31.180146+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "What Is Information Gain in SEO? (and How To Add It to Your Content)",
+          "url": "https://ahrefs.com/blog/information-gain/",
+          "published_at": "2026-08-20T15:39:55+00:00",
+          "excerpt": "Whether Google runs a literal information gain score is still unconfirmed. But whether or not it improves your ranking is almost irrelevant. You should care about information gain because it’s your differentiator. The extra effort you put into creating useful, … Read more ›",
+          "fetched_at": "2026-08-21T05:59:07.983013+00:00"
+        },
         {
           "title": "Claude Now Watermarks Everything It Writes. Here’s What It Means for Marketers",
           "url": "https://ahrefs.com/blog/claude-now-watermarks-everything-it-writes/",
@@ -4268,6 +4275,41 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google makes the Preferred Source button more seamless",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYnJvR18wTjFaRGRnUjF4d1owM2VGdVItdDJHUW1BV1hhelo2bkFUZklueHBQQVd0OU5Ka3BISHlVWWxVLXQ3eFc3Y1R3UDV0N25Pc3VfVUJ1Y2FQYkpTMlNmbEROM0NLcEJiUWwxWHp1SVpweDJTcnJueU1sMmtrNTkxeTBMYVhnNzFVUGdhOGF5eTh5?oc=5",
+          "published_at": "2026-08-20T16:00:00+00:00",
+          "excerpt": "Google makes the Preferred Source button more seamless Search Engine Land",
+          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
+        },
+        {
+          "title": "Meta AI can now analyze and optimize Meta Ads campaigns",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd1R3SjF5b1p4dzJvOEZ1WTRyeWR1ckFuWTZEUHhBSml6YTFYUWh3ZGtnMk1PY2M3bDlQUHVISmVMdVM5cFluOWhaZDRyb0Z0M3J0NW1zMzU2bzZBQmlOdmQ3dU5IRTVHQjBjb1lTTGhSUUVNbGwyUnpoTjVJWXN5YjBFMUI1Y1FnQmFzVG9hcGJGTTVpLWc?oc=5",
+          "published_at": "2026-08-20T15:25:00+00:00",
+          "excerpt": "Meta AI can now analyze and optimize Meta Ads campaigns Search Engine Land",
+          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
+        },
+        {
+          "title": "3 phases to build authority and earn AI citations",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaWFCTkdEcVFVNVhvUE8ySzE5YXhOd1FRTXp4UmFrVkROWTJjY3E1Nk1sU2E5ZERweWFnWXZiR3JCYTY0ZENrMWN6V19vNGdDU0xZd0h2ZDM1MVhCZTJPMkR2TE1uZzhoTm1VVGRzQXhXMThPU0VQTWFvQXBrUE12TDVn?oc=5",
+          "published_at": "2026-08-20T14:00:00+00:00",
+          "excerpt": "3 phases to build authority and earn AI citations Search Engine Land",
+          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
+        },
+        {
+          "title": "SEO priorities for 2027: Your guide to search success",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iZ3ZRamUzLTNKTUlSdVhxeXlfYm05Q2x2YVZIZm9LTm9sSzVDaWR6RWJEWEYwOW5kdThlb0xNa1NuNXFmX1Q4WDU2aWFTcFRRVUc0UWZCcDZBTkNIalpQZk5sekJDdw?oc=5",
+          "published_at": "2026-08-20T13:11:01+00:00",
+          "excerpt": "SEO priorities for 2027: Your guide to search success Search Engine Land",
+          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
+        },
+        {
+          "title": "Google adds new AI Max testing and planning tools",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVBsYXM1TFg4SGdmbmsxVTV6Snp1WFljV2N1cDJSdHh3UTBGaXFpWEthZ2hId2RXX1RpQmgwVHM4SGJSc3NWY0MtNWt2Q0JrMG1xOWkxZlVLV1N6OGpYbkZXS1NxZkp0bDQ4R1dKV3kzTFRacERPdElJTGYwZldCZ0dIMVJ3bkNiN3g5OEtn?oc=5",
+          "published_at": "2026-08-20T13:03:00+00:00",
+          "excerpt": "Google adds new AI Max testing and planning tools Search Engine Land",
+          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
+        },
+        {
           "title": "The next AI money grab: Charging for editorial corrections",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KQ3d5UV85TFpPNlliVU83T0tuN2VreUZ6RTRWY3FRLUNtUnFpSFZENzd6ejhhaUozZE9lX0VLQlNjZ2QzWFdQRmhtTC1UTEliRGVPMXg3NzdQQjNwZlU0cWt3Tk9pd3VRY3BkdVpyYzBzeHJFN3FfWUV4QQ?oc=5",
           "published_at": "2026-08-20T12:00:00+00:00",
@@ -4350,6 +4392,13 @@
           "published_at": "2026-08-19T12:00:00+00:00",
           "excerpt": "Slop antibodies: The link between AI slop, watermarking, and commodity content Search Engine Land",
           "fetched_at": "2026-08-20T14:21:32.060296+00:00"
+        },
+        {
+          "title": "AI slop Archives",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QYXUtS2NKWkJtazM1V1hQbjdxNXdYRG50REJoZlAyOGs2NzM4c0l0U3RFSkNRM1lVUm5XSTNrYWVqUEp4cjFlN0NaVzFISzlieW15OQ?oc=5",
+          "published_at": "2026-08-19T12:00:00+00:00",
+          "excerpt": "AI slop Archives Search Engine Land",
+          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
         },
         {
           "title": "Google releases August 2026 spam update",
@@ -4441,6 +4490,13 @@
           "published_at": "2026-08-17T16:55:00+00:00",
           "excerpt": "Google Search pauses AI-generated images within AI Overviews Search Engine Land",
           "fetched_at": "2026-08-18T05:51:38.436007+00:00"
+        },
+        {
+          "title": "SMX Now: The target bidding apocalypse and how we’ve been here before",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUc5VGJzZFhubU5NelJmcG1ObFBFYVRpal9QcDFGbFVlZFgwRm9jdHJId2o2WFotdF9iYi03NXFLX3pHalJPT1NlWmhtbXdma3VqN2k5emdDNFFOQnFxVk9PQUg2d1dIYjMtYzdTd2x2Y0o4LVhPY1N6bXNRMGxDUi00NFhmUUdfc2dOUzNEZ3NTQUc1Z0ZHMFh5Y3ZjM056blRlSHVR?oc=5",
+          "published_at": "2026-08-17T16:16:00+00:00",
+          "excerpt": "SMX Now: The Target bidding apocalypse and how we’ve been here before Search Engine Land",
+          "fetched_at": "2026-08-12T08:50:36.331222+00:00"
         },
         {
           "title": "Google updates Demand Gen view-through conversion optimization",
@@ -4695,20 +4751,6 @@
           "fetched_at": "2026-08-13T08:54:21.786273+00:00"
         },
         {
-          "title": "SMX Now: The Target bidding apocalypse and how we’ve been here before",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUc5VGJzZFhubU5NelJmcG1ObFBFYVRpal9QcDFGbFVlZFgwRm9jdHJId2o2WFotdF9iYi03NXFLX3pHalJPT1NlWmhtbXdma3VqN2k5emdDNFFOQnFxVk9PQUg2d1dIYjMtYzdTd2x2Y0o4LVhPY1N6bXNRMGxDUi00NFhmUUdfc2dOUzNEZ3NTQUc1Z0ZHMFh5Y3ZjM056blRlSHVR?oc=5",
-          "published_at": "2026-08-11T20:57:00+00:00",
-          "excerpt": "SMX Now: The Target bidding apocalypse and how we’ve been here before Search Engine Land",
-          "fetched_at": "2026-08-12T08:50:36.331222+00:00"
-        },
-        {
-          "title": "Anthropic adds AI text watermarking to Claude models worldwide",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SM3d6b2RoM3Yzc0QzQlQ1cUhoYVQ1cEFxb0R1aUl2Rm1tUlFOT2xBaEZzVThBZ09sQUNuT0dLU0dtLWNDUFJKYmtjSmRFOUNLRk5zckpicDc0b2tiTFE5V3FZNmJha1FwNFpSanYtUUU?oc=5",
-          "published_at": "2026-08-11T19:34:00+00:00",
-          "excerpt": "Anthropic adds AI text watermarking to Claude models worldwide Search Engine Land",
-          "fetched_at": "2026-08-12T08:50:36.331222+00:00"
-        },
-        {
           "title": "300 French newspapers file complaint over Google AI Overviews",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmhGaTRLOFJmSDFKeWZGcWROcG1KQ29femo3dnFHQnRHZ3JjekZqbURySU1pS1dFR2h0cHpWYkxmNE1WU1lOQmNsZldpM3dOUmVuSENpQ2h3N09xOXFxaVNjd3Y1MDVSQnZaeFdvVGhobVVmaWhEM19JcmNxZ2liMlA4X3hXdkxMQ3ZF?oc=5",
           "published_at": "2026-08-11T17:21:00+00:00",
@@ -4742,6 +4784,13 @@
           "published_at": "2026-08-11T13:00:00+00:00",
           "excerpt": "A 5-layer framework for measuring AI search performance Search Engine Land",
           "fetched_at": "2026-08-11T15:43:38.234812+00:00"
+        },
+        {
+          "title": "Anthropic adds AI text watermarking to Claude models worldwide",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SM3d6b2RoM3Yzc0QzQlQ1cUhoYVQ1cEFxb0R1aUl2Rm1tUlFOT2xBaEZzVThBZ09sQUNuT0dLU0dtLWNDUFJKYmtjSmRFOUNLRk5zckpicDc0b2tiTFE5V3FZNmJha1FwNFpSanYtUUU?oc=5",
+          "published_at": "2026-08-11T07:00:00+00:00",
+          "excerpt": "Anthropic adds AI text watermarking to Claude models worldwide Search Engine Land",
+          "fetched_at": "2026-08-12T08:50:36.331222+00:00"
         },
         {
           "title": "How to decide whether a keyword deserves its own page",
@@ -5304,13 +5353,6 @@
           "fetched_at": "2026-08-03T15:53:27.227864+05:30"
         },
         {
-          "title": "AI shopping starts with your product feed, not your product page",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwV3FUVXZpSHU2cXE4OHhTMFpNWE1PZENGM2RndXk2cmNQMTA0cWZkYVd3RFUzVmhiYTZOZTZTZ0tnVS1OTDRmc1ZqM2hnWjh2NjBZS1ppT0xSb25vQmJTanFrVGd0YW9uUzBoWkYxblM1X0E?oc=5",
-          "published_at": "2026-07-31T13:00:00+00:00",
-          "excerpt": "AI shopping starts with your product feed, not your product page Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Why separating brand and non-brand campaigns improves ROAS",
           "url": "https://searchengineland.com/separating-brand-non-brand-campaigns-roas-484080",
           "published_at": "2026-07-31T12:00:00+05:30",
@@ -5343,6 +5385,13 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjdXRTREejVCREpPbllZOEI4QlNmV2s1RXg2OEdfZklNQ3BUZWJCaWtoNEtMNzZOT0pWMGswQ213TExZNENaeWhydlV1U0tOdEJ4Vlc1bWs0dEhxVFI2amJ0MlZtOWF0ek5GS2JuU05ZQzh4ZEVUdFBWMVFrczdCUjRDbWFHenlaRUgtSWQ4QQ?oc=5",
           "published_at": "2026-07-31T07:00:00+00:00",
           "excerpt": "AI makes SEO faster, but human expertise still wins Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "AI shopping starts with your product feed, not your product page",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwV3FUVXZpSHU2cXE4OHhTMFpNWE1PZENGM2RndXk2cmNQMTA0cWZkYVd3RFUzVmhiYTZOZTZTZ0tnVS1OTDRmc1ZqM2hnWjh2NjBZS1ppT0xSb25vQmJTanFrVGd0YW9uUzBoWkYxblM1X0E?oc=5",
+          "published_at": "2026-07-31T07:00:00+00:00",
+          "excerpt": "AI shopping starts with your product feed, not your product page Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
@@ -6397,6 +6446,41 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "The Keyword Universe Was Always Smaller Than We Thought via @sejournal, @DuaneForrester",
+          "url": "https://www.searchenginejournal.com/the-keyword-universe-was-always-smaller-than-we-thought/586065/",
+          "published_at": "2026-08-20T19:00:38+00:00",
+          "excerpt": "Citation tools answer a different question than rank trackers did: not why you appeared, but whether the phrase you're chasing has already settled. The post The Keyword Universe Was Always Smaller Than We Thought appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-21T05:59:19.385853+00:00"
+        },
+        {
+          "title": "Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/",
+          "published_at": "2026-08-20T18:13:03+00:00",
+          "excerpt": "Microsoft Advertising will remove Max CPC from new non-portfolio campaigns starting Oct. 1, shifting advertisers toward automated bidding controls and performance targets. The post Microsoft Ads Is Removing Max CPC From New Campaigns appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-21T05:59:19.385853+00:00"
+        },
+        {
+          "title": "How Do I Identify Cannibalization Problems & Consolidate Without Loss Of Visibility? – Ask An SEO via @sejournal, @rollerblader",
+          "url": "https://www.searchenginejournal.com/ask-an-seo-how-do-i-identify-cannibalization-problems-consolidate-without-loss-of-visibility/553881/",
+          "published_at": "2026-08-20T17:30:58+00:00",
+          "excerpt": "A practical guide to spotting keyword cannibalization using Search Console, site crawlers, and rank trackers, plus fixes like canonicals, meta robots, and internal linking. The post How Do I Identify Cannibalization Problems & Consolidate Without Loss Of Visibility? – Ask An SEO…",
+          "fetched_at": "2026-08-21T05:59:19.385853+00:00"
+        },
+        {
+          "title": "Google Expands Personalization Across Search, Discover & News via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-expands-personalization-across-search-discover-news/586528/",
+          "published_at": "2026-08-20T16:02:52+00:00",
+          "excerpt": "Google is rolling out a new embeddable Preferred Sources button, natural language Discover controls, and customizable audio briefings in the Google News app. The post Google Expands Personalization Across Search, Discover & News appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-21T05:59:19.385853+00:00"
+        },
+        {
+          "title": "The Conversion Setup Errors That Break Smart Bidding",
+          "url": "https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/",
+          "published_at": "2026-08-20T14:30:03+00:00",
+          "excerpt": "Smart Bidding problems often trace back to broken conversion tracking, not bidding strategy. Seven silent setup errors that corrupt the data feeding your campaigns. The post The Conversion Setup Errors That Break Smart Bidding appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-21T05:59:19.385853+00:00"
+        },
+        {
           "title": "Prompt Injections Just Proved Something SEO Has Known For 25 Years via @sejournal, @theshelleywalsh",
           "url": "https://www.searchenginejournal.com/prompt-injection-just-proved-something-seo-has-known-for-25-years/586405/",
           "published_at": "2026-08-20T12:00:39+00:00",
@@ -6516,13 +6600,6 @@
           "fetched_at": "2026-08-18T14:16:41.676385+00:00"
         },
         {
-          "title": "YouTube Changes How It Counts Views On Long-Form & Live via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/youtube-changes-how-it-counts-views-on-long-form-live/586166/",
-          "published_at": "2026-08-17T20:10:31+00:00",
-          "excerpt": "YouTube is changing how it counts views on long-form videos and live streams. The post YouTube Changes How It Counts Views On Long-Form & Live appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-18T05:51:52.833978+00:00"
-        },
-        {
           "title": "The AI Conversations Leaking Into Your Search Console via @sejournal, @suganthan",
           "url": "https://www.searchenginejournal.com/the-ai-conversations-leaking-into-your-search-console/585663/",
           "published_at": "2026-08-17T19:00:05+00:00",
@@ -6556,6 +6633,13 @@
           "published_at": null,
           "excerpt": "SEJ Pro delivers industry intelligence reports, practitioner playbooks, and direct access to experts so you know what's actually changing in search, and what to do about it.",
           "fetched_at": "2026-08-17T06:02:33.439210+00:00"
+        },
+        {
+          "title": "YouTube Changes How It Counts Views On Long-Form & Live",
+          "url": "https://www.searchenginejournal.com/youtube-changes-how-it-counts-views-on-long-form-live/586166/",
+          "published_at": "2026-08-17T00:00:00+00:00",
+          "excerpt": "YouTube is changing how it counts views on long-form videos and live streams. The post YouTube Changes How It Counts Views On Long-Form & Live appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-18T05:51:52.833978+00:00"
         },
         {
           "title": "Llms.txt V2 Adds Formal Markdown Linking For AI Agents",
@@ -6906,6 +6990,13 @@
           "published_at": "2026-08-06T13:10:41+00:00",
           "excerpt": "A WordPress 7.1 accessibility improvement could impact some plugins that make changes in the admin screens. The post WordPress 7.1 Accessibility Change May Break Some Plugins appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-07T08:33:35.804703+00:00"
+        },
+        {
+          "title": "AI Cites Your Brand. Now What? Turn AI Visibility Data Into Actions",
+          "url": "https://www.searchenginejournal.com/webinar-lp-ai-cites-your-brand-turn-ai-visibility-data-into-actions/",
+          "published_at": "2026-08-06T11:52:16+00:00",
+          "excerpt": "Turn AI visibility dashboards into an AEO action plan. Learn which metrics matter, prioritize next steps, and win more citations in AI answers. Register free.",
+          "fetched_at": "2026-08-21T05:59:19.385853+00:00"
         },
         {
           "title": "The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar] via @sejournal, @hethr_campbell",
@@ -8870,7 +8961,7 @@
         {
           "title": "Is AI Content Bad for SEO? Here’s What Determines Ranking",
           "url": "https://www.webfx.com/blog/ai/dangers-ai-content/",
-          "published_at": "2026-08-20T12:40:44+00:00",
+          "published_at": "2026-08-20T14:32:06+00:00",
           "excerpt": "The post Is AI Content Bad for SEO? Here’s What Determines Ranking appeared first on WebFX .",
           "fetched_at": "2026-08-20T14:21:51.851996+00:00"
         },
@@ -9551,6 +9642,27 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Take an interactive journey through America’s national parks",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/united-parks-of-america/",
+          "published_at": "2026-08-20T16:00:00+00:00",
+          "excerpt": "YouTube video: United Parks of America",
+          "fetched_at": "2026-08-21T05:59:31.177436+00:00"
+        },
+        {
+          "title": "Personalize the content you see on Search, Discover, and News",
+          "url": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
+          "published_at": "2026-08-20T16:00:00+00:00",
+          "excerpt": "A woman looks at a phone outdoors",
+          "fetched_at": "2026-08-21T05:59:31.177436+00:00"
+        },
+        {
+          "title": "Inside the Gemmaverse: Celebrating one billion Gemma downloads",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/",
+          "published_at": "2026-08-20T15:30:00+00:00",
+          "excerpt": "an illustrated blue image that reads \"Celebrating the Gemmaverse\"",
+          "fetched_at": "2026-08-21T05:59:31.177436+00:00"
+        },
         {
           "title": "5 new ways to level up your learning with Search",
           "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
