@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T05:59:31.180146+00:00",
+  "last_updated": "2026-08-21T14:20:07.712960+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4275,11 +4275,46 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "How to measure the true value of creators and review content",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84NWRWcUVpMGRtOEVteDFFZ2lVZzVONmhuTktnY004WkNNN0E4RU4zaVBJTVFfcW1TNl9jUjlmN1EyQmFPN0ItNDhDdWZJYTFQNW9heUNCWDRVWGhaS1k1QnlucGlHbGpBVEtyT1kyaVl5XzQ?oc=5",
+          "published_at": "2026-08-21T13:00:00+00:00",
+          "excerpt": "How to measure the true value of creators and review content Search Engine Land",
+          "fetched_at": "2026-08-21T14:19:41.274486+00:00"
+        },
+        {
+          "title": "Google August 2026 spam update done rolling out",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVlqR2Vwakk3X2tsNVZnREg0VXJpbC13OXpHc2VQemRjeEpQS0J6U2lnUUZRUWJEN0NNUnRySmZyUW11WEVSc3NLV0psUlM0WmNrYWZrWGNiY1FuWXZfQ3RoSzhFejJUMm91ZVBJbnowbFBWQy1vSVVPdXhIRmdaVm4yNnpxMVlIRlpz?oc=5",
+          "published_at": "2026-08-21T09:25:00+00:00",
+          "excerpt": "Google August 2026 spam update done rolling out Search Engine Land",
+          "fetched_at": "2026-08-21T14:19:41.274486+00:00"
+        },
+        {
+          "title": "How to build topic clusters that AI will cite: A step-by-step guide",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Hbnd4SGp4VXhGSDdObjJaT1pHZm0yNHh0Nzh0c3dzNTZPQ0VIOUYxbWZzWDVTclBpT3FSSXpqMnRtMnBvQnpsWFE1NVp5U1FQY3pJRDE3ZVhWekJfLWx4Mm1WV3lGS1VYbXI0OXdCYXE?oc=5",
+          "published_at": "2026-08-20T17:23:00+00:00",
+          "excerpt": "How to build topic clusters that AI will cite: A step-by-step guide Search Engine Land",
+          "fetched_at": "2026-08-21T14:19:41.274486+00:00"
+        },
+        {
+          "title": "Do meta descriptions matter? The latest research",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RYTNVRktwcGxoaHhHU21jZ0dMRXZXdTIwSnpBeHRVZXpJWTFDX05OMGpoSDVwZWZtUWJCenpDanFYUDg0QTFZbU50Ykw0cHlwdkZtU1lpNXBVUzNKdUxMcUluSVV5bHNvTGtIb2Q5TQ?oc=5",
+          "published_at": "2026-08-20T16:56:00+00:00",
+          "excerpt": "Do meta descriptions matter? The latest research Search Engine Land",
+          "fetched_at": "2026-08-21T14:19:41.274486+00:00"
+        },
+        {
           "title": "Google makes the Preferred Source button more seamless",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYnJvR18wTjFaRGRnUjF4d1owM2VGdVItdDJHUW1BV1hhelo2bkFUZklueHBQQVd0OU5Ka3BISHlVWWxVLXQ3eFc3Y1R3UDV0N25Pc3VfVUJ1Y2FQYkpTMlNmbEROM0NLcEJiUWwxWHp1SVpweDJTcnJueU1sMmtrNTkxeTBMYVhnNzFVUGdhOGF5eTh5?oc=5",
           "published_at": "2026-08-20T16:00:00+00:00",
           "excerpt": "Google makes the Preferred Source button more seamless Search Engine Land",
           "fetched_at": "2026-08-21T05:59:09.168236+00:00"
+        },
+        {
+          "title": "Google Discover lets you customize your feed using conversational search",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNendaZHRuQXlUUUl4WXFrdjg2X2FoMGMzWE81RmtmQWNjUVZFN1dRbXItV1l4dmx6TGIwcHVUQktsaGhnSEVmTjlSYkF5WGtiRkExdkJQWXNhRlFKbThobzF3X01rWTZpdUowbEhOTVdoeTVMMTdFeTNZQXJuYU5WX0Q5UjVmTUZXbW1CLWtjaTZZbTNjdXhkMHMxWTE1WU0tQ3pSX3IyOG9ramRw?oc=5",
+          "published_at": "2026-08-20T16:00:00+00:00",
+          "excerpt": "Google Discover lets you customize your feed using conversational search Search Engine Land",
+          "fetched_at": "2026-08-21T14:19:41.274486+00:00"
         },
         {
           "title": "Meta AI can now analyze and optimize Meta Ads campaigns",
@@ -4814,13 +4849,6 @@
           "fetched_at": "2026-08-11T15:43:38.234812+00:00"
         },
         {
-          "title": "Yelp brings restaurant reservations and waitlists to ChatGPT",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWtrMWw2WWFWYy1LdE95TUltLVdmRFhqZjNZQ1ZzaUgtRW8wcHZHWDdGUWVHcFl3eUd6T2Vnd0ItMzVFVldCRVNjWTNtOThDUFppQkR0dFpqalVwd1YwWHdhNG5RZ0lkTmktdnBheEV1NFB0QThwM3ktOWVBY3NPZjdEdGJaV1RZQjZ3QmxYNXYxemtWVmRaTmVna3U?oc=5",
-          "published_at": "2026-08-10T15:39:00+00:00",
-          "excerpt": "Yelp brings restaurant reservations and waitlists to ChatGPT Search Engine Land",
-          "fetched_at": "2026-08-11T15:43:38.234812+00:00"
-        },
-        {
           "title": "How customers build confidence across the search journey",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTZzY21JcXJpb3l2cmh3SHBweHlsUlg2MXc5b1FmQTUyaTlVRUxVaC1peHREd0R6Nkw0WmxFcE4yeWhHbUFRX2V2dmVydUNqd3NDOEU4OXZFWWJMVG9GN3piWTlnQVV1dFAycXVDa01oWkJ4amlLb284OUhZeFgzbUs2TQ?oc=5",
           "published_at": "2026-08-10T12:00:00+00:00",
@@ -4867,6 +4895,13 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1puSm1laUFYbUNNUlFoX25HVTNwRWFHWFo5dXpmWjdLcE5vUjIxVHFqbk80eEY3TTlLOWQwZEhMQnFwMWVKd3VGZUIxZDQ2V0FhbG4teWVSeDJDVkxjQlFjMHVoWWNGdUVBSzkxUkdVWlkzcDZUQXlQaVYxdngxNHJ3dzZvTURMVmZoMUVWVDc1UQ?oc=5",
           "published_at": "2026-08-10T07:00:00+00:00",
           "excerpt": "Study: ChatGPT ads appear on 26% of commercial prompts Search Engine Land",
+          "fetched_at": "2026-08-11T15:43:38.234812+00:00"
+        },
+        {
+          "title": "Yelp brings restaurant reservations and waitlists to ChatGPT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWtrMWw2WWFWYy1LdE95TUltLVdmRFhqZjNZQ1ZzaUgtRW8wcHZHWDdGUWVHcFl3eUd6T2Vnd0ItMzVFVldCRVNjWTNtOThDUFppQkR0dFpqalVwd1YwWHdhNG5RZ0lkTmktdnBheEV1NFB0QThwM3ktOWVBY3NPZjdEdGJaV1RZQjZ3QmxYNXYxemtWVmRaTmVna3U?oc=5",
+          "published_at": "2026-08-10T07:00:00+00:00",
+          "excerpt": "Yelp brings restaurant reservations and waitlists to ChatGPT Search Engine Land",
           "fetched_at": "2026-08-11T15:43:38.234812+00:00"
         },
         {
@@ -6382,6 +6417,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "Ad Pricing Guide",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZ1ozb3cxUUpsWFl5ZG5yeUtEZnNVM3N5cDJoN0g3cHFqNEVvUWI2bldqNzktN252c2dFbVBYLURZRmFPVVhUT3Rmd2k4WUJCUzhiT0VMb1dhWDdpR2c?oc=5",
+          "published_at": "2025-08-07T21:38:51+00:00",
+          "excerpt": "Ad Pricing Guide Search Engine Land",
+          "fetched_at": "2026-08-21T14:19:41.274486+00:00"
+        },
+        {
           "title": "The SEO’s guide to Google Search Console",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93amk2MWFUWnUzSjJ4WjVnd3B0OWpZN2NfZ0x1dFpBSkE4aU1EQ0FoWkRFZGN1NktuOWxwS1BkSXk5ZzdNQmY4VW0xb3ptYi1jYjZsRmJnR2JER3ZSMmRneDNSTGZoc21rbzY4N3NfeUt0dm9TYlE?oc=5",
           "published_at": "2024-07-08T13:01:02+00:00",
@@ -6445,6 +6487,20 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Google’s Generated Interfaces Could Compete With Tool Pages via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/",
+          "published_at": "2026-08-21T12:00:32+00:00",
+          "excerpt": "AI Overviews can now build interactive tools inside Search. Google’s testing shows generated interfaces often beat top results in head-to-head comparisons. The post Google’s Generated Interfaces Could Compete With Tool Pages appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-21T14:19:54.438981+00:00"
+        },
+        {
+          "title": "What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] via @sejournal, @lorenbaker",
+          "url": "https://www.searchenginejournal.com/what-ai-bot-data-from-hundreds-of-sites-reveals-about-ai-search-webinar/586556/",
+          "published_at": "2026-08-21T07:45:38+00:00",
+          "excerpt": "Optimize your marketing strategy by learning the limitations of AI search metrics and how to utilize your data effectively. The post What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-21T14:19:54.438981+00:00"
+        },
         {
           "title": "The Keyword Universe Was Always Smaller Than We Thought via @sejournal, @DuaneForrester",
           "url": "https://www.searchenginejournal.com/the-keyword-universe-was-always-smaller-than-we-thought/586065/",
@@ -6516,7 +6572,7 @@
           "fetched_at": "2026-08-20T05:56:08.921873+00:00"
         },
         {
-          "title": "Clicks Are Down 42%, LinkedIn Reach Down 47% But You’re Raging At The Wrong Target via @sejournal, @gregjarboe",
+          "title": "Clicks Down 42%, LinkedIn Reach Down 47%: What The Numbers Actually Show via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/",
           "published_at": "2026-08-19T14:30:55+00:00",
           "excerpt": "LinkedIn reach and Google clicks are collapsing, but Tony Uphoff argues SEO pros are diagnosing structural disruption as decline, and prescribing the wrong fix. The post Clicks Are Down 42%, LinkedIn Reach Down 47% But You’re Raging At The Wrong Target appeared first on Search E…",
@@ -6565,17 +6621,10 @@
           "fetched_at": "2026-08-19T05:53:54.503038+00:00"
         },
         {
-          "title": "Google Begins Rolling Out The August 2026 Spam Update via @sejournal, @MattGSouthern",
+          "title": "Google Finishes Rolling Out The August 2026 Spam Update via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-begins-rolling-out-the-august-2026-spam-update/586301/",
           "published_at": "2026-08-18T17:10:40+00:00",
           "excerpt": "Google has begun rolling out the August 2026 spam update, applying globally and to all languages, its third one this year. The post Google Begins Rolling Out The August 2026 Spam Update appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-19T05:53:54.503038+00:00"
-        },
-        {
-          "title": "Why Search Volume Is Screening Out Your Best Content Opportunities",
-          "url": "https://www.searchenginejournal.com/why-search-volume-is-screening-out-your-best-content-opportunities/585048/",
-          "published_at": "2026-08-18T14:30:48+00:00",
-          "excerpt": "AI assistants turn contextual prompts into multiple queries, making buyer decisions and sub-questions more valuable content targets than raw keyword volume. The post Why Search Volume Is Screening Out Your Best Content Opportunities appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-19T05:53:54.503038+00:00"
         },
         {
@@ -6598,6 +6647,13 @@
           "published_at": "2026-08-18T12:00:54+00:00",
           "excerpt": "Turn AI-driven local discovery into actual customers. SEJ Live on August 26 brings three hours of practical guidance and live Q&A. The post Get Your Business Found & Chosen In AI Search [Free SEJ Live Event] appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-18T14:16:41.676385+00:00"
+        },
+        {
+          "title": "Why Search Volume Is Screening Out Your Best Content Opportunities",
+          "url": "https://www.searchenginejournal.com/why-search-volume-is-screening-out-your-best-content-opportunities/585048/",
+          "published_at": "2026-08-18T00:00:00+00:00",
+          "excerpt": "AI assistants turn contextual prompts into multiple queries, making buyer decisions and sub-questions more valuable content targets than raw keyword volume. The post Why Search Volume Is Screening Out Your Best Content Opportunities appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-19T05:53:54.503038+00:00"
         },
         {
           "title": "The AI Conversations Leaking Into Your Search Console via @sejournal, @suganthan",
@@ -8705,6 +8761,13 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "ABM Segmentation: Because \"Everyone with a Budget\" Isn't Actually a Target Segment",
+          "url": "https://www.factors.ai/blog/abm-segmentation",
+          "published_at": "2026-08-21T00:00:00+00:00",
+          "excerpt": "Learn how to build an ABM segmentation strategy using firmographics, intent, behavior, lifecycle data, and a real-world framework from Fingerprint.",
+          "fetched_at": "2026-08-21T14:20:03.990037+00:00"
+        },
+        {
           "title": "Top 12 Marketing Attribution Tools in 2026 (Compared)",
           "url": "https://www.factors.ai/blog/top-marketing-attribution-tools",
           "published_at": "2026-08-19T00:00:00+00:00",
@@ -9642,6 +9705,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Tap to pay with Google Pay is coming to Walmart.",
+          "url": "https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/",
+          "published_at": "2026-08-21T14:00:00+00:00",
+          "excerpt": "Add your preferred card to Google Wallet to tap to pay at Walmart stores.",
+          "fetched_at": "2026-08-21T14:20:07.710168+00:00"
+        },
         {
           "title": "Take an interactive journey through America’s national parks",
           "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/united-parks-of-america/",
