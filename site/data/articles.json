@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T05:48:31.052921+00:00",
+  "last_updated": "2026-08-22T13:48:31.048851+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4303,6 +4303,13 @@
           "fetched_at": "2026-08-21T14:19:41.274486+00:00"
         },
         {
+          "title": "Internal communications Archives",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLdUxaZHRXVXdWQnJfYXpPV1N0R2ExQkhMNEsxZFhqSVp4ZnREdldUUWRPcDlsa3RjZjM0cVBhMldLcy1xNG1jR2o5TW13QnJ6OUszT1ByVmlfZ016WVJHbXRKMkJnN2QxejI0?oc=5",
+          "published_at": "2026-08-21T12:00:00+00:00",
+          "excerpt": "Internal communications Archives Search Engine Land",
+          "fetched_at": "2026-08-22T13:48:07.660398+00:00"
+        },
+        {
           "title": "Google August 2026 spam update done rolling out",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVlqR2Vwakk3X2tsNVZnREg0VXJpbC13OXpHc2VQemRjeEpQS0J6U2lnUUZRUWJEN0NNUnRySmZyUW11WEVSc3NLV0psUlM0WmNrYWZrWGNiY1FuWXZfQ3RoSzhFejJUMm91ZVBJbnowbFBWQy1vSVVPdXhIRmdaVm4yNnpxMVlIRlpz?oc=5",
           "published_at": "2026-08-21T09:25:00+00:00",
@@ -4371,6 +4378,13 @@
           "published_at": "2026-08-20T12:00:00+00:00",
           "excerpt": "The next AI money grab: Charging for editorial corrections Search Engine Land",
           "fetched_at": "2026-08-20T14:21:32.060296+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZc0loSWNsOTFRRUxYNURsc1dRN1ZIOTd6OUxmc2oxcWRQeDlGZ29YME4wak5fMkVKUkJvME96WG5lcFdrX3BsazhiSGlKUlo2bnpjTmRPZlFQN1JzblN3NmNUWS1MWjR1TTA4UF9FU0pJYW9veFc1Qw?oc=5",
+          "published_at": "2026-08-19T22:30:18+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-08-22T13:48:07.660398+00:00"
         },
         {
           "title": "Google Ads API v25.1 expands measurement and insights",
@@ -4504,6 +4518,20 @@
           "published_at": "2026-08-18T12:00:00+00:00",
           "excerpt": "Local 5.0: The next evolution of local SEO is here Search Engine Land",
           "fetched_at": "2026-08-19T05:53:44.577428+00:00"
+        },
+        {
+          "title": "Fast-food restaurant Archives",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lWVpsWUlwX1BpdXJhVERORzBEdVdmTE5BZmhFTElFYkRCc05veHJhMy1MczFGeGlFekw0eHJ6V1F0a2Q0U0hjT2FsOUp6LURNYng5SzNMNnVhdnYxV05MQ041cDBGdw?oc=5",
+          "published_at": "2026-08-18T07:00:00+00:00",
+          "excerpt": "Fast-food restaurant Archives Search Engine Land",
+          "fetched_at": "2026-08-22T13:48:07.660398+00:00"
+        },
+        {
+          "title": "Planable Archives",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtanpVVzBCTUNNckswUUVnbnlkd3llOE91ZExPTkVrbVBzbVY1bG9RenVZTnNEUjVmM0FvTGxnSWlWWEFSMXp0ZTNqS2owdE1iYktUNThlSQ?oc=5",
+          "published_at": "2026-08-18T07:00:00+00:00",
+          "excerpt": "Planable Archives Search Engine Land",
+          "fetched_at": "2026-08-22T13:48:07.660398+00:00"
         },
         {
           "title": "Google Ads will use generative AI to resize Performance Max video ads",
@@ -4660,13 +4688,6 @@
           "fetched_at": "2026-08-14T08:47:10.073034+00:00"
         },
         {
-          "title": "Shopify: AI referrals up 197%, but organic search still leads traffic",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSS02MEZiOE1yTU9nU25veGRIMlJWTWZFTVVGWlhfT2ZJLWFFaEJsM01jVE92Ym1DSmExVjZjSEVINm1Gb05aV3pSNkYwOTdOT0lGRFhCUzd6c284RVU2NG9kLU9mVVRkTW9UT2pYMHNZTE5LalN0emN2VFJhbmNLNVZtV3A0d3NjNk1Ha2Q2dlhVdw?oc=5",
-          "published_at": "2026-08-13T17:56:00+00:00",
-          "excerpt": "Shopify: AI referrals up 197%, but organic search still leads traffic Search Engine Land",
-          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
-        },
-        {
           "title": "Microsoft Clarity AI Scrape-to-Referral insights report",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnZJYndldGl2c0V1c3RuRUkwNTU4WlJpY1BoeVRjZ01LamVxUVhhbWFQUWZtYXpicy1UWGRIdzc4QjlvZDE2UVJDbW44SUFiaTk0ZVZjb2xJNVFHSG9tRS0xVlBwaGt2X2FrdEJrQUFzcVdSUTZlaFJDY0tlZmdWTkJhZHI3QzVsRHk3Y29nelBzUTV4Z3c?oc=5",
           "published_at": "2026-08-13T17:42:00+00:00",
@@ -4707,6 +4728,13 @@
           "published_at": "2026-08-13T12:00:00+00:00",
           "excerpt": "Why SEO uncertainty is creating opportunities for challengers Search Engine Land",
           "fetched_at": "2026-08-13T15:41:12.040414+00:00"
+        },
+        {
+          "title": "Shopify: AI referrals up 197%, but organic search still leads traffic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSS02MEZiOE1yTU9nU25veGRIMlJWTWZFTVVGWlhfT2ZJLWFFaEJsM01jVE92Ym1DSmExVjZjSEVINm1Gb05aV3pSNkYwOTdOT0lGRFhCUzd6c284RVU2NG9kLU9mVVRkTW9UT2pYMHNZTE5LalN0emN2VFJhbmNLNVZtV3A0d3NjNk1Ha2Q2dlhVdw?oc=5",
+          "published_at": "2026-08-13T07:00:00+00:00",
+          "excerpt": "Shopify: AI referrals up 197%, but organic search still leads traffic Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
         },
         {
           "title": "Judge lets SEO sabotage lawsuit over toxic backlinks move forward",
@@ -5878,6 +5906,13 @@
           "fetched_at": "2026-08-16T05:49:42.653828+00:00"
         },
         {
+          "title": "Google Ads Editor 2.13 brings AI Max support to Shopping campaigns",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlhSV0NnWXA3T0pYa1JRYUJ0S0ZnM1Y3Z2pzOEFpWnVLNDMta2t4cldmejllWlRuTDFGVmVQTVQzQzlFNzZqZTFLYndVTVlsMmw2WTc2b2JSclUzNlN3T2RtUGRZUEwtTU9odF9ESlRnV2tFdFJFNFlCV2pPUHdpaVNpc0Fzc2ZpbXB2bFRhMC1jRzNGMnRKRzNOeHhDNjdfeURSNA?oc=5",
+          "published_at": "2026-07-24T07:00:00+00:00",
+          "excerpt": "Google Ads Editor 2.13 brings AI Max support to Shopping campaigns Search Engine Land",
+          "fetched_at": "2026-08-22T13:48:07.660398+00:00"
+        },
+        {
           "title": "Google says AI Max unlocks billions of new monetizable searches",
           "url": "https://searchengineland.com/google-ai-max-billions-new-monetizable-searches-483347",
           "published_at": "2026-07-23T18:45:26+05:30",
@@ -6516,6 +6551,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/",
+          "published_at": "2026-08-22T12:30:28+00:00",
+          "excerpt": "Google's August spam update rolls out as generative UI reaches AI Overviews, websites get a new button, and Reddit's ChatGPT citation share falls. The post Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-22T13:48:20.959595+00:00"
+        },
+        {
           "title": "AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/",
           "published_at": "2026-08-21T19:00:14+00:00",
@@ -6649,13 +6691,6 @@
           "fetched_at": "2026-08-19T14:18:08.513261+00:00"
         },
         {
-          "title": "How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches",
-          "url": "https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/",
-          "published_at": "2026-08-18T19:00:48+00:00",
-          "excerpt": "Facebook, Instagram, and TikTok earn AI citations for different queries, rewarding precise answers over large audiences. The post How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-19T05:53:54.503038+00:00"
-        },
-        {
           "title": "Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic",
           "url": "https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/",
           "published_at": "2026-08-18T17:30:31+00:00",
@@ -6689,6 +6724,13 @@
           "published_at": "2026-08-18T12:00:54+00:00",
           "excerpt": "Turn AI-driven local discovery into actual customers. SEJ Live on August 26 brings three hours of practical guidance and live Q&A. The post Get Your Business Found & Chosen In AI Search [Free SEJ Live Event] appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-18T14:16:41.676385+00:00"
+        },
+        {
+          "title": "How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches",
+          "url": "https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/",
+          "published_at": "2026-08-18T00:00:00+00:00",
+          "excerpt": "Facebook, Instagram, and TikTok earn AI citations for different queries, rewarding precise answers over large audiences. The post How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-19T05:53:54.503038+00:00"
         },
         {
           "title": "Why Search Volume Is Screening Out Your Best Content Opportunities",
