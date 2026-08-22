@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T14:20:07.712960+00:00",
+  "last_updated": "2026-08-22T05:48:31.052921+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4275,6 +4275,27 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google working on fix for broken favicons in Google Search",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcVcwY1pwcWxlVUJscFVWRHlSQWJZdDBuRFNfREJLdDk4d0xqVVF0bHVuZ2J3QUdkQVgyZDBzcmVMdWNPTDJwSkRNMVItTXQxZHJYR3cwb3JCNUo4TWlpYmt3M01oamZlNVZ2QUJpaUwxRVdHWlp0V3hzOEJLUGpHTzRnMjdEZUJfekhCNWxaUlBKeWx0YjBmd0VR?oc=5",
+          "published_at": "2026-08-21T18:43:00+00:00",
+          "excerpt": "Google working on fix for broken favicons in Google Search Search Engine Land",
+          "fetched_at": "2026-08-22T05:48:08.541251+00:00"
+        },
+        {
+          "title": "Duane Forrester: AI is rewriting SEO, but the mission is the same",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UNDRnRFpXTW8zTl9ibTh1VGtFZTBBd1VEMXUwa2xvdDMwRU9GNGtSR0JrYWhuVnRVeVNRbXNzUncyMm13d0w4SjFDMzhXc0dEdjh3WU5WVGVlVVd3cXowdlNsMzRKZXBXd01DVlJaUU1SdkJ5SS1CSW5JZw?oc=5",
+          "published_at": "2026-08-21T15:00:00+00:00",
+          "excerpt": "Duane Forrester: AI is rewriting SEO, but the mission is the same Search Engine Land",
+          "fetched_at": "2026-08-22T05:48:08.541251+00:00"
+        },
+        {
+          "title": "How to build an E-E-A-T checker with Claude Code",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fb1liVTZYYlZ6MVBxWWx2QTZuWEljU1d4ZWJLYWFBYjRPbkNxMzNPNkFLX3BnY2NUN29KanlQcDZaXzZaelExSnIxcWk0WFU0dW5CVTlSYjE3d3dOZEtNNWZmRHI2Mmx6RVdEU0E4bU1uaGlBbjdjMFFLaWk5MGM?oc=5",
+          "published_at": "2026-08-21T14:00:00+00:00",
+          "excerpt": "How to build an E-E-A-T checker with Claude Code Search Engine Land",
+          "fetched_at": "2026-08-22T05:48:08.541251+00:00"
+        },
+        {
           "title": "How to measure the true value of creators and review content",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84NWRWcUVpMGRtOEVteDFFZ2lVZzVONmhuTktnY004WkNNN0E4RU4zaVBJTVFfcW1TNl9jUjlmN1EyQmFPN0ItNDhDdWZJYTFQNW9heUNCWDRVWGhaS1k1QnlucGlHbGpBVEtyT1kyaVl5XzQ?oc=5",
           "published_at": "2026-08-21T13:00:00+00:00",
@@ -5892,13 +5913,6 @@
           "fetched_at": "2026-07-24T10:42:58.894178+05:30"
         },
         {
-          "title": "AI Max spotted in Google Standard Shopping campaigns",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlVhRW4tYUlDUEt2Zk82VnBlbU95THBSQkNZcUpjUGFOeXlNbnN1NTJlaHg5eVRsVDRMeC1nZG5iX1BNZC1WOVNpWEFvTFFHY19EYkhfcmo2QzBiYjhPZlk4U1N4WHRIMnVxbjZkdXdlUllsWGVvaUtFR0d1NFg0RXNpckZua1NtN1VyQ2ZpY1lZUQ?oc=5",
-          "published_at": "2026-07-23T13:23:00+00:00",
-          "excerpt": "AI Max spotted in Google Standard Shopping campaigns Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Google Ads API v25 adds YouTube metrics and loyalty campaign goals",
           "url": "https://searchengineland.com/google-ads-api-v25-adds-youtube-metrics-and-loyalty-campaign-goals-483305",
           "published_at": "2026-07-23T13:09:02+05:30",
@@ -5966,6 +5980,13 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51QkJHLW1xa3p3Y3NiMEtGbzZOdTlpQXdzZVJJR09OaUlBZEFoWDU1WnhUWjd3aW1OT0haQURKTThvSUd3bTZ3OEptZXQtTVh1eXBVTV9fYTZfY05ybDVIaVlueXpmVTFhRzBBV0dUMA?oc=5",
           "published_at": "2026-07-23T07:00:00+00:00",
           "excerpt": "How to find trending topics and publish before they peak Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "AI Max spotted in Google Standard Shopping campaigns",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlVhRW4tYUlDUEt2Zk82VnBlbU95THBSQkNZcUpjUGFOeXlNbnN1NTJlaHg5eVRsVDRMeC1nZG5iX1BNZC1WOVNpWEFvTFFHY19EYkhfcmo2QzBiYjhPZlk4U1N4WHRIMnVxbjZkdXdlUllsWGVvaUtFR0d1NFg0RXNpckZua1NtN1VyQ2ZpY1lZUQ?oc=5",
+          "published_at": "2026-07-23T07:00:00+00:00",
+          "excerpt": "AI Max spotted in Google Standard Shopping campaigns Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
@@ -6457,6 +6478,13 @@
           "published_at": "2022-03-07T11:00:15+00:00",
           "excerpt": "Jason Tabeling Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Enter the 2026 Search Engine Land Awards today",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HSUU2X0cyOVN4ek1YbVNQN0hLQlZHTmF4UzVPSTdCakxSeFJpcWlDbndvWmZ0SDJtNHJFRW05NllYcVVBTUxrQUxUdw?oc=5",
+          "published_at": "2017-07-19T16:30:46+00:00",
+          "excerpt": "Enter the 2026 Search Engine Land Awards today Search Engine Land",
+          "fetched_at": "2026-08-22T05:48:08.541251+00:00"
         }
       ]
     },
@@ -6487,6 +6515,20 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/",
+          "published_at": "2026-08-21T19:00:14+00:00",
+          "excerpt": "One year of AI Mode data shows people asking questions, not typing fragments, which is why the lead-first paragraph now beats the narrative arc. The post AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-22T05:48:18.070610+00:00"
+        },
+        {
+          "title": "The House Doesn’t Publish Its Tells via @sejournal, @pedrodias",
+          "url": "https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/",
+          "published_at": "2026-08-21T14:30:45+00:00",
+          "excerpt": "AI labs are buying pre-2022 books to avoid training on AI slop while quietly building text watermarking, exposing why content-at-scale strategies are a losing bet. The post The House Doesn’t Publish Its Tells appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-22T05:48:18.070610+00:00"
+        },
         {
           "title": "Google’s Generated Interfaces Could Compete With Tool Pages via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/",
@@ -9022,6 +9064,13 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "ChatGPT Sources Less Visible: What That Means for Your AI Traffic and Citations",
+          "url": "https://www.webfx.com/blog/ai/chatgpt-sources-less-visible/",
+          "published_at": "2026-08-21T10:12:46+00:00",
+          "excerpt": "The post ChatGPT Sources Less Visible: What That Means for Your AI Traffic and Citations appeared first on WebFX .",
+          "fetched_at": "2026-08-22T05:48:28.235415+00:00"
+        },
+        {
           "title": "Is AI Content Bad for SEO? Here’s What Determines Ranking",
           "url": "https://www.webfx.com/blog/ai/dangers-ai-content/",
           "published_at": "2026-08-20T14:32:06+00:00",
@@ -9705,6 +9754,27 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Enter Google Play’s sweepstakes to win legendary experiences and collectibles with your Play Points.",
+          "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-sweepstakes/",
+          "published_at": "2026-08-21T17:00:00+00:00",
+          "excerpt": "Redeem Google Play Points in the sweepstakes to win a trip to New York Comic Con, rare collectibles, gaming gear, and more.",
+          "fetched_at": "2026-08-22T05:48:31.049714+00:00"
+        },
+        {
+          "title": "What does “full-stack” AI actually mean?",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
+          "published_at": "2026-08-21T16:00:00+00:00",
+          "excerpt": "A Google DeepMind engineer breaks full-stack development into five simple layers and explains how it affects everyday users.",
+          "fetched_at": "2026-08-22T05:48:31.049714+00:00"
+        },
+        {
+          "title": "Here's how to use sign-to-text translation on Pixel 11.",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/american-sign-language-sign-to-text-pixel-11/",
+          "published_at": "2026-08-21T15:00:00+00:00",
+          "excerpt": "Developed in partnership with the Deaf community, sign-to-text translates ASL into text in real time.",
+          "fetched_at": "2026-08-22T05:48:31.049714+00:00"
+        },
         {
           "title": "Tap to pay with Google Pay is coming to Walmart.",
           "url": "https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/",
