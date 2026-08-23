@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T13:48:31.048851+00:00",
+  "last_updated": "2026-08-23T05:52:29.175473+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,11 +4310,25 @@
           "fetched_at": "2026-08-22T13:48:07.660398+00:00"
         },
         {
+          "title": "LLM visibility starts with better internal communication",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUF5aXRDRVFMQXo1bjljS1NwRHJUMmw5N1J5TGtZTlBKMlB4UXItY1JHSlQ2WjZmU2R4TElQTXVSaVhuUUxOTGRxaGY4YlNiaTh5NDdVbU5rc3VfV01oRHlKQzFHeWJFeC1lS0phdVR4NDFXTXI1c2NxOFNkalY0aTRxVjE5T0JyY3NNR3NuMDdoYUtORVpJ?oc=5",
+          "published_at": "2026-08-21T12:00:00+00:00",
+          "excerpt": "LLM visibility starts with better internal communication Search Engine Land",
+          "fetched_at": "2026-08-23T05:52:07.491342+00:00"
+        },
+        {
           "title": "Google August 2026 spam update done rolling out",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVlqR2Vwakk3X2tsNVZnREg0VXJpbC13OXpHc2VQemRjeEpQS0J6U2lnUUZRUWJEN0NNUnRySmZyUW11WEVSc3NLV0psUlM0WmNrYWZrWGNiY1FuWXZfQ3RoSzhFejJUMm91ZVBJbnowbFBWQy1vSVVPdXhIRmdaVm4yNnpxMVlIRlpz?oc=5",
           "published_at": "2026-08-21T09:25:00+00:00",
           "excerpt": "Google August 2026 spam update done rolling out Search Engine Land",
           "fetched_at": "2026-08-21T14:19:41.274486+00:00"
+        },
+        {
+          "title": "The latest jobs in search marketing",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+          "published_at": "2026-08-20T18:18:00+00:00",
+          "excerpt": "The latest jobs in search marketing Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "How to build topic clusters that AI will cite: A step-by-step guide",
@@ -4359,13 +4373,6 @@
           "fetched_at": "2026-08-21T05:59:09.168236+00:00"
         },
         {
-          "title": "SEO priorities for 2027: Your guide to search success",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iZ3ZRamUzLTNKTUlSdVhxeXlfYm05Q2x2YVZIZm9LTm9sSzVDaWR6RWJEWEYwOW5kdThlb0xNa1NuNXFmX1Q4WDU2aWFTcFRRVUc0UWZCcDZBTkNIalpQZk5sekJDdw?oc=5",
-          "published_at": "2026-08-20T13:11:01+00:00",
-          "excerpt": "SEO priorities for 2027: Your guide to search success Search Engine Land",
-          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
-        },
-        {
           "title": "Google adds new AI Max testing and planning tools",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVBsYXM1TFg4SGdmbmsxVTV6Snp1WFljV2N1cDJSdHh3UTBGaXFpWEthZ2hId2RXX1RpQmgwVHM4SGJSc3NWY0MtNWt2Q0JrMG1xOWkxZlVLV1N6OGpYbkZXS1NxZkp0bDQ4R1dKV3kzTFRacERPdElJTGYwZldCZ0dIMVJ3bkNiN3g5OEtn?oc=5",
           "published_at": "2026-08-20T13:03:00+00:00",
@@ -4380,11 +4387,25 @@
           "fetched_at": "2026-08-20T14:21:32.060296+00:00"
         },
         {
+          "title": "SEO priorities for 2027: Your guide to search success",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iZ3ZRamUzLTNKTUlSdVhxeXlfYm05Q2x2YVZIZm9LTm9sSzVDaWR6RWJEWEYwOW5kdThlb0xNa1NuNXFmX1Q4WDU2aWFTcFRRVUc0UWZCcDZBTkNIalpQZk5sekJDdw?oc=5",
+          "published_at": "2026-08-20T07:00:00+00:00",
+          "excerpt": "SEO priorities for 2027: Your guide to search success Search Engine Land",
+          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
+        },
+        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZc0loSWNsOTFRRUxYNURsc1dRN1ZIOTd6OUxmc2oxcWRQeDlGZ29YME4wak5fMkVKUkJvME96WG5lcFdrX3BsazhiSGlKUlo2bnpjTmRPZlFQN1JzblN3NmNUWS1MWjR1TTA4UF9FU0pJYW9veFc1Qw?oc=5",
           "published_at": "2026-08-19T22:30:18+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-08-22T13:48:07.660398+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VbVVmX3A0NkJnUnRUc2JtVEVXUFd5WmVvM0QwU3hRU2JMcXlxRUxJRzZPbGg2eU5hU1VwUHBPRmFLYVNMZVFBUVRxMDhVeHRMMTVBczFTVTVLR2ZxRlZCeVdJa1RtLU5hYnZIdFpjelNaZklxTk5vVg?oc=5",
+          "published_at": "2026-08-19T22:30:18+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-08-23T05:52:07.491342+00:00"
         },
         {
           "title": "Google Ads API v25.1 expands measurement and insights",
@@ -4660,13 +4681,6 @@
           "fetched_at": "2026-08-14T15:13:04.205163+00:00"
         },
         {
-          "title": "The latest jobs in search marketing",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-          "published_at": "2026-08-14T13:41:00+00:00",
-          "excerpt": "The latest jobs in search marketing Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "Demand Gen shows why PPC can no longer hide behind intent",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pWFpPcmhIbGpkSjVXYmxwMm1sM3dmTlM5Z3dUcUphUU9jS2loRXNSa0NoZldaSXVlMUlVSVZTU01QNDdoeElwX2V1THV6RDhjRlJVMkNfbExIZ2tabThjVFV5WUZQREFP?oc=5",
           "published_at": "2026-08-14T13:00:00+00:00",
@@ -4679,13 +4693,6 @@
           "published_at": "2026-08-14T12:00:00+00:00",
           "excerpt": "The missing step in vibe coding: Verify what actually shipped Search Engine Land",
           "fetched_at": "2026-08-17T06:02:20.210984+00:00"
-        },
-        {
-          "title": "Google Ads is removing language targeting from Search campaigns",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUEwT3NpRk1wVzhfZjhCQTdpeEp6eF90NjEyUFVaRkhJT2lGM3lYR0lFVTIxVm9yVk1ubTNZb0RIMFF6YmtqRkVyTEtQVUh4R29ydjhKOHFQS1Ixdl9BZUNSQ3Q3SU1semFxZ2VyNElIaDduMjA5R3VsaTJpWVlCcjV4d3lOSk5nbnlSVmszTDhwd2pmdEgteW12QnZwSDZz?oc=5",
-          "published_at": "2026-08-13T21:30:00+00:00",
-          "excerpt": "Google Ads is removing language targeting from Search campaigns Search Engine Land",
-          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
         },
         {
           "title": "Microsoft Clarity AI Scrape-to-Referral insights report",
@@ -4734,6 +4741,13 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSS02MEZiOE1yTU9nU25veGRIMlJWTWZFTVVGWlhfT2ZJLWFFaEJsM01jVE92Ym1DSmExVjZjSEVINm1Gb05aV3pSNkYwOTdOT0lGRFhCUzd6c284RVU2NG9kLU9mVVRkTW9UT2pYMHNZTE5LalN0emN2VFJhbmNLNVZtV3A0d3NjNk1Ha2Q2dlhVdw?oc=5",
           "published_at": "2026-08-13T07:00:00+00:00",
           "excerpt": "Shopify: AI referrals up 197%, but organic search still leads traffic Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
+        },
+        {
+          "title": "Google Ads is removing language targeting from Search campaigns",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUEwT3NpRk1wVzhfZjhCQTdpeEp6eF90NjEyUFVaRkhJT2lGM3lYR0lFVTIxVm9yVk1ubTNZb0RIMFF6YmtqRkVyTEtQVUh4R29ydjhKOHFQS1Ixdl9BZUNSQ3Q3SU1semFxZ2VyNElIaDduMjA5R3VsaTJpWVlCcjV4d3lOSk5nbnlSVmszTDhwd2pmdEgteW12QnZwSDZz?oc=5",
+          "published_at": "2026-08-13T07:00:00+00:00",
+          "excerpt": "Google Ads is removing language targeting from Search campaigns Search Engine Land",
           "fetched_at": "2026-08-14T08:47:10.073034+00:00"
         },
         {
@@ -5850,13 +5864,6 @@
           "fetched_at": "2026-07-27T09:55:46.963074+05:30"
         },
         {
-          "title": "Google says don't include fake or undisclosed incentivized reviews in review snippet structured data",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTWxqeHA3S1Y5Smg3VFBTaVMxOGVjeENhbHIwNnZlandxc0ZrSGJjMEVuMmI0NlBEOElnMWl3VzRDTVlBUXI1Yl95VlBLZVI2UGRhTjhFS24xV3N0MDFJclhVZXlNZTByb1ppTGNOS1Q0bDQzTGNOT1N3b3ZfV3dqazJxbmlkc1p2TDN5cW5vbUpHaFh1MnNnaURWV3Vlb0pQVHdianBkdjY5QnVtaTEySjlja3dvaFdabjVndmkwVk83ZHV1Qmh5Q3NmbEs4d1Zw?oc=5",
-          "published_at": "2026-07-24T15:10:00+00:00",
-          "excerpt": "Google says don't include fake or undisclosed incentivized reviews in review snippet structured data Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "AI search can’t verify your business — here’s how to fix it",
           "url": "https://searchengineland.com/ai-search-cant-verify-business-fix-483376",
           "published_at": "2026-07-24T15:00:00+05:30",
@@ -5896,6 +5903,13 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekZoZDVEb3JxTlk4OHJ3amVPY1RMNlNDWWVvOWR3eTA0ZHFPODdwajhIWjhvTW5VUDF1UXpwaWk1bnhQOHV6U0szWWlrbHc0WjUycHZtaGZhZkFiMmI3V3FJenBRRTB3QXJlclROR1BaT2E5bDRrZlVhUEdfdTJJZDZqem5WVF9uajFWSDFFNHFoTnE2UXdwUENfMlZDSEphOU1xVW0wb3JnWFdTOU04?oc=5",
           "published_at": "2026-07-24T07:00:00+00:00",
           "excerpt": "ChatGPT Ads adds conversion bidding, geo exclusions and bulk campaign tools Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Google says don't include fake or undisclosed incentivized reviews in review snippet structured data",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTWxqeHA3S1Y5Smg3VFBTaVMxOGVjeENhbHIwNnZlandxc0ZrSGJjMEVuMmI0NlBEOElnMWl3VzRDTVlBUXI1Yl95VlBLZVI2UGRhTjhFS24xV3N0MDFJclhVZXlNZTByb1ppTGNOS1Q0bDQzTGNOT1N3b3ZfV3dqazJxbmlkc1p2TDN5cW5vbUpHaFh1MnNnaURWV3Vlb0pQVHdianBkdjY5QnVtaTEySjlja3dvaFdabjVndmkwVk83ZHV1Qmh5Q3NmbEs4d1Zw?oc=5",
+          "published_at": "2026-07-24T07:00:00+00:00",
+          "excerpt": "Google says don't include fake or undisclosed incentivized reviews in review snippet structured data Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
