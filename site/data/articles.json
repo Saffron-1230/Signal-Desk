@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T05:52:29.175473+00:00",
+  "last_updated": "2026-08-23T13:50:34.402185+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4373,10 +4373,24 @@
           "fetched_at": "2026-08-21T05:59:09.168236+00:00"
         },
         {
+          "title": "Eric Hoover",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yZm1iQkNldWZ1dWpVVHkxWFVfbDRPaXJ3UFU5VFpMcnZ3S2U2UWtkNVh0SllDWk1ZSHZhQkZBbkFuNkVVUGF3Wkh6LWFBM0NPeGxQVFRhOS1wZGs?oc=5",
+          "published_at": "2026-08-20T14:00:00+00:00",
+          "excerpt": "Eric Hoover Search Engine Land",
+          "fetched_at": "2026-08-23T13:50:16.308060+00:00"
+        },
+        {
           "title": "Google adds new AI Max testing and planning tools",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVBsYXM1TFg4SGdmbmsxVTV6Snp1WFljV2N1cDJSdHh3UTBGaXFpWEthZ2hId2RXX1RpQmgwVHM4SGJSc3NWY0MtNWt2Q0JrMG1xOWkxZlVLV1N6OGpYbkZXS1NxZkp0bDQ4R1dKV3kzTFRacERPdElJTGYwZldCZ0dIMVJ3bkNiN3g5OEtn?oc=5",
           "published_at": "2026-08-20T13:03:00+00:00",
           "excerpt": "Google adds new AI Max testing and planning tools Search Engine Land",
+          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
+        },
+        {
+          "title": "SEO priorities for 2027: Your guide to search success",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iZ3ZRamUzLTNKTUlSdVhxeXlfYm05Q2x2YVZIZm9LTm9sSzVDaWR6RWJEWEYwOW5kdThlb0xNa1NuNXFmX1Q4WDU2aWFTcFRRVUc0UWZCcDZBTkNIalpQZk5sekJDdw?oc=5",
+          "published_at": "2026-08-20T13:00:00+00:00",
+          "excerpt": "SEO priorities for 2027: Your guide to search success Search Engine Land",
           "fetched_at": "2026-08-21T05:59:09.168236+00:00"
         },
         {
@@ -4385,13 +4399,6 @@
           "published_at": "2026-08-20T12:00:00+00:00",
           "excerpt": "The next AI money grab: Charging for editorial corrections Search Engine Land",
           "fetched_at": "2026-08-20T14:21:32.060296+00:00"
-        },
-        {
-          "title": "SEO priorities for 2027: Your guide to search success",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iZ3ZRamUzLTNKTUlSdVhxeXlfYm05Q2x2YVZIZm9LTm9sSzVDaWR6RWJEWEYwOW5kdThlb0xNa1NuNXFmX1Q4WDU2aWFTcFRRVUc0UWZCcDZBTkNIalpQZk5sekJDdw?oc=5",
-          "published_at": "2026-08-20T07:00:00+00:00",
-          "excerpt": "SEO priorities for 2027: Your guide to search success Search Engine Land",
-          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -4639,6 +4646,13 @@
           "fetched_at": "2026-08-18T14:16:30.009584+00:00"
         },
         {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1pYS0pnMDMxMXhtLWFBUHV3UVNVcDljX2txYTNzaWh3bEdzMGppekVyNTJPNzE5cGphLUhqZEI3cENOMnJuVzkwQ1VkZ0taSFd5MzNiZTFSRE9aQWxUaU1MRzlHTm1NTVQ1REZtbGpvU19fREUzeTQyaURpM1R5MGVPSDVPSlZsSFgyZ3pSY1RWSDlEcnVB?oc=5",
+          "published_at": "2026-08-16T20:55:17+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-08-23T13:50:16.308060+00:00"
+        },
+        {
           "title": "Gemini 3.7 Flash rolling out in Google Search",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWVhmWWZXV216YW1IZDhqTW9KVmt4MUp1RzZyWlgxWHFabDBtbUNqV1JudmU2TVFEQ3BDZ3hZelNGWE9BU0tXLWYwdElEMENsSDFhQmpUREExek9YMWlxMVB2a1BiYUV1ekFYRE9RUjZUOE5JeGJMR1BadWVPbmdoM2dGYjExWTdK?oc=5",
           "published_at": "2026-08-14T18:30:00+00:00",
@@ -4667,13 +4681,6 @@
           "fetched_at": "2026-08-15T13:46:47.979254+00:00"
         },
         {
-          "title": "Google sets AI Max migration timeline for Search campaigns",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3FhVnNwbWtmNFpJb2k0WGs5SW9DZk5tNFpZT2NJTGd0aU9pX2NJSm1PRjg1eHlLM3p5NnFpMVdhblhMLUZ3N1BHOVEwX0ZSUHNaQzlUd29LT2Z6Skk0QmVHQ0dOQzRVM1JYZ2ZLM1EyaHh4aGVOdTBZSGNPSDRZbkFqOXFDc1FoTHh1NHdFSTN0UWF6czByR2t3?oc=5",
-          "published_at": "2026-08-14T14:19:00+00:00",
-          "excerpt": "Google sets AI Max migration timeline for Search campaigns Search Engine Land",
-          "fetched_at": "2026-08-15T13:46:47.979254+00:00"
-        },
-        {
           "title": "LLM traffic converts differently — here’s what to do about it",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYzlLOU9aUEptYlVFSlZyZkJad1dJNWMyRldUZEVobmlVN0xXZGM5a1pYSFBNaHhhNlhRLWVhSm9ERjRxNUxOem94X0txVmZrNTFVTDEzMDZnaVhzcmJRNlM3eXNHUEZ5bnhobTFTZkxZRHVxQU5QcGRFRkZ2WE03SHJiaVllZw?oc=5",
           "published_at": "2026-08-14T14:00:00+00:00",
@@ -4681,18 +4688,25 @@
           "fetched_at": "2026-08-14T15:13:04.205163+00:00"
         },
         {
-          "title": "Demand Gen shows why PPC can no longer hide behind intent",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pWFpPcmhIbGpkSjVXYmxwMm1sM3dmTlM5Z3dUcUphUU9jS2loRXNSa0NoZldaSXVlMUlVSVZTU01QNDdoeElwX2V1THV6RDhjRlJVMkNfbExIZ2tabThjVFV5WUZQREFP?oc=5",
-          "published_at": "2026-08-14T13:00:00+00:00",
-          "excerpt": "Demand Gen shows why PPC can no longer hide behind intent Search Engine Land",
-          "fetched_at": "2026-08-15T13:46:47.979254+00:00"
-        },
-        {
           "title": "The missing step in vibe coding: Verify what actually shipped",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2RzLVVsRWxRRXRzNmZaMk5zSE82cTBFNUFNRHFRc3BtaG52bE1CQ0lGNkVZSnc2emppb2hSbXdidXdmSFl4ZkcyN2NuY0lpT0xRWkl1Z1RtalB5SkpQYzhrTmhOdGxZdUxpU0FjM1llTnV6cUhORS1kanZ2SVR1VGxQeEI0U1lEYnF4aWcxTXlzRk0ydGhSOUpZbkU?oc=5",
           "published_at": "2026-08-14T12:00:00+00:00",
           "excerpt": "The missing step in vibe coding: Verify what actually shipped Search Engine Land",
           "fetched_at": "2026-08-17T06:02:20.210984+00:00"
+        },
+        {
+          "title": "Demand Gen shows why PPC can no longer hide behind intent",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pWFpPcmhIbGpkSjVXYmxwMm1sM3dmTlM5Z3dUcUphUU9jS2loRXNSa0NoZldaSXVlMUlVSVZTU01QNDdoeElwX2V1THV6RDhjRlJVMkNfbExIZ2tabThjVFV5WUZQREFP?oc=5",
+          "published_at": "2026-08-14T07:00:00+00:00",
+          "excerpt": "Demand Gen shows why PPC can no longer hide behind intent Search Engine Land",
+          "fetched_at": "2026-08-15T13:46:47.979254+00:00"
+        },
+        {
+          "title": "Google sets AI Max migration timeline for Search campaigns",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3FhVnNwbWtmNFpJb2k0WGs5SW9DZk5tNFpZT2NJTGd0aU9pX2NJSm1PRjg1eHlLM3p5NnFpMVdhblhMLUZ3N1BHOVEwX0ZSUHNaQzlUd29LT2Z6Skk0QmVHQ0dOQzRVM1JYZ2ZLM1EyaHh4aGVOdTBZSGNPSDRZbkFqOXFDc1FoTHh1NHdFSTN0UWF6czByR2t3?oc=5",
+          "published_at": "2026-08-14T07:00:00+00:00",
+          "excerpt": "Google sets AI Max migration timeline for Search campaigns Search Engine Land",
+          "fetched_at": "2026-08-15T13:46:47.979254+00:00"
         },
         {
           "title": "Microsoft Clarity AI Scrape-to-Referral insights report",
@@ -4870,13 +4884,6 @@
           "fetched_at": "2026-08-11T15:43:38.234812+00:00"
         },
         {
-          "title": "DMCA as a weapon: How to fight fraudulent takedown claims",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2VCN1JNV1k3dHc0R0NIbHlkMEJlZGhOY3g3RkllaUpIOFZGdmp3Z3Z3Vm15SEVxU3JzZmJ5U3pwRTBsQXVtaF9LcW9FdDVfd3lnX1Vod3FNRDdxWE4yZDFnZEg2aENaaDF6RGJ2X0pQRkFReUpsejVmOGhhXzdJd0JwVWRBSDA?oc=5",
-          "published_at": "2026-08-11T14:00:00+00:00",
-          "excerpt": "DMCA as a weapon: How to fight fraudulent takedown claims Search Engine Land",
-          "fetched_at": "2026-08-16T13:48:53.305164+00:00"
-        },
-        {
           "title": "A 5-layer framework for measuring AI search performance",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWtET0tJLVNQR3MzQ0RzWDN2NFE2dWpkdDk1ZU4tM2dzS1I5UW9mb3NpVG9odi1MSWxZTWY5SFFTTXBNZUxmUmZaVzlYUE9VaEdYV2l0amQyXzJTcXVHLW1WU2ljNUFsOWROYzFnSVkwdnJsYTBOLS14RG90NVRSdV9xc1I?oc=5",
           "published_at": "2026-08-11T13:00:00+00:00",
@@ -4903,6 +4910,13 @@
           "published_at": "2026-08-11T07:00:00+00:00",
           "excerpt": "Google tests advertiser list above mobile Search ads Search Engine Land",
           "fetched_at": "2026-08-12T08:50:36.331222+00:00"
+        },
+        {
+          "title": "DMCA as a weapon: How to fight fraudulent takedown claims",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2VCN1JNV1k3dHc0R0NIbHlkMEJlZGhOY3g3RkllaUpIOFZGdmp3Z3Z3Vm15SEVxU3JzZmJ5U3pwRTBsQXVtaF9LcW9FdDVfd3lnX1Vod3FNRDdxWE4yZDFnZEg2aENaaDF6RGJ2X0pQRkFReUpsejVmOGhhXzdJd0JwVWRBSDA?oc=5",
+          "published_at": "2026-08-11T07:00:00+00:00",
+          "excerpt": "DMCA as a weapon: How to fight fraudulent takedown claims Search Engine Land",
+          "fetched_at": "2026-08-16T13:48:53.305164+00:00"
         },
         {
           "title": "Google investigates Merchant Center outage",
@@ -4973,6 +4987,13 @@
           "published_at": "2026-08-10T03:10:38+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-08-16T05:49:42.653828+00:00"
+        },
+        {
+          "title": "120×600 – Skyscraper",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWDQ2cWpsQnJBcmttS0hfQ1NqMkJaSkpJOUZQUld2dHQ3M0ZWSzc5eXp0UkhGRER0NXctVXhuVHpxaTNIaDZPdnpzRFRkQ0NSa0U4NnRldFVXNldtMV9pTTZUSW43LTYySS1VWg?oc=5",
+          "published_at": "2026-08-09T06:28:48+00:00",
+          "excerpt": "120×600 – Skyscraper Search Engine Land",
+          "fetched_at": "2026-08-23T13:50:16.308060+00:00"
         },
         {
           "title": "ChatGPT Ads rolls out oCPC campaigns, AAM and product carousels",
