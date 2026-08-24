@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T13:50:34.402185+00:00",
+  "last_updated": "2026-08-24T06:07:05.576601+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -8879,6 +8879,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "Account-Based Marketing Team Structure: Key Roles and Responsibilities to Drive Success",
+          "url": "https://www.factors.ai/blog/account-based-marketing-team-structure",
+          "published_at": "2026-08-23T00:00:00+00:00",
+          "excerpt": "Learn how to build an account-based marketing team structure, define roles across Marketing, Sales, and RevOps, and organize teams around target accounts.",
+          "fetched_at": "2026-08-24T06:07:01.846251+00:00"
+        },
         {
           "title": "ABM Segmentation: Because \"Everyone with a Budget\" Isn't Actually a Target Segment",
           "url": "https://www.factors.ai/blog/abm-segmentation",
