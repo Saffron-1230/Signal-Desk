@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T06:07:05.576601+00:00",
+  "last_updated": "2026-08-24T14:28:53.834510+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4275,6 +4275,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "The power of connected customer history",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbjFsNkFtRzhlWmQ1RDc5M19za1hfWU52RVkzUk1MRkZFUjhtZnBnekFuMlNxMXNLU0hrV0J1aHJwMFhSS1hid0JrUFNIeFpfQktyRGdSQlN2RW9ZZ0tOODRUbmthV05Ed1pNODhjM2RpY0tVcjRxTmFLX2pmbm5ZOA?oc=5",
+          "published_at": "2026-08-24T11:00:00+00:00",
+          "excerpt": "The power of connected customer history Search Engine Land",
+          "fetched_at": "2026-08-24T14:28:28.251139+00:00"
+        },
+        {
           "title": "Google working on fix for broken favicons in Google Search",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcVcwY1pwcWxlVUJscFVWRHlSQWJZdDBuRFNfREJLdDk4d0xqVVF0bHVuZ2J3QUdkQVgyZDBzcmVMdWNPTDJwSkRNMVItTXQxZHJYR3cwb3JCNUo4TWlpYmt3M01oamZlNVZ2QUJpaUwxRVdHWlp0V3hzOEJLUGpHTzRnMjdEZUJfekhCNWxaUlBKeWx0YjBmd0VR?oc=5",
           "published_at": "2026-08-21T18:43:00+00:00",
@@ -4364,6 +4371,13 @@
           "published_at": "2026-08-20T15:25:00+00:00",
           "excerpt": "Meta AI can now analyze and optimize Meta Ads campaigns Search Engine Land",
           "fetched_at": "2026-08-21T05:59:09.168236+00:00"
+        },
+        {
+          "title": "How to improve Google Ads lead quality with CRM data",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94aThBeTRHaElJUC1EWE5Xb2hRd2ItUU1SLUNWNm9pMzRDWW9aVmlDLURFb2lQMFRYZUlVOWRVUUEyWE9kMnBycG92WmIwS1A5Mk9tcDBacXZ4UHQxY2FacFJ1bFBNOGJZaGpLUWhxZVFUaW9KTFE?oc=5",
+          "published_at": "2026-08-20T15:00:00+00:00",
+          "excerpt": "How to improve Google Ads lead quality with CRM data Search Engine Land",
+          "fetched_at": "2026-08-24T14:28:28.251139+00:00"
         },
         {
           "title": "3 phases to build authority and earn AI citations",
@@ -6586,6 +6600,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "How To Audit Publisher Websites In 2026",
+          "url": "https://www.searchenginejournal.com/how-to-audit-publisher-websites-in-2026/586349/",
+          "published_at": "2026-08-24T12:00:14+00:00",
+          "excerpt": "A practical framework for auditing publisher websites in 2026, covering technical SEO, content quality, E-E-A-T, and entity consistency across passive and active discovery channels. The post How To Audit Publisher Websites In 2026 appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-24T14:28:41.979340+00:00"
+        },
+        {
+          "title": "Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-answers-if-some-sites-can-ignore-geo-and-just-focus-on-seo/586737/",
+          "published_at": "2026-08-24T10:52:48+00:00",
+          "excerpt": "Google explains whether some industries can get away with focusing on search and ignore GEO altogether. The post Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-24T14:28:41.979340+00:00"
+        },
+        {
           "title": "Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-spam-update-generative-ui-ai-overviews-reddit-drop/586597/",
           "published_at": "2026-08-22T12:30:28+00:00",
@@ -6712,17 +6740,17 @@
           "fetched_at": "2026-08-19T14:18:08.513261+00:00"
         },
         {
-          "title": "Google Answers Why Spam Updates Need To Happen via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/google-answers-why-spam-updates-need-to-happen/586382/",
-          "published_at": "2026-08-19T10:42:13+00:00",
-          "excerpt": "Why does Google have spam updates every once in a while? Google’s John Mueller answers that question and explains the reason why Google doesn’t just get rid of spam on a regular basis with existing algorithms. Spam Algorithms And Updates There are many kinds of search spam, and…",
-          "fetched_at": "2026-08-19T14:18:08.513261+00:00"
-        },
-        {
           "title": "Google Explains Why Search Updates Aren’t Announced Right Away via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-answers-why-search-updates-arent-announced-right-away/586370/",
           "published_at": "2026-08-19T10:19:30+00:00",
           "excerpt": "Google's John Mueller explains why updates aren't announced earlier when rankings are already bouncing around. The post Google Answers Why Search Updates Aren’t Announced Right Away appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-19T14:18:08.513261+00:00"
+        },
+        {
+          "title": "Google Answers Why Spam Updates Need To Happen",
+          "url": "https://www.searchenginejournal.com/google-answers-why-spam-updates-need-to-happen/586382/",
+          "published_at": "2026-08-19T00:00:00+00:00",
+          "excerpt": "Why does Google have spam updates every once in a while? Google’s John Mueller answers that question and explains the reason why Google doesn’t just get rid of spam on a regular basis with existing algorithms. Spam Algorithms And Updates There are many kinds of search spam, and…",
           "fetched_at": "2026-08-19T14:18:08.513261+00:00"
         },
         {
@@ -8879,6 +8907,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "Measure Your Campaign Success with These 9 ABM Metrics",
+          "url": "https://www.factors.ai/blog/abm-metrics-to-measure-campaign-success",
+          "published_at": "2026-08-24T00:00:00+00:00",
+          "excerpt": "Learn which ABM metrics matter most and how to use them to understand whether your campaigns are actually working.",
+          "fetched_at": "2026-08-24T14:28:49.803375+00:00"
+        },
         {
           "title": "Account-Based Marketing Team Structure: Key Roles and Responsibilities to Drive Success",
           "url": "https://www.factors.ai/blog/account-based-marketing-team-structure",
