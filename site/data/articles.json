@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T05:58:27.500940+00:00",
+  "last_updated": "2026-08-25T15:10:41.503213+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4282,6 +4282,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "What 1.8 million Google Business Profiles tell us about local SEO success",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE1GQzhWcDQtNlFqRFdzUHpQeVlFalpUM3A3S3pRTjdtaWZITjQ2NVdwWnJNNGJRcDF2eUVyaEFyYWoxRGQ0bVFCUXhPNUtaWTg1czJMUm12NFRUdXRNUklwc0lUdGxtM2I1U1doYVNLemtzb2ZwVHhwWlFBc29KVTN0YW1BM1RuMm9R?oc=5",
+          "published_at": "2026-08-25T14:00:00+00:00",
+          "excerpt": "What 1.8 million Google Business Profiles tell us about local SEO success Search Engine Land",
+          "fetched_at": "2026-08-25T15:10:20.099032+00:00"
+        },
+        {
           "title": "ChatGPT Ads adds automated bidding, platform targeting",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3VjaDlLZmw2MldVcm42bzZVcm10MW9PQ2xfRU1ya05JV1RQbzd2RlpSRWExSmFUNHZjN0N5dXN0UzRVSzZCYlN3bDRsampxRUZfR1Vsa3VzTzZmU281OE94NERGT0V5a19tZXZnM2NrNVhLU3o3RW9sdjFpb0g3MGRwQzRsQ2FvWnVaVmM1V29oc0k?oc=5",
           "published_at": "2026-08-24T16:42:00+00:00",
@@ -4639,13 +4646,6 @@
           "fetched_at": "2026-08-22T13:48:07.660398+00:00"
         },
         {
-          "title": "Google Ads will use generative AI to resize Performance Max video ads",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0dnTFhyTThjYVk3TFJES1hZYTFNdDV6Rkd0d3pRTHlLeUxzVmRMU01rbWk0aFFXZG5tQWJGVU05SlVCaDVNNXQ3blFiTmU1dlQ3MUVaZktHbHU1Z2h6MWdWMVNXZDlpU1dIN1RXZEdvelI2eU9UZVV6YjlBU1RraWtVNV90UWtpeklBaUUwVnBoMGVOemQtSDlNeF9HSGt5elJPWldCMDQ?oc=5",
-          "published_at": "2026-08-17T22:45:00+00:00",
-          "excerpt": "Google Ads will use generative AI to resize Performance Max video ads Search Engine Land",
-          "fetched_at": "2026-08-18T14:16:30.009584+00:00"
-        },
-        {
           "title": "ChatGPT draws more paid clicks from Google than any other top destination",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEV2LXdTNmZVTEFLUzdibUhPLWNnR196UXJRWERsSlN1UW53YXllSjhXbUhUZ2tVcDZabklQekcyUmZnTERTOWRDZ1RHSkxLUkxUUzl1VVdJQjBBUExXMWRQQXRzenJnMnpmRHZ6a3FPajc3b0xXNzQyclJRTjViS2RlaGZBbS11XzAxWVVrMEY4UnpwTDJ1Tko0UEoyemZlRDNsaEVfX0hrVnpxNHc?oc=5",
           "published_at": "2026-08-17T22:30:00+00:00",
@@ -4723,6 +4723,13 @@
           "fetched_at": "2026-08-18T14:16:30.009584+00:00"
         },
         {
+          "title": "Google Ads will use generative AI to resize Performance Max video ads",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0dnTFhyTThjYVk3TFJES1hZYTFNdDV6Rkd0d3pRTHlLeUxzVmRMU01rbWk0aFFXZG5tQWJGVU05SlVCaDVNNXQ3blFiTmU1dlQ3MUVaZktHbHU1Z2h6MWdWMVNXZDlpU1dIN1RXZEdvelI2eU9UZVV6YjlBU1RraWtVNV90UWtpeklBaUUwVnBoMGVOemQtSDlNeF9HSGt5elJPWldCMDQ?oc=5",
+          "published_at": "2026-08-17T07:00:00+00:00",
+          "excerpt": "Google Ads will use generative AI to resize Performance Max video ads Search Engine Land",
+          "fetched_at": "2026-08-18T14:16:30.009584+00:00"
+        },
+        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1pYS0pnMDMxMXhtLWFBUHV3UVNVcDljX2txYTNzaWh3bEdzMGppekVyNTJPNzE5cGphLUhqZEI3cENOMnJuVzkwQ1VkZ0taSFd5MzNiZTFSRE9aQWxUaU1MRzlHTm1NTVQ1REZtbGpvU19fREUzeTQyaURpM1R5MGVPSDVPSlZsSFgyZ3pSY1RWSDlEcnVB?oc=5",
           "published_at": "2026-08-16T20:55:17+00:00",
@@ -4730,39 +4737,32 @@
           "fetched_at": "2026-08-23T13:50:16.308060+00:00"
         },
         {
-          "title": "Gemini 3.7 Flash rolling out in Google Search",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWVhmWWZXV216YW1IZDhqTW9KVmt4MUp1RzZyWlgxWHFabDBtbUNqV1JudmU2TVFEQ3BDZ3hZelNGWE9BU0tXLWYwdElEMENsSDFhQmpUREExek9YMWlxMVB2a1BiYUV1ekFYRE9RUjZUOE5JeGJMR1BadWVPbmdoM2dGYjExWTdK?oc=5",
-          "published_at": "2026-08-14T18:30:00+00:00",
-          "excerpt": "Gemini 3.7 Flash rolling out in Google Search searchengineland.com",
-          "fetched_at": "2026-08-15T05:45:07.678326+00:00"
-        },
-        {
-          "title": "The 4-step roadmap to AI agents for Google Ads",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlZ2RKUGxqdUFxX0dCX2FBcHdQM0R4Tnh4aXFuR052cXBKdGxDSFltNkt0VUhKR3E1a0FrUnFXV0x1QTR2QzhXLU5GMGZaTkNvM3ZVRHU1TEN0R0drVDVFcFBLdF9rdUh1YWw5STVqZUU1dw?oc=5",
-          "published_at": "2026-08-14T15:00:00+00:00",
-          "excerpt": "The 4-step roadmap to AI agents for Google Ads searchengineland.com",
-          "fetched_at": "2026-08-15T05:45:07.678326+00:00"
-        },
-        {
-          "title": "Google Merchant Center for Agencies now supports up to 1,000 linked accounts",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTd4eDBYWkhUckN5Zk03QXVaUEVvWDc4SU9rSkhUWlV6ejdld3ZDUHAxVUpadVAxN1JZcnpwcVlIWXBwUUtLaFVnM1RrN1lmaURKX3dDMTJmWjhKNUJBM3dldXlnaWRSQ0d6WlAyeGdIbFRSQmZwM2JYQ284VF9BN2dPSmJHWFVDeHJtUGNvUll4bHAtQXdUR05aWmd3SnZfMGhVdWZrdXkyZHg4b1FaNA?oc=5",
-          "published_at": "2026-08-14T14:52:00+00:00",
-          "excerpt": "Google Merchant Center for Agencies now supports up to 1,000 linked accounts Search Engine Land",
-          "fetched_at": "2026-08-17T14:03:30.663803+00:00"
-        },
-        {
-          "title": "LLM traffic converts differently — here’s what to do about it",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYzlLOU9aUEptYlVFSlZyZkJad1dJNWMyRldUZEVobmlVN0xXZGM5a1pYSFBNaHhhNlhRLWVhSm9ERjRxNUxOem94X0txVmZrNTFVTDEzMDZnaVhzcmJRNlM3eXNHUEZ5bnhobTFTZkxZRHVxQU5QcGRFRkZ2WE03SHJiaVllZw?oc=5",
-          "published_at": "2026-08-14T14:00:00+00:00",
-          "excerpt": "LLM traffic converts differently — here’s what to do about it Search Engine Land",
-          "fetched_at": "2026-08-14T15:13:04.205163+00:00"
-        },
-        {
           "title": "The missing step in vibe coding: Verify what actually shipped",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2RzLVVsRWxRRXRzNmZaMk5zSE82cTBFNUFNRHFRc3BtaG52bE1CQ0lGNkVZSnc2emppb2hSbXdidXdmSFl4ZkcyN2NuY0lpT0xRWkl1Z1RtalB5SkpQYzhrTmhOdGxZdUxpU0FjM1llTnV6cUhORS1kanZ2SVR1VGxQeEI0U1lEYnF4aWcxTXlzRk0ydGhSOUpZbkU?oc=5",
           "published_at": "2026-08-14T12:00:00+00:00",
           "excerpt": "The missing step in vibe coding: Verify what actually shipped Search Engine Land",
           "fetched_at": "2026-08-17T06:02:20.210984+00:00"
+        },
+        {
+          "title": "LLM traffic converts differently — here’s what to do about it",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYzlLOU9aUEptYlVFSlZyZkJad1dJNWMyRldUZEVobmlVN0xXZGM5a1pYSFBNaHhhNlhRLWVhSm9ERjRxNUxOem94X0txVmZrNTFVTDEzMDZnaVhzcmJRNlM3eXNHUEZ5bnhobTFTZkxZRHVxQU5QcGRFRkZ2WE03SHJiaVllZw?oc=5",
+          "published_at": "2026-08-14T07:00:00+00:00",
+          "excerpt": "LLM traffic converts differently — here’s what to do about it Search Engine Land",
+          "fetched_at": "2026-08-14T15:13:04.205163+00:00"
+        },
+        {
+          "title": "The 4-step roadmap to AI agents for Google Ads",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlZ2RKUGxqdUFxX0dCX2FBcHdQM0R4Tnh4aXFuR052cXBKdGxDSFltNkt0VUhKR3E1a0FrUnFXV0x1QTR2QzhXLU5GMGZaTkNvM3ZVRHU1TEN0R0drVDVFcFBLdF9rdUh1YWw5STVqZUU1dw?oc=5",
+          "published_at": "2026-08-14T07:00:00+00:00",
+          "excerpt": "The 4-step roadmap to AI agents for Google Ads searchengineland.com",
+          "fetched_at": "2026-08-15T05:45:07.678326+00:00"
+        },
+        {
+          "title": "Gemini 3.7 Flash rolling out in Google Search",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWVhmWWZXV216YW1IZDhqTW9KVmt4MUp1RzZyWlgxWHFabDBtbUNqV1JudmU2TVFEQ3BDZ3hZelNGWE9BU0tXLWYwdElEMENsSDFhQmpUREExek9YMWlxMVB2a1BiYUV1ekFYRE9RUjZUOE5JeGJMR1BadWVPbmdoM2dGYjExWTdK?oc=5",
+          "published_at": "2026-08-14T07:00:00+00:00",
+          "excerpt": "Gemini 3.7 Flash rolling out in Google Search searchengineland.com",
+          "fetched_at": "2026-08-15T05:45:07.678326+00:00"
         },
         {
           "title": "Demand Gen shows why PPC can no longer hide behind intent",
@@ -4784,6 +4784,13 @@
           "published_at": "2026-08-14T07:00:00+00:00",
           "excerpt": "Google sets AI Max migration timeline for Search campaigns Search Engine Land",
           "fetched_at": "2026-08-15T13:46:47.979254+00:00"
+        },
+        {
+          "title": "Google Merchant Center for Agencies now supports up to 1,000 linked accounts",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTd4eDBYWkhUckN5Zk03QXVaUEVvWDc4SU9rSkhUWlV6ejdld3ZDUHAxVUpadVAxN1JZcnpwcVlIWXBwUUtLaFVnM1RrN1lmaURKX3dDMTJmWjhKNUJBM3dldXlnaWRSQ0d6WlAyeGdIbFRSQmZwM2JYQ284VF9BN2dPSmJHWFVDeHJtUGNvUll4bHAtQXdUR05aWmd3SnZfMGhVdWZrdXkyZHg4b1FaNA?oc=5",
+          "published_at": "2026-08-14T07:00:00+00:00",
+          "excerpt": "Google Merchant Center for Agencies now supports up to 1,000 linked accounts Search Engine Land",
+          "fetched_at": "2026-08-17T14:03:30.663803+00:00"
         },
         {
           "title": "Microsoft Clarity AI Scrape-to-Referral insights report",
@@ -5094,13 +5101,6 @@
           "fetched_at": "2026-08-08T06:26:46.274032+00:00"
         },
         {
-          "title": "Google Ads adds dedicated reporting for new customer acquisition",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUhGaTZ5MjlBQVJ5cjJXc0kzMkNITThwYy1sZGVXVXRmZzRnZENDTXdIUkR1bUl4LXBDZjNkOGdwSVVqSGR1VU9WaWRwZ3dmd0ROVXhvZWJzb2FEQWthOGhESG5Pa0VoZXBUSW1Yend5Ti05YTAxdHNFczRCaGhKdDMzTXZMeEMxQnFZck1nRy13WXhJU2w1VHhuX3JBNHRzdGc?oc=5",
-          "published_at": "2026-08-07T16:16:00+00:00",
-          "excerpt": "Google Ads adds dedicated reporting for new customer acquisition Search Engine Land",
-          "fetched_at": "2026-08-08T06:26:46.274032+00:00"
-        },
-        {
           "title": "You can’t demand the click if you won’t give the link",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3Z1VXBpV1pzRXZPdUhYbkxKTG5PYmRxbzI2WVhNTDJ5QUxMVkNYcjhMcjgxVFVFN0V0RzdBUXg1ZzRoU1JtSXZYel9Pd3QyczQyYWJFX2xpMklOVTBlTGVrekdoVHByV2w0MlpjOHNCblowWGkyd05wekZyOWRuRG84ajFkSDBGc1BMWVhKNGo?oc=5",
           "published_at": "2026-08-07T11:00:00+00:00",
@@ -5112,6 +5112,13 @@
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjRyTkwxb1JoM2F1T1pWbFQ2TnFPVGZTZV9FdnpFbDJBbE1ubU1yZlR1bXA0UUZnUjEyQUFRd09TRjdWeXNEZjExcTVTRXBtM1ZUSnpuck8zOGtyNjUzNEN4U3VKcHZKV3BpcFpiUDJSankxa0lSSWl4LUd4YVpfZlozbUZZUQ?oc=5",
           "published_at": "2026-08-07T07:00:00+00:00",
           "excerpt": "How business context changes AI recommendations Search Engine Land",
+          "fetched_at": "2026-08-08T06:26:46.274032+00:00"
+        },
+        {
+          "title": "Google Ads adds dedicated reporting for new customer acquisition",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUhGaTZ5MjlBQVJ5cjJXc0kzMkNITThwYy1sZGVXVXRmZzRnZENDTXdIUkR1bUl4LXBDZjNkOGdwSVVqSGR1VU9WaWRwZ3dmd0ROVXhvZWJzb2FEQWthOGhESG5Pa0VoZXBUSW1Yend5Ti05YTAxdHNFczRCaGhKdDMzTXZMeEMxQnFZck1nRy13WXhJU2w1VHhuX3JBNHRzdGc?oc=5",
+          "published_at": "2026-08-07T07:00:00+00:00",
+          "excerpt": "Google Ads adds dedicated reporting for new customer acquisition Search Engine Land",
           "fetched_at": "2026-08-08T06:26:46.274032+00:00"
         },
         {
@@ -6663,6 +6670,48 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Why International SEO Needs Machine-Recognizable E-E-A-T via @sejournal, @motokohunt",
+          "url": "https://www.searchenginejournal.com/why-international-seo-needs-machine-recognizable-e-e-a-t/583439/",
+          "published_at": "2026-08-25T14:30:30+00:00",
+          "excerpt": "AI can flatten decades of localized expertise into one generic brand impression, meaning global brands must translate credentials into evidence machines actually recognize. The post Why International SEO Needs Machine-Recognizable E-E-A-T appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-25T15:10:29.716026+00:00"
+        },
+        {
+          "title": "Your Promo Code Field May Be Sending Revenue To Affiliates via @sejournal, @lorenbaker",
+          "url": "https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/",
+          "published_at": "2026-08-25T12:30:50+00:00",
+          "excerpt": "An owned promo code page can keep purchase-ready shoppers away from coupon affiliates and recover revenue leaking from ecommerce checkout flows. The post Your Promo Code Field May Be Sending Revenue To Affiliates appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-25T15:10:29.716026+00:00"
+        },
+        {
+          "title": "Reports Indicate Google’s Spam Update Focused On SEO AI Content via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/",
+          "published_at": "2026-08-25T11:20:31+00:00",
+          "excerpt": "Google's recent Spam Update may have partially focused on catching mass-generated SEO AI content. The post Reports Indicate Google’s Spam Update Focused On SEO AI Content appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-25T15:10:29.716026+00:00"
+        },
+        {
+          "title": "Cloudflare Says EmDash Version 1.0 Is Releasing Soon via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/cloudflare-says-emdash-version-1-0-is-releasing-soon/586951/",
+          "published_at": "2026-08-25T10:14:19+00:00",
+          "excerpt": "Cloudflare's EmDash CMS, the spiritual successor to WordPress, is set to release version 1.0 soon after proving itself on their high traffic blog. The post Cloudflare Says EmDash Version 1.0 Is Releasing Soon appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-25T15:10:29.716026+00:00"
+        },
+        {
+          "title": "Webflow’s New OpenAI Codex Integration Simplifies Site Management via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/webflows-new-openai-codex-integration-simplifies-site-management/586931/",
+          "published_at": "2026-08-25T09:17:23+00:00",
+          "excerpt": "Webflow adds Codex support with built-in Skills that vastly simplifies automating common website management and development tasks. The post Webflow’s New OpenAI Codex Integration Simplifies Site Management appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-25T15:10:29.716026+00:00"
+        },
+        {
+          "title": "Google Local Services Ads Are Moving To Performance Max: What To Check First",
+          "url": "https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/",
+          "published_at": "2026-08-25T07:45:03+00:00",
+          "excerpt": "Google is folding Local Services Ads into Performance Max. Join CallRail's on 9/8 for the audit checklist to run before and after your account migrates. The post Google Local Services Ads Are Moving To Performance Max: What To Check First appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-25T15:10:29.716026+00:00"
+        },
+        {
           "title": "1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/",
           "published_at": "2026-08-24T18:50:15+00:00",
@@ -6761,39 +6810,18 @@
           "fetched_at": "2026-08-21T05:59:19.385853+00:00"
         },
         {
-          "title": "The Conversion Setup Errors That Break Smart Bidding",
-          "url": "https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/",
-          "published_at": "2026-08-20T14:30:03+00:00",
-          "excerpt": "Smart Bidding problems often trace back to broken conversion tracking, not bidding strategy. Seven silent setup errors that corrupt the data feeding your campaigns. The post The Conversion Setup Errors That Break Smart Bidding appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-21T05:59:19.385853+00:00"
-        },
-        {
-          "title": "Prompt Injections Just Proved Something SEO Has Known For 25 Years via @sejournal, @theshelleywalsh",
+          "title": "Prompt Injections Just Proved Something SEO Has Known For 25 Years",
           "url": "https://www.searchenginejournal.com/prompt-injection-just-proved-something-seo-has-known-for-25-years/586405/",
-          "published_at": "2026-08-20T12:00:39+00:00",
+          "published_at": "2026-08-20T00:00:00+00:00",
           "excerpt": "Hidden white-on-white text was an SEO trick 25 years ago. Now, it tells AI models what to conclude about you. The post Prompt Injections Just Proved Something SEO Has Known For 25 Years appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-20T14:21:42.356243+00:00"
         },
         {
-          "title": "Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/",
-          "published_at": "2026-08-19T22:03:26+00:00",
-          "excerpt": "New Promptwatch data shows a sharp drop in Reddit's ChatGPT Search citations this month. The post Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-20T05:56:08.921873+00:00"
-        },
-        {
-          "title": "Microsoft Advertising Rolls Out AI Max Globally via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/",
-          "published_at": "2026-08-19T19:41:53+00:00",
-          "excerpt": "Microsoft Advertising is rolling out AI Max globally, bringing expanded Search matching, text customization, URL expansion and new advertiser controls to Search campaigns. The post Microsoft Advertising Rolls Out AI Max Globally appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-20T05:56:08.921873+00:00"
-        },
-        {
-          "title": "Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/",
-          "published_at": "2026-08-19T19:00:27+00:00",
-          "excerpt": "Google's generative UI, which builds custom visual layouts and interactive tools, has started reaching AI Overviews after launching in AI Mode last year. The post Google Expands Generative UI Beyond AI Mode Into AI Overviews appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-20T05:56:08.921873+00:00"
+          "title": "The Conversion Setup Errors That Break Smart Bidding",
+          "url": "https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/",
+          "published_at": "2026-08-20T00:00:00+00:00",
+          "excerpt": "Smart Bidding problems often trace back to broken conversion tracking, not bidding strategy. Seven silent setup errors that corrupt the data feeding your campaigns. The post The Conversion Setup Errors That Break Smart Bidding appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-21T05:59:19.385853+00:00"
         },
         {
           "title": "Decision Coverage: Why AI Recommends Some Brands And Not Others via @sejournal, @billhunt",
@@ -6829,6 +6857,27 @@
           "published_at": "2026-08-19T00:00:00+00:00",
           "excerpt": "Why does Google have spam updates every once in a while? Google’s John Mueller answers that question and explains the reason why Google doesn’t just get rid of spam on a regular basis with existing algorithms. Spam Algorithms And Updates There are many kinds of search spam, and…",
           "fetched_at": "2026-08-19T14:18:08.513261+00:00"
+        },
+        {
+          "title": "Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained",
+          "url": "https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/",
+          "published_at": "2026-08-19T00:00:00+00:00",
+          "excerpt": "New Promptwatch data shows a sharp drop in Reddit's ChatGPT Search citations this month. The post Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-20T05:56:08.921873+00:00"
+        },
+        {
+          "title": "Microsoft Advertising Rolls Out AI Max Globally",
+          "url": "https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/",
+          "published_at": "2026-08-19T00:00:00+00:00",
+          "excerpt": "Microsoft Advertising is rolling out AI Max globally, bringing expanded Search matching, text customization, URL expansion and new advertiser controls to Search campaigns. The post Microsoft Advertising Rolls Out AI Max Globally appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-20T05:56:08.921873+00:00"
+        },
+        {
+          "title": "Google Expands Generative UI Beyond AI Mode Into AI Overviews",
+          "url": "https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/",
+          "published_at": "2026-08-19T00:00:00+00:00",
+          "excerpt": "Google's generative UI, which builds custom visual layouts and interactive tools, has started reaching AI Overviews after launching in AI Mode last year. The post Google Expands Generative UI Beyond AI Mode Into AI Overviews appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-20T05:56:08.921873+00:00"
         },
         {
           "title": "Clicks Down 42%, LinkedIn Reach Down 47%: What The Numbers Actually Show",
@@ -8994,7 +9043,7 @@
         {
           "title": "Measure Your Campaign Success with These 9 ABM Metrics",
           "url": "https://www.factors.ai/blog/abm-metrics-to-measure-campaign-success",
-          "published_at": "2026-08-24T00:00:00+00:00",
+          "published_at": "2026-08-25T00:00:00+00:00",
           "excerpt": "Learn which ABM metrics matter most and how to use them to understand whether your campaigns are actually working.",
           "fetched_at": "2026-08-24T14:28:49.803375+00:00"
         },
@@ -9971,6 +10020,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "We’re partnering with the State of Delaware to provide free AI and career training.",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/",
+          "published_at": "2026-08-25T13:00:00+00:00",
+          "excerpt": "Google partners with Delaware to provide free Career Certificates and AI training to residents statewide.",
+          "fetched_at": "2026-08-25T15:10:41.500372+00:00"
+        },
         {
           "title": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
           "url": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/",
