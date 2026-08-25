@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T14:28:53.834510+00:00",
+  "last_updated": "2026-08-25T05:58:27.500940+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "MBA Metrics for SEO: How to Speak Leadership’s Language",
+          "url": "https://ahrefs.com/blog/mba-metrics-for-seo/",
+          "published_at": "2026-08-24T15:52:49+00:00",
+          "excerpt": "As an SEO professional, metrics like rankings, traffic, and clicks are meaningful to you, but to a leadership team trained on market share and return on investment, they’re noise. That’s not a bias against SEO. It’s just what happens when … Read more ›",
+          "fetched_at": "2026-08-25T05:58:00.897904+00:00"
+        },
         {
           "title": "What Is Information Gain in SEO? (and How To Add It to Your Content)",
           "url": "https://ahrefs.com/blog/information-gain/",
@@ -4275,11 +4282,67 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "ChatGPT Ads adds automated bidding, platform targeting",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3VjaDlLZmw2MldVcm42bzZVcm10MW9PQ2xfRU1ya05JV1RQbzd2RlpSRWExSmFUNHZjN0N5dXN0UzRVSzZCYlN3bDRsampxRUZfR1Vsa3VzTzZmU281OE94NERGT0V5a19tZXZnM2NrNVhLU3o3RW9sdjFpb0g3MGRwQzRsQ2FvWnVaVmM1V29oc0k?oc=5",
+          "published_at": "2026-08-24T16:42:00+00:00",
+          "excerpt": "ChatGPT Ads adds automated bidding, platform targeting Search Engine Land",
+          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
+        },
+        {
+          "title": "Google expands Local Services Ads categories ahead of migration",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelZYVGg4bm9qSm9pN2J1N0NoUy1nNlhSU3AxTlpEb2RuQndjaFE3bDkxdDlReEhZcWdSd0F1dy1mZVpPTkJvYTNUSWtLdHBtalRYcGhvZ1VTMkViQksyX0EtZW8xd2RzdjF3c09tWFpMTzhWQjlNcXNXd3NWcDBWNXhVU2Y5c3J0a2x3NWV1d0Y4c2dadDJ0Z194U0JHaENu?oc=5",
+          "published_at": "2026-08-24T15:01:00+00:00",
+          "excerpt": "Google expands Local Services Ads categories ahead of migration Search Engine Land",
+          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
+        },
+        {
+          "title": "How to build an AI content workflow from the ground up",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN09PMjZCQTBldUhzWk1fbG5pdkMzNXVLdG1weHJJMjMzOXJpRU90ZGI2bkx5N092NTc5SXZXTGxqRGc4MzMwMm9fT2ZTTUtDTXBsOEtMcTA0aHJMSlJ4ZFZYcUVoR082UkR3WDZkdlc0WlJ2U0xDOTVjR0xXVzdNcVdn?oc=5",
+          "published_at": "2026-08-24T15:00:00+00:00",
+          "excerpt": "How to build an AI content workflow from the ground up Search Engine Land",
+          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
+        },
+        {
+          "title": "Google unifies Google tag and Tag Manager, adds no-code event tracking",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaEJKc3V5M0I5X284RHlkd2dvMFVVUTFhTjFIRjhtd1FUV1VsOUlDRGZ5bEk0eEpTSVJ0T0ZCTm1VTEtFanc5QkdHQnkyUmlVdXNSZmFMOVRCRVhIT2VjYjVRbUVxaDZGWGFIdjlZejRTTWVvT2hockZBNGZnYThZemRUdGdLNUZBeEdJam9zeFFCYzhmU1FWT29WV1dRUF9lRWE0XzNEVGk?oc=5",
+          "published_at": "2026-08-24T14:15:00+00:00",
+          "excerpt": "Google unifies Google tag and Tag Manager, adds no-code event tracking Search Engine Land",
+          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
+        },
+        {
+          "title": "AI search is here, but marketers still call it SEO",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96anFNeXlnQVVlLXpRSzJmSHlyTlh0T2NoTmpmNTVoa2FFSjQwb05IUTZBRGR6UUpQNUM3MGkxVFM2Y0xyM2NYdm9QaUl3TDJBcUYwMUd3eHRxVFlLT0p2VWZiQ3JzZlNWZWp0c3FlWVZ5RzZZa2c?oc=5",
+          "published_at": "2026-08-24T14:00:00+00:00",
+          "excerpt": "AI search is here, but marketers still call it SEO Search Engine Land",
+          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
+        },
+        {
+          "title": "Jenni Romaniuk Archives",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuVXhsZ1FwOGNQZlJRS3psSDUyMkxUSEJqVlZvR0Q5bG90ZmdDLWdfR0NfLTRpWXJXNEJvZUFtSHRLVS1DSEV0N2I4MzZXOVY0ZGhZdVBrZkhUWUVrb3c?oc=5",
+          "published_at": "2026-08-24T12:00:00+00:00",
+          "excerpt": "Jenni Romaniuk Archives Search Engine Land",
+          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
+        },
+        {
+          "title": "Better Brand Health Archives",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05clZfVEZ1T25hWjdsN3E2WUhBcVgxVWRtdWdjZXlCY05HS21td0RrVXJrczVnU3RwOHFPbXdnQjlxSXNEQ05DQUNQTTFJcFBkV2huT2t5aUE2Y0RxRXhFUjkxdkR2dw?oc=5",
+          "published_at": "2026-08-24T12:00:00+00:00",
+          "excerpt": "Better Brand Health Archives Search Engine Land",
+          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
+        },
+        {
           "title": "The power of connected customer history",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbjFsNkFtRzhlWmQ1RDc5M19za1hfWU52RVkzUk1MRkZFUjhtZnBnekFuMlNxMXNLU0hrV0J1aHJwMFhSS1hid0JrUFNIeFpfQktyRGdSQlN2RW9ZZ0tOODRUbmthV05Ed1pNODhjM2RpY0tVcjRxTmFLX2pmbm5ZOA?oc=5",
           "published_at": "2026-08-24T11:00:00+00:00",
           "excerpt": "The power of connected customer history Search Engine Land",
           "fetched_at": "2026-08-24T14:28:28.251139+00:00"
+        },
+        {
+          "title": "Identity and access management Archives",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyQ2NVRG9EcHA5RzhtMzRLd01tY2NqOXpIdjZSOTJjbF8tMXFRWlEtbzZ3ZENVcEpPdE16Z3AwQ292TVhseklNR0JwUlVEUGdrekZfMy10MktVa2ttYmJSdm85dTNtc0FBS0UxcWRqZ201S1I2?oc=5",
+          "published_at": "2026-08-24T11:00:00+00:00",
+          "excerpt": "Identity and access management Archives Search Engine Land",
+          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
         },
         {
           "title": "Google working on fix for broken favicons in Google Search",
@@ -4688,13 +4751,6 @@
           "fetched_at": "2026-08-17T14:03:30.663803+00:00"
         },
         {
-          "title": "Google Analytics adds custom conversion attribution windows",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMC1sTkxGYUlkbFo0R05maTNsbFZkT0xwTUdvM2JhbnhxY3hMYTIzN3IzTW85cXcwS00wSGJvWTlDSnJZeXdvNWdLZXhjZUFtbmpYQlF3QmZudV9qN3NRenh0eG1EZGozOFdCbE54T1ZtUkRrWXRKQ01YTGRUU0l0Mmh2VzQtQUVEeTZyNzRMc3lWS2lNNDVCTmoxWQ?oc=5",
-          "published_at": "2026-08-14T14:43:00+00:00",
-          "excerpt": "Google Analytics adds custom conversion attribution windows Search Engine Land",
-          "fetched_at": "2026-08-15T13:46:47.979254+00:00"
-        },
-        {
           "title": "LLM traffic converts differently — here’s what to do about it",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYzlLOU9aUEptYlVFSlZyZkJad1dJNWMyRldUZEVobmlVN0xXZGM5a1pYSFBNaHhhNlhRLWVhSm9ERjRxNUxOem94X0txVmZrNTFVTDEzMDZnaVhzcmJRNlM3eXNHUEZ5bnhobTFTZkxZRHVxQU5QcGRFRkZ2WE03SHJiaVllZw?oc=5",
           "published_at": "2026-08-14T14:00:00+00:00",
@@ -4713,6 +4769,13 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pWFpPcmhIbGpkSjVXYmxwMm1sM3dmTlM5Z3dUcUphUU9jS2loRXNSa0NoZldaSXVlMUlVSVZTU01QNDdoeElwX2V1THV6RDhjRlJVMkNfbExIZ2tabThjVFV5WUZQREFP?oc=5",
           "published_at": "2026-08-14T07:00:00+00:00",
           "excerpt": "Demand Gen shows why PPC can no longer hide behind intent Search Engine Land",
+          "fetched_at": "2026-08-15T13:46:47.979254+00:00"
+        },
+        {
+          "title": "Google Analytics adds custom conversion attribution windows",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMC1sTkxGYUlkbFo0R05maTNsbFZkT0xwTUdvM2JhbnhxY3hMYTIzN3IzTW85cXcwS00wSGJvWTlDSnJZeXdvNWdLZXhjZUFtbmpYQlF3QmZudV9qN3NRenh0eG1EZGozOFdCbE54T1ZtUkRrWXRKQ01YTGRUU0l0Mmh2VzQtQUVEeTZyNzRMc3lWS2lNNDVCTmoxWQ?oc=5",
+          "published_at": "2026-08-14T07:00:00+00:00",
+          "excerpt": "Google Analytics adds custom conversion attribution windows Search Engine Land",
           "fetched_at": "2026-08-15T13:46:47.979254+00:00"
         },
         {
@@ -4863,17 +4926,17 @@
           "fetched_at": "2026-08-13T08:54:21.786273+00:00"
         },
         {
-          "title": "The new search journey changes how SEO and PPC should work",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzUml3Y01rdmJGbU5VNWJSR2tfVTAwVmQxUVd0dktWdHZnMVlXVFlVeG5IVi1pdUZhUjFtQ3ZlXzhHR2g4MjY2dW0wc0ZkMlNYTTAybURqYm1HUUJZelUtT3dzdDIxZ2kyaV9BdUVZRQ?oc=5",
-          "published_at": "2026-08-12T13:00:00+00:00",
-          "excerpt": "The new search journey changes how SEO and PPC should work searchengineland.com",
-          "fetched_at": "2026-08-13T08:54:21.786273+00:00"
-        },
-        {
           "title": "Community signals are AI’s largest third-party source",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0JlWTJYUDU2ZU5aTHF0TjhBQU9hdk5WVGo4Sk8xYV93RmZ5WmJTYnFOZUNheHZJYk9EbXlPM1NVdDJkMlRLa3dZdVpxWm45QWo4bHlXU1RiRFhSQVBwR3FYX29KNEFUR0pVclZPVGtGUHd3YnJsbkw2cVd3VzFkRlNEcndHaFc0M1c0?oc=5",
           "published_at": "2026-08-12T12:00:00+00:00",
           "excerpt": "Community signals are AI’s largest third-party source searchengineland.com",
+          "fetched_at": "2026-08-13T08:54:21.786273+00:00"
+        },
+        {
+          "title": "The new search journey changes how SEO and PPC should work",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzUml3Y01rdmJGbU5VNWJSR2tfVTAwVmQxUVd0dktWdHZnMVlXVFlVeG5IVi1pdUZhUjFtQ3ZlXzhHR2g4MjY2dW0wc0ZkMlNYTTAybURqYm1HUUJZelUtT3dzdDIxZ2kyaV9BdUVZRQ?oc=5",
+          "published_at": "2026-08-12T07:00:00+00:00",
+          "excerpt": "The new search journey changes how SEO and PPC should work searchengineland.com",
           "fetched_at": "2026-08-13T08:54:21.786273+00:00"
         },
         {
@@ -5080,13 +5143,6 @@
           "fetched_at": "2026-08-07T15:34:09.908511+00:00"
         },
         {
-          "title": "New Google help doc details Deal Ends annotations for Shopping ads",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblJqaTZ6Y1VDNkZ1RFFQakxSSF9iV3JQRXpkQTlFWG9aVzJZQ001dnVkbWtJemR3ZV9XR1czVUduX0lWTWdHTlozamxFZzlTOGRqUEgxT3NSZEJkUDM1NzNOb2h1dzFhdS1SUEhuTXJJNWFxczlLNklHUFdXTUo0RmFZU0Exb2hNNlNpWWFrRk9zdUxvRXEtVnNVUEZmOXVWdW9oSg?oc=5",
-          "published_at": "2026-08-06T17:05:00+00:00",
-          "excerpt": "New Google help doc details Deal Ends annotations for Shopping ads Search Engine Land",
-          "fetched_at": "2026-08-07T15:34:09.908511+00:00"
-        },
-        {
           "title": "Email authentication Archives",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Dbklpb2VaNFBlUFZzcjBLeHdCcjhjWVhKY1dYc0xtYVo3OERaeC1tT1NFNW9RMWJWN3dsdXQ4ajZMSkhLT0hQMW15MER2R0wySFNQVWNsZXhwLTRtS3U3dlFpbTI4dw?oc=5",
           "published_at": "2026-08-06T16:39:00+00:00",
@@ -5162,6 +5218,13 @@
           "published_at": "2026-08-06T07:00:00+00:00",
           "excerpt": "Google explains what advertisers should expect from Smart Bidding changes Search Engine Land",
           "fetched_at": "2026-08-07T08:33:23.050052+00:00"
+        },
+        {
+          "title": "New Google help doc details Deal Ends annotations for Shopping ads",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblJqaTZ6Y1VDNkZ1RFFQakxSSF9iV3JQRXpkQTlFWG9aVzJZQ001dnVkbWtJemR3ZV9XR1czVUduX0lWTWdHTlozamxFZzlTOGRqUEgxT3NSZEJkUDM1NzNOb2h1dzFhdS1SUEhuTXJJNWFxczlLNklHUFdXTUo0RmFZU0Exb2hNNlNpWWFrRk9zdUxvRXEtVnNVUEZmOXVWdW9oSg?oc=5",
+          "published_at": "2026-08-06T07:00:00+00:00",
+          "excerpt": "New Google help doc details Deal Ends annotations for Shopping ads Search Engine Land",
+          "fetched_at": "2026-08-07T15:34:09.908511+00:00"
         },
         {
           "title": "10 SEO use cases for auditing your accessibility tree for AI search",
@@ -6600,6 +6663,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/",
+          "published_at": "2026-08-24T18:50:15+00:00",
+          "excerpt": "Pew found AI authorship signs on 10% of sampled webpages and 35% of pages carrying a post-ChatGPT publication date. The post 1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-25T05:58:13.202180+00:00"
+        },
+        {
+          "title": "Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/google-ads-launches-new-search-and-ai-max-experimentation-tools/586549/",
+          "published_at": "2026-08-24T14:50:16+00:00",
+          "excerpt": "Google Ads adds new Search and AI Max experimentation tools for testing budgets, ROI targets, brand controls, location settings, and campaign changes. The post Google Ads Launches New Search and AI Max Experimentation Tools appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-25T05:58:13.202180+00:00"
+        },
+        {
+          "title": "SEOs Are Becoming The Tools Of Their Tools – The AI Slop Backlash via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/seos-are-becoming-the-tools-of-their-tools-the-ai-slop-backlash/586298/",
+          "published_at": "2026-08-24T14:30:06+00:00",
+          "excerpt": "Platforms like Spotify and LinkedIn are cracking down on AI slop. SEOs face a choice: treat AI as a shortcut or as an editorial assistant. The post SEOs Are Becoming The Tools Of Their Tools – The AI Slop Backlash appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-25T05:58:13.202180+00:00"
+        },
+        {
           "title": "How To Audit Publisher Websites In 2026",
           "url": "https://www.searchenginejournal.com/how-to-audit-publisher-websites-in-2026/586349/",
           "published_at": "2026-08-24T12:00:14+00:00",
@@ -6719,21 +6803,14 @@
           "fetched_at": "2026-08-20T05:56:08.921873+00:00"
         },
         {
-          "title": "Clicks Down 42%, LinkedIn Reach Down 47%: What The Numbers Actually Show via @sejournal, @gregjarboe",
-          "url": "https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/",
-          "published_at": "2026-08-19T14:30:55+00:00",
-          "excerpt": "LinkedIn reach and Google clicks are collapsing, but Tony Uphoff argues SEO pros are diagnosing structural disruption as decline, and prescribing the wrong fix. The post Clicks Are Down 42%, LinkedIn Reach Down 47% But You’re Raging At The Wrong Target appeared first on Search E…",
-          "fetched_at": "2026-08-20T05:56:08.921873+00:00"
-        },
-        {
-          "title": "InMotion Hosting Launches Tiered Agency Partner Program via @sejournal, @inmotionhosting",
+          "title": "InMotion Hosting Launches Tiered Agency Partner Program",
           "url": "https://www.searchenginejournal.com/inmotion-hosting-launches-tiered-agency-partner-program-spn/586195/",
           "published_at": "2026-08-19T14:29:43+00:00",
           "excerpt": "InMotion Hosting launches a tiered Agency Partner Program helping digital agencies earn recurring revenue, access client leads, receive hosting discounts, and simplify account management. The post InMotion Hosting Launches Tiered Agency Partner Program appeared first on Search E…",
           "fetched_at": "2026-08-20T05:56:08.921873+00:00"
         },
         {
-          "title": "How To Track Google AI Mode Traffic In Search Console via @sejournal, @suganthan",
+          "title": "How To Track Google AI Mode Traffic In Search Console",
           "url": "https://www.searchenginejournal.com/how-to-track-google-ai-mode-traffic-in-search-console/586194/",
           "published_at": "2026-08-19T12:00:51+00:00",
           "excerpt": "Search Console hides AI Mode query data by default. This breakdown compares four extraction methods, including a free ML-powered tool. The post How To Track Google AI Mode Traffic In Search Console appeared first on Search Engine Journal .",
@@ -6752,6 +6829,13 @@
           "published_at": "2026-08-19T00:00:00+00:00",
           "excerpt": "Why does Google have spam updates every once in a while? Google’s John Mueller answers that question and explains the reason why Google doesn’t just get rid of spam on a regular basis with existing algorithms. Spam Algorithms And Updates There are many kinds of search spam, and…",
           "fetched_at": "2026-08-19T14:18:08.513261+00:00"
+        },
+        {
+          "title": "Clicks Down 42%, LinkedIn Reach Down 47%: What The Numbers Actually Show",
+          "url": "https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/",
+          "published_at": "2026-08-19T00:00:00+00:00",
+          "excerpt": "LinkedIn reach and Google clicks are collapsing, but Tony Uphoff argues SEO pros are diagnosing structural disruption as decline, and prescribing the wrong fix. The post Clicks Are Down 42%, LinkedIn Reach Down 47% But You’re Raging At The Wrong Target appeared first on Search E…",
+          "fetched_at": "2026-08-20T05:56:08.921873+00:00"
         },
         {
           "title": "Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic",
@@ -8915,6 +8999,13 @@
           "fetched_at": "2026-08-24T14:28:49.803375+00:00"
         },
         {
+          "title": "LinkedIn Thought Leader Ads: The B2B Marketer's Guide to Trust, Reach & Pipeline",
+          "url": "https://www.factors.ai/blog/linkedin-thought-leader-ads",
+          "published_at": "2026-08-24T00:00:00+00:00",
+          "excerpt": "Learn how LinkedIn Thought Leader Ads work, best practices, targeting tips, costs, and how B2B teams use them to drive pipeline.",
+          "fetched_at": "2026-08-25T05:58:21.927428+00:00"
+        },
+        {
           "title": "Account-Based Marketing Team Structure: Key Roles and Responsibilities to Drive Success",
           "url": "https://www.factors.ai/blog/account-based-marketing-team-structure",
           "published_at": "2026-08-23T00:00:00+00:00",
@@ -9624,6 +9715,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "How to Evaluate Live & Voice Agents in ADK",
+          "url": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
+          "published_at": "2026-08-24T00:00:00+00:00",
+          "excerpt": "Moving live voice agents from demo to production requires rigorous, automated testing to handle the unpredictability of real multi-turn conversations. ADK now provides native live evaluation, allowing developers to test graph-based agent workflows against LLM-driven simulated us…",
+          "fetched_at": "2026-08-25T05:58:26.609789+00:00"
+        },
+        {
           "title": "Build zero-trust AI agents with Google's Agent Development Kit",
           "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
           "published_at": "2026-08-17T00:00:00+00:00",
@@ -9873,6 +9971,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
+          "url": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/",
+          "published_at": "2026-08-24T16:00:00+00:00",
+          "excerpt": "A large sandstone arch",
+          "fetched_at": "2026-08-25T05:58:27.497672+00:00"
+        },
+        {
+          "title": "How developers build AI for good with Gemma 4",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/",
+          "published_at": "2026-08-24T16:00:00+00:00",
+          "excerpt": "Gemma 4 Good",
+          "fetched_at": "2026-08-25T05:58:27.497672+00:00"
+        },
         {
           "title": "Enter Google Play’s sweepstakes to win legendary experiences and collectibles with your Play Points.",
           "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-sweepstakes/",
