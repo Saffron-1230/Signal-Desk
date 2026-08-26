@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T06:03:01.000205+00:00",
+  "last_updated": "2026-08-26T14:32:05.916461+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4282,6 +4282,20 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Meta Ads: Why creative diversity matters more than volume",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ocWJsWTZSNFhtY25lc0JNRzVhYzliOE9VUDMwS1dVMEJ0ZzBodXFuTzMyMGVmSzY5UXBMcHhJS2o4WGsxS2RrNmY1NS1ZX2NVTVZqTlctR05oa1ZPZzR4akF2cmhTdjJVbzBadmc2dDk?oc=5",
+          "published_at": "2026-08-26T13:00:00+00:00",
+          "excerpt": "Meta Ads: Why creative diversity matters more than volume Search Engine Land",
+          "fetched_at": "2026-08-26T14:31:37.606286+00:00"
+        },
+        {
+          "title": "Google tests channel prioritization controls for Performance Max",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORG5NbldtYmlJejZONjFpeVcwNDNQQ2RjWGhrZ3Z3UHF2YklyZkM3NTR5dm1IYXRaMUV4aXhza3FpTXN0N041WVgtenhueWJlLU9DbWloakQ0QWtJVVI3Q2Z3cnFlaXE0emhwWE5US055cnYxN0szbUI5U3U0eE5YMVltVFZiLWpCNFZ6TVNmWFNEdkxucTJkZFFEaUFyOUJCZUE?oc=5",
+          "published_at": "2026-08-25T18:47:00+00:00",
+          "excerpt": "Google tests channel prioritization controls for Performance Max Search Engine Land",
+          "fetched_at": "2026-08-26T14:31:37.606286+00:00"
+        },
+        {
           "title": "AI visibility has two jobs: Execute SEO and mobilize the organization",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0xhMzVzRWN5T2JEaWxvRVR6cENnOV9mOEFHZTlHYksyWFdpd1Nuc2JsU3JmUlc2YmlVelV3TG1Kd2hjeDBXanVFai1rWjNLQVZiejM2YTYzMmdGdlUzcExDOXhIU0hId3p3cDcxT2FNUDR0TTdKTHJjQnd6aDBWamhUMThxVVkzY2FF?oc=5",
           "published_at": "2026-08-25T18:33:00+00:00",
@@ -4695,13 +4709,6 @@
           "fetched_at": "2026-08-20T05:56:03.249732+00:00"
         },
         {
-          "title": "Want more AI visibility and citations? Start monitoring trends",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnNlNUlBY2R4Ykp2N2JEUldlUWRxTnlWLWtfSTNuUkozWVZOUjhUbG9rSFliRU1DdVhoMHdVcDdWYm5BcGxXNDJGZ21fYURvMWtreXk1Um5PbWk1d3pBdHZQTHFId0NkcWVNd3AwQ21CdGxyR2hQSnhpOWY2TUk5X1pZNVEzaUtUR2c?oc=5",
-          "published_at": "2026-08-17T17:05:00+00:00",
-          "excerpt": "Want more AI visibility and citations? Start monitoring trends Search Engine Land",
-          "fetched_at": "2026-08-18T14:16:30.009584+00:00"
-        },
-        {
           "title": "Google Search pauses AI-generated images within AI Overviews",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFFUbHFyRndaWWN5cjNkbUsyNmFCSlVkdTc0LXZXRWRqemxiQXUzSzlvcHQ5OERRR2V1aDNlZll5WVJnRlozbnlfdjNyQWx5d3FpVlFHc29tX1FSRVlESFBGd21kaHJVckZFX0lEYmZrMzhYYktVMHl4TGNZSlVZXzVvTElKNGZkcldlNWF3MUxwbFVVcDc5Z2FRSjc?oc=5",
           "published_at": "2026-08-17T16:55:00+00:00",
@@ -4762,6 +4769,13 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0dnTFhyTThjYVk3TFJES1hZYTFNdDV6Rkd0d3pRTHlLeUxzVmRMU01rbWk0aFFXZG5tQWJGVU05SlVCaDVNNXQ3blFiTmU1dlQ3MUVaZktHbHU1Z2h6MWdWMVNXZDlpU1dIN1RXZEdvelI2eU9UZVV6YjlBU1RraWtVNV90UWtpeklBaUUwVnBoMGVOemQtSDlNeF9HSGt5elJPWldCMDQ?oc=5",
           "published_at": "2026-08-17T07:00:00+00:00",
           "excerpt": "Google Ads will use generative AI to resize Performance Max video ads Search Engine Land",
+          "fetched_at": "2026-08-18T14:16:30.009584+00:00"
+        },
+        {
+          "title": "Want more AI visibility and citations? Start monitoring trends",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnNlNUlBY2R4Ykp2N2JEUldlUWRxTnlWLWtfSTNuUkozWVZOUjhUbG9rSFliRU1DdVhoMHdVcDdWYm5BcGxXNDJGZ21fYURvMWtreXk1Um5PbWk1d3pBdHZQTHFId0NkcWVNd3AwQ21CdGxyR2hQSnhpOWY2TUk5X1pZNVEzaUtUR2c?oc=5",
+          "published_at": "2026-08-17T07:00:00+00:00",
+          "excerpt": "Want more AI visibility and citations? Start monitoring trends Search Engine Land",
           "fetched_at": "2026-08-18T14:16:30.009584+00:00"
         },
         {
@@ -4828,13 +4842,6 @@
           "fetched_at": "2026-08-17T14:03:30.663803+00:00"
         },
         {
-          "title": "Microsoft Clarity AI Scrape-to-Referral insights report",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnZJYndldGl2c0V1c3RuRUkwNTU4WlJpY1BoeVRjZ01LamVxUVhhbWFQUWZtYXpicy1UWGRIdzc4QjlvZDE2UVJDbW44SUFiaTk0ZVZjb2xJNVFHSG9tRS0xVlBwaGt2X2FrdEJrQUFzcVdSUTZlaFJDY0tlZmdWTkJhZHI3QzVsRHk3Y29nelBzUTV4Z3c?oc=5",
-          "published_at": "2026-08-13T17:42:00+00:00",
-          "excerpt": "Microsoft Clarity AI Scrape-to-Referral insights report Search Engine Land",
-          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
-        },
-        {
           "title": "Link building works better when you think beyond links",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvQzd3UjJVQ2Z5Y0pfc2wwb2ppUXF2d1dFTlBuakpCckJSSnd0MTJhMV90aDJlQXZ6RWFzb3Rsc1ZzZUlraExqQ292SXBIcUFBanZmcmJBQUJhQ2s2U0xkNWhVekg?oc=5",
           "published_at": "2026-08-13T15:00:00+00:00",
@@ -4874,6 +4881,13 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSS02MEZiOE1yTU9nU25veGRIMlJWTWZFTVVGWlhfT2ZJLWFFaEJsM01jVE92Ym1DSmExVjZjSEVINm1Gb05aV3pSNkYwOTdOT0lGRFhCUzd6c284RVU2NG9kLU9mVVRkTW9UT2pYMHNZTE5LalN0emN2VFJhbmNLNVZtV3A0d3NjNk1Ha2Q2dlhVdw?oc=5",
           "published_at": "2026-08-13T07:00:00+00:00",
           "excerpt": "Shopify: AI referrals up 197%, but organic search still leads traffic Search Engine Land",
+          "fetched_at": "2026-08-14T08:47:10.073034+00:00"
+        },
+        {
+          "title": "Microsoft Clarity AI Scrape-to-Referral insights report",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnZJYndldGl2c0V1c3RuRUkwNTU4WlJpY1BoeVRjZ01LamVxUVhhbWFQUWZtYXpicy1UWGRIdzc4QjlvZDE2UVJDbW44SUFiaTk0ZVZjb2xJNVFHSG9tRS0xVlBwaGt2X2FrdEJrQUFzcVdSUTZlaFJDY0tlZmdWTkJhZHI3QzVsRHk3Y29nelBzUTV4Z3c?oc=5",
+          "published_at": "2026-08-13T07:00:00+00:00",
+          "excerpt": "Microsoft Clarity AI Scrape-to-Referral insights report Search Engine Land",
           "fetched_at": "2026-08-14T08:47:10.073034+00:00"
         },
         {
@@ -6705,6 +6719,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "AI Brand Preference Now Splits By Generation, Claude Leads Gen Z More Than 7-To-1 via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/ai-brand-preference-now-splits-by-generation-claude-leads-gen-z-more-than-7-to-1/586624/",
+          "published_at": "2026-08-26T14:30:21+00:00",
+          "excerpt": "Claude's Gen Z preference now outpaces Boomers nearly 8-to-1, and a chicken salad chain's rise shows why AI consideration scores never equal user trust. The post AI Brand Preference Now Splits By Generation, Claude Leads Gen Z More Than 7-To-1 appeared first on Search Engine Jou…",
+          "fetched_at": "2026-08-26T14:31:54.510677+00:00"
+        },
+        {
+          "title": "How To Advertise In Google AI Mode For Ecommerce via @sejournal, @tonyadam",
+          "url": "https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/",
+          "published_at": "2026-08-26T12:00:17+00:00",
+          "excerpt": "Google generates AI Mode ads directly from your product feed, not your ad copy. Here's which Merchant Center attributes decide whether your products get chosen. The post How To Advertise In Google AI Mode For Ecommerce appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-26T14:31:54.510677+00:00"
+        },
+        {
+          "title": "Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/wix-introduces-symphony-an-easy-way-for-local-businesses-to-use-ai-agents/587093/",
+          "published_at": "2026-08-26T09:17:38+00:00",
+          "excerpt": "Wix introduced Symphony, an easy and safe way for small to medium size local businesses to use AI agents. The post Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-26T14:31:54.510677+00:00"
+        },
+        {
           "title": ".Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/",
           "published_at": "2026-08-25T22:36:35+00:00",
@@ -8314,6 +8349,20 @@
           "fetched_at": "2026-08-19T14:18:14.635691+00:00"
         },
         {
+          "title": "Cecilia Meis",
+          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
+          "published_at": "2026-08-19T00:00:00+00:00",
+          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-08-19T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "SEO content: A complete guide for search and AI",
           "url": "https://www.semrush.com/blog/seo-content/",
           "published_at": "2026-08-17T10:53:00+00:00",
@@ -8347,13 +8396,6 @@
           "published_at": "2026-08-17T09:03:00+00:00",
           "excerpt": "Learn a repeatable process for prompt research that shows where your brand competes and where it doesn‘t.",
           "fetched_at": "2026-08-17T14:03:51.544370+00:00"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-08-17T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Sergei Rogulin",
@@ -8529,13 +8571,6 @@
           "published_at": "2026-07-22T00:00:00+00:00",
           "excerpt": "Website marketing strategies that build the credibility AI systems use to decide which brands to recommend.",
           "fetched_at": "2026-07-23T12:40:10.406784+05:30"
-        },
-        {
-          "title": "Cecilia Meis",
-          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
-          "published_at": "2026-07-22T00:00:00+00:00",
-          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "The 9 Best Generative Engine Optimization (GEO) Tools of 2026",
@@ -9097,6 +9132,13 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "Predictive Sales AI: A Practical Guide to Forecasting, Scoring, and Execution",
+          "url": "https://www.factors.ai/blog/predictive-sales-ai",
+          "published_at": "2026-08-26T00:00:00+00:00",
+          "excerpt": "A practical guide to Predictive Sales AI. Compare tools, understand account scoring, and learn how RevOps teams improve forecast accuracy.",
+          "fetched_at": "2026-08-26T14:32:02.026923+00:00"
+        },
+        {
           "title": "Measure Your Campaign Success with These 9 ABM Metrics",
           "url": "https://www.factors.ai/blog/abm-metrics-to-measure-campaign-success",
           "published_at": "2026-08-25T00:00:00+00:00",
@@ -9391,6 +9433,13 @@
           "published_at": "2026-08-20T14:32:06+00:00",
           "excerpt": "The post Is AI Content Bad for SEO? Here’s What Determines Ranking appeared first on WebFX .",
           "fetched_at": "2026-08-20T14:21:51.851996+00:00"
+        },
+        {
+          "title": "Is AI Content Bad for SEO? Here’s What Determines Ranking",
+          "url": "https://www.webfx.com/blog/ai/is-ai-content-bad-for-seo/",
+          "published_at": "2026-08-20T14:32:06+00:00",
+          "excerpt": "The post Is AI Content Bad for SEO? Here’s What Determines Ranking appeared first on WebFX .",
+          "fetched_at": "2026-08-26T14:32:03.155331+00:00"
         },
         {
           "title": "Will AI Replace Marketing Jobs? The Truth About AI Use in Marketing",
