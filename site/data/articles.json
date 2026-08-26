@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T15:10:41.503213+00:00",
+  "last_updated": "2026-08-26T06:03:01.000205+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4282,11 +4282,39 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "AI visibility has two jobs: Execute SEO and mobilize the organization",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0xhMzVzRWN5T2JEaWxvRVR6cENnOV9mOEFHZTlHYksyWFdpd1Nuc2JsU3JmUlc2YmlVelV3TG1Kd2hjeDBXanVFai1rWjNLQVZiejM2YTYzMmdGdlUzcExDOXhIU0hId3p3cDcxT2FNUDR0TTdKTHJjQnd6aDBWamhUMThxVVkzY2FF?oc=5",
+          "published_at": "2026-08-25T18:33:00+00:00",
+          "excerpt": "AI visibility has two jobs: Execute SEO and mobilize the organization Search Engine Land",
+          "fetched_at": "2026-08-26T06:02:37.872659+00:00"
+        },
+        {
+          "title": "Google brings Gemini Omni video creation to Google Ads",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMWFyVWt5UV83Q09FaXFqQ1RUVVpJOXpUZDllQk9jb0U4aFFiMXJjVUgxTlJGNnB0OGFSdGtSbzFOME5HTVBtRVd0MG9mUmRLQTNvUm43WVUxWkpIX1FQMjZLZFJxRGJpUjRoeDJmUWdkUjRLR0x0MG1mWWVwQjlDVXBKcXY2VTBfenYyVjZsN3FJU0hk?oc=5",
+          "published_at": "2026-08-25T18:23:00+00:00",
+          "excerpt": "Google brings Gemini Omni video creation to Google Ads Search Engine Land",
+          "fetched_at": "2026-08-26T06:02:37.872659+00:00"
+        },
+        {
+          "title": "Google expands direct booking for Local Services Ads",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT09sRk5PdzFFaGVVTXd0cFhtR1N5OHpERFVDX2NRa19MaVY1SkZ3aVk3UWZBYzZwXzk1eXVKU0Y2Wjk3TUZ1dHpnS2lSbHR3SU9ZREhNRnBPNHViX1lYY1Y4SVBUM2Q4c0c1MTNXaTBnWDNIRTVuTlIzaFJuT2Y0RzlkS0diamczNVBnSGRhdW5DQQ?oc=5",
+          "published_at": "2026-08-25T17:55:00+00:00",
+          "excerpt": "Google expands direct booking for Local Services Ads Search Engine Land",
+          "fetched_at": "2026-08-26T06:02:37.872659+00:00"
+        },
+        {
           "title": "What 1.8 million Google Business Profiles tell us about local SEO success",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE1GQzhWcDQtNlFqRFdzUHpQeVlFalpUM3A3S3pRTjdtaWZITjQ2NVdwWnJNNGJRcDF2eUVyaEFyYWoxRGQ0bVFCUXhPNUtaWTg1czJMUm12NFRUdXRNUklwc0lUdGxtM2I1U1doYVNLemtzb2ZwVHhwWlFBc29KVTN0YW1BM1RuMm9R?oc=5",
           "published_at": "2026-08-25T14:00:00+00:00",
           "excerpt": "What 1.8 million Google Business Profiles tell us about local SEO success Search Engine Land",
           "fetched_at": "2026-08-25T15:10:20.099032+00:00"
+        },
+        {
+          "title": "When paid media optimization starts working against you",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWxJZlFJWWM1SjByT182ZVgydUV1YnNndC1XQzlEZ2twZGdKZ3lVbDZkeGdUZFphSXRPUVM1bS1DODZzbVZWdmFJV0xuREUxaGdYeHdQMnJWMHFMbTZydi10QnIzamY5RlNvbGoyeUh3RHlfbDByYVN5RWJnbzkzeXFEekpnQQ?oc=5",
+          "published_at": "2026-08-25T13:00:00+00:00",
+          "excerpt": "When paid media optimization starts working against you Search Engine Land",
+          "fetched_at": "2026-08-26T06:02:37.872659+00:00"
         },
         {
           "title": "ChatGPT Ads adds automated bidding, platform targeting",
@@ -4336,6 +4364,13 @@
           "published_at": "2026-08-24T12:00:00+00:00",
           "excerpt": "Better Brand Health Archives Search Engine Land",
           "fetched_at": "2026-08-25T05:58:02.278110+00:00"
+        },
+        {
+          "title": "How to build content briefs around audience situations",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96cWRrWkJydmN0amFNSmUtU28wU3FiRWJUdTU0RDI3cHNmbi0zQ0h4bWZpLUhTUXlSb1pIZXNnU0JZdG5OSmdzcmdnS2FtbU54NEtXczFWb01jTmJJRktKeHdGdy1KMFdvNHZuNXYzajNTZ0JZS0pDYU5B?oc=5",
+          "published_at": "2026-08-24T12:00:00+00:00",
+          "excerpt": "How to build content briefs around audience situations Search Engine Land",
+          "fetched_at": "2026-08-26T06:02:37.872659+00:00"
         },
         {
           "title": "The power of connected customer history",
@@ -4646,13 +4681,6 @@
           "fetched_at": "2026-08-22T13:48:07.660398+00:00"
         },
         {
-          "title": "ChatGPT draws more paid clicks from Google than any other top destination",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEV2LXdTNmZVTEFLUzdibUhPLWNnR196UXJRWERsSlN1UW53YXllSjhXbUhUZ2tVcDZabklQekcyUmZnTERTOWRDZ1RHSkxLUkxUUzl1VVdJQjBBUExXMWRQQXRzenJnMnpmRHZ6a3FPajc3b0xXNzQyclJRTjViS2RlaGZBbS11XzAxWVVrMEY4UnpwTDJ1Tko0UEoyemZlRDNsaEVfX0hrVnpxNHc?oc=5",
-          "published_at": "2026-08-17T22:30:00+00:00",
-          "excerpt": "ChatGPT draws more paid clicks from Google than any other top destination Search Engine Land",
-          "fetched_at": "2026-08-18T14:16:30.009584+00:00"
-        },
-        {
           "title": "Google Search Console Generative AI Performance Report in Search data bug",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEZmYlhJZ2pIQ084bndqdkdGVkNCWF92NGtkTHcxYzBickxxLUVlbzk3Y0U2QU8yVVVHYWhyczZva25oeGFjUDVBaGhVVHdfY2ZzS1hnWmtfYjVZemhKSzVGV3FFb3Zoc0dHSEpObzlLcFl2dEVheVhCRngxV2F0Sjc5aU1GUnJmQUpXc3BTeTZpQUtTNElYZlRNYzJhSDRUWFcwRWh1YlRFaWJFcUE?oc=5",
           "published_at": "2026-08-17T19:55:00+00:00",
@@ -4723,6 +4751,13 @@
           "fetched_at": "2026-08-18T14:16:30.009584+00:00"
         },
         {
+          "title": "ChatGPT draws more paid clicks from Google than any other top destination",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEV2LXdTNmZVTEFLUzdibUhPLWNnR196UXJRWERsSlN1UW53YXllSjhXbUhUZ2tVcDZabklQekcyUmZnTERTOWRDZ1RHSkxLUkxUUzl1VVdJQjBBUExXMWRQQXRzenJnMnpmRHZ6a3FPajc3b0xXNzQyclJRTjViS2RlaGZBbS11XzAxWVVrMEY4UnpwTDJ1Tko0UEoyemZlRDNsaEVfX0hrVnpxNHc?oc=5",
+          "published_at": "2026-08-17T07:00:00+00:00",
+          "excerpt": "ChatGPT draws more paid clicks from Google than any other top destination Search Engine Land",
+          "fetched_at": "2026-08-18T14:16:30.009584+00:00"
+        },
+        {
           "title": "Google Ads will use generative AI to resize Performance Max video ads",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0dnTFhyTThjYVk3TFJES1hZYTFNdDV6Rkd0d3pRTHlLeUxzVmRMU01rbWk0aFFXZG5tQWJGVU05SlVCaDVNNXQ3blFiTmU1dlQ3MUVaZktHbHU1Z2h6MWdWMVNXZDlpU1dIN1RXZEdvelI2eU9UZVV6YjlBU1RraWtVNV90UWtpeklBaUUwVnBoMGVOemQtSDlNeF9HSGt5elJPWldCMDQ?oc=5",
           "published_at": "2026-08-17T07:00:00+00:00",
@@ -4735,13 +4770,6 @@
           "published_at": "2026-08-16T20:55:17+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-08-23T13:50:16.308060+00:00"
-        },
-        {
-          "title": "The missing step in vibe coding: Verify what actually shipped",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2RzLVVsRWxRRXRzNmZaMk5zSE82cTBFNUFNRHFRc3BtaG52bE1CQ0lGNkVZSnc2emppb2hSbXdidXdmSFl4ZkcyN2NuY0lpT0xRWkl1Z1RtalB5SkpQYzhrTmhOdGxZdUxpU0FjM1llTnV6cUhORS1kanZ2SVR1VGxQeEI0U1lEYnF4aWcxTXlzRk0ydGhSOUpZbkU?oc=5",
-          "published_at": "2026-08-14T12:00:00+00:00",
-          "excerpt": "The missing step in vibe coding: Verify what actually shipped Search Engine Land",
-          "fetched_at": "2026-08-17T06:02:20.210984+00:00"
         },
         {
           "title": "LLM traffic converts differently — here’s what to do about it",
@@ -4784,6 +4812,13 @@
           "published_at": "2026-08-14T07:00:00+00:00",
           "excerpt": "Google sets AI Max migration timeline for Search campaigns Search Engine Land",
           "fetched_at": "2026-08-15T13:46:47.979254+00:00"
+        },
+        {
+          "title": "The missing step in vibe coding: Verify what actually shipped",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2RzLVVsRWxRRXRzNmZaMk5zSE82cTBFNUFNRHFRc3BtaG52bE1CQ0lGNkVZSnc2emppb2hSbXdidXdmSFl4ZkcyN2NuY0lpT0xRWkl1Z1RtalB5SkpQYzhrTmhOdGxZdUxpU0FjM1llTnV6cUhORS1kanZ2SVR1VGxQeEI0U1lEYnF4aWcxTXlzRk0ydGhSOUpZbkU?oc=5",
+          "published_at": "2026-08-14T07:00:00+00:00",
+          "excerpt": "The missing step in vibe coding: Verify what actually shipped Search Engine Land",
+          "fetched_at": "2026-08-17T06:02:20.210984+00:00"
         },
         {
           "title": "Google Merchant Center for Agencies now supports up to 1,000 linked accounts",
@@ -6670,6 +6705,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": ".Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/",
+          "published_at": "2026-08-25T22:36:35+00:00",
+          "excerpt": "Data shows that alternative domain extensions show stronger performance over traditional .com domains. The post .Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-26T06:02:49.099177+00:00"
+        },
+        {
+          "title": "ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks via @sejournal, @suganthan",
+          "url": "https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/",
+          "published_at": "2026-08-25T19:00:30+00:00",
+          "excerpt": "84 Reddit threads entered the retrieval pool. Zero got cited. The new tool-call format shows what ChatGPT fetches before it answers. The post ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-26T06:02:49.099177+00:00"
+        },
+        {
+          "title": "Google Brings Developing-Topic Link Carousels To AI Mode via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-brings-developing-topic-link-carousels-to-ai-mode/587022/",
+          "published_at": "2026-08-25T17:39:07+00:00",
+          "excerpt": "Google has brought its developing-topic link carousels to AI Mode, putting timely article links and Preferred Sources prominently inside AI responses. The post Google Brings Developing-Topic Link Carousels To AI Mode appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-26T06:02:49.099177+00:00"
+        },
+        {
           "title": "Why International SEO Needs Machine-Recognizable E-E-A-T via @sejournal, @motokohunt",
           "url": "https://www.searchenginejournal.com/why-international-seo-needs-machine-recognizable-e-e-a-t/583439/",
           "published_at": "2026-08-25T14:30:30+00:00",
@@ -6789,14 +6845,7 @@
           "fetched_at": "2026-08-21T05:59:19.385853+00:00"
         },
         {
-          "title": "Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/",
-          "published_at": "2026-08-20T18:13:03+00:00",
-          "excerpt": "Microsoft Advertising will remove Max CPC from new non-portfolio campaigns starting Oct. 1, shifting advertisers toward automated bidding controls and performance targets. The post Microsoft Ads Is Removing Max CPC From New Campaigns appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-21T05:59:19.385853+00:00"
-        },
-        {
-          "title": "How Do I Identify Cannibalization Problems & Consolidate Without Loss Of Visibility? – Ask An SEO via @sejournal, @rollerblader",
+          "title": "How Do I Identify Cannibalization Problems & Consolidate Without Loss Of Visibility? – Ask An SEO",
           "url": "https://www.searchenginejournal.com/ask-an-seo-how-do-i-identify-cannibalization-problems-consolidate-without-loss-of-visibility/553881/",
           "published_at": "2026-08-20T17:30:58+00:00",
           "excerpt": "A practical guide to spotting keyword cannibalization using Search Console, site crawlers, and rank trackers, plus fixes like canonicals, meta robots, and internal linking. The post How Do I Identify Cannibalization Problems & Consolidate Without Loss Of Visibility? – Ask An SEO…",
@@ -6815,6 +6864,13 @@
           "published_at": "2026-08-20T00:00:00+00:00",
           "excerpt": "Hidden white-on-white text was an SEO trick 25 years ago. Now, it tells AI models what to conclude about you. The post Prompt Injections Just Proved Something SEO Has Known For 25 Years appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-20T14:21:42.356243+00:00"
+        },
+        {
+          "title": "Microsoft Ads Is Removing Max CPC From New Campaigns",
+          "url": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/",
+          "published_at": "2026-08-20T00:00:00+00:00",
+          "excerpt": "Microsoft Advertising will remove Max CPC from new non-portfolio campaigns starting Oct. 1, shifting advertisers toward automated bidding controls and performance targets. The post Microsoft Ads Is Removing Max CPC From New Campaigns appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-21T05:59:19.385853+00:00"
         },
         {
           "title": "The Conversion Setup Errors That Break Smart Bidding",
@@ -10020,6 +10076,41 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Google at the Global Forum on Intellectual Property",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/",
+          "published_at": "2026-08-26T04:15:00+00:00",
+          "excerpt": "Google G logo",
+          "fetched_at": "2026-08-26T06:03:00.969528+00:00"
+        },
+        {
+          "title": "You can officially buy the Pixel 11 phones and Pixel Watch 5.",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/",
+          "published_at": "2026-08-25T20:00:00+00:00",
+          "excerpt": "Our new Pixel 11 phones and Pixel Watch 5 are now on shelves at the Google Store and through our retail partners.",
+          "fetched_at": "2026-08-26T06:03:00.969528+00:00"
+        },
+        {
+          "title": "5 ways to upgrade your home decor with Google Search",
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+          "published_at": "2026-08-25T16:00:00+00:00",
+          "excerpt": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+          "fetched_at": "2026-08-26T06:03:00.969528+00:00"
+        },
+        {
+          "title": "Here’s how to use intelligent dictation in Gemini for macOS.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/",
+          "published_at": "2026-08-25T16:00:00+00:00",
+          "excerpt": "Enable Google’s new intelligent dictation feature in the Gemini app for macOS and speak naturally into any window on your desktop.",
+          "fetched_at": "2026-08-26T06:03:00.969528+00:00"
+        },
+        {
+          "title": "Ready to play? Experience Google Play’s biggest Gamescom showcase yet.",
+          "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-gamescom-takeover-rewards/",
+          "published_at": "2026-08-25T14:00:00+00:00",
+          "excerpt": "Google Play transforms digital loyalty into real-world prizes at Gamescom with interactive challenges and exclusive rewards.",
+          "fetched_at": "2026-08-26T06:03:00.969528+00:00"
+        },
         {
           "title": "We’re partnering with the State of Delaware to provide free AI and career training.",
           "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/",
