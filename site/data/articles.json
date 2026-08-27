@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T15:22:07.991872+00:00",
+  "last_updated": "2026-08-27T19:13:57.103904+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4289,11 +4289,32 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google’s August 2026 spam update hit rankings harder than normal",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWW1LYUN4WHNldDJISWdvUFZ6bUhlMTZINVJ1dVBqaVZYQ2ZCRmkxU0pnNDgxZENnQTNUTEs1UnhtaURvVWE2SnZHeHlCcVZCMjRiQl9qQTNZSnRzNWl4V25DaW1rTUQxbGlXLUZjakJzR3IyeVppT1U4MEpWT2ZUcmtJXzJRQXpT?oc=5",
+          "published_at": "2026-08-27T15:21:00+00:00",
+          "excerpt": "Google’s August 2026 spam update hit rankings harder than normal Search Engine Land",
+          "fetched_at": "2026-08-27T19:13:31.787463+00:00"
+        },
+        {
+          "title": "Reddit is the keyword research tool you’re probably not using",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZa25wWGhCWDZrazBhc2w3S3ZHVEZ6VHlKTGRubzJoZmptS1NPRW5abkpGV2x0WWlOMDZlallKYktzNzBpZnlyQ2l2NDVJVkM4ZWlZanRZRXlKSnpfZ1QwYW40UFJ3TXhHRWpLOXZfWEdGUQ?oc=5",
+          "published_at": "2026-08-27T14:00:00+00:00",
+          "excerpt": "Reddit is the keyword research tool you’re probably not using Search Engine Land",
+          "fetched_at": "2026-08-27T19:13:31.787463+00:00"
+        },
+        {
           "title": "Your images have a new job in AI search",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GbTI1cDc5YUwzQjlpZDZMbFZ6M2dlQmFYaXVLS1R6Z1RqZTBXbkQxbnJITFlOekZ0dFRZTE1fZ1UyRXIzdV95VExZcVdLSG9td3d5OXBkbk5iS1lTbjJ3SjhnSnc3ZG9pbGhCaQ?oc=5",
           "published_at": "2026-08-27T13:00:00+00:00",
           "excerpt": "Your images have a new job in AI search Search Engine Land",
           "fetched_at": "2026-08-27T15:21:41.976495+00:00"
+        },
+        {
+          "title": "If an AI watermark scares you, your content may be the real issue",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQjhWakFpUzJ2ZGoxMUFqZk9BQXU4Y3BhTm84NXhiVjFUZk1Bc0tpNkp1ZXRGc2ZNUFcxMlg1WnFkZWR3azJuRXNDeDBVQmlKX09ScVRSR0FLaVVtblVtdHNoN0VOb1dVUUVkakk2VQ?oc=5",
+          "published_at": "2026-08-27T12:00:00+00:00",
+          "excerpt": "If an AI watermark scares you, your content may be the real issue Search Engine Land",
+          "fetched_at": "2026-08-27T19:13:31.787463+00:00"
         },
         {
           "title": "Google confirms deploying goto URL redirects to search results links",
@@ -4737,20 +4758,6 @@
           "fetched_at": "2026-08-19T05:53:44.577428+00:00"
         },
         {
-          "title": "Microsoft Advertising publishes Conversions API documentation",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWN5aHRDQi1VM3Nqc2lRR0hVZ0NVSTBJRWFRczA1bVpjbkRWamt2WGNsei1EX0tleVhjZjdDNm1jVVVic2JNWS1SRnZBOXNsU2ExazhHSEJUQzRheHFWZ0dQUlVCYjBCUFZOMHg1Y2RVZGNOV21PU3ZsQTRUVXVzdjh2eC1hM1p4bmpvTFFMcFpPZ2R2YWNhNko0RGxMdw?oc=5",
-          "published_at": "2026-08-18T14:34:00+00:00",
-          "excerpt": "Microsoft Advertising publishes Conversions API documentation Search Engine Land",
-          "fetched_at": "2026-08-19T05:53:44.577428+00:00"
-        },
-        {
-          "title": "Google updates Branded Searches conversion measurement",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUUyVnhBSFJSMXRrNnpZQTVqdUdqczRfXzh2ak1kX3NUczkxY3BNVXVrNldqdjdpOE5RT3U2V3VvcVk1ZlVJcTdmVnB1TlRpYm5FemxMMVlCOU5EOEN2ZllaNjJiWEU3ZzdDNHlJR1QzQXQyVnAxMERrQnlVRGJzcDZVMlVjQTdmZmU1TjlLM1NuNWMx?oc=5",
-          "published_at": "2026-08-18T14:15:00+00:00",
-          "excerpt": "Google updates Branded Searches conversion measurement Search Engine Land",
-          "fetched_at": "2026-08-19T05:53:44.577428+00:00"
-        },
-        {
           "title": "Build your SEO strategy as if search engines don’t exist",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2ZpeVYwcGpERTNsRnoweldjZ2ZENDJTWUpaRXhpNnE4cEhVRGdLcDg3YVJiNW9RWl9BZ3lkalQyWmE0bU0zYzAzZnZkcUVQXzZlY3BSdFg3eGdhR0RRdkRKUFpFMTllaWJ4OTU5eV9Dak55RjNnS1ZNVEdLOGs?oc=5",
           "published_at": "2026-08-18T13:00:00+00:00",
@@ -4762,6 +4769,20 @@
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wcnpwdl9DY09jcmVDZkZoYmdaOURFdFVHQmp2UGJUNldJU3RRNlgwem1nSElnNEVXNWtzUTQ2ZGRVei1fZ2ZwTTlFRjYwWnRzZG1YaldvaUVJMERyZDJvWENTZW40bGVm?oc=5",
           "published_at": "2026-08-18T12:00:00+00:00",
           "excerpt": "Local 5.0: The next evolution of local SEO is here Search Engine Land",
+          "fetched_at": "2026-08-19T05:53:44.577428+00:00"
+        },
+        {
+          "title": "Google updates Branded Searches conversion measurement",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUUyVnhBSFJSMXRrNnpZQTVqdUdqczRfXzh2ak1kX3NUczkxY3BNVXVrNldqdjdpOE5RT3U2V3VvcVk1ZlVJcTdmVnB1TlRpYm5FemxMMVlCOU5EOEN2ZllaNjJiWEU3ZzdDNHlJR1QzQXQyVnAxMERrQnlVRGJzcDZVMlVjQTdmZmU1TjlLM1NuNWMx?oc=5",
+          "published_at": "2026-08-18T07:00:00+00:00",
+          "excerpt": "Google updates Branded Searches conversion measurement Search Engine Land",
+          "fetched_at": "2026-08-19T05:53:44.577428+00:00"
+        },
+        {
+          "title": "Microsoft Advertising publishes Conversions API documentation",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWN5aHRDQi1VM3Nqc2lRR0hVZ0NVSTBJRWFRczA1bVpjbkRWamt2WGNsei1EX0tleVhjZjdDNm1jVVVic2JNWS1SRnZBOXNsU2ExazhHSEJUQzRheHFWZ0dQUlVCYjBCUFZOMHg1Y2RVZGNOV21PU3ZsQTRUVXVzdjh2eC1hM1p4bmpvTFFMcFpPZ2R2YWNhNko0RGxMdw?oc=5",
+          "published_at": "2026-08-18T07:00:00+00:00",
+          "excerpt": "Microsoft Advertising publishes Conversions API documentation Search Engine Land",
           "fetched_at": "2026-08-19T05:53:44.577428+00:00"
         },
         {
@@ -6817,7 +6838,21 @@
       "color": "#2458d3",
       "articles": [
         {
-          "title": "ChatGPT Adds WebMCP Support For Interactive Websites via @sejournal, @MattGSouthern",
+          "title": "AI Search Didn’t Remove Cognitive Load, It Moved It via @sejournal, @DuaneForrester",
+          "url": "https://www.searchenginejournal.com/ai-search-didnt-remove-cognitive-load-it-moved-it/586700/",
+          "published_at": "2026-08-27T19:00:52+00:00",
+          "excerpt": "Answer sooner, write less, simplify: standard advice that can relocate informational work rather than remove it. Here's the sharper test. The post AI Search Didn’t Remove Cognitive Load, It Moved It appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-27T19:13:43.793869+00:00"
+        },
+        {
+          "title": "Google Starts Rolling Out Hotel Booking In AI Mode via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/",
+          "published_at": "2026-08-27T16:00:35+00:00",
+          "excerpt": "Google is rolling out hotel booking in AI Mode with Google Pay checkout. Flight alerts and rewards pricing are available in supported markets. The post Google Starts Rolling Out Hotel Booking In AI Mode appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-27T19:13:43.793869+00:00"
+        },
+        {
+          "title": "OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/",
           "published_at": "2026-08-27T15:18:34+00:00",
           "excerpt": "OpenAI added WebMCP support to ChatGPT’s desktop browser, letting supported webpages expose structured actions to ChatGPT Work and Codex. The post ChatGPT Adds WebMCP Support For Interactive Websites appeared first on Search Engine Journal .",
@@ -6945,7 +6980,7 @@
         {
           "title": "Google Local Services Ads Are Moving To Performance Max: What To Check First",
           "url": "https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/",
-          "published_at": "2026-08-25T07:45:03+00:00",
+          "published_at": "2026-08-25T00:00:00+00:00",
           "excerpt": "Google is folding Local Services Ads into Performance Max. Join CallRail's on 9/8 for the audit checklist to run before and after your account migrates. The post Google Local Services Ads Are Moving To Performance Max: What To Check First appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-25T15:10:29.716026+00:00"
         },
@@ -10030,6 +10065,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Decoding cosmic signals with deep learning and Keras",
+          "url": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
+          "published_at": "2026-08-27T00:00:00+00:00",
+          "excerpt": "Astroparticle physics sits at the exciting intersection of astrophysics and particle physics and stu...",
+          "fetched_at": "2026-08-27T19:13:56.186610+00:00"
+        },
+        {
           "title": "Enterprise-Grade Precision for Long-Context Multimodal Embedding Inference on Cloud TPU",
           "url": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
           "published_at": "2026-08-26T00:00:00+00:00",
@@ -10293,6 +10335,34 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "3 new ways to plan and book travel in Search",
+          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+          "published_at": "2026-08-27T16:00:00+00:00",
+          "excerpt": "Graphic depicting new travel features for AI Mode in Search",
+          "fetched_at": "2026-08-27T19:13:57.100255+00:00"
+        },
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+          "published_at": "2026-08-27T16:00:00+00:00",
+          "excerpt": "Text \"Gemini Omni 1.1 Flash Available via APIs\" surrounded by various images of people and a squirrel",
+          "fetched_at": "2026-08-27T19:13:57.100255+00:00"
+        },
+        {
+          "title": "Partnering with Khan Academy on building AI tools for classrooms",
+          "url": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/",
+          "published_at": "2026-08-27T16:00:00+00:00",
+          "excerpt": "Adults standing in front of Google sign smiling",
+          "fetched_at": "2026-08-27T19:13:57.100255+00:00"
+        },
+        {
+          "title": "Google Flow brings new creative control features to enhance video editing.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/",
+          "published_at": "2026-08-27T16:00:00+00:00",
+          "excerpt": "At Google I/O, we launched Gemini Omni Flash in Google Flow, bringing new video editing capabilities to creatives. Today we’re rolling out updates via Gemini Omni 1.1 Fl…",
+          "fetched_at": "2026-08-27T19:13:57.100255+00:00"
+        },
         {
           "title": "Our Fitbit Air Special Edition Pokémon Sleep is here",
           "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air-special-edition-pokemon-sleep/",
