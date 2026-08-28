@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T19:13:57.103904+00:00",
+  "last_updated": "2026-08-28T16:46:00.694433+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "How We Use AI for Every Article Without Making AI Slop",
+          "url": "https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/",
+          "published_at": "2026-08-28T13:05:40+00:00",
+          "excerpt": "Yes, every one. We have even built a Letaido pipeline that can research, outline, draft, and fact-check a nearly publish-ready article in six to twelve minutes. In theory, it could produce tens of thousands of articles. (It could… but that’s … Read more ›",
+          "fetched_at": "2026-08-28T16:45:34.589302+00:00"
+        },
         {
           "title": "Analysis: Reddit Appears in 83.9% of Google’s Discussions and Forums Results",
           "url": "https://ahrefs.com/blog/discussions-and-forums-serps/",
@@ -4289,11 +4296,74 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google says better YouTube creative can more than double ROI",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVpaTXVrcFA5UXRuTWVkSURhdGp1RkRTTGhqMXpVZkFCU3R6c0UtYVVMYndwZ3VUMjhDNnF3a1h3OGdWbzVWSEZLQVFBTlEzMlh0a0tLRzJRNGRoV0F2U0VKMzI1QTdBM0g5aXY3NnVCdmN2SjVGbldTVE5CcnRHdWpRYXJPd19MazFDSjZsdk14VTFuQldpU3hEdnM?oc=5",
+          "published_at": "2026-08-28T15:27:00+00:00",
+          "excerpt": "Google says better YouTube creative can more than double ROI Search Engine Land",
+          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
+        },
+        {
+          "title": "Google announces October changes to Display & Video 360 API",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2pWYnJKUFhFc1M0X3hOWkFPVjFEZE9iRnV5ZUZVVHczQTRpNFdpRVkycVoybjhTSlVDcWJpM014TUJWYUxvTEVSamFvZHM5RTUyTm1fOGJ4VlJOZmxpTkhOQW1rUS1FaHJwb1Znc2dxcnZ1eXdLOEJRMWVaeXpLWVltQ1pITHJPUGdhV2tpalgtRHVwNkpycA?oc=5",
+          "published_at": "2026-08-28T15:18:00+00:00",
+          "excerpt": "Google announces October changes to Display & Video 360 API Search Engine Land",
+          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
+        },
+        {
+          "title": "More leads or better leads? Optimize for what your business needs",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUkxJeWRrYkktc3hHaHlHS3o4WWV4NkRnV2cydDhjZm5LOEg5WWd3OG15dGI5c3NBcWxtTjZ6RDBTbXVjbTE0WkhaemxNTWNNZG9BT29ibmdOTnoxY0ZtQlNzcGptdEpMalFIY0lwLTFISDllVVBmU1A4VGE3Q1d5WlpJUQ?oc=5",
+          "published_at": "2026-08-28T15:00:00+00:00",
+          "excerpt": "More leads or better leads? Optimize for what your business needs Search Engine Land",
+          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
+        },
+        {
+          "title": "Use Claude for SEO. Don’t let Claude do SEO.",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVFYc042bjBDRkdnVW5Mb0c4M2pSNU9lOVJpemRjel9BMVVVUy13UHhRdGpFMlpXU3hXa0xQdFFMQlVkYjFpdTNxZnRuVVRxN1hHa2E3MHUzSks4aTMyTTBiUzM4eTVoVEs1MmtNRTVtUV9aMllVYm55TEgtTEJqc0hoZw?oc=5",
+          "published_at": "2026-08-28T14:00:00+00:00",
+          "excerpt": "Use Claude for SEO. Don’t let Claude do SEO. Search Engine Land",
+          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
+        },
+        {
+          "title": "7 ways to use AI for the SEO work that matters",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FOUplSU1rckpfOUpvX1BiajV4WDZHVEJGeXRlVGhhSkxVT0prNy1JWE1QZFdsakJPaUJMTWpHaGR5d2tUbkhieXJsdDJmQ2puMGtQa1JNeGVQTHZQd0o3emhjdkpRYS12ajk1ejRQc3A2dw?oc=5",
+          "published_at": "2026-08-28T13:00:00+00:00",
+          "excerpt": "7 ways to use AI for the SEO work that matters Search Engine Land",
+          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
+        },
+        {
+          "title": "Link building in 2027: 13 ways to win or fail",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxUDN2TzBtcEpDdEItWUhERlhTZlhjZFotZi1ycmJvdGpKMDFjaVNLbXI3OUtxd2p0akhCY215akFVYmxIOUtFNTRqOWk3b2tJbkpKbzdqemM5QjNLWl9pUXNVMUVHQjdsVGF1cTV3?oc=5",
+          "published_at": "2026-08-28T12:00:00+00:00",
+          "excerpt": "Link building in 2027: 13 ways to win or fail Search Engine Land",
+          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
+        },
+        {
+          "title": "Google won’t respect manual actions for site reputation abuse in European Economic Area",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY1ZxZGMtWk1TN2J5TVdZZHg3Y012Y3FTVzdKR2RFejI0TDJpZUFQY0l2V2hrMkx5OXh5R0xLU3VPczM4NGtac29vLXZHa1dRVkFRcWtyQ3lkWU5PMGFVM1l0THg0UXpPYkJDcWFUdEVnRDV4cHM3ekdhemVyZ0dwaTAtaFRveDQyRy1YdmNtMzd5eVZpRmZDbkxIRDV1X0hOZF9QdGdnbF9YaUlfT2x3SnF6VnVTQXFfYkJRN2NPUQ?oc=5",
+          "published_at": "2026-08-28T05:00:00+00:00",
+          "excerpt": "Google won’t respect manual actions for site reputation abuse in European Economic Area Search Engine Land",
+          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
+        },
+        {
+          "title": "Google expands Demand Gen with messaging ads, travel tools and AI video creation",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkZFREdHTzY5WXVqQ2RfWV9oQWU1VlBXSVJidlNtX1I5eEZpSHc2VVFBTDFIV20yeHJzTWs5TlZzZllkNlY5SG82WUNvVi1NN1plU2pxN29JeVFfZVJPNHZSSkxsaTl2RzBKRVcwT3VNeUZsWktadTI3cXVIX2t0YjB1WDZIc0lLOFp3eV9Dbm0yc1ZlRGQxSUdZck5Jc2xFQ2t4TUNISVg2ZkprU3ZrYnNFQ2JsUQ?oc=5",
+          "published_at": "2026-08-27T17:45:00+00:00",
+          "excerpt": "Google expands Demand Gen with messaging ads, travel tools and AI video creation Search Engine Land",
+          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
+        },
+        {
           "title": "Google’s August 2026 spam update hit rankings harder than normal",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWW1LYUN4WHNldDJISWdvUFZ6bUhlMTZINVJ1dVBqaVZYQ2ZCRmkxU0pnNDgxZENnQTNUTEs1UnhtaURvVWE2SnZHeHlCcVZCMjRiQl9qQTNZSnRzNWl4V25DaW1rTUQxbGlXLUZjakJzR3IyeVppT1U4MEpWT2ZUcmtJXzJRQXpT?oc=5",
           "published_at": "2026-08-27T15:21:00+00:00",
           "excerpt": "Google’s August 2026 spam update hit rankings harder than normal Search Engine Land",
           "fetched_at": "2026-08-27T19:13:31.787463+00:00"
+        },
+        {
+          "title": "Moving from Google Display to Demand Gen: What you’ll lose and gain",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PS1pGVlIzY1RnVVhXM3c3cUlyRkVfTC00YnRHMTFaWEZVUmRpY3VGemwzX0wyZGF1SWVCb0VLN3ctemRoWUNZeHRWVG51cHVFTUhrR1FLMWJuekw4Zml0emgxMHh4eEJUU2ZOV2pCaW14d2hVaUt3?oc=5",
+          "published_at": "2026-08-27T15:00:00+00:00",
+          "excerpt": "Moving from Google Display to Demand Gen: What you’ll lose and gain Search Engine Land",
+          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
         },
         {
           "title": "Reddit is the keyword research tool you’re probably not using",
@@ -4590,6 +4660,13 @@
           "fetched_at": "2026-08-21T14:19:41.274486+00:00"
         },
         {
+          "title": "Microsoft Advertising removes Max CPC from new standalone bidding campaigns",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDlybzVrUzk5RkdVU2RNQkRTYjlJeUpmMm1kcC02bWJOOWg4dERDSldIT2V6dnNJaEd4OFVzQVZBQm1SLW1VLWpJcmgtRkZRWGtaNVNRQTdXb1JmemRiVmplajc0U3VrUjdxRXY1SFpRdDBtSlpjdmstREpPQjRjbktpRmVpRlg4aU1SQ25iTUVBOXNuSmJOT200ai10Q0UtOXV1NWRFZHNxaDkwdUt1NA?oc=5",
+          "published_at": "2026-08-20T16:01:00+00:00",
+          "excerpt": "Microsoft Advertising removes Max CPC from new standalone bidding campaigns Search Engine Land",
+          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
+        },
+        {
           "title": "Google makes the Preferred Source button more seamless",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYnJvR18wTjFaRGRnUjF4d1owM2VGdVItdDJHUW1BV1hhelo2bkFUZklueHBQQVd0OU5Ka3BISHlVWWxVLXQ3eFc3Y1R3UDV0N25Pc3VfVUJ1Y2FQYkpTMlNmbEROM0NLcEJiUWwxWHp1SVpweDJTcnJueU1sMmtrNTkxeTBMYVhnNzFVUGdhOGF5eTh5?oc=5",
           "published_at": "2026-08-20T16:00:00+00:00",
@@ -4695,13 +4772,6 @@
           "fetched_at": "2026-08-20T05:56:03.249732+00:00"
         },
         {
-          "title": "JavaScript links can make your pages invisible to AI search",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmVmZWxOV0pJU0s4Q3RvdVdwc0hGRGRvNkFjVGFZVnZVYzAxZ3lFWkJIdTZyWVQtdUx2RWdWTXp5enI3UU52bnZkaUdNZXlUblNPN0ZwWEhyckZKaDEzQk53dDl2SXBNM1JRV3pIb2NOLWJxR0pwUFFwT00xQkd3RERaWC0?oc=5",
-          "published_at": "2026-08-19T15:00:00+00:00",
-          "excerpt": "JavaScript links can make your pages invisible to AI search Search Engine Land",
-          "fetched_at": "2026-08-20T05:56:03.249732+00:00"
-        },
-        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yQjJwS2JkQlNDSGZhUWpzeC1pbUVrZ1lhQ1luaGtXelFMQkZJSURQaWw1aUNYdHE4eTZwNXRUcXhSeGxzLVhzTGVZcFZLd2FyOTBRSGFFZEZVRllvSWlCSkJQZUpDdjJfQVFZSWZxRDdXZ2JaeFpZSg?oc=5",
           "published_at": "2026-08-19T14:55:05+00:00",
@@ -4748,6 +4818,13 @@
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkVhUFRvaEk1VkMwSFNRMHFUN2FTclhfZlI4dzV5YkRPUzFIN2N3bU5MRWhrZmRVaXo5WlB5YVJ3Q1M4TzZzeFdrbV9SQnFjOUtMQzhDMzBlYW5YWlZ1Q3l3eWk3ZlJHeDhkQUhUVi1YUXlaRlFIX3pZTUxaeDBOaVpWb3cyZw?oc=5",
           "published_at": "2026-08-19T07:00:00+00:00",
           "excerpt": "Reddit’s ChatGPT Search citations fell 86% in four days: Report Search Engine Land",
+          "fetched_at": "2026-08-20T05:56:03.249732+00:00"
+        },
+        {
+          "title": "JavaScript links can make your pages invisible to AI search",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmVmZWxOV0pJU0s4Q3RvdVdwc0hGRGRvNkFjVGFZVnZVYzAxZ3lFWkJIdTZyWVQtdUx2RWdWTXp5enI3UU52bnZkaUdNZXlUblNPN0ZwWEhyckZKaDEzQk53dDl2SXBNM1JRV3pIb2NOLWJxR0pwUFFwT00xQkd3RERaWC0?oc=5",
+          "published_at": "2026-08-19T07:00:00+00:00",
+          "excerpt": "JavaScript links can make your pages invisible to AI search Search Engine Land",
           "fetched_at": "2026-08-20T05:56:03.249732+00:00"
         },
         {
@@ -6838,6 +6915,41 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/",
+          "published_at": "2026-08-28T14:30:07+00:00",
+          "excerpt": "When Meta's ad AI altered approved creative without warning, it exposed a deeper problem: marketing teams rarely define who owns AI mistakes after sign-off. The post AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It appeared first on Search Engine Journal…",
+          "fetched_at": "2026-08-28T16:45:49.667205+00:00"
+        },
+        {
+          "title": "WebMCP Connects AI Agents To Actions Inside Websites via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/",
+          "published_at": "2026-08-28T12:00:10+00:00",
+          "excerpt": "OpenAI, Shopify, and Cloudflare are putting WebMCP into live products, giving AI agents a structured way to use websites without relying on visual clicks. The post WebMCP Connects AI Agents To Actions Inside Websites appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-28T16:45:49.667205+00:00"
+        },
+        {
+          "title": "AI Is Changing Website Security. Here’s What SEO Teams Should Know via @sejournal, @vahandev",
+          "url": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/",
+          "published_at": "2026-08-28T11:56:38+00:00",
+          "excerpt": "More than 100 organizations, including OpenAI, Google, and Microsoft, urge governments and website owners to prepare now for escalating AI cyberattacks. The post AI Is Changing Website Security. Here’s What SEO Teams Should Know appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-28T16:45:49.667205+00:00"
+        },
+        {
+          "title": "Google Answers If Updates Come With Actionable SEO Signals via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/",
+          "published_at": "2026-08-28T11:45:08+00:00",
+          "excerpt": "Google explains why a named update can shake up rankings without giving affected site owners anything specific to act on. The post Google Answers If Updates Come With Actionable SEO Signals appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-28T16:45:49.667205+00:00"
+        },
+        {
+          "title": "Google Updates Site Reputation Abuse Policy: Removes Penalties In EEA via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/",
+          "published_at": "2026-08-28T11:18:58+00:00",
+          "excerpt": "Google is replacing site reputation abuse manual actions in the EEA with a system that can rank affected site sections independently. The post Google Updates Site Reputation Abuse Policy: Removes Penalties In EEA appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-28T16:45:49.667205+00:00"
+        },
+        {
           "title": "AI Search Didn’t Remove Cognitive Load, It Moved It via @sejournal, @DuaneForrester",
           "url": "https://www.searchenginejournal.com/ai-search-didnt-remove-cognitive-load-it-moved-it/586700/",
           "published_at": "2026-08-27T19:00:52+00:00",
@@ -8510,6 +8622,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "How to track AI Overviews with Semrush",
+          "url": "https://www.semrush.com/blog/semrush-ai-overview-research/",
+          "published_at": "2026-08-28T12:40:00+00:00",
+          "excerpt": "AI Overviews are growing and impacting SEO campaigns. Learn how to track AI Overviews with Semrush.",
+          "fetched_at": "2026-08-28T16:45:55.437854+00:00"
+        },
+        {
           "title": "Google releases August 2026 spam update: What marketers need to know",
           "url": "https://www.semrush.com/blog/google-august-2026-spam-update/",
           "published_at": "2026-08-26T08:25:00+00:00",
@@ -8531,6 +8650,13 @@
           "fetched_at": "2026-08-20T14:21:49.206486+00:00"
         },
         {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-08-20T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "The ultimate guide to creating a content marketing strategy",
           "url": "https://www.semrush.com/blog/content-marketing-strategy-guide/",
           "published_at": "2026-08-19T08:34:00+00:00",
@@ -8549,13 +8675,6 @@
           "url": "https://www.semrush.com/blog/user/cecilia-meis/",
           "published_at": "2026-08-19T00:00:00+00:00",
           "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-08-19T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
           "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
@@ -8687,7 +8806,7 @@
         {
           "title": "What is schema markup? And how to add it to your site",
           "url": "https://www.semrush.com/blog/schema-markup/",
-          "published_at": "2026-07-30T10:21:00+00:00",
+          "published_at": "2026-07-30T00:00:00+00:00",
           "excerpt": "Schema markup is code you add to your site to give search engines and AI systems explicit data about your pages.",
           "fetched_at": "2026-08-03T15:53:30.575992+05:30"
         },
@@ -9328,6 +9447,13 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "15 Best B2B demand gen agencies(and how to pick the right one)",
+          "url": "https://www.factors.ai/blog/b2b-demand-generation-agencies",
+          "published_at": "2026-08-28T00:00:00+00:00",
+          "excerpt": "Struggling to turn marketing into pipeline? Explore 15 top B2B demand gen and inbound agencies, how they differ, and how to pick the right partner.",
+          "fetched_at": "2026-08-11T15:43:59.997915+00:00"
+        },
+        {
           "title": "Top 22 Account-Based Marketing (ABM) Tools for 2026",
           "url": "https://www.factors.ai/blog/top-abm-tools",
           "published_at": "2026-08-27T00:00:00+00:00",
@@ -9382,13 +9508,6 @@
           "published_at": "2026-08-17T00:00:00+00:00",
           "excerpt": "ZoomInfo costs anywhere from $15K to $60K+ a year. Get the full pricing breakdown and see whether a lower-cost alternative makes more sense.",
           "fetched_at": "2026-08-13T15:41:31.820113+00:00"
-        },
-        {
-          "title": "15 Best B2B demand gen agencies(and how to pick the right one)",
-          "url": "https://www.factors.ai/blog/b2b-demand-generation-agencies",
-          "published_at": "2026-08-11T00:00:00+00:00",
-          "excerpt": "Struggling to turn marketing into pipeline? Explore 15 top B2B demand gen and inbound agencies, how they differ, and how to pick the right partner.",
-          "fetched_at": "2026-08-11T15:43:59.997915+00:00"
         },
         {
           "title": "AI search marketing: how B2B brands get cited in 2026",
@@ -9616,6 +9735,13 @@
       "archive_titles_canonical": true,
       "color": "#178bd4",
       "articles": [
+        {
+          "title": "Is It Actually Possible to Boycott AI in 2026?",
+          "url": "https://www.webfx.com/blog/ai/boycott-ai/",
+          "published_at": "2026-08-28T11:42:39+00:00",
+          "excerpt": "The post Is It Actually Possible to Boycott AI in 2026? appeared first on WebFX .",
+          "fetched_at": "2026-08-28T16:45:57.900031+00:00"
+        },
         {
           "title": "ChatGPT Sources Less Visible: What That Means for Your AI Traffic and Citations",
           "url": "https://www.webfx.com/blog/ai/chatgpt-sources-less-visible/",
@@ -10335,6 +10461,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Expert Intelligence: a new way for you to engage with trusted content",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
+          "published_at": "2026-08-27T19:30:00+00:00",
+          "excerpt": "Prompt \"Help me personalize learnings from this book\". Above the prompt are various books.",
+          "fetched_at": "2026-08-28T16:46:00.691435+00:00"
+        },
+        {
+          "title": "Celebrating 250 years of America, from its history to its future",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/celebrating-250-years-of-america-from-its-history-to-its-future/",
+          "published_at": "2026-08-27T17:00:00+00:00",
+          "excerpt": "Google and YouTube are celebrating America's 250th anniversary.",
+          "fetched_at": "2026-08-28T16:46:00.691435+00:00"
+        },
         {
           "title": "3 new ways to plan and book travel in Search",
           "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
