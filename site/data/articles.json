@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T11:13:46.966332+00:00",
+  "last_updated": "2026-08-29T16:49:06.065638+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4401,6 +4401,13 @@
           "fetched_at": "2026-08-27T19:13:31.787463+00:00"
         },
         {
+          "title": "Marcella Merigo",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOTBxcVlqTk0wbVhnMTNiaWpNa0U3aGNQbURUX3FtVHJySE96aXQyeXhtUFFVR1NCS3pMZDdFOHZWYmF5YVhmWU9pcW93TlZwVXdDeERIMlUtZG9qYVJDbA?oc=5",
+          "published_at": "2026-08-27T07:00:00+00:00",
+          "excerpt": "Marcella Merigo Search Engine Land",
+          "fetched_at": "2026-08-29T16:48:46.086144+00:00"
+        },
+        {
           "title": "Google confirms deploying goto URL redirects to search results links",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRHZUV3BlQ1A3V29mRDVFYmF3d3pfZUI3ZG9uWWg0emRUeFhqcmVZTm1jQndNUWViV1MxLVVFWVpLeFYwMU5aUzgzemRBM2JPczBRUmhORC1nZkpmMEotRUp6WUZYWGwxLWxMY29Ua1M5a0pPQ2VXc3Q0QXhod3hkV0tTN0FDTFVnUW5LeXRUUFZLcF9odHRIc01rRjhKZnJGVnRwTTJ4Zw?oc=5",
           "published_at": "2026-08-27T00:13:00+00:00",
@@ -4679,6 +4686,13 @@
           "published_at": "2026-08-21T12:00:00+00:00",
           "excerpt": "LLM visibility starts with better internal communication Search Engine Land",
           "fetched_at": "2026-08-23T05:52:07.491342+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS21JX2c1Vm04dTM5dkNwV2xTTmJ5TnJPSlVILUo1X2psNHQ3UWR5UjJpQzM0WVZWcGdfa2Z1WTZsbzI5aXpGWW1IRHozMExMNC1fQUxUMHlTbm1RYVA3dVFadWpJeGEya09aVnhyZndSbl9TREVVcC15YUVWTU1STkJaa05QNjlZUmdOZGFCZGFQbU1IcEVXenhMcEk4Y0pBbFE2ZUk5QzZxcmF3SkRLc2FkSE1HZw?oc=5",
+          "published_at": "2026-08-21T09:32:56+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-08-29T16:48:46.086144+00:00"
         },
         {
           "title": "Google August 2026 spam update done rolling out",
@@ -6968,6 +6982,13 @@
           "published_at": "2017-07-19T16:30:46+00:00",
           "excerpt": "Enter the 2026 Search Engine Land Awards today Search Engine Land",
           "fetched_at": "2026-08-22T05:48:08.541251+00:00"
+        },
+        {
+          "title": "Privacy Policy",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GSDMwbkh5UlIxd0Q4ZXNLVnNvOVE1d21tVkN4aWxlS2tTellPLWp4OU9sczFWM2FndVp3bHJ4dEZTOUVOa2dnMEJwVnZMVEdjZDl2dQ?oc=5",
+          "published_at": "2010-11-03T10:03:38+00:00",
+          "excerpt": "Privacy Policy Search Engine Land",
+          "fetched_at": "2026-08-29T16:48:46.086144+00:00"
         }
       ]
     },
@@ -6998,6 +7019,13 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Judge Questions Google AI, Spam Update Fallout – SEO Pulse via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/",
+          "published_at": "2026-08-29T12:30:49+00:00",
+          "excerpt": "This week’s SEO Pulse covers Google’s AI publisher dispute, spam update fallout, the GEO debate, AI citation gaps, and ChatGPT’s Reddit behavior in search. The post Judge Questions Google AI, Spam Update Fallout – SEO Pulse appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-29T16:48:56.162261+00:00"
+        },
         {
           "title": "How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev",
           "url": "https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/",
