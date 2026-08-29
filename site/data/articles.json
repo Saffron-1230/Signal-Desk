@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T16:46:00.694433+00:00",
+  "last_updated": "2026-08-29T11:13:46.966332+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,6 +4296,20 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google is dynamically expanding AI Overviews for some queries",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVp2R1ZacHdPUnZmVkR1bFl0N0RfdTJoSlRlclJWdFVLWHVpMkRJUUJwVUN6STN4UWd0UzJ2MVZiQnFYeXA3dmROSllkZnQyNExHWXY0MWM2M3JOaW5BelBJM1UtM1lVOTJFWU54Y2VqUFhqRGo3Z0lwVERRQ0w1VjlzWm9pV3RFTHZ3ZUxlZDNNRXd0N055SmpUNjNRUQ?oc=5",
+          "published_at": "2026-08-28T20:22:00+00:00",
+          "excerpt": "Google is dynamically expanding AI Overviews for some queries Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
+        },
+        {
+          "title": "Greg Finn on 20 years of PPC: From exact match to AI Mode",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHNOVWVhMlA5b0ViLW53dy1jS0JFYzFwTGQzWFJJZ01iRnEyWUM1YVdGZERXSXlqSHYtTXJxQVQ1OEZVeXZsM3BFaDN0c1BQYkgtX3dFTEZaMWNlZUszVEN3czc0eGsxQ2lfYmpfNmw2bnFneEd3b1ZScFVPdy1uQ096M3NjeWJQSDNwUVIwcEQ4bFQ2UHp3?oc=5",
+          "published_at": "2026-08-28T16:46:00+00:00",
+          "excerpt": "Greg Finn on 20 years of PPC: From exact match to AI Mode Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
+        },
+        {
           "title": "Google says better YouTube creative can more than double ROI",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVpaTXVrcFA5UXRuTWVkSURhdGp1RkRTTGhqMXpVZkFCU3R6c0UtYVVMYndwZ3VUMjhDNnF3a1h3OGdWbzVWSEZLQVFBTlEzMlh0a0tLRzJRNGRoV0F2U0VKMzI1QTdBM0g5aXY3NnVCdmN2SjVGbldTVE5CcnRHdWpRYXJPd19MazFDSjZsdk14VTFuQldpU3hEdnM?oc=5",
           "published_at": "2026-08-28T15:27:00+00:00",
@@ -4394,6 +4408,13 @@
           "fetched_at": "2026-08-27T15:21:41.976495+00:00"
         },
         {
+          "title": "Nozzle Archives",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Fd3JCaVFuVl9aSUdBbXpoWF9GNTFERVV0cVE5SmN5dUJRR2tPWjg4dGs0YUEtMkE1QjRQT2ptcE9aYU1zU2VLZnJGMTNVWEQwaDA0?oc=5",
+          "published_at": "2026-08-27T00:13:00+00:00",
+          "excerpt": "Nozzle Archives Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
+        },
+        {
           "title": "Google Ads API Developer Assistant gets major AI agent upgrade",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjJ3cERfU25mYlBvd0pYemlGV0ZmWWRDX1V3TWtFSTNXcWpwekxWN08zdXFDZl9ER1hBVGwzNEdvTlFpRjUxcFR6VERHR2RHandSaGdYWC1MT1hSWGEzZm1uZjcxUVhoUTlrTXRpNjRvUGxHRlltNmNtOVBQNDQwZnhSaTUxSkhZd085ZDJMX3c3cGUwaUdBaG1QLWFXSHM?oc=5",
           "published_at": "2026-08-26T15:43:00+00:00",
@@ -4448,6 +4469,20 @@
           "published_at": "2026-08-26T12:00:00+00:00",
           "excerpt": "Has Google demoted listicles? Search Engine Land",
           "fetched_at": "2026-08-27T15:21:41.976495+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMl9oV1AxaWtCNUQ2QUxlTHpuTk44NFQxZERFa2pTYUZXUVdPWGowd1YxWW8zWlExVUxxUl9FRzk0YkxveWdWQVZNWlJyMHZsbVNwSkRpV0pRdGhKUGtaejJlNlR2eFBxRzJ0SG52eDlrc2V5SFEzTDU3eFZnel9RZUVwWTdjbm5pWVRUVUlHVjA0Z2xDX1hhN1o4aGRGb3pScXpGb3g2d0dPUWltT0VJUm80cXg1UVh6RDBvdQ?oc=5",
+          "published_at": "2026-08-26T08:46:55+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPajBjcFR1aHV6TXJWaUc3cUNxZG9vdGxNaVNDOWdoamU3dXh5THhkV2lxTmVnZHc2Tk4xTFpvTEd1SEdkRlJLVTQ2US1OUEhScUJxZTBKWDM3SXdya0RsNHA0S3cxY1ZOMHV2a095ZEg2WDdrTDJpc2R2dzE4U1pRWXo4cWFNLWV4cC1j?oc=5",
+          "published_at": "2026-08-26T07:43:00+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -4513,6 +4548,13 @@
           "fetched_at": "2026-08-26T06:02:37.872659+00:00"
         },
         {
+          "title": "Your paid media ROAS isn’t 5x. Or 2x.",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tS2M4SEk2YnEwcmtwVUpRTS1DbWlnRzNkdldnSFVNRG5GSmdrUTJjTVJadXo2QTVLU28xRTc4emN3U0hkVVpKR3ZnQXpPc3hBQU41WHBhNXdWY1VhZlltWElxWldnVS02aEg0Mg?oc=5",
+          "published_at": "2026-08-25T12:00:00+00:00",
+          "excerpt": "Your paid media ROAS isn’t 5x. Or 2x. Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
+        },
+        {
           "title": "ChatGPT Ads adds automated bidding, platform targeting",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3VjaDlLZmw2MldVcm42bzZVcm10MW9PQ2xfRU1ya05JV1RQbzd2RlpSRWExSmFUNHZjN0N5dXN0UzRVSzZCYlN3bDRsampxRUZfR1Vsa3VzTzZmU281OE94NERGT0V5a19tZXZnM2NrNVhLU3o3RW9sdjFpb0g3MGRwQzRsQ2FvWnVaVmM1V29oc0k?oc=5",
           "published_at": "2026-08-24T16:42:00+00:00",
@@ -4525,6 +4567,13 @@
           "published_at": "2026-08-24T15:01:00+00:00",
           "excerpt": "Google expands Local Services Ads categories ahead of migration Search Engine Land",
           "fetched_at": "2026-08-25T05:58:02.278110+00:00"
+        },
+        {
+          "title": "Liebowitz Social Anxiety Scale Archives",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JQzVrRmhRaU5kc3RxS182VUdBZEpNMndwWWFHV2FzYXhRclpCQktlLVVJT3FSLWlhNTZfX3BZVVJkYkE1X3RmOHpoUmtyQWh4bjNHdTQ4azhwS3ctREVLblhfRWoxVHhSV0hDODBCUVFweXlo?oc=5",
+          "published_at": "2026-08-24T15:01:00+00:00",
+          "excerpt": "Liebowitz Social Anxiety Scale Archives Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
         },
         {
           "title": "How to build an AI content workflow from the ground up",
@@ -4646,18 +4695,11 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "How to build topic clusters that AI will cite: A step-by-step guide",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Hbnd4SGp4VXhGSDdObjJaT1pHZm0yNHh0Nzh0c3dzNTZPQ0VIOUYxbWZzWDVTclBpT3FSSXpqMnRtMnBvQnpsWFE1NVp5U1FQY3pJRDE3ZVhWekJfLWx4Mm1WV3lGS1VYbXI0OXdCYXE?oc=5",
+          "title": "Word embedding Archives",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaaTZGY19iZEk0MXI3c29WNjAyVWNRUEk5U1QxUzZ5RzNjWkxHSGlCTlBNY3JBVk95NU9IeUk1SERkMWc1QTVVRndhMXNCWHl4bXFvMVM3TlhRTld0bFE?oc=5",
           "published_at": "2026-08-20T17:23:00+00:00",
-          "excerpt": "How to build topic clusters that AI will cite: A step-by-step guide Search Engine Land",
-          "fetched_at": "2026-08-21T14:19:41.274486+00:00"
-        },
-        {
-          "title": "Do meta descriptions matter? The latest research",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RYTNVRktwcGxoaHhHU21jZ0dMRXZXdTIwSnpBeHRVZXpJWTFDX05OMGpoSDVwZWZtUWJCenpDanFYUDg0QTFZbU50Ykw0cHlwdkZtU1lpNXBVUzNKdUxMcUluSVV5bHNvTGtIb2Q5TQ?oc=5",
-          "published_at": "2026-08-20T16:56:00+00:00",
-          "excerpt": "Do meta descriptions matter? The latest research Search Engine Land",
-          "fetched_at": "2026-08-21T14:19:41.274486+00:00"
+          "excerpt": "Word embedding Archives Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
         },
         {
           "title": "Microsoft Advertising removes Max CPC from new standalone bidding campaigns",
@@ -4709,25 +4751,53 @@
           "fetched_at": "2026-08-23T13:50:16.308060+00:00"
         },
         {
+          "title": "The next AI money grab: Charging for editorial corrections",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KQ3d5UV85TFpPNlliVU83T0tuN2VreUZ6RTRWY3FRLUNtUnFpSFZENzd6ejhhaUozZE9lX0VLQlNjZ2QzWFdQRmhtTC1UTEliRGVPMXg3NzdQQjNwZlU0cWt3Tk9pd3VRY3BkdVpyYzBzeHJFN3FfWUV4QQ?oc=5",
+          "published_at": "2026-08-20T12:00:00+00:00",
+          "excerpt": "The next AI money grab: Charging for editorial corrections Search Engine Land",
+          "fetched_at": "2026-08-20T14:21:32.060296+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UUmlGTmlTVGxScUFPU2lDMGFBdkt3ZGlPQlVId2pMR2pIeVZjTWR3Qy1maHE3Znk4THFvY2t0aFVxOFUxajBqVFRfaVlaODhqTHVVTzRfNkMxTnlUNnZMc1VEY0xsdlUtSEgwNk1EcGJQYnpuRkJHOQ?oc=5",
+          "published_at": "2026-08-20T08:16:12+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
+        },
+        {
           "title": "Google adds new AI Max testing and planning tools",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVBsYXM1TFg4SGdmbmsxVTV6Snp1WFljV2N1cDJSdHh3UTBGaXFpWEthZ2hId2RXX1RpQmgwVHM4SGJSc3NWY0MtNWt2Q0JrMG1xOWkxZlVLV1N6OGpYbkZXS1NxZkp0bDQ4R1dKV3kzTFRacERPdElJTGYwZldCZ0dIMVJ3bkNiN3g5OEtn?oc=5",
-          "published_at": "2026-08-20T13:03:00+00:00",
+          "published_at": "2026-08-20T07:00:00+00:00",
           "excerpt": "Google adds new AI Max testing and planning tools Search Engine Land",
           "fetched_at": "2026-08-21T05:59:09.168236+00:00"
         },
         {
           "title": "SEO priorities for 2027: Your guide to search success",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iZ3ZRamUzLTNKTUlSdVhxeXlfYm05Q2x2YVZIZm9LTm9sSzVDaWR6RWJEWEYwOW5kdThlb0xNa1NuNXFmX1Q4WDU2aWFTcFRRVUc0UWZCcDZBTkNIalpQZk5sekJDdw?oc=5",
-          "published_at": "2026-08-20T13:00:00+00:00",
+          "published_at": "2026-08-20T07:00:00+00:00",
           "excerpt": "SEO priorities for 2027: Your guide to search success Search Engine Land",
           "fetched_at": "2026-08-21T05:59:09.168236+00:00"
         },
         {
-          "title": "The next AI money grab: Charging for editorial corrections",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KQ3d5UV85TFpPNlliVU83T0tuN2VreUZ6RTRWY3FRLUNtUnFpSFZENzd6ejhhaUozZE9lX0VLQlNjZ2QzWFdQRmhtTC1UTEliRGVPMXg3NzdQQjNwZlU0cWt3Tk9pd3VRY3BkdVpyYzBzeHJFN3FfWUV4QQ?oc=5",
-          "published_at": "2026-08-20T12:00:00+00:00",
-          "excerpt": "The next AI money grab: Charging for editorial corrections Search Engine Land",
-          "fetched_at": "2026-08-20T14:21:32.060296+00:00"
+          "title": "How to build topic clusters that AI will cite: A step-by-step guide",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Hbnd4SGp4VXhGSDdObjJaT1pHZm0yNHh0Nzh0c3dzNTZPQ0VIOUYxbWZzWDVTclBpT3FSSXpqMnRtMnBvQnpsWFE1NVp5U1FQY3pJRDE3ZVhWekJfLWx4Mm1WV3lGS1VYbXI0OXdCYXE?oc=5",
+          "published_at": "2026-08-20T07:00:00+00:00",
+          "excerpt": "How to build topic clusters that AI will cite: A step-by-step guide Search Engine Land",
+          "fetched_at": "2026-08-21T14:19:41.274486+00:00"
+        },
+        {
+          "title": "Do meta descriptions matter? The latest research",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RYTNVRktwcGxoaHhHU21jZ0dMRXZXdTIwSnpBeHRVZXpJWTFDX05OMGpoSDVwZWZtUWJCenpDanFYUDg0QTFZbU50Ykw0cHlwdkZtU1lpNXBVUzNKdUxMcUluSVV5bHNvTGtIb2Q5TQ?oc=5",
+          "published_at": "2026-08-20T07:00:00+00:00",
+          "excerpt": "Do meta descriptions matter? The latest research Search Engine Land",
+          "fetched_at": "2026-08-21T14:19:41.274486+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQjdaY2JPWURITE1pTG5rX1NOdU00TWdoWjVTRXhzV3BhUWRXMF9TV3VwMXBqMDdhN2RrSVY4RHNyQWJNZEFSVjB6T3dxdmNJbmw3XzdzTGozdnlORFhB?oc=5",
+          "published_at": "2026-08-20T05:46:06+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -4765,25 +4835,11 @@
           "fetched_at": "2026-08-20T05:56:03.249732+00:00"
         },
         {
-          "title": "Google Ads tests Enhanced Matching for Customer Match",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS25weVNubmsxUk5vUkJyTGw4S290U2I3LXlfdE1xZ1hKckpNWnltSHZGU3VoMDMtdzd6VVRLczlTdnM3NkNQWmxIYnpSOW9HamRsN3BaZHpzaWNMNzJPNUxqb2lxb1ktVlZNZVdaamY4Rm5sSVJZbFBxZmFmZG1oSTU4VUN6dWxuYi1zbDFEN2VIUFU?oc=5",
-          "published_at": "2026-08-19T15:21:00+00:00",
-          "excerpt": "Google Ads tests Enhanced Matching for Customer Match Search Engine Land",
-          "fetched_at": "2026-08-20T05:56:03.249732+00:00"
-        },
-        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yQjJwS2JkQlNDSGZhUWpzeC1pbUVrZ1lhQ1luaGtXelFMQkZJSURQaWw1aUNYdHE4eTZwNXRUcXhSeGxzLVhzTGVZcFZLd2FyOTBRSGFFZEZVRllvSWlCSkJQZUpDdjJfQVFZSWZxRDdXZ2JaeFpZSg?oc=5",
           "published_at": "2026-08-19T14:55:05+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-08-20T14:21:32.060296+00:00"
-        },
-        {
-          "title": "ChatGPT Ads are expanding to 31 European countries",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOckNCZl9rSXZrSlRqUlB5NWxNUTFNUjRMNlpTYzE5UWxZcUhUbmZQZlhUb2VObEZyRDRORXlwcldicTY0REU4VHRJU2N2a3Rra294ckgybzhob2pNTEFRT3lYSGtjbENjMHFVZ2ZRMjRLa25fOW5UYkx2c2hseENTRG5Yc3FxT19INERjRUpNMA?oc=5",
-          "published_at": "2026-08-19T14:22:00+00:00",
-          "excerpt": "ChatGPT Ads are expanding to 31 European countries Search Engine Land",
-          "fetched_at": "2026-08-20T05:56:03.249732+00:00"
         },
         {
           "title": "Technical SEO for AI search: 4 fundamentals that matter",
@@ -4826,6 +4882,34 @@
           "published_at": "2026-08-19T07:00:00+00:00",
           "excerpt": "JavaScript links can make your pages invisible to AI search Search Engine Land",
           "fetched_at": "2026-08-20T05:56:03.249732+00:00"
+        },
+        {
+          "title": "Google Ads tests Enhanced Matching for Customer Match",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS25weVNubmsxUk5vUkJyTGw4S290U2I3LXlfdE1xZ1hKckpNWnltSHZGU3VoMDMtdzd6VVRLczlTdnM3NkNQWmxIYnpSOW9HamRsN3BaZHpzaWNMNzJPNUxqb2lxb1ktVlZNZVdaamY4Rm5sSVJZbFBxZmFmZG1oSTU4VUN6dWxuYi1zbDFEN2VIUFU?oc=5",
+          "published_at": "2026-08-19T07:00:00+00:00",
+          "excerpt": "Google Ads tests Enhanced Matching for Customer Match Search Engine Land",
+          "fetched_at": "2026-08-20T05:56:03.249732+00:00"
+        },
+        {
+          "title": "ChatGPT Ads are expanding to 31 European countries",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOckNCZl9rSXZrSlRqUlB5NWxNUTFNUjRMNlpTYzE5UWxZcUhUbmZQZlhUb2VObEZyRDRORXlwcldicTY0REU4VHRJU2N2a3Rra294ckgybzhob2pNTEFRT3lYSGtjbENjMHFVZ2ZRMjRLa25fOW5UYkx2c2hseENTRG5Yc3FxT19INERjRUpNMA?oc=5",
+          "published_at": "2026-08-19T07:00:00+00:00",
+          "excerpt": "ChatGPT Ads are expanding to 31 European countries Search Engine Land",
+          "fetched_at": "2026-08-20T05:56:03.249732+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5acUxOSmFVMUV6UkJac196X0I4WFJzZkdvZ2RrZm0tdDdQUFVUaGhvQkR0YVloMUVNMkVZM0lfWHYxZEQ0eVRMUzlwa3czUkluVF90bGUzUEtrV0RrcmxaNEgyLWN5aGlseGYyNmszLXpBUlVGaW9lcg?oc=5",
+          "published_at": "2026-08-19T06:27:48+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
+        },
+        {
+          "title": "Crayola LLC Archives",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54M0NsVV9ERVhzSkNVUEFDMFJNWUh4OUlTLXZNaHB1cld3YjhYWGhXRjRHT0NEeWwtQ0IzbUJkY0drWVBBX2Q0enJYWWxvb1dJX2pnSWQ5SllXUQ?oc=5",
+          "published_at": "2026-08-19T00:51:50+00:00",
+          "excerpt": "Crayola LLC Archives Search Engine Land",
+          "fetched_at": "2026-08-29T11:13:26.015857+00:00"
         },
         {
           "title": "What 9 months of AI Overview data and 51,000+ tracked events reveal",
@@ -5094,13 +5178,6 @@
           "fetched_at": "2026-08-14T08:47:10.073034+00:00"
         },
         {
-          "title": "Judge lets SEO sabotage lawsuit over toxic backlinks move forward",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpZFB3SXN0eUpaM1h2ZWp1TkhNQnUxMkpqV0c3SW1DSDN3ZHA4dDkxRWd1cE9wenh4U201bTB0cHpuYkRyOENKLTFmVEJRSU9nZ2xfbDg4eExJeDE4SWl3OHRjQlVuVS1icVE2WmhCenU1VlNPV2Q0VkJ6WmI?oc=5",
-          "published_at": "2026-08-12T17:24:00+00:00",
-          "excerpt": "Judge lets SEO sabotage lawsuit over toxic backlinks move forward searchengineland.com",
-          "fetched_at": "2026-08-13T08:54:21.786273+00:00"
-        },
-        {
           "title": "Lanham Act Archives",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hWEs0WldCUHhlSzVqN284eVpxbjQ0b1praWp1S3VWV1MxcUVSOWloRnI4ZGZ6RkQwMTBGS1VWdi1QaXlKajFFaVBpS3l6MTY2TmFFVWlEdFNuZw?oc=5",
           "published_at": "2026-08-12T17:24:00+00:00",
@@ -5182,6 +5259,13 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0JlWTJYUDU2ZU5aTHF0TjhBQU9hdk5WVGo4Sk8xYV93RmZ5WmJTYnFOZUNheHZJYk9EbXlPM1NVdDJkMlRLa3dZdVpxWm45QWo4bHlXU1RiRFhSQVBwR3FYX29KNEFUR0pVclZPVGtGUHd3YnJsbkw2cVd3VzFkRlNEcndHaFc0M1c0?oc=5",
           "published_at": "2026-08-12T12:00:00+00:00",
           "excerpt": "Community signals are AI’s largest third-party source searchengineland.com",
+          "fetched_at": "2026-08-13T08:54:21.786273+00:00"
+        },
+        {
+          "title": "Judge lets SEO sabotage lawsuit over toxic backlinks move forward",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpZFB3SXN0eUpaM1h2ZWp1TkhNQnUxMkpqV0c3SW1DSDN3ZHA4dDkxRWd1cE9wenh4U201bTB0cHpuYkRyOENKLTFmVEJRSU9nZ2xfbDg4eExJeDE4SWl3OHRjQlVuVS1icVE2WmhCenU1VlNPV2Q0VkJ6WmI?oc=5",
+          "published_at": "2026-08-12T07:00:00+00:00",
+          "excerpt": "Judge lets SEO sabotage lawsuit over toxic backlinks move forward searchengineland.com",
           "fetched_at": "2026-08-13T08:54:21.786273+00:00"
         },
         {
@@ -6915,6 +6999,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev",
+          "url": "https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/",
+          "published_at": "2026-08-28T19:00:53+00:00",
+          "excerpt": "Add Google's Preferred Sources button with the standard embed, a configurable WordPress widget, or a deeplink. The post How To Add Google’s Preferred Sources Button To Your Website appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-29T11:13:34.994216+00:00"
+        },
+        {
           "title": "AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/",
           "published_at": "2026-08-28T14:30:07+00:00",
@@ -6943,7 +7034,7 @@
           "fetched_at": "2026-08-28T16:45:49.667205+00:00"
         },
         {
-          "title": "Google Updates Site Reputation Abuse Policy: Removes Penalties In EEA via @sejournal, @martinibuster",
+          "title": "Google Updates Site Reputation Abuse (Parasite SEO) Policy via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/",
           "published_at": "2026-08-28T11:18:58+00:00",
           "excerpt": "Google is replacing site reputation abuse manual actions in the EEA with a system that can rank affected site sections independently. The post Google Updates Site Reputation Abuse Policy: Removes Penalties In EEA appeared first on Search Engine Journal .",
@@ -7090,7 +7181,7 @@
           "fetched_at": "2026-08-25T15:10:29.716026+00:00"
         },
         {
-          "title": "Google Local Services Ads Are Moving To Performance Max: What To Check First",
+          "title": "Google’s Local Services Ads Migration: What To Audit First",
           "url": "https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/",
           "published_at": "2026-08-25T00:00:00+00:00",
           "excerpt": "Google is folding Local Services Ads into Performance Max. Join CallRail's on 9/8 for the audit checklist to run before and after your account migrates. The post Google Local Services Ads Are Moving To Performance Max: What To Check First appeared first on Search Engine Journal .",
@@ -10461,6 +10552,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "We’re introducing flexible usage limits for Gemini Notebook.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/",
+          "published_at": "2026-08-28T17:00:00+00:00",
+          "excerpt": "We’re introducing new flexible, compute-specific usage limits to Gemini Notebook.",
+          "fetched_at": "2026-08-29T11:13:46.963784+00:00"
+        },
         {
           "title": "Expert Intelligence: a new way for you to engage with trusted content",
           "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
