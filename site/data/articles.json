@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T10:01:04.265333+00:00",
+  "last_updated": "2026-08-30T16:50:50.717357+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -7061,6 +7061,13 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/rank-math-wordpress-plugin-accused-of-secretly-taking-admin-access/587554/",
+          "published_at": "2026-08-30T11:11:17+00:00",
+          "excerpt": "New allegations surfaced that Rank Math has introduced a functionality that silently gives the company administrator-level permissions over WordPress sites. The access is triggered when a user installs Rank Math and opens the plugin’s Help & Support area. Allegedly There Is Zero…",
+          "fetched_at": "2026-08-30T16:50:39.446574+00:00"
+        },
         {
           "title": "Judge Questions Google AI, Spam Update Fallout – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/",
