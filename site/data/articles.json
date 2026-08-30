@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T16:49:06.065638+00:00",
+  "last_updated": "2026-08-30T10:01:04.265333+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,6 +4296,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS21JX2c1Vm04dTM5dkNwV2xTTmJ5TnJPSlVILUo1X2psNHQ3UWR5UjJpQzM0WVZWcGdfa2Z1WTZsbzI5aXpGWW1IRHozMExMNC1fQUxUMHlTbm1RYVA3dVFadWpJeGEya09aVnhyZndSbl9TREVVcC15YUVWTU1STkJaa05QNjlZUmdOZGFCZGFQbU1IcEVXenhMcEk4Y0pBbFE2ZUk5QzZxcmF3SkRLc2FkSE1HZw?oc=5",
+          "published_at": "2026-08-29T23:28:05+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-08-29T16:48:46.086144+00:00"
+        },
+        {
           "title": "Google is dynamically expanding AI Overviews for some queries",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVp2R1ZacHdPUnZmVkR1bFl0N0RfdTJoSlRlclJWdFVLWHVpMkRJUUJwVUN6STN4UWd0UzJ2MVZiQnFYeXA3dmROSllkZnQyNExHWXY0MWM2M3JOaW5BelBJM1UtM1lVOTJFWU54Y2VqUFhqRGo3Z0lwVERRQ0w1VjlzWm9pV3RFTHZ3ZUxlZDNNRXd0N055SmpUNjNRUQ?oc=5",
           "published_at": "2026-08-28T20:22:00+00:00",
@@ -4646,24 +4653,10 @@
           "fetched_at": "2026-08-25T05:58:02.278110+00:00"
         },
         {
-          "title": "Google working on fix for broken favicons in Google Search",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcVcwY1pwcWxlVUJscFVWRHlSQWJZdDBuRFNfREJLdDk4d0xqVVF0bHVuZ2J3QUdkQVgyZDBzcmVMdWNPTDJwSkRNMVItTXQxZHJYR3cwb3JCNUo4TWlpYmt3M01oamZlNVZ2QUJpaUwxRVdHWlp0V3hzOEJLUGpHTzRnMjdEZUJfekhCNWxaUlBKeWx0YjBmd0VR?oc=5",
-          "published_at": "2026-08-21T18:43:00+00:00",
-          "excerpt": "Google working on fix for broken favicons in Google Search Search Engine Land",
-          "fetched_at": "2026-08-22T05:48:08.541251+00:00"
-        },
-        {
           "title": "Duane Forrester: AI is rewriting SEO, but the mission is the same",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UNDRnRFpXTW8zTl9ibTh1VGtFZTBBd1VEMXUwa2xvdDMwRU9GNGtSR0JrYWhuVnRVeVNRbXNzUncyMm13d0w4SjFDMzhXc0dEdjh3WU5WVGVlVVd3cXowdlNsMzRKZXBXd01DVlJaUU1SdkJ5SS1CSW5JZw?oc=5",
           "published_at": "2026-08-21T15:00:00+00:00",
           "excerpt": "Duane Forrester: AI is rewriting SEO, but the mission is the same Search Engine Land",
-          "fetched_at": "2026-08-22T05:48:08.541251+00:00"
-        },
-        {
-          "title": "How to build an E-E-A-T checker with Claude Code",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fb1liVTZYYlZ6MVBxWWx2QTZuWEljU1d4ZWJLYWFBYjRPbkNxMzNPNkFLX3BnY2NUN29KanlQcDZaXzZaelExSnIxcWk0WFU0dW5CVTlSYjE3d3dOZEtNNWZmRHI2Mmx6RVdEU0E4bU1uaGlBbjdjMFFLaWk5MGM?oc=5",
-          "published_at": "2026-08-21T14:00:00+00:00",
-          "excerpt": "How to build an E-E-A-T checker with Claude Code Search Engine Land",
           "fetched_at": "2026-08-22T05:48:08.541251+00:00"
         },
         {
@@ -4688,18 +4681,25 @@
           "fetched_at": "2026-08-23T05:52:07.491342+00:00"
         },
         {
-          "title": "- Search Engine Land",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS21JX2c1Vm04dTM5dkNwV2xTTmJ5TnJPSlVILUo1X2psNHQ3UWR5UjJpQzM0WVZWcGdfa2Z1WTZsbzI5aXpGWW1IRHozMExMNC1fQUxUMHlTbm1RYVA3dVFadWpJeGEya09aVnhyZndSbl9TREVVcC15YUVWTU1STkJaa05QNjlZUmdOZGFCZGFQbU1IcEVXenhMcEk4Y0pBbFE2ZUk5QzZxcmF3SkRLc2FkSE1HZw?oc=5",
-          "published_at": "2026-08-21T09:32:56+00:00",
-          "excerpt": "Search Engine Land",
-          "fetched_at": "2026-08-29T16:48:46.086144+00:00"
-        },
-        {
           "title": "Google August 2026 spam update done rolling out",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVlqR2Vwakk3X2tsNVZnREg0VXJpbC13OXpHc2VQemRjeEpQS0J6U2lnUUZRUWJEN0NNUnRySmZyUW11WEVSc3NLV0psUlM0WmNrYWZrWGNiY1FuWXZfQ3RoSzhFejJUMm91ZVBJbnowbFBWQy1vSVVPdXhIRmdaVm4yNnpxMVlIRlpz?oc=5",
           "published_at": "2026-08-21T09:25:00+00:00",
           "excerpt": "Google August 2026 spam update done rolling out Search Engine Land",
           "fetched_at": "2026-08-21T14:19:41.274486+00:00"
+        },
+        {
+          "title": "How to build an E-E-A-T checker with Claude Code",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fb1liVTZYYlZ6MVBxWWx2QTZuWEljU1d4ZWJLYWFBYjRPbkNxMzNPNkFLX3BnY2NUN29KanlQcDZaXzZaelExSnIxcWk0WFU0dW5CVTlSYjE3d3dOZEtNNWZmRHI2Mmx6RVdEU0E4bU1uaGlBbjdjMFFLaWk5MGM?oc=5",
+          "published_at": "2026-08-21T07:00:00+00:00",
+          "excerpt": "How to build an E-E-A-T checker with Claude Code Search Engine Land",
+          "fetched_at": "2026-08-22T05:48:08.541251+00:00"
+        },
+        {
+          "title": "Google working on fix for broken favicons in Google Search",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcVcwY1pwcWxlVUJscFVWRHlSQWJZdDBuRFNfREJLdDk4d0xqVVF0bHVuZ2J3QUdkQVgyZDBzcmVMdWNPTDJwSkRNMVItTXQxZHJYR3cwb3JCNUo4TWlpYmt3M01oamZlNVZ2QUJpaUwxRVdHWlp0V3hzOEJLUGpHTzRnMjdEZUJfekhCNWxaUlBKeWx0YjBmd0VR?oc=5",
+          "published_at": "2026-08-21T07:00:00+00:00",
+          "excerpt": "Google working on fix for broken favicons in Google Search Search Engine Land",
+          "fetched_at": "2026-08-22T05:48:08.541251+00:00"
         },
         {
           "title": "The latest jobs in search marketing",
@@ -4721,13 +4721,6 @@
           "published_at": "2026-08-20T16:01:00+00:00",
           "excerpt": "Microsoft Advertising removes Max CPC from new standalone bidding campaigns Search Engine Land",
           "fetched_at": "2026-08-28T16:45:35.782615+00:00"
-        },
-        {
-          "title": "Google makes the Preferred Source button more seamless",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYnJvR18wTjFaRGRnUjF4d1owM2VGdVItdDJHUW1BV1hhelo2bkFUZklueHBQQVd0OU5Ka3BISHlVWWxVLXQ3eFc3Y1R3UDV0N25Pc3VfVUJ1Y2FQYkpTMlNmbEROM0NLcEJiUWwxWHp1SVpweDJTcnJueU1sMmtrNTkxeTBMYVhnNzFVUGdhOGF5eTh5?oc=5",
-          "published_at": "2026-08-20T16:00:00+00:00",
-          "excerpt": "Google makes the Preferred Source button more seamless Search Engine Land",
-          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
         },
         {
           "title": "Google Discover lets you customize your feed using conversational search",
@@ -4783,6 +4776,13 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVBsYXM1TFg4SGdmbmsxVTV6Snp1WFljV2N1cDJSdHh3UTBGaXFpWEthZ2hId2RXX1RpQmgwVHM4SGJSc3NWY0MtNWt2Q0JrMG1xOWkxZlVLV1N6OGpYbkZXS1NxZkp0bDQ4R1dKV3kzTFRacERPdElJTGYwZldCZ0dIMVJ3bkNiN3g5OEtn?oc=5",
           "published_at": "2026-08-20T07:00:00+00:00",
           "excerpt": "Google adds new AI Max testing and planning tools Search Engine Land",
+          "fetched_at": "2026-08-21T05:59:09.168236+00:00"
+        },
+        {
+          "title": "Google makes the Preferred Source button more seamless",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYnJvR18wTjFaRGRnUjF4d1owM2VGdVItdDJHUW1BV1hhelo2bkFUZklueHBQQVd0OU5Ka3BISHlVWWxVLXQ3eFc3Y1R3UDV0N25Pc3VfVUJ1Y2FQYkpTMlNmbEROM0NLcEJiUWwxWHp1SVpweDJTcnJueU1sMmtrNTkxeTBMYVhnNzFVUGdhOGF5eTh5?oc=5",
+          "published_at": "2026-08-20T07:00:00+00:00",
+          "excerpt": "Google makes the Preferred Source button more seamless Search Engine Land",
           "fetched_at": "2026-08-21T05:59:09.168236+00:00"
         },
         {
@@ -5575,6 +5575,13 @@
           "published_at": "2026-08-06T07:00:00+00:00",
           "excerpt": "New Google help doc details Deal Ends annotations for Shopping ads Search Engine Land",
           "fetched_at": "2026-08-07T15:34:09.908511+00:00"
+        },
+        {
+          "title": "The new reality of Google’s spam enforcement",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTEg5VUFtNDlaS1dSNUxhdTJ0WmlBRjdDcVM3ZFJKcHVLeVFyU3hsc2YtSkF5WnRibVJreW5SZjhZSlRJOFMxMHNqSDMtYW40RVNhdFdCb3ZPLVpzd1BhaWstbw?oc=5",
+          "published_at": "2026-08-06T07:00:00+00:00",
+          "excerpt": "The new reality of Google’s spam enforcement Search Engine Land",
+          "fetched_at": "2026-08-30T10:00:45.743381+00:00"
         },
         {
           "title": "10 SEO use cases for auditing your accessibility tree for AI search",
@@ -6921,6 +6928,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "Fill Rate",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdU5TeXdwVjhLWlJDOWM4cDhJSHlCa2UxQURqbnFuQjRZRy0tank1OS1uRE9YdzYwRk5CTkwtNFQ0QTBHeDVfenNwWUxYVE14X0pvMTFhTzYyalpONEhCNE1WVllSbGZVUG5QTERvdnRleVpoSmJVRmdiMGJYTF8ybW51RlppdXAyaXhvRVNuWUFMUFAzUXRzYmdGdGFGN01HSm8xcEJadkFUdi1sOVg4ZENpRUkzUjNMeWJkd09pUVF1YWs?oc=5",
+          "published_at": "2026-06-13T09:04:09+00:00",
+          "excerpt": "Fill Rate Search Engine Land",
+          "fetched_at": "2026-08-30T10:00:45.743381+00:00"
+        },
+        {
           "title": "Google I/O Archives",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PRGlMeWhmcG1OQ2tzNkFqeFZUdFBvSE11ZnJiRHdRU201dFEyQUlGdWh1ZzVmLUVaVXJwVU1UNzd5SVJsMWhGcXdERW4yZDllUHJGeGFETTM?oc=5",
           "published_at": "2026-04-20T02:06:40+00:00",
@@ -6935,6 +6949,20 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "Reskin Definition",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QektlcjR4dTF2SFZ3N0dJV016cDlsZjF2ZE9vSlZYaUp1bWJQV3JWa3pVbXhBRjdnUlZuWEFSQWlWdWR3SjdWMmx0dDM0TTlaMGYzS2lxWGhEV2h4dGZ3cjdQTTVTazZCcmFB?oc=5",
+          "published_at": "2025-10-29T02:56:13+00:00",
+          "excerpt": "Reskin Definition Search Engine Land",
+          "fetched_at": "2026-08-30T10:00:45.743381+00:00"
+        },
+        {
+          "title": "Advanced Optimising Tips",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbVVNLXMwa0dNV2NzUHBHekpBN1ZCR2hkcFVoYlNKMDc0OVJYVTNZQ205bDZQY2lEalZxcXRKZ1F3REgzZVlQVUQxUnJ0Ylg5QmNYS2pqb3lZdUFqMHN4RkpSa0ZCMXF1SWVSQmV2MmhuQjJ6QTlGWlNPckVRRVR2WEJxRGQxdEtwS2FVcA?oc=5",
+          "published_at": "2025-08-08T21:40:44+00:00",
+          "excerpt": "Advanced Optimising Tips Search Engine Land",
+          "fetched_at": "2026-08-30T10:00:45.743381+00:00"
+        },
+        {
           "title": "Ad Pricing Guide",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZ1ozb3cxUUpsWFl5ZG5yeUtEZnNVM3N5cDJoN0g3cHFqNEVvUWI2bldqNzktN252c2dFbVBYLURZRmFPVVhUT3Rmd2k4WUJCUzhiT0VMb1dhWDdpR2c?oc=5",
           "published_at": "2025-08-07T21:38:51+00:00",
@@ -6947,6 +6975,13 @@
           "published_at": "2024-07-08T13:01:02+00:00",
           "excerpt": "The SEO’s guide to Google Search Console Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Vincenzo Musumeci",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GNXhwZzdOb051elV4XzY2QU91c0tWb3d3NTJSaHctZW85cVpnQ3VGQWY2elR0RUhUelBuZVJ6ajYwS0REb2NiQmVVTlAyS0hfR2hIMVYwandxNkJfMDRGUUpMSQ?oc=5",
+          "published_at": "2023-10-10T13:01:50+00:00",
+          "excerpt": "Vincenzo Musumeci Search Engine Land",
+          "fetched_at": "2026-08-30T10:00:45.743381+00:00"
         },
         {
           "title": "Rémi Kerhoas",
@@ -6989,6 +7024,13 @@
           "published_at": "2010-11-03T10:03:38+00:00",
           "excerpt": "Privacy Policy Search Engine Land",
           "fetched_at": "2026-08-29T16:48:46.086144+00:00"
+        },
+        {
+          "title": "About Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tbW5hbzJqWGtXdTFpdHBkWW10QlRNcXFzWF8zS1VXVGRuTDQ3MDBvUndNUHlsWUw1QjNIZWVfRHVhb2Jsc1pDbTJn?oc=5",
+          "published_at": "2010-11-03T09:56:20+00:00",
+          "excerpt": "About Search Engine Land Search Engine Land",
+          "fetched_at": "2026-08-30T10:00:45.743381+00:00"
         }
       ]
     },
@@ -10580,6 +10622,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
+          "url": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
+          "published_at": "2026-08-29T04:00:00+00:00",
+          "excerpt": "The U.S. Geographic Names Information System (GNIS) has formally changed the name for \"Lake Ontario\" to \"Lake America\" in the United States. Since we update Google Maps …",
+          "fetched_at": "2026-08-30T10:01:04.262867+00:00"
+        },
         {
           "title": "We’re introducing flexible usage limits for Gemini Notebook.",
           "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/",
