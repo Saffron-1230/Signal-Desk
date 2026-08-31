@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T16:50:50.717357+00:00",
+  "last_updated": "2026-08-31T10:59:56.815263+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4674,16 +4674,9 @@
           "fetched_at": "2026-08-22T13:48:07.660398+00:00"
         },
         {
-          "title": "LLM visibility starts with better internal communication",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUF5aXRDRVFMQXo1bjljS1NwRHJUMmw5N1J5TGtZTlBKMlB4UXItY1JHSlQ2WjZmU2R4TElQTXVSaVhuUUxOTGRxaGY4YlNiaTh5NDdVbU5rc3VfV01oRHlKQzFHeWJFeC1lS0phdVR4NDFXTXI1c2NxOFNkalY0aTRxVjE5T0JyY3NNR3NuMDdoYUtORVpJ?oc=5",
-          "published_at": "2026-08-21T12:00:00+00:00",
-          "excerpt": "LLM visibility starts with better internal communication Search Engine Land",
-          "fetched_at": "2026-08-23T05:52:07.491342+00:00"
-        },
-        {
           "title": "Google August 2026 spam update done rolling out",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVlqR2Vwakk3X2tsNVZnREg0VXJpbC13OXpHc2VQemRjeEpQS0J6U2lnUUZRUWJEN0NNUnRySmZyUW11WEVSc3NLV0psUlM0WmNrYWZrWGNiY1FuWXZfQ3RoSzhFejJUMm91ZVBJbnowbFBWQy1vSVVPdXhIRmdaVm4yNnpxMVlIRlpz?oc=5",
-          "published_at": "2026-08-21T09:25:00+00:00",
+          "published_at": "2026-08-21T07:00:00+00:00",
           "excerpt": "Google August 2026 spam update done rolling out Search Engine Land",
           "fetched_at": "2026-08-21T14:19:41.274486+00:00"
         },
@@ -4700,6 +4693,13 @@
           "published_at": "2026-08-21T07:00:00+00:00",
           "excerpt": "Google working on fix for broken favicons in Google Search Search Engine Land",
           "fetched_at": "2026-08-22T05:48:08.541251+00:00"
+        },
+        {
+          "title": "LLM visibility starts with better internal communication",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUF5aXRDRVFMQXo1bjljS1NwRHJUMmw5N1J5TGtZTlBKMlB4UXItY1JHSlQ2WjZmU2R4TElQTXVSaVhuUUxOTGRxaGY4YlNiaTh5NDdVbU5rc3VfV01oRHlKQzFHeWJFeC1lS0phdVR4NDFXTXI1c2NxOFNkalY0aTRxVjE5T0JyY3NNR3NuMDdoYUtORVpJ?oc=5",
+          "published_at": "2026-08-21T07:00:00+00:00",
+          "excerpt": "LLM visibility starts with better internal communication Search Engine Land",
+          "fetched_at": "2026-08-23T05:52:07.491342+00:00"
         },
         {
           "title": "The latest jobs in search marketing",
@@ -4735,13 +4735,6 @@
           "published_at": "2026-08-20T15:25:00+00:00",
           "excerpt": "Meta AI can now analyze and optimize Meta Ads campaigns Search Engine Land",
           "fetched_at": "2026-08-21T05:59:09.168236+00:00"
-        },
-        {
-          "title": "How to improve Google Ads lead quality with CRM data",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94aThBeTRHaElJUC1EWE5Xb2hRd2ItUU1SLUNWNm9pMzRDWW9aVmlDLURFb2lQMFRYZUlVOWRVUUEyWE9kMnBycG92WmIwS1A5Mk9tcDBacXZ4UHQxY2FacFJ1bFBNOGJZaGpLUWhxZVFUaW9KTFE?oc=5",
-          "published_at": "2026-08-20T15:00:00+00:00",
-          "excerpt": "How to improve Google Ads lead quality with CRM data Search Engine Land",
-          "fetched_at": "2026-08-24T14:28:28.251139+00:00"
         },
         {
           "title": "3 phases to build authority and earn AI citations",
@@ -4807,6 +4800,13 @@
           "fetched_at": "2026-08-21T14:19:41.274486+00:00"
         },
         {
+          "title": "How to improve Google Ads lead quality with CRM data",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94aThBeTRHaElJUC1EWE5Xb2hRd2ItUU1SLUNWNm9pMzRDWW9aVmlDLURFb2lQMFRYZUlVOWRVUUEyWE9kMnBycG92WmIwS1A5Mk9tcDBacXZ4UHQxY2FacFJ1bFBNOGJZaGpLUWhxZVFUaW9KTFE?oc=5",
+          "published_at": "2026-08-20T07:00:00+00:00",
+          "excerpt": "How to improve Google Ads lead quality with CRM data Search Engine Land",
+          "fetched_at": "2026-08-24T14:28:28.251139+00:00"
+        },
+        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQjdaY2JPWURITE1pTG5rX1NOdU00TWdoWjVTRXhzV3BhUWRXMF9TV3VwMXBqMDdhN2RrSVY4RHNyQWJNZEFSVjB6T3dxdmNJbmw3XzdzTGozdnlORFhB?oc=5",
           "published_at": "2026-08-20T05:46:06+00:00",
@@ -4870,13 +4870,6 @@
           "fetched_at": "2026-08-19T14:17:56.895044+00:00"
         },
         {
-          "title": "Slop antibodies: The link between AI slop, watermarking, and commodity content",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVo5d1U4WkNyX2tBQW9iVkZUSEl0MWkxZndXaWg2ODBsdlZWczltZHZlcXJJMUZVQ0kzSmpmejBuU2ZKYmtZd293NmFOQ1V3RXdyY3FONnZjNHRKUWV1NFJWTGltV3FJOE96a0wxX2pwUUxEVFZlcUhPWUpIMjhFMlkzRVk1TUNDbG9UOGJ3eU5vR09BTFc5UnZ3RDJGY1RpR0FvZFJuSW5sTG9UeWtiQg?oc=5",
-          "published_at": "2026-08-19T12:00:00+00:00",
-          "excerpt": "Slop antibodies: The link between AI slop, watermarking, and commodity content Search Engine Land",
-          "fetched_at": "2026-08-20T14:21:32.060296+00:00"
-        },
-        {
           "title": "AI slop Archives",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QYXUtS2NKWkJtazM1V1hQbjdxNXdYRG50REJoZlAyOGs2NzM4c0l0U3RFSkNRM1lVUm5XSTNrYWVqUEp4cjFlN0NaVzFISzlieW15OQ?oc=5",
           "published_at": "2026-08-19T12:00:00+00:00",
@@ -4910,6 +4903,13 @@
           "published_at": "2026-08-19T07:00:00+00:00",
           "excerpt": "ChatGPT Ads are expanding to 31 European countries Search Engine Land",
           "fetched_at": "2026-08-20T05:56:03.249732+00:00"
+        },
+        {
+          "title": "Slop antibodies: The link between AI slop, watermarking, and commodity content",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVo5d1U4WkNyX2tBQW9iVkZUSEl0MWkxZndXaWg2ODBsdlZWczltZHZlcXJJMUZVQ0kzSmpmejBuU2ZKYmtZd293NmFOQ1V3RXdyY3FONnZjNHRKUWV1NFJWTGltV3FJOE96a0wxX2pwUUxEVFZlcUhPWUpIMjhFMlkzRVk1TUNDbG9UOGJ3eU5vR09BTFc5UnZ3RDJGY1RpR0FvZFJuSW5sTG9UeWtiQg?oc=5",
+          "published_at": "2026-08-19T07:00:00+00:00",
+          "excerpt": "Slop antibodies: The link between AI slop, watermarking, and commodity content Search Engine Land",
+          "fetched_at": "2026-08-20T14:21:32.060296+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -5262,13 +5262,6 @@
           "fetched_at": "2026-08-13T08:54:21.786273+00:00"
         },
         {
-          "title": "How to use MCP to get more data from the tools you already use",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HeXp1ZzBRNkxwR2pCM0FrazFtVXBPQV90bFRTYUNoRFFxWHFkaWNMWUxPWmIySEY3aHlwUVlCWFRQcm96Nk04OV9USExlaUNGNmJhaEU3UDBFSGMzLUtn?oc=5",
-          "published_at": "2026-08-12T14:00:00+00:00",
-          "excerpt": "How to use MCP to get more data from the tools you already use searchengineland.com",
-          "fetched_at": "2026-08-13T08:54:21.786273+00:00"
-        },
-        {
           "title": "Community signals are AI’s largest third-party source",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0JlWTJYUDU2ZU5aTHF0TjhBQU9hdk5WVGo4Sk8xYV93RmZ5WmJTYnFOZUNheHZJYk9EbXlPM1NVdDJkMlRLa3dZdVpxWm45QWo4bHlXU1RiRFhSQVBwR3FYX29KNEFUR0pVclZPVGtGUHd3YnJsbkw2cVd3VzFkRlNEcndHaFc0M1c0?oc=5",
           "published_at": "2026-08-12T12:00:00+00:00",
@@ -5287,6 +5280,13 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzUml3Y01rdmJGbU5VNWJSR2tfVTAwVmQxUVd0dktWdHZnMVlXVFlVeG5IVi1pdUZhUjFtQ3ZlXzhHR2g4MjY2dW0wc0ZkMlNYTTAybURqYm1HUUJZelUtT3dzdDIxZ2kyaV9BdUVZRQ?oc=5",
           "published_at": "2026-08-12T07:00:00+00:00",
           "excerpt": "The new search journey changes how SEO and PPC should work searchengineland.com",
+          "fetched_at": "2026-08-13T08:54:21.786273+00:00"
+        },
+        {
+          "title": "How to use MCP to get more data from the tools you already use",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HeXp1ZzBRNkxwR2pCM0FrazFtVXBPQV90bFRTYUNoRFFxWHFkaWNMWUxPWmIySEY3aHlwUVlCWFRQcm96Nk04OV9USExlaUNGNmJhaEU3UDBFSGMzLUtn?oc=5",
+          "published_at": "2026-08-12T07:00:00+00:00",
+          "excerpt": "How to use MCP to get more data from the tools you already use searchengineland.com",
           "fetched_at": "2026-08-13T08:54:21.786273+00:00"
         },
         {
@@ -6970,6 +6970,13 @@
           "fetched_at": "2026-08-21T14:19:41.274486+00:00"
         },
         {
+          "title": "Search Engine Optimisation (SEO)",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SWC1DR1RVRnBRWVZIMDRpVk5BaFlFOUpzYnM0UGdQNldVcV91bldqT21KZkc0RzlzUkVJekd3MUFVYndlQl9TY0p3?oc=5",
+          "published_at": "2025-08-07T01:24:24+00:00",
+          "excerpt": "Search Engine Optimisation (SEO) Search Engine Land",
+          "fetched_at": "2026-08-31T10:59:35.174472+00:00"
+        },
+        {
           "title": "The SEO’s guide to Google Search Console",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93amk2MWFUWnUzSjJ4WjVnd3B0OWpZN2NfZ0x1dFpBSkE4aU1EQ0FoWkRFZGN1NktuOWxwS1BkSXk5ZzdNQmY4VW0xb3ptYi1jYjZsRmJnR2JER3ZSMmRneDNSTGZoc21rbzY4N3NfeUt0dm9TYlE?oc=5",
           "published_at": "2024-07-08T13:01:02+00:00",
@@ -7061,6 +7068,41 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Google’s Mueller Shares Their Experience With Markdown For AI SEO via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/",
+          "published_at": "2026-08-31T10:44:54+00:00",
+          "excerpt": "Google's John Mueller shares what happened when he checked whether AI crawlers were actually asking his sites for markdown. The post Google’s Mueller Shares Their Experience With Markdown For AI SEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-31T10:59:44.283863+00:00"
+        },
+        {
+          "title": "UCP Releases Spec Update With Schema Changes via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/ucp-releases-spec-update-with-schema-changes/587590/",
+          "published_at": "2026-08-31T10:00:27+00:00",
+          "excerpt": "The Universal Commerce Protocol's first spec release since April adds grocery readiness, lays groundwork for food and lodging, and brings schema changes. The post UCP Releases Spec Update With Schema Changes appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-31T10:59:44.283863+00:00"
+        },
+        {
+          "title": "Claude Searches Web Differently From Claude Code, Data Shows via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/",
+          "published_at": "2026-08-31T08:30:36+00:00",
+          "excerpt": "New data finds Claude and Claude Code search at different rates, mention different brands, and send their agents to different types of pages. The post Claude Searches Web Differently From Claude Code, Data Shows appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-31T10:59:44.283863+00:00"
+        },
+        {
+          "title": "Facebook Groups Are Google’s No. 2 Forum Source via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/facebook-groups-are-googles-no-2-forum-source/587545/",
+          "published_at": "2026-08-31T07:00:24+00:00",
+          "excerpt": "Ahrefs data shows public Facebook Group posts appear in 38% of Google's Discussions and forums results, passing Quora and trailing only Reddit. The post Facebook Groups Are Google’s No. 2 Forum Source appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-31T10:59:44.283863+00:00"
+        },
+        {
+          "title": "Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/anthropic-warns-hackers-are-stealing-claude-sessions-to-hijack-accounts/587566/",
+          "published_at": "2026-08-30T22:45:39+00:00",
+          "excerpt": "Anthropic warns that infostealer malware is stealing Claude login sessions to drain account usage. The post Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-31T10:59:44.283863+00:00"
+        },
         {
           "title": "Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/rank-math-wordpress-plugin-accused-of-secretly-taking-admin-access/587554/",
@@ -7167,31 +7209,10 @@
           "fetched_at": "2026-08-27T15:21:55.348458+00:00"
         },
         {
-          "title": "AI Tools Recommend Brands But Cite Other Sites, Data Shows via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/ai-tools-recommend-brands-but-cite-other-sites-data-shows/587160/",
-          "published_at": "2026-08-26T21:13:06+00:00",
-          "excerpt": "A report finds AI tools often recommend brands while citing other websites as the source. The post AI Tools Recommend Brands But Cite Other Sites, Data Shows appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-27T15:21:55.348458+00:00"
-        },
-        {
-          "title": "Why Running YouTube Ads Like Search Will Burn Your Budget",
-          "url": "https://www.searchenginejournal.com/why-running-youtube-ads-like-search-will-burn-your-budget/584794/",
-          "published_at": "2026-08-26T19:00:30+00:00",
-          "excerpt": "Before funding YouTube Ads, businesses must fix attribution, build skip-proof creative, budget for algorithmic calibration, and simplify offers to one clear promise. The post Why Running YouTube Ads Like Search Will Burn Your Budget appeared first on Search Engine Journal .",
-          "fetched_at": "2026-08-27T15:21:55.348458+00:00"
-        },
-        {
           "title": "AI Brand Preference Now Splits By Generation, Claude Leads Gen Z More Than 7-To-1 via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/ai-brand-preference-now-splits-by-generation-claude-leads-gen-z-more-than-7-to-1/586624/",
           "published_at": "2026-08-26T14:30:21+00:00",
           "excerpt": "Claude's Gen Z preference now outpaces Boomers nearly 8-to-1, and a chicken salad chain's rise shows why AI consideration scores never equal user trust. The post AI Brand Preference Now Splits By Generation, Claude Leads Gen Z More Than 7-To-1 appeared first on Search Engine Jou…",
-          "fetched_at": "2026-08-26T14:31:54.510677+00:00"
-        },
-        {
-          "title": "How To Advertise In Google AI Mode For Ecommerce via @sejournal, @tonyadam",
-          "url": "https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/",
-          "published_at": "2026-08-26T12:00:17+00:00",
-          "excerpt": "Google generates AI Mode ads directly from your product feed, not your ad copy. Here's which Merchant Center attributes decide whether your products get chosen. The post How To Advertise In Google AI Mode For Ecommerce appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-26T14:31:54.510677+00:00"
         },
         {
@@ -7200,6 +7221,27 @@
           "published_at": "2026-08-26T09:17:38+00:00",
           "excerpt": "Wix introduced Symphony, an easy and safe way for small to medium size local businesses to use AI agents. The post Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-26T14:31:54.510677+00:00"
+        },
+        {
+          "title": "How To Advertise In Google AI Mode For Ecommerce",
+          "url": "https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/",
+          "published_at": "2026-08-26T00:00:00+00:00",
+          "excerpt": "Google generates AI Mode ads directly from your product feed, not your ad copy. Here's which Merchant Center attributes decide whether your products get chosen. The post How To Advertise In Google AI Mode For Ecommerce appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-26T14:31:54.510677+00:00"
+        },
+        {
+          "title": "AI Tools Recommend Brands But Cite Other Sites, Data Shows",
+          "url": "https://www.searchenginejournal.com/ai-tools-recommend-brands-but-cite-other-sites-data-shows/587160/",
+          "published_at": "2026-08-26T00:00:00+00:00",
+          "excerpt": "A report finds AI tools often recommend brands while citing other websites as the source. The post AI Tools Recommend Brands But Cite Other Sites, Data Shows appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-27T15:21:55.348458+00:00"
+        },
+        {
+          "title": "Why Running YouTube Ads Like Search Will Burn Your Budget",
+          "url": "https://www.searchenginejournal.com/why-running-youtube-ads-like-search-will-burn-your-budget/584794/",
+          "published_at": "2026-08-26T00:00:00+00:00",
+          "excerpt": "Before funding YouTube Ads, businesses must fix attribution, build skip-proof creative, budget for algorithmic calibration, and simplify offers to one clear promise. The post Why Running YouTube Ads Like Search Will Burn Your Budget appeared first on Search Engine Journal .",
+          "fetched_at": "2026-08-27T15:21:55.348458+00:00"
         },
         {
           "title": ".Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster",
@@ -8790,6 +8832,55 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "How to use AI tools for competitor analysis in 2026",
+          "url": "https://www.semrush.com/blog/ai-tools-for-competitor-analysis/",
+          "published_at": "2026-08-31T09:42:00+00:00",
+          "excerpt": "ChatGPT alone won‘t cut it. See how to use AI tools for competitor analysis the right way, with Semrush MCP and a step-by-step workflow.",
+          "fetched_at": "2026-08-31T10:59:50.976609+00:00"
+        },
+        {
+          "title": "18 SEO KPIs to measure organic & AI search performance",
+          "url": "https://www.semrush.com/blog/seo-kpis/",
+          "published_at": "2026-08-31T09:23:00+00:00",
+          "excerpt": "Relevant SEO KPIs to track include AI visibility, keyword rankings, organic traffic, and brand mentions.",
+          "fetched_at": "2026-08-31T10:59:50.976609+00:00"
+        },
+        {
+          "title": "Enterprise SEO: What it is & how to build a winning strategy",
+          "url": "https://www.semrush.com/blog/enterprise-seo/",
+          "published_at": "2026-08-31T09:09:00+00:00",
+          "excerpt": "Enterprise SEO involves optimizing a website’s visibility at scale, using templated and automated approaches.",
+          "fetched_at": "2026-08-31T10:59:50.976609+00:00"
+        },
+        {
+          "title": "How to rank in ChatGPT search: 8 steps to improve visibility",
+          "url": "https://www.semrush.com/blog/chatgpt-search/",
+          "published_at": "2026-08-31T08:45:00+00:00",
+          "excerpt": "Rank in ChatGPT search by making your content easy for AI systems to extract and by building off-site consensus.",
+          "fetched_at": "2026-08-31T10:59:50.976609+00:00"
+        },
+        {
+          "title": "Why is SEO important? 11 reasons it still matters.",
+          "url": "https://www.semrush.com/blog/importance-of-seo/",
+          "published_at": "2026-08-31T08:21:00+00:00",
+          "excerpt": "SEO improves your online visibility + complements answer engine optimization. Here’s why it matters in 2026.",
+          "fetched_at": "2026-08-31T10:59:50.976609+00:00"
+        },
+        {
+          "title": "8 Best AI Content Marketing Tools for 2026 (Tried & Tested)",
+          "url": "https://www.semrush.com/blog/best-ai-content-marketing-tools/",
+          "published_at": "2026-08-31T07:41:00+00:00",
+          "excerpt": "The best AI content marketing tools include Semrush‘s AI Visibility Toolkit and ChatGPT.",
+          "fetched_at": "2026-08-31T10:59:50.976609+00:00"
+        },
+        {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-08-31T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "How to track AI Overviews with Semrush",
           "url": "https://www.semrush.com/blog/semrush-ai-overview-research/",
           "published_at": "2026-08-28T12:40:00+00:00",
@@ -8811,18 +8902,18 @@
           "fetched_at": "2026-08-27T15:22:01.051166+00:00"
         },
         {
+          "title": "Cecilia Meis",
+          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
+          "published_at": "2026-08-26T00:00:00+00:00",
+          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "Google Search Console: the ultimate guide for 2026",
           "url": "https://www.semrush.com/blog/google-search-console/",
           "published_at": "2026-08-20T12:57:00+00:00",
           "excerpt": "Learn how to properly set up GSC + use it to spot site issues and areas for improvement.",
           "fetched_at": "2026-08-20T14:21:49.206486+00:00"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-08-20T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "The ultimate guide to creating a content marketing strategy",
@@ -8837,13 +8928,6 @@
           "published_at": "2026-08-19T08:22:00+00:00",
           "excerpt": "Microsoft Clarity‘s AI Scrape-to-Referral Ratio compares what AI crawlers take from your site with what they send back.",
           "fetched_at": "2026-08-19T14:18:14.635691+00:00"
-        },
-        {
-          "title": "Cecilia Meis",
-          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
-          "published_at": "2026-08-19T00:00:00+00:00",
-          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "SEO content: A complete guide for search and AI",
@@ -8925,28 +9009,28 @@
         {
           "title": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
           "url": "https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/",
-          "published_at": "2026-08-10T09:52:00+00:00",
+          "published_at": "2026-08-10T00:00:00+00:00",
           "excerpt": "Google traffic is slowly declining. Learn how to future-proof your business in the AI era.",
           "fetched_at": "2026-08-10T15:40:33.604309+00:00"
         },
         {
           "title": "What is organic traffic? (And how to increase it)",
           "url": "https://www.semrush.com/blog/organic-traffic/",
-          "published_at": "2026-08-10T08:58:00+00:00",
+          "published_at": "2026-08-10T00:00:00+00:00",
           "excerpt": "Organic traffic is the visitors who land on your site through unpaid search results. Increase yours in 5 steps.",
           "fetched_at": "2026-08-10T15:40:33.604309+00:00"
         },
         {
           "title": "Local SEO keyword research: A step-by-step guide",
           "url": "https://www.semrush.com/blog/local-keyword-research/",
-          "published_at": "2026-08-10T08:41:00+00:00",
+          "published_at": "2026-08-10T00:00:00+00:00",
           "excerpt": "Local SEO keyword research in six steps: find the terms customers use, validate intent, and improve visibility on Google Search, Maps, and AI answers.",
           "fetched_at": "2026-08-10T15:40:33.604309+00:00"
         },
         {
           "title": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
           "url": "https://www.semrush.com/blog/chatgpt-topical-focus-study/",
-          "published_at": "2026-08-03T13:00:00+00:00",
+          "published_at": "2026-08-03T00:00:00+00:00",
           "excerpt": "Can authority in one ChatGPT topic help you win another? Our study shows where topical authority carries over — and where it stops.",
           "fetched_at": "2026-08-05T13:08:05.400393+05:30"
         },
@@ -8960,14 +9044,14 @@
         {
           "title": "7 best AI visibility tracking tools for agencies by need",
           "url": "https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/",
-          "published_at": "2026-07-31T15:04:00+00:00",
+          "published_at": "2026-07-31T00:00:00+00:00",
           "excerpt": "The best AI visibility tracking tools for agencies include Semrush, OtterlyAI, and Peec AI. Here’s why.",
           "fetched_at": "2026-08-03T15:53:30.575992+05:30"
         },
         {
           "title": "Digital PR for AI visibility: 5 tactics + how to measure",
           "url": "https://www.semrush.com/blog/digital-pr-for-ai-visibility/",
-          "published_at": "2026-07-30T10:42:00+00:00",
+          "published_at": "2026-07-30T00:00:00+00:00",
           "excerpt": "Having a site isn‘t enough to get AI to talk about you. Use these 5 digital PR tactics to grow AI visibility.",
           "fetched_at": "2026-08-03T15:53:30.575992+05:30"
         },
@@ -9614,6 +9698,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "20 Best HockeyStack Alternatives & Competitors in 2026",
+          "url": "https://www.factors.ai/blog/hockeystack-alternatives",
+          "published_at": "2026-08-31T00:00:00+00:00",
+          "excerpt": "Compare HockeyStack alternatives, including Dreamdata, Factors.ai, CaliberMind, Ruler Analytics, etc, by pricing, features, ratings, pros, and cons.",
+          "fetched_at": "2026-08-31T10:59:52.905534+00:00"
+        },
         {
           "title": "15 Best B2B demand gen agencies(and how to pick the right one)",
           "url": "https://www.factors.ai/blog/b2b-demand-generation-agencies",
