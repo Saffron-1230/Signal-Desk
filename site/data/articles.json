@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T09:30:54.370644+00:00",
+  "last_updated": "2026-09-01T16:47:02.523921+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,6 +4296,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google AdSense to change how it counts impressions: Begin-to-Render",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGhNZjVyblVwQlZmSy13ZVFZdzVQdWpJQUVJTF9pNTNxdklweFYtM3QyM2lOamdEajlOQ2VkVFpDZ3hHTW41WlJQWEVDeDJ0U09xREVpOEQ1eVN5OWN6NmVxSkw4bjBPaUVLbzliTDdOV2VWV0J0R3FIY3oyQ01BTjQ4dmM2TFVFcENESVdtNUhhN2tZNkVYVnZoQW1qZkhsOWRCVg?oc=5",
+          "published_at": "2026-09-01T15:34:00+00:00",
+          "excerpt": "Google AdSense to change how it counts impressions: Begin-to-Render Search Engine Land",
+          "fetched_at": "2026-09-01T16:46:39.958328+00:00"
+        },
+        {
+          "title": "10 technical SEO audit mistakes that lead to bad recommendations",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lNV8xZWNYVlVZdFQ2dms2QVliUXhya2lSTUFzaEZSRlRydENIRFhONlR3MHNFWjFCZjIwZURKSF9TUjJGMXFBaTF1bHo4eW1WemJQSThybmZOZ25kSHEyVUt6dDBlWWxFb3RqbVBwRmplUQ?oc=5",
+          "published_at": "2026-09-01T14:00:00+00:00",
+          "excerpt": "10 technical SEO audit mistakes that lead to bad recommendations Search Engine Land",
+          "fetched_at": "2026-09-01T16:46:39.958328+00:00"
+        },
+        {
+          "title": "Google vs. Microsoft AI Max: What’s the same and what’s different",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMlNBVzVVNWNmU2N4X1VLaEVRenBrM243ek5zY2gyNE56UlJ5aTFjU1FIV09YX05CSGI0QU5tdEpiTzNHQUtOV0Nub0x4MnpodGc1bnZkUVhCZ2tpak5oVWE2Z0Q5bWpfR0FMZlZndw?oc=5",
+          "published_at": "2026-09-01T13:00:00+00:00",
+          "excerpt": "Google vs. Microsoft AI Max: What’s the same and what’s different Search Engine Land",
+          "fetched_at": "2026-09-01T16:46:39.958328+00:00"
+        },
+        {
+          "title": "Anthropic AI watermarking: What it means for content and SEO",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JaFBmaFk1ZUYtb21VbFRyU1Y4Q3pFOHkyXzQ1NERvMjVXZ05hcS1qcXFWem1vUUpxcEtvWko2VHV5MC1hLWJrUmE4RFJvZnZLTVRxMGxOeHgxbENMQURFMXZIS19EeFBiN0JWRTdPUGNDbXMyd3RhNVN6cEdIZw?oc=5",
+          "published_at": "2026-09-01T12:00:00+00:00",
+          "excerpt": "Anthropic AI watermarking: What it means for content and SEO Search Engine Land",
+          "fetched_at": "2026-09-01T16:46:39.958328+00:00"
+        },
+        {
           "title": "Calls and clicks keep falling as Google Maps becomes the destination",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc3JEX3hGNDJaSGg2b1luX3BmRUFpa19VUVpILUFROG1kUTQ4LWlaYlR4d3pDY0JQY2xiem4wLTRqdU9vOVFmMTZ0TWNKRUJHN0ZoMGcyRkRFVG1Cbm8yNGhFWFEyTmJyekJBNnMtLVRxdXJ5QUVTei15SXJTRC1iMnhxaERvWDg?oc=5",
           "published_at": "2026-08-31T16:00:00+00:00",
@@ -4653,13 +4681,6 @@
           "fetched_at": "2026-08-25T05:58:02.278110+00:00"
         },
         {
-          "title": "Google unifies Google tag and Tag Manager, adds no-code event tracking",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaEJKc3V5M0I5X284RHlkd2dvMFVVUTFhTjFIRjhtd1FUV1VsOUlDRGZ5bEk0eEpTSVJ0T0ZCTm1VTEtFanc5QkdHQnkyUmlVdXNSZmFMOVRCRVhIT2VjYjVRbUVxaDZGWGFIdjlZejRTTWVvT2hockZBNGZnYThZemRUdGdLNUZBeEdJam9zeFFCYzhmU1FWT29WV1dRUF9lRWE0XzNEVGk?oc=5",
-          "published_at": "2026-08-24T14:15:00+00:00",
-          "excerpt": "Google unifies Google tag and Tag Manager, adds no-code event tracking Search Engine Land",
-          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
-        },
-        {
           "title": "AI search is here, but marketers still call it SEO",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96anFNeXlnQVVlLXpRSzJmSHlyTlh0T2NoTmpmNTVoa2FFSjQwb05IUTZBRGR6UUpQNUM3MGkxVFM2Y0xyM2NYdm9QaUl3TDJBcUYwMUd3eHRxVFlLT0p2VWZiQ3JzZlNWZWp0c3FlWVZ5RzZZa2c?oc=5",
           "published_at": "2026-08-24T14:00:00+00:00",
@@ -4706,6 +4727,13 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyQ2NVRG9EcHA5RzhtMzRLd01tY2NqOXpIdjZSOTJjbF8tMXFRWlEtbzZ3ZENVcEpPdE16Z3AwQ292TVhseklNR0JwUlVEUGdrekZfMy10MktVa2ttYmJSdm85dTNtc0FBS0UxcWRqZ201S1I2?oc=5",
           "published_at": "2026-08-24T11:00:00+00:00",
           "excerpt": "Identity and access management Archives Search Engine Land",
+          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
+        },
+        {
+          "title": "Google unifies Google tag and Tag Manager, adds no-code event tracking",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaEJKc3V5M0I5X284RHlkd2dvMFVVUTFhTjFIRjhtd1FUV1VsOUlDRGZ5bEk0eEpTSVJ0T0ZCTm1VTEtFanc5QkdHQnkyUmlVdXNSZmFMOVRCRVhIT2VjYjVRbUVxaDZGWGFIdjlZejRTTWVvT2hockZBNGZnYThZemRUdGdLNUZBeEdJam9zeFFCYzhmU1FWT29WV1dRUF9lRWE0XzNEVGk?oc=5",
+          "published_at": "2026-08-24T07:00:00+00:00",
+          "excerpt": "Google unifies Google tag and Tag Manager, adds no-code event tracking Search Engine Land",
           "fetched_at": "2026-08-25T05:58:02.278110+00:00"
         },
         {
@@ -4891,13 +4919,6 @@
           "fetched_at": "2026-08-20T14:21:32.060296+00:00"
         },
         {
-          "title": "Business websites dominate Gemini local AI search citations: Study",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUgwdTJ1UHZQZXU5UDM1dVZwQjhqcHBkVlNhTHFFeDFrN0puakhIY0dZQkZhMDNJcVVXbjZQb3J3eVBqVFhjVmlIS2dxTjJHUDJEa05Fb1pvaE9kZUJRMFhudExLOGgtcXRLb3hQZ09JUXRWZ1dRajJfbU5sZTQ5S25vaWJQQm1aS2VLS01fNkxnRXY0WjJv?oc=5",
-          "published_at": "2026-08-19T18:43:00+00:00",
-          "excerpt": "Business websites dominate Gemini local AI search citations: Study Search Engine Land",
-          "fetched_at": "2026-08-20T05:56:03.249732+00:00"
-        },
-        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yQjJwS2JkQlNDSGZhUWpzeC1pbUVrZ1lhQ1luaGtXelFMQkZJSURQaWw1aUNYdHE4eTZwNXRUcXhSeGxzLVhzTGVZcFZLd2FyOTBRSGFFZEZVRllvSWlCSkJQZUpDdjJfQVFZSWZxRDdXZ2JaeFpZSg?oc=5",
           "published_at": "2026-08-19T14:55:05+00:00",
@@ -4944,6 +4965,13 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS25weVNubmsxUk5vUkJyTGw4S290U2I3LXlfdE1xZ1hKckpNWnltSHZGU3VoMDMtdzd6VVRLczlTdnM3NkNQWmxIYnpSOW9HamRsN3BaZHpzaWNMNzJPNUxqb2lxb1ktVlZNZVdaamY4Rm5sSVJZbFBxZmFmZG1oSTU4VUN6dWxuYi1zbDFEN2VIUFU?oc=5",
           "published_at": "2026-08-19T07:00:00+00:00",
           "excerpt": "Google Ads tests Enhanced Matching for Customer Match Search Engine Land",
+          "fetched_at": "2026-08-20T05:56:03.249732+00:00"
+        },
+        {
+          "title": "Business websites dominate Gemini local AI search citations: Study",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUgwdTJ1UHZQZXU5UDM1dVZwQjhqcHBkVlNhTHFFeDFrN0puakhIY0dZQkZhMDNJcVVXbjZQb3J3eVBqVFhjVmlIS2dxTjJHUDJEa05Fb1pvaE9kZUJRMFhudExLOGgtcXRLb3hQZ09JUXRWZ1dRajJfbU5sZTQ5S25vaWJQQm1aS2VLS01fNkxnRXY0WjJv?oc=5",
+          "published_at": "2026-08-19T07:00:00+00:00",
+          "excerpt": "Business websites dominate Gemini local AI search citations: Study Search Engine Land",
           "fetched_at": "2026-08-20T05:56:03.249732+00:00"
         },
         {
@@ -7131,6 +7159,20 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "WordPress Announces A Proactive Security Initiative via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/wordpress-announces-a-proactive-security-initiative/587942/",
+          "published_at": "2026-09-01T12:10:20+00:00",
+          "excerpt": "WordPress announced an initiative to scale security as AI makes it easier for criminal to find and exploit vulnerabilities. The post WordPress Announces A Proactive Security Initiative appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-01T16:46:50.748434+00:00"
+        },
+        {
+          "title": "Schema For AI Citations: How To Become A Trusted Source via @sejournal, @lorenbaker",
+          "url": "https://www.searchenginejournal.com/schema-ai-citations-trusted-source/586785/",
+          "published_at": "2026-09-01T12:00:02+00:00",
+          "excerpt": "Schema is not a magic ranking switch. Loren Baker explains how consistent structured data strengthens entity trust across local, ecommerce, and author-driven content. The post Schema For AI Citations: How To Become A Trusted Source appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-01T16:46:50.748434+00:00"
+        },
         {
           "title": "How We Earned 1,000+ Links For GEO/SEO via @sejournal, @hethr_campbell",
           "url": "https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/",
@@ -10839,6 +10881,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+          "published_at": "2026-09-01T16:00:00+00:00",
+          "excerpt": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
+          "fetched_at": "2026-09-01T16:47:02.521142+00:00"
+        },
         {
           "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/",
