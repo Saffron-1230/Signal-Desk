@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T08:56:06.786663+00:00",
+  "last_updated": "2026-09-04T16:30:19.750225+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,6 +4296,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "SEO budgets: Where to invest for maximum impact as search evolves",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOTFsWUtXaHpRVkl4U1dhSGdRSDZWc1czNmR0d2lDNHNfdFRkMGpzd2NPdXVtZlBRcWR5R0hLS0I2WEZ0YUtLY0gxUVRhcmJfMDZwa3ZEWkVvdw?oc=5",
+          "published_at": "2026-09-03T18:06:00+00:00",
+          "excerpt": "SEO budgets: Where to invest for maximum impact as search evolves Search Engine Land",
+          "fetched_at": "2026-09-04T16:29:57.579187+00:00"
+        },
+        {
           "title": "SMX Now: Find the entity gaps holding back your content strategy",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aWktGS2J2eWN0ZnN1bXk0SF90dWdlbzVyRlZRUkxSVkxkMnFWeFlUTHhmaWp1bENTU0dTWDdIYi1WYjdnTU1qY0NpY2FYRHhjLWZIU09jT2hpVDB3T0xFSmZ4OUdQc3gwUnd1dHIxRW9lSHRlN0lFclRwdGs?oc=5",
           "published_at": "2026-09-03T17:01:00+00:00",
@@ -4324,13 +4331,6 @@
           "fetched_at": "2026-09-04T08:55:43.309082+00:00"
         },
         {
-          "title": "Evolving SEO for 2027: What still needs to change",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYlFiWlBLX2VkTWVXUWp5QnQzMU5BSmh4dlRTY0RlZEZoWHY0UmtYS2Q5VDc4OVN0TWdvTEN3MXlFR0hHbDhmNUxIdVJyMWRrdzNTSmFJc0s3bjFHUkpyTUpWdUs4SHp5a2RFWHVqX1FZbnJObmtTUw?oc=5",
-          "published_at": "2026-09-03T06:59:59+00:00",
-          "excerpt": "Evolving SEO for 2027: What still needs to change Search Engine Land",
-          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
-        },
-        {
           "title": "From content creation to content orchestration: How agentic AI changes the role of content strategists",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2tkR3V1Sk5pSG5qNFdOc0tKblNfTEhJZVo2R21JOG9NamZEakUzZnJaMjdnZGlVc1VkSFBTWFJKN1FjX29sM2RhNGxOQ0c3dF9rZ2JmQVhQeTcyUzdZNlZab25xWDdlVnR2U09Nc2pSVjRJUi1sM1JsanJlOTVaUzVkZ3pKMkN6dmlyQmU5RThqOGxjSWZfMVE0QVA3ZHc?oc=5",
           "published_at": "2026-09-02T20:44:00+00:00",
@@ -4356,6 +4356,13 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORElINno3WGhJSExLSzgtdUZmT3M4RmJRc05pQ2NselpIUl9zTnRDcDlZYWFUN2lNQ0l5enNlQkpTMXNhb25WdE14aXc2TDlmVjlQTWVOTjZuaUZjZUVuSW00VzlmdFdQdXc4SXE4TVNEUHZCLVh1SmFBaWkyNTZPbHBKaWkycE8xR3JV?oc=5",
           "published_at": "2026-09-02T15:23:00+00:00",
           "excerpt": "Lily Ray on why shortcuts rarely win in SEO or AI search Search Engine Land",
+          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
+        },
+        {
+          "title": "Evolving SEO for 2027: What still needs to change",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYlFiWlBLX2VkTWVXUWp5QnQzMU5BSmh4dlRTY0RlZEZoWHY0UmtYS2Q5VDc4OVN0TWdvTEN3MXlFR0hHbDhmNUxIdVJyMWRrdzNTSmFJc0s3bjFHUkpyTUpWdUs4SHp5a2RFWHVqX1FZbnJObmtTUw?oc=5",
+          "published_at": "2026-09-02T15:10:32+00:00",
+          "excerpt": "Evolving SEO for 2027: What still needs to change Search Engine Land",
           "fetched_at": "2026-09-03T09:02:15.336548+00:00"
         },
         {
@@ -4583,25 +4590,11 @@
           "fetched_at": "2026-08-28T16:45:35.782615+00:00"
         },
         {
-          "title": "Google’s August 2026 spam update hit rankings harder than normal",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWW1LYUN4WHNldDJISWdvUFZ6bUhlMTZINVJ1dVBqaVZYQ2ZCRmkxU0pnNDgxZENnQTNUTEs1UnhtaURvVWE2SnZHeHlCcVZCMjRiQl9qQTNZSnRzNWl4V25DaW1rTUQxbGlXLUZjakJzR3IyeVppT1U4MEpWT2ZUcmtJXzJRQXpT?oc=5",
-          "published_at": "2026-08-27T15:21:00+00:00",
-          "excerpt": "Google’s August 2026 spam update hit rankings harder than normal Search Engine Land",
-          "fetched_at": "2026-08-27T19:13:31.787463+00:00"
-        },
-        {
           "title": "Moving from Google Display to Demand Gen: What you’ll lose and gain",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PS1pGVlIzY1RnVVhXM3c3cUlyRkVfTC00YnRHMTFaWEZVUmRpY3VGemwzX0wyZGF1SWVCb0VLN3ctemRoWUNZeHRWVG51cHVFTUhrR1FLMWJuekw4Zml0emgxMHh4eEJUU2ZOV2pCaW14d2hVaUt3?oc=5",
           "published_at": "2026-08-27T15:00:00+00:00",
           "excerpt": "Moving from Google Display to Demand Gen: What you’ll lose and gain Search Engine Land",
           "fetched_at": "2026-08-28T16:45:35.782615+00:00"
-        },
-        {
-          "title": "Reddit is the keyword research tool you’re probably not using",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZa25wWGhCWDZrazBhc2w3S3ZHVEZ6VHlKTGRubzJoZmptS1NPRW5abkpGV2x0WWlOMDZlallKYktzNzBpZnlyQ2l2NDVJVkM4ZWlZanRZRXlKSnpfZ1QwYW40UFJ3TXhHRWpLOXZfWEdGUQ?oc=5",
-          "published_at": "2026-08-27T14:00:00+00:00",
-          "excerpt": "Reddit is the keyword research tool you’re probably not using Search Engine Land",
-          "fetched_at": "2026-08-27T19:13:31.787463+00:00"
         },
         {
           "title": "Your images have a new job in AI search",
@@ -4615,6 +4608,20 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQjhWakFpUzJ2ZGoxMUFqZk9BQXU4Y3BhTm84NXhiVjFUZk1Bc0tpNkp1ZXRGc2ZNUFcxMlg1WnFkZWR3azJuRXNDeDBVQmlKX09ScVRSR0FLaVVtblVtdHNoN0VOb1dVUUVkakk2VQ?oc=5",
           "published_at": "2026-08-27T12:00:00+00:00",
           "excerpt": "If an AI watermark scares you, your content may be the real issue Search Engine Land",
+          "fetched_at": "2026-08-27T19:13:31.787463+00:00"
+        },
+        {
+          "title": "Google’s August 2026 spam update hit rankings harder than normal",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWW1LYUN4WHNldDJISWdvUFZ6bUhlMTZINVJ1dVBqaVZYQ2ZCRmkxU0pnNDgxZENnQTNUTEs1UnhtaURvVWE2SnZHeHlCcVZCMjRiQl9qQTNZSnRzNWl4V25DaW1rTUQxbGlXLUZjakJzR3IyeVppT1U4MEpWT2ZUcmtJXzJRQXpT?oc=5",
+          "published_at": "2026-08-27T07:00:00+00:00",
+          "excerpt": "Google’s August 2026 spam update hit rankings harder than normal Search Engine Land",
+          "fetched_at": "2026-08-27T19:13:31.787463+00:00"
+        },
+        {
+          "title": "Reddit is the keyword research tool you’re probably not using",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZa25wWGhCWDZrazBhc2w3S3ZHVEZ6VHlKTGRubzJoZmptS1NPRW5abkpGV2x0WWlOMDZlallKYktzNzBpZnlyQ2l2NDVJVkM4ZWlZanRZRXlKSnpfZ1QwYW40UFJ3TXhHRWpLOXZfWEdGUQ?oc=5",
+          "published_at": "2026-08-27T07:00:00+00:00",
+          "excerpt": "Reddit is the keyword research tool you’re probably not using Search Engine Land",
           "fetched_at": "2026-08-27T19:13:31.787463+00:00"
         },
         {
@@ -7321,6 +7328,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/",
+          "published_at": "2026-09-04T14:30:02+00:00",
+          "excerpt": "Getting surfaced in ChatGPT is the easy half. Three checks every retailer should run before connecting a fourth agentic commerce protocol. The post Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-04T16:30:08.739771+00:00"
+        },
+        {
+          "title": "How To Measure Your Brand’s Visibility In AI Answers (And Fix What You Find)",
+          "url": "https://www.searchenginejournal.com/measure-brand-ai-visibility-hubspot-spa/588040/",
+          "published_at": "2026-09-04T13:57:33+00:00",
+          "excerpt": "Explore how to improve your brand's visibility in AI search results and understand ranking discrepancies with traditional methods. The post How To Measure Your Brand’s Visibility In AI Answers (And Fix What You Find) appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-04T16:30:08.739771+00:00"
+        },
+        {
+          "title": "People Aren’t Leaving Google For AI. They’re Using Both via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-chatgpt-audience-search-queries-clicks/588200/",
+          "published_at": "2026-09-04T12:00:01+00:00",
+          "excerpt": "Research shows how people can keep using Google while making fewer traditional searches and clicking through to fewer websites. The post People Aren’t Leaving Google For AI. They’re Using Both appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-04T16:30:08.739771+00:00"
+        },
+        {
           "title": "Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/googles-new-weather-ai-in-search-continues-shift-away-from-10-blue-links/588392/",
           "published_at": "2026-09-03T21:00:25+00:00",
@@ -7440,7 +7468,7 @@
           "fetched_at": "2026-09-02T08:52:57.161344+00:00"
         },
         {
-          "title": "WordPress Announces A Proactive Security Initiative via @sejournal, @martinibuster",
+          "title": "WordPress Announces A Proactive Security Initiative",
           "url": "https://www.searchenginejournal.com/wordpress-announces-a-proactive-security-initiative/587942/",
           "published_at": "2026-09-01T12:10:20+00:00",
           "excerpt": "WordPress announced an initiative to scale security as AI makes it easier for criminal to find and exploit vulnerabilities. The post WordPress Announces A Proactive Security Initiative appeared first on Search Engine Journal .",
@@ -10464,6 +10492,13 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "Google’s Latest Study Reveals How LLMs Recall Facts (+ What Marketers Can Do About It)",
+          "url": "https://www.webfx.com/blog/ai/how-llms-recall-facts/",
+          "published_at": "2026-09-04T03:51:03+00:00",
+          "excerpt": "The post Google’s Latest Study Reveals How LLMs Recall Facts (+ What Marketers Can Do About It) appeared first on WebFX .",
+          "fetched_at": "2026-09-04T16:30:15.431566+00:00"
+        },
+        {
           "title": "Apple Maps Ads Are Live: Here’s Where They Appear and How They Work",
           "url": "https://www.webfx.com/blog/ppc/apple-maps-ads/",
           "published_at": "2026-08-31T18:36:31+00:00",
@@ -10926,6 +10961,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Driving Developer Excellence: Inside the Program Sprints",
+          "url": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
+          "published_at": "2026-09-04T00:00:00+00:00",
+          "excerpt": "The Gemini Enterprise Developer Experience (DevEx) program conducts ongoing sprint testing of end-to-end developer workflows to identify and rapidly resolve friction points without relying on internal shortcuts. This recent sprint focused on optimizing enterprise AI governance,…",
+          "fetched_at": "2026-09-04T16:30:18.917393+00:00"
+        },
+        {
           "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
           "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
           "published_at": "2026-09-02T00:00:00+00:00",
@@ -11203,6 +11245,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
+          "published_at": "2026-09-04T16:00:00+00:00",
+          "excerpt": "Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar…",
+          "fetched_at": "2026-09-04T16:30:19.746167+00:00"
+        },
+        {
+          "title": "Google Translate rolls out new upgrades for iOS and Android.",
+          "url": "https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/",
+          "published_at": "2026-09-04T16:00:00+00:00",
+          "excerpt": "We’re bringing listening mode to iOS, and on Android, keep live translations running while you’re using other apps or when your screen is locked.",
+          "fetched_at": "2026-09-04T16:30:19.746167+00:00"
+        },
         {
           "title": "Start the year AI-ready with the Google AI Educator Series",
           "url": "https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/",
