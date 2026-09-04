@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T16:34:21.434185+00:00",
+  "last_updated": "2026-09-04T08:56:06.786663+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,11 +4296,39 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "SMX Now: Find the entity gaps holding back your content strategy",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aWktGS2J2eWN0ZnN1bXk0SF90dWdlbzVyRlZRUkxSVkxkMnFWeFlUTHhmaWp1bENTU0dTWDdIYi1WYjdnTU1qY0NpY2FYRHhjLWZIU09jT2hpVDB3T0xFSmZ4OUdQc3gwUnd1dHIxRW9lSHRlN0lFclRwdGs?oc=5",
+          "published_at": "2026-09-03T17:01:00+00:00",
+          "excerpt": "SMX Now: Find the entity gaps holding back your content strategy Search Engine Land",
+          "fetched_at": "2026-09-04T08:55:43.309082+00:00"
+        },
+        {
+          "title": "Social network usage & growth statistics (2026)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMdlpHQjhmVWFaeG0xVGRQRW1NV0pYYmItc0J5VjJXZm9rcVlrMVBZdU1MeUZ0Y196dG5GTndsaHJITzVRN2NSQkRtMUVpNS02VlFCNHk0N3BGN1hmR0lKMHRFYw?oc=5",
+          "published_at": "2026-09-03T16:57:00+00:00",
+          "excerpt": "Social network usage & growth statistics (2026) Search Engine Land",
+          "fetched_at": "2026-09-04T08:55:43.309082+00:00"
+        },
+        {
           "title": "The SEO warning signs before organic traffic falls",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOWtJS3JiSVVCb0pRSm1hNFJZUjVQS09BaDJ6dkdtUTVZTW5QNkJIS1hrTlFrSFI2V0RldmJ2eXZWYWRmY2RDSjJ3QXJORENTTC1HaTN3Q2pERVBGZlJaTWUyWHItMmUxWk83TW9mMzkxZ2ZrSC1FMWNPV09lZXJQZGxveWVqdC1Ia3c?oc=5",
           "published_at": "2026-09-03T15:00:00+00:00",
           "excerpt": "The SEO warning signs before organic traffic falls Search Engine Land",
           "fetched_at": "2026-09-03T16:33:59.456858+00:00"
+        },
+        {
+          "title": "What your Google Ads hour-of-day report doesn’t tell you",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbzFKWU5fbm1oSlZhalhKcm1WUUstSW1nU3RMU0NqbHNvLVAxVkYzbURIQXU3QzRuVXljOWFxZWdvYkpJMUY2QUZuSjBEQ1VkQ1Y3TThXSmhkS1FkZDBtN2ZKUHlEcEpDdG55elNfSkYzeS1HWTZySzNuX29zTzFRTktyX3FYTGEyblJPMFoxWQ?oc=5",
+          "published_at": "2026-09-03T13:00:00+00:00",
+          "excerpt": "What your Google Ads hour-of-day report doesn’t tell you Search Engine Land",
+          "fetched_at": "2026-09-04T08:55:43.309082+00:00"
+        },
+        {
+          "title": "Evolving SEO for 2027: What still needs to change",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYlFiWlBLX2VkTWVXUWp5QnQzMU5BSmh4dlRTY0RlZEZoWHY0UmtYS2Q5VDc4OVN0TWdvTEN3MXlFR0hHbDhmNUxIdVJyMWRrdzNTSmFJc0s3bjFHUkpyTUpWdUs4SHp5a2RFWHVqX1FZbnJObmtTUw?oc=5",
+          "published_at": "2026-09-03T06:59:59+00:00",
+          "excerpt": "Evolving SEO for 2027: What still needs to change Search Engine Land",
+          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
         },
         {
           "title": "From content creation to content orchestration: How agentic AI changes the role of content strategists",
@@ -4328,13 +4356,6 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORElINno3WGhJSExLSzgtdUZmT3M4RmJRc05pQ2NselpIUl9zTnRDcDlZYWFUN2lNQ0l5enNlQkpTMXNhb25WdE14aXc2TDlmVjlQTWVOTjZuaUZjZUVuSW00VzlmdFdQdXc4SXE4TVNEUHZCLVh1SmFBaWkyNTZPbHBKaWkycE8xR3JV?oc=5",
           "published_at": "2026-09-02T15:23:00+00:00",
           "excerpt": "Lily Ray on why shortcuts rarely win in SEO or AI search Search Engine Land",
-          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
-        },
-        {
-          "title": "Evolving SEO for 2027: What still needs to change",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYlFiWlBLX2VkTWVXUWp5QnQzMU5BSmh4dlRTY0RlZEZoWHY0UmtYS2Q5VDc4OVN0TWdvTEN3MXlFR0hHbDhmNUxIdVJyMWRrdzNTSmFJc0s3bjFHUkpyTUpWdUs4SHp5a2RFWHVqX1FZbnJObmtTUw?oc=5",
-          "published_at": "2026-09-02T15:10:32+00:00",
-          "excerpt": "Evolving SEO for 2027: What still needs to change Search Engine Land",
           "fetched_at": "2026-09-03T09:02:15.336548+00:00"
         },
         {
@@ -5409,13 +5430,6 @@
           "fetched_at": "2026-08-14T15:13:04.205163+00:00"
         },
         {
-          "title": "Google adds Local customer optimization to Performance Max",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDZLSWJ5Q1l6M3FQM002R1c4T2JvVWh0LWE1VG9wZHhXaGhMdU16SURmZEZJcXY1QVd2ZGVoRVZOVXFoSUJwWE1JQUpHUmRqVEhsc1NxMVFNNnhpWGRKNl9oZUZ3MnpOeGRPUTgzZHFhRDRhYzJqbGlPNDk0cEtLRzdiSDRKTExmS2t5OWNRbjBwa3NRRFoxN1JR?oc=5",
-          "published_at": "2026-08-12T16:48:00+00:00",
-          "excerpt": "Google adds Local customer optimization to Performance Max searchengineland.com",
-          "fetched_at": "2026-08-13T08:54:21.786273+00:00"
-        },
-        {
           "title": "Google updates YouTube and Discover Feed ad requirements",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajVFTC1fRkJNM2FhOHNkRVR3Q3BuQkhXaERpdkhOT181RFh5ZDNqbmFweVFaSENRRk5udkktR0M4dDZYZXVlQTM2UW1QbTZNSmwzVXFaMHBnV0FjRlpaX2ZHaHh4UnVQNHJzWHU5Q3VpY0lwZEYyZGcxbUlDc1ljaGdVM3NMYW9BWUoxck5yd1Z6cW1PWU9R?oc=5",
           "published_at": "2026-08-12T15:54:00+00:00",
@@ -5462,6 +5476,13 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzUml3Y01rdmJGbU5VNWJSR2tfVTAwVmQxUVd0dktWdHZnMVlXVFlVeG5IVi1pdUZhUjFtQ3ZlXzhHR2g4MjY2dW0wc0ZkMlNYTTAybURqYm1HUUJZelUtT3dzdDIxZ2kyaV9BdUVZRQ?oc=5",
           "published_at": "2026-08-12T07:00:00+00:00",
           "excerpt": "The new search journey changes how SEO and PPC should work searchengineland.com",
+          "fetched_at": "2026-08-13T08:54:21.786273+00:00"
+        },
+        {
+          "title": "Google adds Local customer optimization to Performance Max",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDZLSWJ5Q1l6M3FQM002R1c4T2JvVWh0LWE1VG9wZHhXaGhMdU16SURmZEZJcXY1QVd2ZGVoRVZOVXFoSUJwWE1JQUpHUmRqVEhsc1NxMVFNNnhpWGRKNl9oZUZ3MnpOeGRPUTgzZHFhRDRhYzJqbGlPNDk0cEtLRzdiSDRKTExmS2t5OWNRbjBwa3NRRFoxN1JR?oc=5",
+          "published_at": "2026-08-12T07:00:00+00:00",
+          "excerpt": "Google adds Local customer optimization to Performance Max searchengineland.com",
           "fetched_at": "2026-08-13T08:54:21.786273+00:00"
         },
         {
@@ -7222,6 +7243,13 @@
           "fetched_at": "2026-09-02T08:52:52.717674+00:00"
         },
         {
+          "title": "Google algorithm updates: the latest news and guides",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2NzdG1FaXVsenVHOFBGd0NQcElMRUxCOUhBaDFvcFZMbUNuUWN6Z0lGNGZnUlpuczVuR3dSQ2x5akZJTnp3eVpPdHgxVF91RUpHX2p2Z25KMG1FeU9xbHRoNko3ank5MW5rRmRVaUtET2RpTUlrVFBDeFo1bjQtNjlSbk8?oc=5",
+          "published_at": "2022-10-19T16:53:54+00:00",
+          "excerpt": "Google algorithm updates: the latest news and guides Search Engine Land",
+          "fetched_at": "2026-09-04T08:55:43.309082+00:00"
+        },
+        {
           "title": "Casey Markee",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XbUg5SFlrMDdMNlh5dVZXREFkMFYtME5MWmhzWWFxdGF2enRESk9tYlFDUWN2dWhzcUVSTlNfU2dKTXZCdXdoZ0VyRThJUEtaMTRNdl9zSndXWDlW?oc=5",
           "published_at": "2022-04-27T10:02:37+00:00",
@@ -7292,6 +7320,20 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/googles-new-weather-ai-in-search-continues-shift-away-from-10-blue-links/588392/",
+          "published_at": "2026-09-03T21:00:25+00:00",
+          "excerpt": "Google's latest Search integration is another step to a future where users get things done without traditional search results. The post Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-04T08:55:55.832714+00:00"
+        },
+        {
+          "title": "Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/product-pages-get-24-of-ai-citations-reddit-youtube-4/587560/",
+          "published_at": "2026-09-03T19:00:45+00:00",
+          "excerpt": "Ten Speed's citation study shows product pages beating Reddit nearly six to one for B2B buyers, verified only after six pointed fact-check questions. The post Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-04T08:55:55.832714+00:00"
+        },
         {
           "title": "When AI Has Nothing On Your Company, It Describes Someone Else via @sejournal, @DuaneForrester",
           "url": "https://www.searchenginejournal.com/when-ai-has-nothing-on-your-company-it-describes-someone-else/587876/",
@@ -7419,14 +7461,7 @@
           "fetched_at": "2026-09-01T09:30:41.787267+00:00"
         },
         {
-          "title": "FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/",
-          "published_at": "2026-08-31T23:49:40+00:00",
-          "excerpt": "FTC and 22 states sued Amazon over alleged changes to its ad auctions that the agency says overcharged advertisers by more than $20 billion. The post FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-01T09:30:41.787267+00:00"
-        },
-        {
-          "title": "Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return via @sejournal, @martinibuster",
+          "title": "Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return",
           "url": "https://www.searchenginejournal.com/rank-math-seo-plugin-pauses-controversial-feature-says-it-will-return/587853/",
           "published_at": "2026-08-31T21:40:45+00:00",
           "excerpt": "Rank Math paused its controversial feature, acknowledge a serious consent failure, and explains why it's coming back. The post Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return appeared first on Search Engine Journal .",
@@ -7487,6 +7522,13 @@
           "published_at": "2026-08-31T00:00:00+00:00",
           "excerpt": "As Google Ads automates more decisions, advertisers must define success beyond platform metrics, tracking leads and sales through to actual business outcomes. The post Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better appeared first on Search Engine J…",
           "fetched_at": "2026-08-31T19:10:57.540408+00:00"
+        },
+        {
+          "title": "FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme",
+          "url": "https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/",
+          "published_at": "2026-08-31T00:00:00+00:00",
+          "excerpt": "FTC and 22 states sued Amazon over alleged changes to its ad auctions that the agency says overcharged advertisers by more than $20 billion. The post FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-01T09:30:41.787267+00:00"
         },
         {
           "title": "Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts via @sejournal, @martinibuster",
@@ -11161,6 +11203,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Start the year AI-ready with the Google AI Educator Series",
+          "url": "https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/",
+          "published_at": "2026-09-03T17:00:00+00:00",
+          "excerpt": "A badge on a laptop screen. A graduation cap is in the photo as well.",
+          "fetched_at": "2026-09-04T08:56:06.783604+00:00"
+        },
         {
           "title": "Use your voice to get more done in Gmail, Docs, and Keep",
           "url": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
