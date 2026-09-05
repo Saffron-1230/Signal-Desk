@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T16:30:19.750225+00:00",
+  "last_updated": "2026-09-05T08:27:16.705055+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,6 +4296,55 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google opens YouTube personalized ads to alcohol advertisers",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzRBalZMYVJnZ0hNdHRwakJJcG5Cb3FDZnYyUnQ1TGZiQklkREhhT3EzcDBmOUFHTmg4eEVZRkFjODl6YkFZZjlUdG9jOS1YQTh0bUwwOWo4YUJBdVF3dTl2c3N2YjFZalNlU3BjNERNelBBT3BVRjBzNTIzbTZSUzdsNHh1alVJTi1oRlhsVU5DVUlIMUlvSGR3eko?oc=5",
+          "published_at": "2026-09-04T17:47:00+00:00",
+          "excerpt": "Google opens YouTube personalized ads to alcohol advertisers Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
+          "title": "Semrush is bringing AI visibility under the Spotlight",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUY2Mzl6VFBZOERQRzZXVUphR1NJbGFfN2VPbng0eFl5TlZUWnFYdFJ0MVRCbGlfRGdtd2FRSU9mRmFjS0NpbGtieG9hcDBScFplVjhjU0hMUlZ1dXJ4RXFod0k4MHo0T3RJVU1RTEpGeFpQWGw0c1lBZG52VWNSd2dUNUlVcEVVVFBnUnk0a1hrWEU?oc=5",
+          "published_at": "2026-09-04T16:25:00+00:00",
+          "excerpt": "Semrush is bringing AI visibility under the Spotlight Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
+          "title": "USA TODAY overhauls audience strategy, citing search pressure",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wU2lTakkxVFdLT2FNSTVHY1pNZnRBOFhSZGxxeEQzRnkxQ19pSnBDNGFfVGIxWmx0aUJhX2VVM3F1b0xaY01EN3dvTzJnTHg4cURHbUk2b0ctVVRaVHliR3J3VVlfWkxuU2JaR2RB?oc=5",
+          "published_at": "2026-09-04T15:04:00+00:00",
+          "excerpt": "USA TODAY overhauls audience strategy, citing search pressure Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
+          "title": "Monica Richardson Archives",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCQzZ0R09CYlZGYkp1eXpDRUNFaURuTE1RYlE5d01wZWRxdW5fVi0xU083MFFUelpWdnFnWmFkaExiOTRvVm5YcGdXWjZxTEU0OFRtVTJFNmRvWVVjSGNGR2dFQQ?oc=5",
+          "published_at": "2026-09-04T15:04:00+00:00",
+          "excerpt": "Monica Richardson Archives Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
+          "title": "The big winners and losers in U.S. website traffic over the past year",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSnZkQ3JXWFFqZmhKWk9fTTRIdVItWlBRa014NVlYQl9ZVWcxdEljeHVDSlRpMnFQTUd5dG0xa2N4QWlVcERKSndmSW5NeEdrRjdKTlBGRnZUdG5RVVlSbW55cWREYWR1aVpwcHhPdXpfUjc2dllGNEs3VG9XdVZhRDY1Q3JnZw?oc=5",
+          "published_at": "2026-09-04T15:00:00+00:00",
+          "excerpt": "The big winners and losers in U.S. website traffic over the past year Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
+          "title": "Limited Ad Serving: Why Google Ads suddenly show less often",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQd214STNpeTFNQVBtMEo2WDUxUS1FamcyT1dycDA3dERXUGhPSVBXWmJYN1FDWlBvb0ZLaXNfMGNaWktEZzd3MVRUUFpNV2xxazFsLTZnWmJBdzlUVU00bG9ELVJYdHRnTjdFV2xZNVpKaTg?oc=5",
+          "published_at": "2026-09-04T13:00:00+00:00",
+          "excerpt": "Limited Ad Serving: Why Google Ads suddenly show less often Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
+          "title": "Google to fix citation bug with Gemini 3.8 Flash in AI Mode",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWJKVjlDQ3J0WTZUMWhSNzROaEF5dnNVXzVIUzFSNzFiajh1d1AtUzdRTkJmRmJVU2dUaS1zb21LaEZlQ3JxOENqNU8yMGYtWW1TVmFOS2tnYkVDWmhsYVVtTjlybUhGSzY5Ty1QZjVHYjJHcTYwS1dyeUowNEVVRVhyaHlOMlIzNkd2NWROakdmdkJSMVBZOVpxaw?oc=5",
+          "published_at": "2026-09-04T00:25:00+00:00",
+          "excerpt": "Google to fix citation bug with Gemini 3.8 Flash in AI Mode Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
           "title": "SEO budgets: Where to invest for maximum impact as search evolves",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOTFsWUtXaHpRVkl4U1dhSGdRSDZWc1czNmR0d2lDNHNfdFRkMGpzd2NPdXVtZlBRcWR5R0hLS0I2WEZ0YUtLY0gxUVRhcmJfMDZwa3ZEWkVvdw?oc=5",
           "published_at": "2026-09-03T18:06:00+00:00",
@@ -4329,6 +4378,13 @@
           "published_at": "2026-09-03T13:00:00+00:00",
           "excerpt": "What your Google Ads hour-of-day report doesn’t tell you Search Engine Land",
           "fetched_at": "2026-09-04T08:55:43.309082+00:00"
+        },
+        {
+          "title": "AI works best when it removes work, not judgment",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11YjhvWXAxMnM5OWxyYmNJcjZCS0Zrb0JlRWpvd3E1R19fTlhfUUkxQm9wcEc3YWxwdXo5Y2Y1VkpIQy1sRk5GRC1GM2k1czF0SDRDdXdEMzlvdEZSX2h1cThVNkRINkszSDNhTEJZcUdtVGllbmlFdURjVU9QSlU?oc=5",
+          "published_at": "2026-09-03T12:00:00+00:00",
+          "excerpt": "AI works best when it removes work, not judgment Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
         },
         {
           "title": "From content creation to content orchestration: How agentic AI changes the role of content strategists",
@@ -4744,13 +4800,6 @@
           "fetched_at": "2026-08-27T15:21:41.976495+00:00"
         },
         {
-          "title": "What 1.8 million Google Business Profiles tell us about local SEO success",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE1GQzhWcDQtNlFqRFdzUHpQeVlFalpUM3A3S3pRTjdtaWZITjQ2NVdwWnJNNGJRcDF2eUVyaEFyYWoxRGQ0bVFCUXhPNUtaWTg1czJMUm12NFRUdXRNUklwc0lUdGxtM2I1U1doYVNLemtzb2ZwVHhwWlFBc29KVTN0YW1BM1RuMm9R?oc=5",
-          "published_at": "2026-08-25T14:00:00+00:00",
-          "excerpt": "What 1.8 million Google Business Profiles tell us about local SEO success Search Engine Land",
-          "fetched_at": "2026-08-25T15:10:20.099032+00:00"
-        },
-        {
           "title": "When paid media optimization starts working against you",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWxJZlFJWWM1SjByT182ZVgydUV1YnNndC1XQzlEZ2twZGdKZ3lVbDZkeGdUZFphSXRPUVM1bS1DODZzbVZWdmFJV0xuREUxaGdYeHdQMnJWMHFMbTZydi10QnIzamY5RlNvbGoyeUh3RHlfbDByYVN5RWJnbzkzeXFEekpnQQ?oc=5",
           "published_at": "2026-08-25T13:00:00+00:00",
@@ -4763,6 +4812,13 @@
           "published_at": "2026-08-25T12:00:00+00:00",
           "excerpt": "Your paid media ROAS isn’t 5x. Or 2x. Search Engine Land",
           "fetched_at": "2026-08-29T11:13:26.015857+00:00"
+        },
+        {
+          "title": "What 1.8 million Google Business Profiles tell us about local SEO success",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE1GQzhWcDQtNlFqRFdzUHpQeVlFalpUM3A3S3pRTjdtaWZITjQ2NVdwWnJNNGJRcDF2eUVyaEFyYWoxRGQ0bVFCUXhPNUtaWTg1czJMUm12NFRUdXRNUklwc0lUdGxtM2I1U1doYVNLemtzb2ZwVHhwWlFBc29KVTN0YW1BM1RuMm9R?oc=5",
+          "published_at": "2026-08-25T07:00:00+00:00",
+          "excerpt": "What 1.8 million Google Business Profiles tell us about local SEO success Search Engine Land",
+          "fetched_at": "2026-08-25T15:10:20.099032+00:00"
         },
         {
           "title": "Google brings Gemini Omni video creation to Google Ads",
@@ -7201,6 +7257,13 @@
           "fetched_at": "2026-08-31T10:59:35.174472+00:00"
         },
         {
+          "title": "Semrush",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WMGRjSnRLMHVPUEVDTVUzaEo3T3JlTzRqV3FzcU56TEZQX0tDRm1SWjZJTnJ3aUdvQTBwY1pvX3ZudGRGblFQLWk2ektRVVlZaDU1dnZB?oc=5",
+          "published_at": "2024-11-26T14:59:02+00:00",
+          "excerpt": "Semrush Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
           "title": "The SEO’s guide to Google Search Console",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93amk2MWFUWnUzSjJ4WjVnd3B0OWpZN2NfZ0x1dFpBSkE4aU1EQ0FoWkRFZGN1NktuOWxwS1BkSXk5ZzdNQmY4VW0xb3ptYi1jYjZsRmJnR2JER3ZSMmRneDNSTGZoc21rbzY4N3NfeUt0dm9TYlE?oc=5",
           "published_at": "2024-07-08T13:01:02+00:00",
@@ -7285,6 +7348,20 @@
           "fetched_at": "2026-08-22T05:48:08.541251+00:00"
         },
         {
+          "title": "Study: Organic Search Drives 51% Of Traffic, Social Only 5%",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUzM0MkZ1cFJMV2JvZG9CeDdYcnRxdXBmR0h1QnNXajJ6WE9FeDBUWGR2TFJsQUJyMnJDOW1FakotUm43TEJJdDdSRnUyNHI3dnpxczZDY084OC1WZGpzYzI4bnpqX01aSWR1SDNvYzl5RGUzbVlXY3FKVFRBS2R3SnUxX2dPNjlIZ2Nz?oc=5",
+          "published_at": "2017-03-28T20:51:02+00:00",
+          "excerpt": "Study: Organic Search Drives 51% Of Traffic, Social Only 5% Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
+          "title": "PPC: news, trends & guides",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJTUplTzZTU2ZsQzlqX21wbjJ6U2hmNXdjd0R1YXByT3RUWXZrdGw3NXlKSWg2TE9XaVYxSTBhNHJIdFM3U1pOZTFTOGk2MTJMSWc?oc=5",
+          "published_at": "2011-02-10T07:19:45+00:00",
+          "excerpt": "PPC: news, trends & guides Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
           "title": "Privacy Policy",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GSDMwbkh5UlIxd0Q4ZXNLVnNvOVE1d21tVkN4aWxlS2tTellPLWp4OU9sczFWM2FndVp3bHJ4dEZTOUVOa2dnMEJwVnZMVEdjZDl2dQ?oc=5",
           "published_at": "2010-11-03T10:03:38+00:00",
@@ -7327,6 +7404,13 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/most-teams-can-measure-ai-visibility-few-can-move-it/588219/",
+          "published_at": "2026-09-04T18:08:42+00:00",
+          "excerpt": "Learn which AI visibility metrics matter, how to prioritize your next steps, and the tactics that win more citations in AI answers. The post How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-05T08:27:03.133420+00:00"
+        },
         {
           "title": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/",
