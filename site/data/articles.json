@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T15:23:06.222213+00:00",
+  "last_updated": "2026-09-06T08:45:09.988490+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,6 +4310,13 @@
           "fetched_at": "2026-09-05T15:22:45.014068+00:00"
         },
         {
+          "title": "OpenAI expands ChatGPT ads globally and builds out its ad stack - searchengineland.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2poSUxKRXk5TmhOUFJXUWU3dDV5dFJOb0hlY1BidjZXdjVWRUdzTHUyci1tZXNnckxKMWQ3R3NkVWVfS3lzMGdOQmVKWmdWdzBsdmlEQmpmYS1QbF83VVowRFl4RnZua08tcGNNMk15el9PRktvYnozeHhRT3FJLTNObnphYWw2azRXVXBRZng4VkhmVXU0c0FEX21rM0It?oc=5",
+          "published_at": "2026-09-04T16:32:00+00:00",
+          "excerpt": "OpenAI expands ChatGPT ads globally and builds out its ad stack searchengineland.com",
+          "fetched_at": "2026-09-06T08:44:50.272924+00:00"
+        },
+        {
           "title": "Semrush is bringing AI visibility under the Spotlight - searchengineland.com",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUY2Mzl6VFBZOERQRzZXVUphR1NJbGFfN2VPbng0eFl5TlZUWnFYdFJ0MVRCbGlfRGdtd2FRSU9mRmFjS0NpbGtieG9hcDBScFplVjhjU0hMUlZ1dXJ4RXFod0k4MHo0T3RJVU1RTEpGeFpQWGw0c1lBZG52VWNSd2dUNUlVcEVVVFBnUnk0a1hrWEU?oc=5",
           "published_at": "2026-09-04T16:25:00+00:00",
@@ -4392,6 +4399,20 @@
           "published_at": "2026-09-03T16:57:00+00:00",
           "excerpt": "Social network usage & growth statistics (2026) Search Engine Land",
           "fetched_at": "2026-09-04T08:55:43.309082+00:00"
+        },
+        {
+          "title": "Top 100 most visited websites in the world (June 2026) - searchengineland.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwVlRCczRBZU1LT1BEZjFyenQ0SENrSDV0by1rSVVtOVF4QThwTTdSZEFKTGlLbUZyQWVvbkpLeXQ5OXRPSGZnajJydS1xcFBPM3lKOHlNT1U3bDk2OGxpOC1PcVBUTGc?oc=5",
+          "published_at": "2026-09-03T16:39:00+00:00",
+          "excerpt": "Top 100 most visited websites in the world (June 2026) searchengineland.com",
+          "fetched_at": "2026-09-06T08:44:50.272924+00:00"
+        },
+        {
+          "title": "13 new social media platforms in 2026 - searchengineland.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xS2pfVGdkeU4tVmVURVFJM0c1RzI1QUJONXZlMzNOa1RKeGxKMENxWEJjMHB1SXM1cEFieWZ5QUlVdndlcGNzSlZ2eUpjOU1weC1iZS1IYjF3cm1IVW83cGJ4blpiXzRYZWNGWVl3?oc=5",
+          "published_at": "2026-09-03T16:38:00+00:00",
+          "excerpt": "13 new social media platforms in 2026 searchengineland.com",
+          "fetched_at": "2026-09-06T08:44:50.272924+00:00"
         },
         {
           "title": "The SEO warning signs before organic traffic falls - searchengineland.com",
@@ -4660,6 +4681,13 @@
           "fetched_at": "2026-09-05T15:22:45.014068+00:00"
         },
         {
+          "title": "Noplace Archives - searchengineland.com",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00TWpBZHJqTjY4SmxDczNkd2ktdWhFZ2dtZjkzUEM4S1JFV1NNb0VNVFdWUjFHQVdUVC1DSFpVNjR6aGhIbXZkbzdxRW1GeG10c25CZw?oc=5",
+          "published_at": "2026-08-28T12:13:00+00:00",
+          "excerpt": "Noplace Archives searchengineland.com",
+          "fetched_at": "2026-09-06T08:44:50.272924+00:00"
+        },
+        {
           "title": "Link building in 2027: 13 ways to win or fail - searchengineland.com",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxUDN2TzBtcEpDdEItWUhERlhTZlhjZFotZi1ycmJvdGpKMDFjaVNLbXI3OUtxd2p0akhCY215akFVYmxIOUtFNTRqOWk3b2tJbkpKbzdqemM5QjNLWl9pUXNVMUVHQjdsVGF1cTV3?oc=5",
           "published_at": "2026-08-28T12:00:00+00:00",
@@ -4690,16 +4718,9 @@
         {
           "title": "Your images have a new job in AI search - searchengineland.com",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GbTI1cDc5YUwzQjlpZDZMbFZ6M2dlQmFYaXVLS1R6Z1RqZTBXbkQxbnJITFlOekZ0dFRZTE1fZ1UyRXIzdV95VExZcVdLSG9td3d5OXBkbk5iS1lTbjJ3SjhnSnc3ZG9pbGhCaQ?oc=5",
-          "published_at": "2026-08-27T13:00:00+00:00",
+          "published_at": "2026-08-27T07:00:00+00:00",
           "excerpt": "Your images have a new job in AI search Search Engine Land",
           "fetched_at": "2026-08-27T15:21:41.976495+00:00"
-        },
-        {
-          "title": "If an AI watermark scares you, your content may be the real issue - searchengineland.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQjhWakFpUzJ2ZGoxMUFqZk9BQXU4Y3BhTm84NXhiVjFUZk1Bc0tpNkp1ZXRGc2ZNUFcxMlg1WnFkZWR3azJuRXNDeDBVQmlKX09ScVRSR0FLaVVtblVtdHNoN0VOb1dVUUVkakk2VQ?oc=5",
-          "published_at": "2026-08-27T12:00:00+00:00",
-          "excerpt": "If an AI watermark scares you, your content may be the real issue Search Engine Land",
-          "fetched_at": "2026-08-27T19:13:31.787463+00:00"
         },
         {
           "title": "Google’s August 2026 spam update hit rankings harder than normal - searchengineland.com",
@@ -4713,6 +4734,13 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZa25wWGhCWDZrazBhc2w3S3ZHVEZ6VHlKTGRubzJoZmptS1NPRW5abkpGV2x0WWlOMDZlallKYktzNzBpZnlyQ2l2NDVJVkM4ZWlZanRZRXlKSnpfZ1QwYW40UFJ3TXhHRWpLOXZfWEdGUQ?oc=5",
           "published_at": "2026-08-27T07:00:00+00:00",
           "excerpt": "Reddit is the keyword research tool you’re probably not using Search Engine Land",
+          "fetched_at": "2026-08-27T19:13:31.787463+00:00"
+        },
+        {
+          "title": "If an AI watermark scares you, your content may be the real issue - searchengineland.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQjhWakFpUzJ2ZGoxMUFqZk9BQXU4Y3BhTm84NXhiVjFUZk1Bc0tpNkp1ZXRGc2ZNUFcxMlg1WnFkZWR3azJuRXNDeDBVQmlKX09ScVRSR0FLaVVtblVtdHNoN0VOb1dVUUVkakk2VQ?oc=5",
+          "published_at": "2026-08-27T07:00:00+00:00",
+          "excerpt": "If an AI watermark scares you, your content may be the real issue Search Engine Land",
           "fetched_at": "2026-08-27T19:13:31.787463+00:00"
         },
         {
@@ -4758,13 +4786,6 @@
           "fetched_at": "2026-08-27T15:21:41.976495+00:00"
         },
         {
-          "title": "Is top-of-funnel content still worth it in 2027? - searchengineland.com",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JSE5WUlZlbEJXdDNuQkx1WDV5S255bUNjUlB5bzRZdGRneWV1eGM0UmoteUg1ZmNDQndiWG00ZThSWTV4Xzdna3l2WjA1a2lqTUliTFE0S1BxMTBZVUpGWHM5VGZnZUJyMkI4ejJEWlM3REQt?oc=5",
-          "published_at": "2026-08-26T14:00:00+00:00",
-          "excerpt": "Is top-of-funnel content still worth it in 2027? Search Engine Land",
-          "fetched_at": "2026-08-27T15:21:41.976495+00:00"
-        },
-        {
           "title": "Meta Ads: Why creative diversity matters more than volume",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ocWJsWTZSNFhtY25lc0JNRzVhYzliOE9VUDMwS1dVMEJ0ZzBodXFuTzMyMGVmSzY5UXBMcHhJS2o4WGsxS2RrNmY1NS1ZX2NVTVZqTlctR05oa1ZPZzR4akF2cmhTdjJVbzBadmc2dDk?oc=5",
           "published_at": "2026-08-26T13:00:00+00:00",
@@ -4791,6 +4812,13 @@
           "published_at": "2026-08-26T07:43:00+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-08-29T11:13:26.015857+00:00"
+        },
+        {
+          "title": "Is top-of-funnel content still worth it in 2027? - searchengineland.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JSE5WUlZlbEJXdDNuQkx1WDV5S255bUNjUlB5bzRZdGRneWV1eGM0UmoteUg1ZmNDQndiWG00ZThSWTV4Xzdna3l2WjA1a2lqTUliTFE0S1BxMTBZVUpGWHM5VGZnZUJyMkI4ejJEWlM3REQt?oc=5",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "excerpt": "Is top-of-funnel content still worth it in 2027? Search Engine Land",
+          "fetched_at": "2026-08-27T15:21:41.976495+00:00"
         },
         {
           "title": "Google confirms deploying goto URL redirects to search results links - searchengineland.com",
@@ -5521,13 +5549,6 @@
           "fetched_at": "2026-08-17T06:02:20.210984+00:00"
         },
         {
-          "title": "Google adds real-time reporting endpoint to Campaign Manager 360 API",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmdoVEZ3OEwtUGZZYUxJWFp3WlpIc3VtY2I0Zko5UWctdGFuLVgyVTlpdm1kMk9EZUVONUl4d1lMaExSZUxLVVJ0Q1ZBeUlPaFdrQWdqOUN1WW5vOE56Z3VNcnFyY3F2aFhkQy0taUdzNVM4bEQzZ25IR1FoUngybWZldEQ2VXVOa1hmNTFWcTdmWl9ZNkhNSUI0X0J0MFRlZ3pkeHZPRQ?oc=5",
-          "published_at": "2026-08-12T16:57:00+00:00",
-          "excerpt": "Google adds real-time reporting endpoint to Campaign Manager 360 API Search Engine Land",
-          "fetched_at": "2026-08-14T15:13:04.205163+00:00"
-        },
-        {
           "title": "Google updates YouTube and Discover Feed ad requirements",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajVFTC1fRkJNM2FhOHNkRVR3Q3BuQkhXaERpdkhOT181RFh5ZDNqbmFweVFaSENRRk5udkktR0M4dDZYZXVlQTM2UW1QbTZNSmwzVXFaMHBnV0FjRlpaX2ZHaHh4UnVQNHJzWHU5Q3VpY0lwZEYyZGcxbUlDc1ljaGdVM3NMYW9BWUoxck5yd1Z6cW1PWU9R?oc=5",
           "published_at": "2026-08-12T15:54:00+00:00",
@@ -5589,6 +5610,13 @@
           "published_at": "2026-08-12T07:00:00+00:00",
           "excerpt": "How to use MCP to get more data from the tools you already use searchengineland.com",
           "fetched_at": "2026-08-13T08:54:21.786273+00:00"
+        },
+        {
+          "title": "Google adds real-time reporting endpoint to Campaign Manager 360 API - searchengineland.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmdoVEZ3OEwtUGZZYUxJWFp3WlpIc3VtY2I0Zko5UWctdGFuLVgyVTlpdm1kMk9EZUVONUl4d1lMaExSZUxLVVJ0Q1ZBeUlPaFdrQWdqOUN1WW5vOE56Z3VNcnFyY3F2aFhkQy0taUdzNVM4bEQzZ25IR1FoUngybWZldEQ2VXVOa1hmNTFWcTdmWl9ZNkhNSUI0X0J0MFRlZ3pkeHZPRQ?oc=5",
+          "published_at": "2026-08-12T07:00:00+00:00",
+          "excerpt": "Google adds real-time reporting endpoint to Campaign Manager 360 API Search Engine Land",
+          "fetched_at": "2026-08-14T15:13:04.205163+00:00"
         },
         {
           "title": "300 French newspapers file complaint over Google AI Overviews",
@@ -7325,6 +7353,13 @@
           "published_at": "2023-07-13T13:04:35+00:00",
           "excerpt": "Stephanie Wallace Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Amanda King - searchengineland.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vbUpXUENfYm0taEw0R2NLRlRzNnZzUmt0bUJhT1BQX1huRHZZd3M3R0tkV2t5bExkODE0V19CMGtHM01Zc253aDFldTNUdVJMUGhmZVdKQndXdm8?oc=5",
+          "published_at": "2023-07-03T13:01:29+00:00",
+          "excerpt": "Amanda King searchengineland.com",
+          "fetched_at": "2026-09-06T08:44:50.272924+00:00"
         },
         {
           "title": "SMX® Advanced | Mar. 17-19, 2027 - San Diego | Expert-level training - searchengineland.com",
