@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T08:57:25.343548+00:00",
+  "last_updated": "2026-09-08T16:45:37.963507+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,6 +4296,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "The 11x ROAS account that lost money on every order",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NYVdhRGUxVGJISURfQlVNRjUxWlpXS2pfdzRCbWl0YlhjTzZTWGJaUmZDWXNOUUpKaVNzd2V6UTNwcXZxZllPYWd2VHJyOThCd01uTWJzb3VobmwxMFByZUNvVGs0TFZuVHRZU1duNXBSbFE3ZHBXOGJ2MA?oc=5",
+          "published_at": "2026-09-08T13:00:00+00:00",
+          "excerpt": "The 11x ROAS account that lost money on every order Search Engine Land",
+          "fetched_at": "2026-09-08T16:45:13.960727+00:00"
+        },
+        {
+          "title": "Google says DMA changes in EU resulted in worse degradation of search quality ever",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXdrTHE0Y2J3YnVLTHVDUkdnUXpUQnBnOURKQXJkNGlPVGZyZVB1ZXRlS2xUMy1NSnF3SHlxRjZVR1NxN2NBSXJScUFzbk9BdVp2TDExU25UalRDYmt2MGl3WkxtWU9USUtIM2xORGdWdi0zRng4M3p2d1B1RjhxOC1WMHJySHhkWHF1cHc0anZtZjBXQ3JHd0pFRXY2ODVDMHZEQmVPTWJKMmw4dVNmQ0lSdDNaRFlVWXc?oc=5",
+          "published_at": "2026-09-08T12:38:00+00:00",
+          "excerpt": "Google says DMA changes in EU resulted in worse degradation of search quality ever Search Engine Land",
+          "fetched_at": "2026-09-08T16:45:13.960727+00:00"
+        },
+        {
+          "title": "How to build an AI governance framework for SEO",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZSFBJck5ZMGQzUGpKa1Y2MlM2Y3NkdERibmFFbm1lbjhrdU5BUDcyX2hsb1NQUmFlODV2ZFlBZ3RxZTBmLXVxZENCSWUyeVdtVFd3NTdDS3lkLVJnaWE4eExGOGZvclZoNjN4TmxSVVd4cUdzRGJieg?oc=5",
+          "published_at": "2026-09-08T12:00:00+00:00",
+          "excerpt": "How to build an AI governance framework for SEO Search Engine Land",
+          "fetched_at": "2026-09-08T16:45:13.960727+00:00"
+        },
+        {
+          "title": "Why growing restaurant chains win at local search and AI visibility",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXU2VWVpbWQ3UHd3b1VWVUxOaHVaTS1Sb2l5eTFpV0o0bTgwbWhlWmlZc3BXOU1zSkpEa1NJZ01vWVVDZnJmamtpeS1VdkdpSkV4N3d5Z3VNRFpLNkxxY1dGVk56OFdTRjFQaUtCSHNvSlYza1UyZWpnRml0eHg0dXU1OE1sMHo1Rzc5ejdSZUlwbE42UGFEYlBlbzJDVGxOcUlSZktR?oc=5",
+          "published_at": "2026-09-08T11:00:00+00:00",
+          "excerpt": "Why growing restaurant chains win at local search and AI visibility Search Engine Land",
+          "fetched_at": "2026-09-08T16:45:13.960727+00:00"
+        },
+        {
           "title": "Ankit Vora",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tbmc4dmR5b2xfUk9BdGVoQ3Z5Y2RUbFhUVUI1Q3dyWlJVTFVHaUhvX3N4NFhZMmFMSnduTU8zajRyZlNQYVVSM3NFaUlibVhUdkFybm1qT21hUQ?oc=5",
           "published_at": "2026-09-07T20:33:54+00:00",
@@ -4611,25 +4639,11 @@
           "fetched_at": "2026-08-29T16:48:46.086144+00:00"
         },
         {
-          "title": "5 steps to building Reddit authority for Google and ChatGPT visibility",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvS3J1bk1ubkxCbmFVbXBlaEt1XzZ6aFJ5cXlOeUdVOV94QjZXcXFUTDAwVW5JNnIyM2N3bWVPS2k3RGJoTEFMN0ZVU2QyT3lfWGVsY2FHcE5uM2VXVU1EWHNPdTJpTFFDUXBjZUFieG42a1NKem1HRXJReG0?oc=5",
-          "published_at": "2026-08-31T14:00:00+00:00",
-          "excerpt": "5 steps to building Reddit authority for Google and ChatGPT visibility Search Engine Land",
-          "fetched_at": "2026-08-31T19:10:50.321892+00:00"
-        },
-        {
           "title": "Microsoft Advertising rolling out new design for advertiser console",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOeUVMR0tWWHhCcTRDUHFJaEVlZFRXejhReV9sRDBVSnhlYkpKNHJVNDlORjNUUm5ydkJXSHppcVFUeUpiYnk5bm9sN04wXzBnZ2l0akZ2RlBReDJETnBwbDc3SEFFa0t2SGYtYnVqQklpQnNsS2k5OEM4c0VUWkZjdVg3Q1NvTGJlS0M5NDlWbmFlTk43a0RYRnozekNJck96UGRB?oc=5",
           "published_at": "2026-08-31T13:47:00+00:00",
           "excerpt": "Microsoft Advertising rolling out new design for advertiser console Search Engine Land",
           "fetched_at": "2026-09-01T09:30:30.449694+00:00"
-        },
-        {
-          "title": "How to map AI search prompts to every stage of the sales funnel",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vajktdnA2eTJzVlhZdEtLTU1JRXV1UHR0cTlxLThsRUZCbnpsV3gyVUozYURJcnRwQXQwQ1lZc2NpeF9Tdl9lQXBUMnNVYW5kZXNnWVltVjBaLVp1SDNhb1otRXpqbExNem5TWjV5Z2VFcGdObm1jN2dB?oc=5",
-          "published_at": "2026-08-31T13:00:00+00:00",
-          "excerpt": "How to map AI search prompts to every stage of the sales funnel Search Engine Land",
-          "fetched_at": "2026-08-31T19:10:50.321892+00:00"
         },
         {
           "title": "Building an AI agent for ad management: The hard part isn’t the AI",
@@ -4643,6 +4657,20 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jR2plWDRucVlhZHFRZC1UWFFFTTZ2Yl9EWVFHWnp3ZmdwbDByWGhDbk9UZnBkdVRfNm84RVkwQUFFTUN5V0lkYkJWbnE1QkVBX0lJX1lzZTFlbENkNTh3UjRla0E1Q1pFQUE?oc=5",
           "published_at": "2026-08-31T12:00:00+00:00",
           "excerpt": "Advertising management Archives Search Engine Land",
+          "fetched_at": "2026-08-31T19:10:50.321892+00:00"
+        },
+        {
+          "title": "5 steps to building Reddit authority for Google and ChatGPT visibility",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvS3J1bk1ubkxCbmFVbXBlaEt1XzZ6aFJ5cXlOeUdVOV94QjZXcXFUTDAwVW5JNnIyM2N3bWVPS2k3RGJoTEFMN0ZVU2QyT3lfWGVsY2FHcE5uM2VXVU1EWHNPdTJpTFFDUXBjZUFieG42a1NKem1HRXJReG0?oc=5",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "excerpt": "5 steps to building Reddit authority for Google and ChatGPT visibility Search Engine Land",
+          "fetched_at": "2026-08-31T19:10:50.321892+00:00"
+        },
+        {
+          "title": "How to map AI search prompts to every stage of the sales funnel",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vajktdnA2eTJzVlhZdEtLTU1JRXV1UHR0cTlxLThsRUZCbnpsV3gyVUozYURJcnRwQXQwQ1lZc2NpeF9Tdl9lQXBUMnNVYW5kZXNnWVltVjBaLVp1SDNhb1otRXpqbExNem5TWjV5Z2VFcGdObm1jN2dB?oc=5",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "excerpt": "How to map AI search prompts to every stage of the sales funnel Search Engine Land",
           "fetched_at": "2026-08-31T19:10:50.321892+00:00"
         },
         {
@@ -7531,6 +7559,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "When Attribution Looks More Precise Than The Data Behind It via @sejournal, @bngsrc",
+          "url": "https://www.searchenginejournal.com/when-attribution-looks-more-precise-than-the-data-behind-it/586762/",
+          "published_at": "2026-09-08T14:30:05+00:00",
+          "excerpt": "Modeled data now fills the gaps left by signal loss, and mistaking estimates for measurements can lead to costly budget misallocation. The post When Attribution Looks More Precise Than The Data Behind It appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-08T16:45:25.992669+00:00"
+        },
+        {
+          "title": "Some Sites Use llms.txt Like robots.txt, Common Crawl Finds via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/common-crawl-llms-txt-robots-txt/588786/",
+          "published_at": "2026-09-08T14:09:20+00:00",
+          "excerpt": "Common Crawl analyzed 584,107 llms.txt files and found most came from templates, many had no links, and some carried crawler rules the format can't enforce. The post Some Sites Use llms.txt Like robots.txt, Common Crawl Finds appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-08T16:45:25.992669+00:00"
+        },
+        {
+          "title": "6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/6-months-into-chatgpt-ads-advertisers-still-dont-know-what-good-looks-like/587583/",
+          "published_at": "2026-09-08T12:00:00+00:00",
+          "excerpt": "Advertiser data now spans single-digit to $22 CPCs, but ChatGPT Ads still lacks auction insights, industry benchmarks, and reliable audience data to judge performance. The post 6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like appeared first on Searc…",
+          "fetched_at": "2026-09-08T16:45:25.992669+00:00"
+        },
+        {
           "title": "Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/harvard-found-the-public-has-little-objection-to-ai-taking-search-marketers-jobs/587715/",
           "published_at": "2026-09-07T14:30:22+00:00",
@@ -7657,24 +7706,24 @@
           "fetched_at": "2026-09-02T16:43:01.406820+00:00"
         },
         {
-          "title": "Google To Bring New Video Understanding Tech To Ask YouTube via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/google-video-understanding-ask-youtube/588123/",
-          "published_at": "2026-09-02T14:08:29+00:00",
-          "excerpt": "Google says a new Gemini system that inspects frames, audio, and transcripts on demand will power Ask YouTube on video watch pages. The post Google To Bring New Video Understanding Tech To Ask YouTube appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-02T16:43:01.406820+00:00"
-        },
-        {
-          "title": "YouTube Says Bigger Thumbnails Drove More Long-Form Views via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/youtube-bigger-thumbnails-long-form-engagement/588102/",
-          "published_at": "2026-09-02T13:11:52+00:00",
-          "excerpt": "YouTube's Todd Beaupré says the desktop homepage redesign with larger thumbnails drove more long-form engagement despite showing fewer videos at once. The post YouTube Says Bigger Thumbnails Drove More Long-Form Views appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-02T16:43:01.406820+00:00"
-        },
-        {
           "title": "Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-deepmind-says-gemini-is-evolving-from-chatbot-to-ai-agent/588077/",
           "published_at": "2026-09-02T11:24:00+00:00",
           "excerpt": "Interview with head of Google DeepMind explains how Gemini is moving beyond answers toward AI that can use tools and accomplish tasks. The post Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-02T16:43:01.406820+00:00"
+        },
+        {
+          "title": "Google To Bring New Video Understanding Tech To Ask YouTube",
+          "url": "https://www.searchenginejournal.com/google-video-understanding-ask-youtube/588123/",
+          "published_at": "2026-09-02T00:00:00+00:00",
+          "excerpt": "Google says a new Gemini system that inspects frames, audio, and transcripts on demand will power Ask YouTube on video watch pages. The post Google To Bring New Video Understanding Tech To Ask YouTube appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-02T16:43:01.406820+00:00"
+        },
+        {
+          "title": "YouTube Says Bigger Thumbnails Drove More Long-Form Views",
+          "url": "https://www.searchenginejournal.com/youtube-bigger-thumbnails-long-form-engagement/588102/",
+          "published_at": "2026-09-02T00:00:00+00:00",
+          "excerpt": "YouTube's Todd Beaupré says the desktop homepage redesign with larger thumbnails drove more long-form engagement despite showing fewer videos at once. The post YouTube Says Bigger Thumbnails Drove More Long-Form Views appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-02T16:43:01.406820+00:00"
         },
         {
@@ -9532,6 +9581,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "AI search & manufacturing SEO: What the data shows [Study]",
+          "url": "https://www.semrush.com/blog/manufacturing-seo-ai-search/",
+          "published_at": "2026-09-08T13:38:00+00:00",
+          "excerpt": "Semrush data on AI search in manufacturing. See which brands get mentioned, which get cited, and why citations don‘t drive traffic.",
+          "fetched_at": "2026-09-08T16:45:31.930098+00:00"
+        },
+        {
           "title": "Topic clusters for SEO: what they are & how to create them",
           "url": "https://www.semrush.com/blog/topic-clusters/",
           "published_at": "2026-09-07T12:58:00+00:00",
@@ -9553,6 +9609,13 @@
           "fetched_at": "2026-09-03T16:34:16.548789+00:00"
         },
         {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-09-03T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "Create an AI Brand Visibility Report [+ Template]",
           "url": "https://www.semrush.com/blog/create-ai-seo-search-marketing-report/",
           "published_at": "2026-09-02T09:33:00+00:00",
@@ -9565,13 +9628,6 @@
           "published_at": "2026-09-02T09:18:00+00:00",
           "excerpt": "AI agents browse, compare, and recommend on behalf of users. Learn how to make your site crawlable, readable, trustworthy, and easy to cite in AI-driven decision workflows.",
           "fetched_at": "2026-09-02T16:43:08.063580+00:00"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-09-02T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Where does AI get its information? And how to get cited",
@@ -9672,18 +9728,18 @@
           "fetched_at": "2026-08-17T14:03:51.544370+00:00"
         },
         {
-          "title": "SEO strategy in 2026: how to build one (+ free workbook)",
-          "url": "https://www.semrush.com/blog/seo-strategy/",
-          "published_at": "2026-08-17T10:08:00+00:00",
-          "excerpt": "Create a modern SEO strategy that earns qualified leads across search and AI answers. Get a free workbook to make the six decisions that matter.",
-          "fetched_at": "2026-08-17T14:03:51.544370+00:00"
-        },
-        {
           "title": "Sergei Rogulin",
           "url": "https://www.semrush.com/blog/user/sergei-rogulin/",
           "published_at": "2026-08-17T00:00:00+00:00",
           "excerpt": "How we nearly tripled our share of voice and boosted our AI visibility with Enterprise AIO and AI Visibility Toolkit. A systematic approach with real data.",
           "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
+          "title": "SEO strategy in 2026: how to build one (+ free workbook)",
+          "url": "https://www.semrush.com/blog/seo-strategy/",
+          "published_at": "2026-08-17T00:00:00+00:00",
+          "excerpt": "Create a modern SEO strategy that earns qualified leads across search and AI answers. Get a free workbook to make the six decisions that matter.",
+          "fetched_at": "2026-08-17T14:03:51.544370+00:00"
         },
         {
           "title": "SEO for a new website: A sequencing guide for your first 90 days",
@@ -10440,6 +10496,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "Top 10 Best B2B Sales Prospecting Tools (That Help You Find Buyers, Not Just Names)",
+          "url": "https://www.factors.ai/blog/best-sales-prospecting-tools",
+          "published_at": "2026-09-08T00:00:00+00:00",
+          "excerpt": "Looking for the best sales prospecting tools? This guide breaks down the top B2B sales prospecting tools, how they work, and which prospecting sales tools fit your sales motion.",
+          "fetched_at": "2026-09-08T16:45:33.965429+00:00"
+        },
         {
           "title": "AI search marketing: how B2B brands get cited in 2026",
           "url": "https://www.factors.ai/blog/ai-search-visibility-for-b2b-saas",
@@ -11490,6 +11553,34 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Missouri and Google partner on AI and career training",
+          "url": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/",
+          "published_at": "2026-09-08T15:05:00+00:00",
+          "excerpt": "A woman teaching a group of students in front of a set of computers",
+          "fetched_at": "2026-09-08T16:45:37.960590+00:00"
+        },
+        {
+          "title": "We’re helping put 25 new electric semi trucks on the road in Texas.",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/",
+          "published_at": "2026-09-08T15:00:00+00:00",
+          "excerpt": "We’re partnering with Nevoya and the Center for Green Market Activation (GMA) to deploy 25 electric semi trucks.",
+          "fetched_at": "2026-09-08T16:45:37.960590+00:00"
+        },
+        {
+          "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+          "published_at": "2026-09-08T14:00:00+00:00",
+          "excerpt": "Wavy pink and lavender pillars with glowing orange columns in the center.",
+          "fetched_at": "2026-09-08T16:45:37.960590+00:00"
+        },
+        {
+          "title": "Helping small businesses win with AI",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/",
+          "published_at": "2026-09-08T13:00:00+00:00",
+          "excerpt": "Two people at a workshop taking a selfie together",
+          "fetched_at": "2026-09-08T16:45:37.960590+00:00"
+        },
         {
           "title": "Our new contrail avoidance trial in Asia-Pacific",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/",
