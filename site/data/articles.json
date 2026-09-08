@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T17:47:39.614969+00:00",
+  "last_updated": "2026-09-08T08:57:25.343548+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,11 +4296,25 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Ankit Vora",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tbmc4dmR5b2xfUk9BdGVoQ3Z5Y2RUbFhUVUI1Q3dyWlJVTFVHaUhvX3N4NFhZMmFMSnduTU8zajRyZlNQYVVSM3NFaUlibVhUdkFybm1qT21hUQ?oc=5",
+          "published_at": "2026-09-07T20:33:54+00:00",
+          "excerpt": "Ankit Vora Search Engine Land",
+          "fetched_at": "2026-09-08T08:57:06.146586+00:00"
+        },
+        {
           "title": "AI Overviews may be affecting Shopping ad CTR and impressions",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPei1LQ2NKczhhYVFoSjJtWHZsdy1kWjZkWlJEQXlaNFFBYWxQMTkwdHUzbGViWHNGS0NKSkNnamtTZ0NRSDgtY0dvUUpyb0Y2YUZqRC1VbXJuUDlZSXRkVzM0bzV4T2J2cDY4anRHTldMVXJCVm5PdGQteVdWc3JUN1F6MUJqSXd1cGthX1dWaXRuQW5CLU5yTUhaZUlVZw?oc=5",
           "published_at": "2026-09-07T15:21:00+00:00",
           "excerpt": "AI Overviews may be affecting Shopping ad CTR and impressions Search Engine Land",
           "fetched_at": "2026-09-07T17:47:17.725919+00:00"
+        },
+        {
+          "title": "Google tests traditional Search campaigns in AI Mode",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHpHdFFDYUZicnZCMzRUVUVrd3pxLWRRNG9KMmhqZjQxeFp5anFYeUQtY09WZ0MwWkxHQkNoUC1Pb0ZDSmNKX1ZfSkFIZ1RrOEl2MzJSc0NYYWFPb210MnlfZEc4SWZkOE9fNmFYczFqekEyUkZmbmktVDBuUUtvM3kzUU5VNmVFZXA3SGtoLUJuQQ?oc=5",
+          "published_at": "2026-09-07T14:13:00+00:00",
+          "excerpt": "Google tests traditional Search campaigns in AI Mode Search Engine Land",
+          "fetched_at": "2026-09-08T08:57:06.146586+00:00"
         },
         {
           "title": "Chris Avery",
