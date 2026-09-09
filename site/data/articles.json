@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T16:45:37.963507+00:00",
+  "last_updated": "2026-09-09T09:03:12.020902+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,6 +4296,62 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "SMX Now: Find the entity gaps holding back your content strategy",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aWktGS2J2eWN0ZnN1bXk0SF90dWdlbzVyRlZRUkxSVkxkMnFWeFlUTHhmaWp1bENTU0dTWDdIYi1WYjdnTU1qY0NpY2FYRHhjLWZIU09jT2hpVDB3T0xFSmZ4OUdQc3gwUnd1dHIxRW9lSHRlN0lFclRwdGs?oc=5",
+          "published_at": "2026-09-08T18:02:00+00:00",
+          "excerpt": "SMX Now: Find the entity gaps holding back your content strategy Search Engine Land",
+          "fetched_at": "2026-09-04T08:55:43.309082+00:00"
+        },
+        {
+          "title": "Bluesky statistics: How Many people use bluesky? (2026)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40NldPTnctZjU0OTcwSHBLaWpIQjVnUDJYWUphSFlTLW9FR2hEUFd1MHNvVnhEZHNKdzRzLVFUbjV6cHNQckkzbk9tNFZwZXhybTJOT3cyU1Z4Y09rXzYzN1M0RQ?oc=5",
+          "published_at": "2026-09-08T17:51:00+00:00",
+          "excerpt": "Bluesky statistics: How Many people use bluesky? (2026) Search Engine Land",
+          "fetched_at": "2026-09-09T09:02:47.856797+00:00"
+        },
+        {
+          "title": "TikTok statistics you need to know in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YTEc3T2tsZUh6UTFJQTFHVnFvOE5FOGtMOGVZdGhUbGZtU3pxZWRvejJfd3JlM0YxUGJPWGFnUGhTYXNqVlFKYXZhbUpWczNKY2k5eVEzLXpDMlk?oc=5",
+          "published_at": "2026-09-08T17:34:00+00:00",
+          "excerpt": "TikTok statistics you need to know in 2026 Search Engine Land",
+          "fetched_at": "2026-09-09T09:02:47.856797+00:00"
+        },
+        {
+          "title": "Google Ads AI Dashboards start appearing in advertiser accounts",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNakpNdlVZdGdkb3ZLYW04bk1ZNThvbzhBNWpDdGw5djNnaHBJWnNYUG42aUxjVTRDa0k1RGhxYU42bEo0elc3Nm1DUDhNVjhnMl9pRmhLX3hkaVA1QlM5N1hyTG5DOElxWThLc2NJMmh1MHRydFRQbTRNNlRlbS1lMlFFQ1RvbEhEM1hfTnRPSW81YzlCOHhWLUVqRjMyRHNL?oc=5",
+          "published_at": "2026-09-08T17:30:00+00:00",
+          "excerpt": "Google Ads AI Dashboards start appearing in advertiser accounts Search Engine Land",
+          "fetched_at": "2026-09-09T09:02:47.856797+00:00"
+        },
+        {
+          "title": "Substack user and revenue statistics (2026)",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRY21ENjAxNkNPaVFyYnhHU3VYOHp2M1Y4cVZmTXBLaFJBbEZNNHlxbUhOR0NHRlhMZmhFQzNsTXk5bzIxM3JpdjdWd2FZVTBpeHJ5QVBTcUFYVnprUWc?oc=5",
+          "published_at": "2026-09-08T17:17:00+00:00",
+          "excerpt": "Substack user and revenue statistics (2026) Search Engine Land",
+          "fetched_at": "2026-09-09T09:02:47.856797+00:00"
+        },
+        {
+          "title": "Google Ads adds new tools to drive and measure in-store sales",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3BDNW00N2NNVVVWaUFIWGU0TkFLRHBnWTVmMVA2czlNOWwzMmpQeXA1c3RjV1VtOThTTHAyTk1hUVhZeUxFSzFmSWNpMnZoR25tcGI0LUpyRGRuS1BhMnhBSHJVQWtwVEZKeDVzV01QejRzSDNKcHh3R21CQk9OcFpCTUMtMDJPOU5XSnlYcy1JdVFESlp5eEZUTWlWUQ?oc=5",
+          "published_at": "2026-09-08T16:01:00+00:00",
+          "excerpt": "Google Ads adds new tools to drive and measure in-store sales Search Engine Land",
+          "fetched_at": "2026-09-09T09:02:47.856797+00:00"
+        },
+        {
+          "title": "Inside Google Maps: 72 ranking signals and the architecture behind local search",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUZOUFRYN3dGQlc2OUVEazlkcURwMXlYbVlxR2ZfSHduaUFydUZhRmZMZ0o3cTR2bnVST180OGtpYzRLeEJaM2Q4VDIyNDdaWXl1QnU5bXJiTWtLLVZiWGQxWTBmXy13ZkpnU2NaSHdud1kyN0pjV3Q4VzhJb1BnVW9mdGxPZXZjblBIbkRxUEw4Q0JVSFEyUWRaczJ1akhNVlNLQlJNZFA5T2h4ZktkN3dDT3g?oc=5",
+          "published_at": "2026-09-08T15:00:00+00:00",
+          "excerpt": "Inside Google Maps: 72 ranking signals and the architecture behind local search Search Engine Land",
+          "fetched_at": "2026-09-09T09:02:47.856797+00:00"
+        },
+        {
+          "title": "Before scaling programmatic SEO, prove the pattern works",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0NlZUhhVTBnR2hLb2NlNzl3VHZGOEhBNW5lSFVJVHU0ZEhtTkdfZE5YX3hHX1BGbjk1X0hWMlpkZWtFWUh3QzVaZVVPSkktdUxYMk5GcmxpU0ZieDBzYmxENDYzOEF4b1JlX3ZYTTFwZ0diSDd3M3ZBZjNpbnZqT0RCLTJSRnpIMjJNdHAzMGE?oc=5",
+          "published_at": "2026-09-08T14:00:00+00:00",
+          "excerpt": "Before scaling programmatic SEO, prove the pattern works Search Engine Land",
+          "fetched_at": "2026-09-09T09:02:47.856797+00:00"
+        },
+        {
           "title": "The 11x ROAS account that lost money on every order",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NYVdhRGUxVGJISURfQlVNRjUxWlpXS2pfdzRCbWl0YlhjTzZTWGJaUmZDWXNOUUpKaVNzd2V6UTNwcXZxZllPYWd2VHJyOThCd01uTWJzb3VobmwxMFByZUNvVGs0TFZuVHRZU1duNXBSbFE3ZHBXOGJ2MA?oc=5",
           "published_at": "2026-09-08T13:00:00+00:00",
@@ -4457,13 +4513,6 @@
           "fetched_at": "2026-09-04T16:29:57.579187+00:00"
         },
         {
-          "title": "SMX Now: Find the entity gaps holding back your content strategy",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aWktGS2J2eWN0ZnN1bXk0SF90dWdlbzVyRlZRUkxSVkxkMnFWeFlUTHhmaWp1bENTU0dTWDdIYi1WYjdnTU1qY0NpY2FYRHhjLWZIU09jT2hpVDB3T0xFSmZ4OUdQc3gwUnd1dHIxRW9lSHRlN0lFclRwdGs?oc=5",
-          "published_at": "2026-09-03T17:01:00+00:00",
-          "excerpt": "SMX Now: Find the entity gaps holding back your content strategy Search Engine Land",
-          "fetched_at": "2026-09-04T08:55:43.309082+00:00"
-        },
-        {
           "title": "Social network usage & growth statistics (2026) - searchengineland.com",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMdlpHQjhmVWFaeG0xVGRQRW1NV0pYYmItc0J5VjJXZm9rcVlrMVBZdU1MeUZ0Y196dG5GTndsaHJITzVRN2NSQkRtMUVpNS02VlFCNHk0N3BGN1hmR0lKMHRFYw?oc=5",
           "published_at": "2026-09-03T16:57:00+00:00",
@@ -4618,13 +4667,6 @@
           "fetched_at": "2026-09-01T16:46:39.958328+00:00"
         },
         {
-          "title": "Calls and clicks keep falling as Google Maps becomes the destination",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc3JEX3hGNDJaSGg2b1luX3BmRUFpa19VUVpILUFROG1kUTQ4LWlaYlR4d3pDY0JQY2xiem4wLTRqdU9vOVFmMTZ0TWNKRUJHN0ZoMGcyRkRFVG1Cbm8yNGhFWFEyTmJyekJBNnMtLVRxdXJ5QUVTei15SXJTRC1iMnhxaERvWDg?oc=5",
-          "published_at": "2026-08-31T16:00:00+00:00",
-          "excerpt": "Calls and clicks keep falling as Google Maps becomes the destination Search Engine Land",
-          "fetched_at": "2026-08-31T19:10:50.321892+00:00"
-        },
-        {
           "title": "Google Search Console AI performance reports and Search generative AI control rolling out globally",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTJYVFg1eDdGdjduWU4xUE9xeTdLWDg1QXJZTzZlVk03cVFtaU8tN2tCcjIzeVNLbW51NlZiRUx3UWJNeklsMlVrUU5Fd1hfS3BWTHJxWXpZaFoyaU5PRzNRYkJrWTh0d0VnYW1wMllia05zb3U2WVd0TW5zS292anh2dURqZHJQLUF5VFlneFdna01DWnA2Y3hOLVB2bEltbVp3VEZJRUdUZVZhVWxtUTQxd21yR3F4QzVTdnlheUZ0WFZuV0Jnd080MmphZ1E?oc=5",
           "published_at": "2026-08-31T15:15:00+00:00",
@@ -4664,6 +4706,13 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvS3J1bk1ubkxCbmFVbXBlaEt1XzZ6aFJ5cXlOeUdVOV94QjZXcXFUTDAwVW5JNnIyM2N3bWVPS2k3RGJoTEFMN0ZVU2QyT3lfWGVsY2FHcE5uM2VXVU1EWHNPdTJpTFFDUXBjZUFieG42a1NKem1HRXJReG0?oc=5",
           "published_at": "2026-08-31T07:00:00+00:00",
           "excerpt": "5 steps to building Reddit authority for Google and ChatGPT visibility Search Engine Land",
+          "fetched_at": "2026-08-31T19:10:50.321892+00:00"
+        },
+        {
+          "title": "Calls and clicks keep falling as Google Maps becomes the destination",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc3JEX3hGNDJaSGg2b1luX3BmRUFpa19VUVpILUFROG1kUTQ4LWlaYlR4d3pDY0JQY2xiem4wLTRqdU9vOVFmMTZ0TWNKRUJHN0ZoMGcyRkRFVG1Cbm8yNGhFWFEyTmJyekJBNnMtLVRxdXJ5QUVTei15SXJTRC1iMnhxaERvWDg?oc=5",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "excerpt": "Calls and clicks keep falling as Google Maps becomes the destination Search Engine Land",
           "fetched_at": "2026-08-31T19:10:50.321892+00:00"
         },
         {
@@ -7559,6 +7608,55 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "The AI Citation Mistake: Optimizing For Google, Not For Sources via @sejournal, @lorenbaker",
+          "url": "https://www.searchenginejournal.com/the-ai-citation-mistake-optimizing-for-google-not-for-sources-webinar/588522/",
+          "published_at": "2026-09-09T07:45:41+00:00",
+          "excerpt": "Page-one rankings don't earn AI citations. Learn which sources ChatGPT, Perplexity, and Gemini trust in your industry, and how to get published by them. The post The AI Citation Mistake: Optimizing For Google, Not For Sources appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-09T09:03:00.886118+00:00"
+        },
+        {
+          "title": "AI Visibility For Local Businesses: How To Get Recommended By ChatGPT & AI Overviews In 90 Days via @sejournal, @reviewlyAI",
+          "url": "https://www.searchenginejournal.com/ai-overview-recommendation-plan-reviewly-spa/587030/",
+          "published_at": "2026-09-09T05:00:35+00:00",
+          "excerpt": "Explore the significance of AI visibility for local businesses. Learn what makes some businesses stand out in AI searches. The post AI Visibility For Local Businesses: How To Get Recommended By ChatGPT & AI Overviews In 90 Days appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-09T09:03:00.886118+00:00"
+        },
+        {
+          "title": "Google Ads Introduces Local Customer Optimization via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/google-ads-introduces-local-customer-optimization/588886/",
+          "published_at": "2026-09-09T02:54:24+00:00",
+          "excerpt": "Google Ads brings Local Customer Optimization to Performance Max and easier Store Sales measurement to help retailers drive and measure in-store purchases. The post Google Ads Introduces Local Customer Optimization appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-09T09:03:00.886118+00:00"
+        },
+        {
+          "title": "Google Rolls Out Redesigned Search Results Across The EEA via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-rolls-out-redesigned-search-results-across-the-eea/588870/",
+          "published_at": "2026-09-09T00:41:01+00:00",
+          "excerpt": "Google rolled out redesigned Search results in the EEA, reworking aggregator units and adding supplier units for hotel, flight, transport, and product queries. The post Google Rolls Out Redesigned Search Results Across The EEA appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-09T09:03:00.886118+00:00"
+        },
+        {
+          "title": "UK Publisher Loses 98% Of News Search Visibility After .com Move via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/uk-publisher-news-search-visibility-com-move/588840/",
+          "published_at": "2026-09-08T19:24:24+00:00",
+          "excerpt": "A UK news site's trending-query visibility collapsed after moving from .co.uk to .com, and the new domain didn't pick up what the old one lost. The post UK Publisher Loses 98% Of News Search Visibility After .com Move appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-09T09:03:00.886118+00:00"
+        },
+        {
+          "title": "Google Says Old Low-Value Pages May Affect Site Recovery via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-says-old-low-value-pages-may-affect-site-recovery/588837/",
+          "published_at": "2026-09-08T18:42:36+00:00",
+          "excerpt": "John Mueller says Google's systems may still judge a site by its old low-value programmatic pages, and that showing value again takes time and effort. The post Google Says Old Low-Value Pages May Affect Site Recovery appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-09T09:03:00.886118+00:00"
+        },
+        {
+          "title": "InMotion Cloud Debuts Fixed-Price Managed Cloud via @sejournal, @inmotionhosting",
+          "url": "https://www.searchenginejournal.com/inmotion-cloud-debuts-fixed-price-managed-private-cloud-spn/587527/",
+          "published_at": "2026-09-08T17:05:00+00:00",
+          "excerpt": "InMotion Cloud launches a fixed-price Managed Private Cloud built on bare metal, with predictable monthly rates, fixed egress, and U.S.-based support. The post InMotion Cloud Debuts Fixed-Price Managed Cloud appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-09T09:03:00.886118+00:00"
+        },
+        {
           "title": "When Attribution Looks More Precise Than The Data Behind It via @sejournal, @bngsrc",
           "url": "https://www.searchenginejournal.com/when-attribution-looks-more-precise-than-the-data-behind-it/586762/",
           "published_at": "2026-09-08T14:30:05+00:00",
@@ -7650,39 +7748,32 @@
           "fetched_at": "2026-09-03T16:34:12.066566+00:00"
         },
         {
-          "title": "Should I Block AI Crawlers At Robots.txt Or Server Level? – Ask An SEO via @sejournal, @HelenPollitt1",
+          "title": "Should I Block AI Crawlers At Robots.txt Or Server Level? – Ask An SEO",
           "url": "https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-at-robots-txt-or-server-level/586390/",
           "published_at": "2026-09-03T12:00:18+00:00",
           "excerpt": "Robots.txt relies on bot compliance, while WAF, CDN, and server-level blocks enforce it. A breakdown of which layer stops AI crawlers for good. The post Should I Block AI Crawlers At Robots.txt Or Server Level? – Ask An SEO appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-03T16:34:12.066566+00:00"
         },
         {
-          "title": "Google Says Ranking Recovery Takes Months After SEO Issues Are Fixed via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/google-says-ranking-recovery-takes-months-after-seo-issues-are-fixed/588268/",
-          "published_at": "2026-09-03T10:37:14+00:00",
-          "excerpt": "Google explains why fixing what caused a ranking drop doesn’t necessarily mean rankings will come back anytime soon. The post Google Says Ranking Recovery Takes Months After SEO Issues Are Fixed appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-03T16:34:12.066566+00:00"
-        },
-        {
-          "title": "AI Slop Cleanup Job Listings Up 87%, Report Says via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/ai-slop-cleanup-job-listings-report/588235/",
-          "published_at": "2026-09-03T09:30:43+00:00",
-          "excerpt": "The Guardian reports AI cleanup listings are up 87%, while freelancers say clients lowball the work. The post AI Slop Cleanup Job Listings Up 87%, Report Says appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-03T16:34:12.066566+00:00"
-        },
-        {
-          "title": "Google AI Mode Prices Differ From Product Carousel For Same Items via @sejournal, @MattGSouthern",
+          "title": "Google AI Mode Prices Differ From Product Carousel For Same Items",
           "url": "https://www.searchenginejournal.com/google-ai-mode-prices-differ-from-product-carousel-for-same-items/588227/",
-          "published_at": "2026-09-03T08:00:14+00:00",
+          "published_at": "2026-09-03T00:00:00+00:00",
           "excerpt": "Data finds Google AI Mode rarely shows the same products as the regular results carousel, and often lists a different seller when it does. The post Google AI Mode Prices Differ From Product Carousel For Same Items appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-03T09:02:26.830980+00:00"
         },
         {
-          "title": "Google Responds To Sitemap SEO Technique That Forces Daily Crawling via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/google-responds-to-sitemap-seo-technique-that-forces-daily-crawling/588222/",
-          "published_at": "2026-09-02T22:09:39+00:00",
-          "excerpt": "Google's Mueller comments on a sitemap SEO method that forces search engines to crawl and index web pages every day. The post Google Responds To Sitemap SEO Technique That Forces Daily Crawling appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-03T09:02:26.830980+00:00"
+          "title": "Google Says Ranking Recovery Takes Months After SEO Issues Are Fixed",
+          "url": "https://www.searchenginejournal.com/google-says-ranking-recovery-takes-months-after-seo-issues-are-fixed/588268/",
+          "published_at": "2026-09-03T00:00:00+00:00",
+          "excerpt": "Google explains why fixing what caused a ranking drop doesn’t necessarily mean rankings will come back anytime soon. The post Google Says Ranking Recovery Takes Months After SEO Issues Are Fixed appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-03T16:34:12.066566+00:00"
+        },
+        {
+          "title": "AI Slop Cleanup Job Listings Up 87%, Report Says",
+          "url": "https://www.searchenginejournal.com/ai-slop-cleanup-job-listings-report/588235/",
+          "published_at": "2026-09-03T00:00:00+00:00",
+          "excerpt": "The Guardian reports AI cleanup listings are up 87%, while freelancers say clients lowball the work. The post AI Slop Cleanup Job Listings Up 87%, Report Says appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-03T16:34:12.066566+00:00"
         },
         {
           "title": "Google Adds Gemini 3.8 Flash To AI Mode via @sejournal, @MattGSouthern",
@@ -7692,7 +7783,7 @@
           "fetched_at": "2026-09-03T09:02:26.830980+00:00"
         },
         {
-          "title": "The Next AI Protocol Won’t Save Your SEO Strategy via @sejournal, @billhunt",
+          "title": "The Next AI Protocol Won’t Save Your SEO Strategy",
           "url": "https://www.searchenginejournal.com/the-next-ai-protocol-wont-save-your-seo-strategy/585714/",
           "published_at": "2026-09-02T19:00:07+00:00",
           "excerpt": "Publishing a format is not the same as possessing the knowledge. Bill Hunt on why knowledge architecture outlasts every AI protocol. The post The Next AI Protocol Won’t Save Your SEO Strategy appeared first on Search Engine Journal .",
@@ -7732,6 +7823,13 @@
           "published_at": "2026-09-02T00:00:00+00:00",
           "excerpt": "As agents and MCP connectors take over PPC management outside the Google Ads UI, this piece maps the risks and the governance needed to avoid. The post What Happens To PPC When You Stop Managing Google Ads Through Google Ads appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-02T16:43:01.406820+00:00"
+        },
+        {
+          "title": "Google Responds To Sitemap SEO Technique That Forces Daily Crawling",
+          "url": "https://www.searchenginejournal.com/google-responds-to-sitemap-seo-technique-that-forces-daily-crawling/588222/",
+          "published_at": "2026-09-02T00:00:00+00:00",
+          "excerpt": "Google's Mueller comments on a sitemap SEO method that forces search engines to crawl and index web pages every day. The post Google Responds To Sitemap SEO Technique That Forces Daily Crawling appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-03T09:02:26.830980+00:00"
         },
         {
           "title": "The Technical Signals AI Search Uses That Most SEOs Still Aren’t Optimizing",
@@ -8089,6 +8187,13 @@
           "published_at": "2026-08-22T12:30:28+00:00",
           "excerpt": "Google's August spam update rolls out as generative UI reaches AI Overviews, websites get a new button, and Reddit's ChatGPT citation share falls. The post Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse appeared first on Search Engine Journal .",
           "fetched_at": "2026-08-22T13:48:20.959595+00:00"
+        },
+        {
+          "title": "ChatGPT Ads & GEO: A Roundtable With Go Fish Digital & OpenAI",
+          "url": "https://www.searchenginejournal.com/chatgpt-ads-geo-a-roundtable-with-go-fish-digital-openai/",
+          "published_at": "2026-08-21T17:44:08+00:00",
+          "excerpt": "Learn how to maximize your presence on ChatGPT through GEO and advertising in this practical live roundtable with experts from OpenAI and Go Fish Digital.",
+          "fetched_at": "2026-09-09T09:03:00.886118+00:00"
         },
         {
           "title": "Google’s Generated Interfaces Could Compete With Tool Pages via @sejournal, @MattGSouthern",
@@ -11554,6 +11659,20 @@
       "color": "#ea4335",
       "articles": [
         {
+          "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
+          "published_at": "2026-09-09T07:00:00+00:00",
+          "excerpt": "Seven people standing on a stage in front of a piece of art and screens that read \"Investing in Finland\" and blue and white confetti",
+          "fetched_at": "2026-09-09T09:03:12.017355+00:00"
+        },
+        {
+          "title": "Our blueprint for responsible clean energy growth in Finland",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-finland/",
+          "published_at": "2026-09-09T07:00:00+00:00",
+          "excerpt": "Animation showing Google’s approach to responsible energy growth in Finland",
+          "fetched_at": "2026-09-09T09:03:12.017355+00:00"
+        },
+        {
           "title": "Missouri and Google partner on AI and career training",
           "url": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/",
           "published_at": "2026-09-08T15:05:00+00:00",
@@ -11664,6 +11783,13 @@
           "published_at": "2026-09-02T15:00:00+00:00",
           "excerpt": "a hero image reading \"Gemini 3.8 Flash and 3.8 Flash Cyber\"",
           "fetched_at": "2026-09-02T16:43:14.630452+00:00"
+        },
+        {
+          "title": "Drive with Carín León on Waze",
+          "url": "https://blog.google/waze/waze-carin-leon/",
+          "published_at": "2026-09-02T14:54:00+00:00",
+          "excerpt": "Image of Carin Leon in the desert with a guitar",
+          "fetched_at": "2026-09-09T09:03:12.017355+00:00"
         },
         {
           "title": "MrBeast partners with Gemini to turn impossibly big ideas into reality",
