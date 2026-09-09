@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T09:03:12.020902+00:00",
+  "last_updated": "2026-09-09T16:47:21.271231+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,6 +4296,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Caught by Google’s spam update? Don’t make recovery harder",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWm5YaVpqZU1nRm5WTHpxaFE2a0huRWlmUThGd0pNTmdNaGVJN251VURIX2ExdjZScWppSWlDOE5GUl84MEY5X2tvWWpRNWtrRnVsSEI2YllDUzFrV3hJczdfb0xPc2hzUDBrX09vRGNBZFFhTTViOThVb0dfZHZMcXliUEFyTWM?oc=5",
+          "published_at": "2026-09-09T14:00:00+00:00",
+          "excerpt": "Caught by Google’s spam update? Don’t make recovery harder Search Engine Land",
+          "fetched_at": "2026-09-09T16:46:55.888662+00:00"
+        },
+        {
           "title": "SMX Now: Find the entity gaps holding back your content strategy",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aWktGS2J2eWN0ZnN1bXk0SF90dWdlbzVyRlZRUkxSVkxkMnFWeFlUTHhmaWp1bENTU0dTWDdIYi1WYjdnTU1qY0NpY2FYRHhjLWZIU09jT2hpVDB3T0xFSmZ4OUdQc3gwUnd1dHIxRW9lSHRlN0lFclRwdGs?oc=5",
           "published_at": "2026-09-08T18:02:00+00:00",
@@ -4681,13 +4688,6 @@
           "fetched_at": "2026-08-29T16:48:46.086144+00:00"
         },
         {
-          "title": "Microsoft Advertising rolling out new design for advertiser console",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOeUVMR0tWWHhCcTRDUHFJaEVlZFRXejhReV9sRDBVSnhlYkpKNHJVNDlORjNUUm5ydkJXSHppcVFUeUpiYnk5bm9sN04wXzBnZ2l0akZ2RlBReDJETnBwbDc3SEFFa0t2SGYtYnVqQklpQnNsS2k5OEM4c0VUWkZjdVg3Q1NvTGJlS0M5NDlWbmFlTk43a0RYRnozekNJck96UGRB?oc=5",
-          "published_at": "2026-08-31T13:47:00+00:00",
-          "excerpt": "Microsoft Advertising rolling out new design for advertiser console Search Engine Land",
-          "fetched_at": "2026-09-01T09:30:30.449694+00:00"
-        },
-        {
           "title": "Building an AI agent for ad management: The hard part isn’t the AI",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Tbksya1EwN2prLUNMYnZNT05YczdEQWFrbDFBYTdMWkRVSkRpbWZOQnpubWRqQWdGOXhxS3ZUV28yVlZZUzlGWl9SU0hoSlJ0QjBaSXlrRVV6WlJhU0RjNk9NdXBzRG9iMVEyRlJyWURfZ2s4NGs4?oc=5",
           "published_at": "2026-08-31T12:00:00+00:00",
@@ -4721,6 +4721,13 @@
           "published_at": "2026-08-31T07:00:00+00:00",
           "excerpt": "How to map AI search prompts to every stage of the sales funnel Search Engine Land",
           "fetched_at": "2026-08-31T19:10:50.321892+00:00"
+        },
+        {
+          "title": "Microsoft Advertising rolling out new design for advertiser console",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOeUVMR0tWWHhCcTRDUHFJaEVlZFRXejhReV9sRDBVSnhlYkpKNHJVNDlORjNUUm5ydkJXSHppcVFUeUpiYnk5bm9sN04wXzBnZ2l0akZ2RlBReDJETnBwbDc3SEFFa0t2SGYtYnVqQklpQnNsS2k5OEM4c0VUWkZjdVg3Q1NvTGJlS0M5NDlWbmFlTk43a0RYRnozekNJck96UGRB?oc=5",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "excerpt": "Microsoft Advertising rolling out new design for advertiser console Search Engine Land",
+          "fetched_at": "2026-09-01T09:30:30.449694+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -7608,6 +7615,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "New Google Guide To Regional Search Features & Eligibility via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-regional-search-features-eligibility-guide/588975/",
+          "published_at": "2026-09-09T16:37:30+00:00",
+          "excerpt": "Google added documentation mapping regional Search features in the EEA, Türkiye, and South Africa, with eligibility and participation steps. The post New Google Guide To Regional Search Features & Eligibility appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-09T16:47:05.702908+00:00"
+        },
+        {
+          "title": "How AI Is Reshaping Search Intent – What 2 Studies Reveal via @sejournal, @ClaraSoteras",
+          "url": "https://www.searchenginejournal.com/how-ai-is-reshaping-search-intent-what-2-studies-reveal/587491/",
+          "published_at": "2026-09-09T14:30:47+00:00",
+          "excerpt": "Search intent is fracturing across AI Mode, video platforms, and zero-click results and Google's own metrics reveal what actually earns clicks now. The post How AI Is Reshaping Search Intent – What 2 Studies Reveal appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-09T16:47:05.702908+00:00"
+        },
+        {
+          "title": "Brands Are Tracking AI Visibility, But Are They Measuring The Right Things? via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/brands-are-tracking-ai-visibility-but-are-they-measuring-the-right-things/587888/",
+          "published_at": "2026-09-09T12:00:30+00:00",
+          "excerpt": "AI visibility tools track brand mentions and citations, but marketers need outcome data to know what those movements mean and what to do next. The post Brands Are Tracking AI Visibility, But Are They Measuring The Right Things? appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-09T16:47:05.702908+00:00"
+        },
+        {
           "title": "The AI Citation Mistake: Optimizing For Google, Not For Sources via @sejournal, @lorenbaker",
           "url": "https://www.searchenginejournal.com/the-ai-citation-mistake-optimizing-for-google-not-for-sources-webinar/588522/",
           "published_at": "2026-09-09T07:45:41+00:00",
@@ -7727,20 +7755,6 @@
           "fetched_at": "2026-09-04T16:30:08.739771+00:00"
         },
         {
-          "title": "Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/googles-new-weather-ai-in-search-continues-shift-away-from-10-blue-links/588392/",
-          "published_at": "2026-09-03T21:00:25+00:00",
-          "excerpt": "Google's latest Search integration is another step to a future where users get things done without traditional search results. The post Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-04T08:55:55.832714+00:00"
-        },
-        {
-          "title": "Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% via @sejournal, @gregjarboe",
-          "url": "https://www.searchenginejournal.com/product-pages-get-24-of-ai-citations-reddit-youtube-4/587560/",
-          "published_at": "2026-09-03T19:00:45+00:00",
-          "excerpt": "Ten Speed's citation study shows product pages beating Reddit nearly six to one for B2B buyers, verified only after six pointed fact-check questions. The post Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-04T08:55:55.832714+00:00"
-        },
-        {
           "title": "When AI Has Nothing On Your Company, It Describes Someone Else via @sejournal, @DuaneForrester",
           "url": "https://www.searchenginejournal.com/when-ai-has-nothing-on-your-company-it-describes-someone-else/587876/",
           "published_at": "2026-09-03T14:30:00+00:00",
@@ -7776,11 +7790,18 @@
           "fetched_at": "2026-09-03T16:34:12.066566+00:00"
         },
         {
-          "title": "Google Adds Gemini 3.8 Flash To AI Mode via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/",
-          "published_at": "2026-09-02T19:41:19+00:00",
-          "excerpt": "Google added Gemini 3.8 Flash to AI Mode's model menu on release day. The post Google Adds Gemini 3.8 Flash To AI Mode appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-03T09:02:26.830980+00:00"
+          "title": "Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links",
+          "url": "https://www.searchenginejournal.com/googles-new-weather-ai-in-search-continues-shift-away-from-10-blue-links/588392/",
+          "published_at": "2026-09-03T00:00:00+00:00",
+          "excerpt": "Google's latest Search integration is another step to a future where users get things done without traditional search results. The post Google’s New Weather AI In Search Continues Shift Away From 10 Blue Links appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-04T08:55:55.832714+00:00"
+        },
+        {
+          "title": "Product Pages Get 24% Of AI Citations, Reddit & YouTube 4%",
+          "url": "https://www.searchenginejournal.com/product-pages-get-24-of-ai-citations-reddit-youtube-4/587560/",
+          "published_at": "2026-09-03T00:00:00+00:00",
+          "excerpt": "Ten Speed's citation study shows product pages beating Reddit nearly six to one for B2B buyers, verified only after six pointed fact-check questions. The post Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-04T08:55:55.832714+00:00"
         },
         {
           "title": "The Next AI Protocol Won’t Save Your SEO Strategy",
@@ -7829,6 +7850,13 @@
           "url": "https://www.searchenginejournal.com/google-responds-to-sitemap-seo-technique-that-forces-daily-crawling/588222/",
           "published_at": "2026-09-02T00:00:00+00:00",
           "excerpt": "Google's Mueller comments on a sitemap SEO method that forces search engines to crawl and index web pages every day. The post Google Responds To Sitemap SEO Technique That Forces Daily Crawling appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-03T09:02:26.830980+00:00"
+        },
+        {
+          "title": "Google Adds Gemini 3.8 Flash To AI Mode",
+          "url": "https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/",
+          "published_at": "2026-09-02T00:00:00+00:00",
+          "excerpt": "Google added Gemini 3.8 Flash to AI Mode's model menu on release day. The post Google Adds Gemini 3.8 Flash To AI Mode appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-03T09:02:26.830980+00:00"
         },
         {
@@ -9686,6 +9714,27 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
+          "url": "https://www.semrush.com/blog/seoquake-relaunch/",
+          "published_at": "2026-09-09T15:37:00+00:00",
+          "excerpt": "Semrush released a rebuilt version of SEOquake, the free Chrome extension for running quick page-level SEO checks without leaving your browser.",
+          "fetched_at": "2026-09-09T16:47:12.480104+00:00"
+        },
+        {
+          "title": "How to build your first AI SEO agent (full walk-through)",
+          "url": "https://www.semrush.com/blog/seo-ai-agent/",
+          "published_at": "2026-09-09T09:38:00+00:00",
+          "excerpt": "Learn how to build an AI SEO agent from scratch to automate important tasks like keyword research and topic clustering.",
+          "fetched_at": "2026-09-09T16:47:12.480104+00:00"
+        },
+        {
+          "title": "9 best AI search engines in 2026 [tested & reviewed]",
+          "url": "https://www.semrush.com/blog/best-ai-search-engines/",
+          "published_at": "2026-09-09T09:22:00+00:00",
+          "excerpt": "We reviewed the best AI search engines so you can choose the right one for your needs.",
+          "fetched_at": "2026-09-09T16:47:12.480104+00:00"
+        },
+        {
           "title": "AI search & manufacturing SEO: What the data shows [Study]",
           "url": "https://www.semrush.com/blog/manufacturing-seo-ai-search/",
           "published_at": "2026-09-08T13:38:00+00:00",
@@ -9707,18 +9756,25 @@
           "fetched_at": "2026-09-07T17:47:34.495835+00:00"
         },
         {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-09-07T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
+          "title": "Alex Lindley",
+          "url": "https://www.semrush.com/blog/user/alex-lindley/",
+          "published_at": "2026-09-07T00:00:00+00:00",
+          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "Long-tail keywords: the ultimate guide",
           "url": "https://www.semrush.com/blog/how-to-choose-long-tail-keywords/",
           "published_at": "2026-09-03T10:48:00+00:00",
           "excerpt": "Use long-tail keywords to drive quality traffic to your site from search and AI. Here’s how.",
           "fetched_at": "2026-09-03T16:34:16.548789+00:00"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-09-03T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Create an AI Brand Visibility Report [+ Template]",
@@ -9814,23 +9870,16 @@
         {
           "title": "The ultimate guide to creating a content marketing strategy",
           "url": "https://www.semrush.com/blog/content-marketing-strategy-guide/",
-          "published_at": "2026-08-19T08:34:00+00:00",
+          "published_at": "2026-08-19T00:00:00+00:00",
           "excerpt": "This step-by-step guide teaches you how to build a content marketing strategy for your business.",
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
         {
           "title": "Microsoft Clarity adds an AI Scrape-to-Referral Ratio",
           "url": "https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/",
-          "published_at": "2026-08-19T08:22:00+00:00",
+          "published_at": "2026-08-19T00:00:00+00:00",
           "excerpt": "Microsoft Clarity‘s AI Scrape-to-Referral Ratio compares what AI crawlers take from your site with what they send back.",
           "fetched_at": "2026-08-19T14:18:14.635691+00:00"
-        },
-        {
-          "title": "SEO content: A complete guide for search and AI",
-          "url": "https://www.semrush.com/blog/seo-content/",
-          "published_at": "2026-08-17T10:53:00+00:00",
-          "excerpt": "SEO content now has three audiences: users, search engines, and AI. Follow this five-step workflow to create pages that rank and get cited.",
-          "fetched_at": "2026-08-17T14:03:51.544370+00:00"
         },
         {
           "title": "Sergei Rogulin",
@@ -9838,6 +9887,13 @@
           "published_at": "2026-08-17T00:00:00+00:00",
           "excerpt": "How we nearly tripled our share of voice and boosted our AI visibility with Enterprise AIO and AI Visibility Toolkit. A systematic approach with real data.",
           "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
+          "title": "SEO content: A complete guide for search and AI",
+          "url": "https://www.semrush.com/blog/seo-content/",
+          "published_at": "2026-08-17T00:00:00+00:00",
+          "excerpt": "SEO content now has three audiences: users, search engines, and AI. Follow this five-step workflow to create pages that rank and get cited.",
+          "fetched_at": "2026-08-17T14:03:51.544370+00:00"
         },
         {
           "title": "SEO strategy in 2026: how to build one (+ free workbook)",
@@ -10470,13 +10526,6 @@
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
         {
-          "title": "Alex Lindley",
-          "url": "https://www.semrush.com/blog/user/alex-lindley/",
-          "published_at": "2026-05-21T00:00:00+00:00",
-          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "What is PPC? A starter guide to pay-per-click advertising",
           "url": "https://www.semrush.com/blog/what-is-ppc/",
           "published_at": "2026-05-21T00:00:00+00:00",
@@ -10601,6 +10650,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "A B2B CMO’s Guide to the 10 Best 6sense Alternatives",
+          "url": "https://www.factors.ai/blog/6sense-alternatives-and-competitors",
+          "published_at": "2026-09-09T00:00:00+00:00",
+          "excerpt": "Looking for a 6sense alternative? Compare Factors.ai, Demandbase, UserGems, AdRoll, ZoomInfo, Bombora, Cognism, Apollo, Warmly, and more.",
+          "fetched_at": "2026-09-09T16:47:14.609354+00:00"
+        },
         {
           "title": "Top 10 Best B2B Sales Prospecting Tools (That Help You Find Buyers, Not Just Names)",
           "url": "https://www.factors.ai/blog/best-sales-prospecting-tools",
@@ -11374,6 +11430,20 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "The Anatomy of Harness Engineering: How to Evaluate, Iterate, and Guard AI Coding Agents",
+          "url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
+          "published_at": "2026-09-09T00:00:00+00:00",
+          "excerpt": "While end-to-end benchmarks like SWE-bench provide broad performance scores for AI agents, they are often expensive, slow, and lack the root-cause diagnostics needed to explain exactly where an agent's logic broke down. To solve this, developers should adopt behavioral evaluatio…",
+          "fetched_at": "2026-09-09T16:47:20.395883+00:00"
+        },
+        {
+          "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
+          "url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
+          "published_at": "2026-09-09T00:00:00+00:00",
+          "excerpt": "Google has officially released version 1.0 of the Agent Development Kit (ADK) for Kotlin, achieving full feature parity with the Python and Java ADK cores to enable idiomatic, multi-agent AI development. Built on Kotlin Multiplatform (KMP), the framework leverages Kotlin Symbol…",
+          "fetched_at": "2026-09-09T16:47:20.395883+00:00"
+        },
+        {
           "title": "Driving Developer Excellence: Inside the Program Sprints",
           "url": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
           "published_at": "2026-09-04T00:00:00+00:00",
@@ -11658,6 +11728,34 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Get ready for the game with new football features in Search",
+          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+          "published_at": "2026-09-09T16:00:00+00:00",
+          "excerpt": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play diagrams, with the icon for AI Mode in Google Search in t",
+          "fetched_at": "2026-09-09T16:47:21.268140+00:00"
+        },
+        {
+          "title": "Recreating a 70-year love story frame by frame",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+          "published_at": "2026-09-09T16:00:00+00:00",
+          "excerpt": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+          "fetched_at": "2026-09-09T16:47:21.268140+00:00"
+        },
+        {
+          "title": "Google Accelerators have spent the last decade helping global startups succeed.",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/",
+          "published_at": "2026-09-09T16:00:00+00:00",
+          "excerpt": "Since 2016, we’ve supported 2,115 startups, developers, research organizations, and NGOs across 92 countries.",
+          "fetched_at": "2026-09-09T16:47:21.268140+00:00"
+        },
+        {
+          "title": "4 ways Gemini makes administrative chores quick and easy",
+          "url": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/",
+          "published_at": "2026-09-09T16:00:00+00:00",
+          "excerpt": "\"Ask Gemini\" prompt box over a photo of a woman sitting in front of a laptop and looking through various documents",
+          "fetched_at": "2026-09-09T16:47:21.268140+00:00"
+        },
         {
           "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
