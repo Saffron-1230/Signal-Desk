@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T09:02:19.172939+00:00",
+  "last_updated": "2026-09-10T16:33:34.947589+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4338,6 +4338,13 @@
           "fetched_at": "2026-09-09T16:46:55.888662+00:00"
         },
         {
+          "title": "The AI hours nobody on your marketing team is counting",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWJtaEdHX3BLMVplb2JQV2szajk1YnpVVGF0eEZYTE5WQVg1TGd5NmV1MEtRRlhEQ0hDSjMtWGl1QThWQlp4MkUyU0E2aUJvVkRYMVJvbmVLS19SVTZQY1JXMEc2TTZsTFlRT3VQQmZkRTMybXhjMVgyTFdQTlVpaDhFRm80V0YwODFFQXZvYjVSOFJ4?oc=5",
+          "published_at": "2026-09-09T12:00:00+00:00",
+          "excerpt": "The AI hours nobody on your marketing team is counting Search Engine Land",
+          "fetched_at": "2026-09-10T16:33:09.977544+00:00"
+        },
+        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWW12Z2xQVW1GZW1UUml1RWFnTWFSSUxEMnBlVTBUVkMtTUdUWE5LVE9iVVJzeWxEbl9Ec2hEMnkwbnowSkFQLUpzaG50dElPbDdkTUtnVk1BYXBIWndVa2s3LVpVRGlDdFVVUk81ZldpOGFMZUJPVlp4ZnlqcFJOb0JRbHMwM3hxVFNJcWZad1RYOHNYV2V5NXRBNE16ZGpPaXF2WFFzV1JaRWxLS3NsME1oNUVjMnU0ZTAzTXpn?oc=5",
           "published_at": "2026-09-09T08:01:13+00:00",
@@ -4604,13 +4611,6 @@
           "fetched_at": "2026-09-05T08:26:53.847335+00:00"
         },
         {
-          "title": "From content creation to content orchestration: How agentic AI changes the role of content strategists",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2tkR3V1Sk5pSG5qNFdOc0tKblNfTEhJZVo2R21JOG9NamZEakUzZnJaMjdnZGlVc1VkSFBTWFJKN1FjX29sM2RhNGxOQ0c3dF9rZ2JmQVhQeTcyUzdZNlZab25xWDdlVnR2U09Nc2pSVjRJUi1sM1JsanJlOTVaUzVkZ3pKMkN6dmlyQmU5RThqOGxjSWZfMVE0QVA3ZHc?oc=5",
-          "published_at": "2026-09-02T20:44:00+00:00",
-          "excerpt": "From content creation to content orchestration: How agentic AI changes the role of content strategists Search Engine Land",
-          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
-        },
-        {
           "title": "Gemini 3.8 Flash rolling out in Google Search",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYTU3RWtxaE8xWF93cjZDUWthT0R3TjA4cTVFUDZoT0Y0eXlneXc0SDhUNENaWUlQNUh3ODctbmNnZzRhaUYySkROYkJmZzZZcE9uVGVSRVRSQldPbzVrd3draE9SS0pCaWcxZUFlWU0zbjgxS0k1WjRJWVJYWDJxUlJzU2VUblVM?oc=5",
           "published_at": "2026-09-02T15:56:00+00:00",
@@ -4674,6 +4674,13 @@
           "fetched_at": "2026-09-03T16:33:59.456858+00:00"
         },
         {
+          "title": "From content creation to content orchestration: How agentic AI changes the role of content strategists",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2tkR3V1Sk5pSG5qNFdOc0tKblNfTEhJZVo2R21JOG9NamZEakUzZnJaMjdnZGlVc1VkSFBTWFJKN1FjX29sM2RhNGxOQ0c3dF9rZ2JmQVhQeTcyUzdZNlZab25xWDdlVnR2U09Nc2pSVjRJUi1sM1JsanJlOTVaUzVkZ3pKMkN6dmlyQmU5RThqOGxjSWZfMVE0QVA3ZHc?oc=5",
+          "published_at": "2026-09-02T07:00:00+00:00",
+          "excerpt": "From content creation to content orchestration: How agentic AI changes the role of content strategists Search Engine Land",
+          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
+        },
+        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPMURyQVphQnBkS1NjLTZJUktEelNnUDI5QzJnRjNyTWlqdml6OHllY2d1SzBkajVSai1kMllsdUhaZXJBbVN1VWxoVFppUldOdlNwVUNmX2ZiTTJPckQ5MmJFcXh0Q1BqMHNfbnMzczJYeWJibWdIUXdZNUNVd2ZyNFkwNlRRS29hTmJzUTNwVTF1VXRnMW1XRzJtcFh4M1I4Tzc3dWtJN3BwMklCUUI5QUlpQk5HbFF5UGpfZTRXRVVNUlhlc0VfNTVPaWlpV3lEVXpxOG1VZHRJRkQzYzNKQ0o5R2RfZ2pJMWdqU0Q2OGg0RURaV3NiWlU2Y1h0NTl0Znl0YUxLOElENU41T1Q0azY0YkZET3NNWjZPWFdtZW5MZGtSaENvODV2X1ZLd3M?oc=5",
           "published_at": "2026-09-02T05:29:36+00:00",
@@ -4709,13 +4716,6 @@
           "fetched_at": "2026-09-01T16:46:39.958328+00:00"
         },
         {
-          "title": "Google Search Console AI performance reports and Search generative AI control rolling out globally",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTJYVFg1eDdGdjduWU4xUE9xeTdLWDg1QXJZTzZlVk03cVFtaU8tN2tCcjIzeVNLbW51NlZiRUx3UWJNeklsMlVrUU5Fd1hfS3BWTHJxWXpZaFoyaU5PRzNRYkJrWTh0d0VnYW1wMllia05zb3U2WVd0TW5zS292anh2dURqZHJQLUF5VFlneFdna01DWnA2Y3hOLVB2bEltbVp3VEZJRUdUZVZhVWxtUTQxd21yR3F4QzVTdnlheUZ0WFZuV0Jnd080MmphZ1E?oc=5",
-          "published_at": "2026-08-31T15:15:00+00:00",
-          "excerpt": "Google Search Console AI performance reports and Search generative AI control rolling out globally Search Engine Land",
-          "fetched_at": "2026-08-31T19:10:50.321892+00:00"
-        },
-        {
           "title": "Marcella Merigo",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOTBxcVlqTk0wbVhnMTNiaWpNa0U3aGNQbURUX3FtVHJySE96aXQyeXhtUFFVR1NCS3pMZDdFOHZWYmF5YVhmWU9pcW93TlZwVXdDeERIMlUtZG9qYVJDbA?oc=5",
           "published_at": "2026-08-31T14:00:00+00:00",
@@ -4734,6 +4734,13 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jR2plWDRucVlhZHFRZC1UWFFFTTZ2Yl9EWVFHWnp3ZmdwbDByWGhDbk9UZnBkdVRfNm84RVkwQUFFTUN5V0lkYkJWbnE1QkVBX0lJX1lzZTFlbENkNTh3UjRla0E1Q1pFQUE?oc=5",
           "published_at": "2026-08-31T12:00:00+00:00",
           "excerpt": "Advertising management Archives Search Engine Land",
+          "fetched_at": "2026-08-31T19:10:50.321892+00:00"
+        },
+        {
+          "title": "Google Search Console AI performance reports and Search generative AI control rolling out globally",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTJYVFg1eDdGdjduWU4xUE9xeTdLWDg1QXJZTzZlVk03cVFtaU8tN2tCcjIzeVNLbW51NlZiRUx3UWJNeklsMlVrUU5Fd1hfS3BWTHJxWXpZaFoyaU5PRzNRYkJrWTh0d0VnYW1wMllia05zb3U2WVd0TW5zS292anh2dURqZHJQLUF5VFlneFdna01DWnA2Y3hOLVB2bEltbVp3VEZJRUdUZVZhVWxtUTQxd21yR3F4QzVTdnlheUZ0WFZuV0Jnd080MmphZ1E?oc=5",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "excerpt": "Google Search Console AI performance reports and Search generative AI control rolling out globally Search Engine Land",
           "fetched_at": "2026-08-31T19:10:50.321892+00:00"
         },
         {
@@ -4940,13 +4947,6 @@
           "fetched_at": "2026-08-27T15:21:41.976495+00:00"
         },
         {
-          "title": "Google’s Discover job posting confirms what the feed already shows",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlNmk3VFlub1ZHRVRxdVlpV014aHJRMzZVeGVfcGZicnhwMEtwV0h4SXFvZFlTOV9EVVRLczUtdUF2czBYb2E0WXFQSXQ3VGE3MFptaDlCWWJfdkNtZktLRUk0aFlCUmtzV2Y2SHpNb0VydVBqcWkw?oc=5",
-          "published_at": "2026-08-26T14:30:00+00:00",
-          "excerpt": "Google’s Discover job posting confirms what the feed already shows Search Engine Land",
-          "fetched_at": "2026-08-27T15:21:41.976495+00:00"
-        },
-        {
           "title": "Meta Ads: Why creative diversity matters more than volume",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ocWJsWTZSNFhtY25lc0JNRzVhYzliOE9VUDMwS1dVMEJ0ZzBodXFuTzMyMGVmSzY5UXBMcHhJS2o4WGsxS2RrNmY1NS1ZX2NVTVZqTlctR05oa1ZPZzR4akF2cmhTdjJVbzBadmc2dDk?oc=5",
           "published_at": "2026-08-26T13:00:00+00:00",
@@ -4979,6 +4979,13 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JSE5WUlZlbEJXdDNuQkx1WDV5S255bUNjUlB5bzRZdGRneWV1eGM0UmoteUg1ZmNDQndiWG00ZThSWTV4Xzdna3l2WjA1a2lqTUliTFE0S1BxMTBZVUpGWHM5VGZnZUJyMkI4ejJEWlM3REQt?oc=5",
           "published_at": "2026-08-26T07:00:00+00:00",
           "excerpt": "Is top-of-funnel content still worth it in 2027? Search Engine Land",
+          "fetched_at": "2026-08-27T15:21:41.976495+00:00"
+        },
+        {
+          "title": "Google’s Discover job posting confirms what the feed already shows",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlNmk3VFlub1ZHRVRxdVlpV014aHJRMzZVeGVfcGZicnhwMEtwV0h4SXFvZFlTOV9EVVRLczUtdUF2czBYb2E0WXFQSXQ3VGE3MFptaDlCWWJfdkNtZktLRUk0aFlCUmtzV2Y2SHpNb0VydVBqcWkw?oc=5",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "excerpt": "Google’s Discover job posting confirms what the feed already shows Search Engine Land",
           "fetched_at": "2026-08-27T15:21:41.976495+00:00"
         },
         {
@@ -7650,6 +7657,48 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "How Do I Keep Control As Platforms Automate My Account? – Ask A PPC via @sejournal, @navahf",
+          "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-keep-control-as-platforms-automate-my-account/587340/",
+          "published_at": "2026-09-10T14:30:20+00:00",
+          "excerpt": "Keep AI-driven PPC accountable with transparent reporting, brand-safe creative guardrails, and campaign structures that preserve performance without surrendering control. The post How Do I Keep Control As Platforms Automate My Account? – Ask A PPC appeared first on Search Engine…",
+          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
+        },
+        {
+          "title": "YouTube Gives You Feedback On Shorts Before Publishing via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/youtube-gives-you-feedback-on-shorts-before-publishing/589088/",
+          "published_at": "2026-09-10T13:55:02+00:00",
+          "excerpt": "YouTube is expanding Get Feedback, a tool that reviews a Shorts before publishing, to U.S. users The post YouTube Gives You Feedback On Shorts Before Publishing appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
+        },
+        {
+          "title": "Google Launches Meridian GeoX Globally via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/google-launches-meridian-geox-globally/589030/",
+          "published_at": "2026-09-10T13:02:34+00:00",
+          "excerpt": "Google launches Meridian GeoX globally, giving marketers new ways to run geo experiments and bring incrementality results into marketing mix modeling. The post Google Launches Meridian GeoX Globally appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
+        },
+        {
+          "title": "Google Expands Data Manager And Adds Uplift Measurement via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/google-expands-data-manager-and-adds-uplift-measurement/589025/",
+          "published_at": "2026-09-10T13:00:08+00:00",
+          "excerpt": "Google expands Data Manager across GA and DV360 and introduces a Data Strength Uplift Metric to measure the impact of first-party data. The post Google Expands Data Manager And Adds Uplift Measurement appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
+        },
+        {
+          "title": "How Local Businesses Can Build Visibility In AI Search via @sejournal, @lorenbaker",
+          "url": "https://www.searchenginejournal.com/how-local-businesses-can-build-visibility-in-ai-search/588095/",
+          "published_at": "2026-09-10T12:00:53+00:00",
+          "excerpt": "Moz leaders Jonathan Berthold and Kevin Chen explain how listings, reviews, mentions, and social activity shape local recommendations in AI search. The post How Local Businesses Can Build Visibility In AI Search appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
+        },
+        {
+          "title": "Google DeepMind Develops New AI Search Ranking Model via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-deepmind-develops-new-ai-search-ranking-model/589062/",
+          "published_at": "2026-09-10T11:24:46+00:00",
+          "excerpt": "Google DeepMind researchers test Autoregressive Ranking (ARR), a unified model that can replace current retrieval and ranking methods. The post Google DeepMind Develops New AI Search Ranking Model appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
+        },
+        {
           "title": "How Freshpet Earned AI’s Trust: A GEO & AI Visibility Playbook via @sejournal, @hethr_campbell",
           "url": "https://www.searchenginejournal.com/how-freshpet-earned-ais-trust-a-geo-ai-visibility-playbook-recap/588706/",
           "published_at": "2026-09-10T07:45:26+00:00",
@@ -7755,14 +7804,14 @@
           "fetched_at": "2026-09-09T09:03:00.886118+00:00"
         },
         {
-          "title": "InMotion Cloud Debuts Fixed-Price Managed Cloud via @sejournal, @inmotionhosting",
+          "title": "InMotion Cloud Debuts Fixed-Price Managed Cloud",
           "url": "https://www.searchenginejournal.com/inmotion-cloud-debuts-fixed-price-managed-private-cloud-spn/587527/",
           "published_at": "2026-09-08T17:05:00+00:00",
           "excerpt": "InMotion Cloud launches a fixed-price Managed Private Cloud built on bare metal, with predictable monthly rates, fixed egress, and U.S.-based support. The post InMotion Cloud Debuts Fixed-Price Managed Cloud appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-09T09:03:00.886118+00:00"
         },
         {
-          "title": "When Attribution Looks More Precise Than The Data Behind It via @sejournal, @bngsrc",
+          "title": "When Attribution Looks More Precise Than The Data Behind It",
           "url": "https://www.searchenginejournal.com/when-attribution-looks-more-precise-than-the-data-behind-it/586762/",
           "published_at": "2026-09-08T14:30:05+00:00",
           "excerpt": "Modeled data now fills the gaps left by signal loss, and mistaking estimates for measurements can lead to costly budget misallocation. The post When Attribution Looks More Precise Than The Data Behind It appeared first on Search Engine Journal .",
@@ -7776,9 +7825,9 @@
           "fetched_at": "2026-09-08T16:45:25.992669+00:00"
         },
         {
-          "title": "6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like via @sejournal, @brookeosmundson",
+          "title": "6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like",
           "url": "https://www.searchenginejournal.com/6-months-into-chatgpt-ads-advertisers-still-dont-know-what-good-looks-like/587583/",
-          "published_at": "2026-09-08T12:00:00+00:00",
+          "published_at": "2026-09-08T00:00:00+00:00",
           "excerpt": "Advertiser data now spans single-digit to $22 CPCs, but ChatGPT Ads still lacks auction insights, industry benchmarks, and reliable audience data to judge performance. The post 6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like appeared first on Searc…",
           "fetched_at": "2026-09-08T16:45:25.992669+00:00"
         },
@@ -9791,6 +9840,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Internal links: ultimate guide + strategies",
+          "url": "https://www.semrush.com/blog/internal-links/",
+          "published_at": "2026-09-10T10:11:00+00:00",
+          "excerpt": "Internal links help users, search engines, and AI crawlers understand your site. Here‘s how to fix issues holding you back.",
+          "fetched_at": "2026-09-10T16:33:29.306730+00:00"
+        },
+        {
           "title": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
           "url": "https://www.semrush.com/blog/seoquake-relaunch/",
           "published_at": "2026-09-09T15:37:00+00:00",
@@ -9940,7 +9996,7 @@
         {
           "title": "Google Search Console: the ultimate guide for 2026",
           "url": "https://www.semrush.com/blog/google-search-console/",
-          "published_at": "2026-08-20T12:57:00+00:00",
+          "published_at": "2026-08-20T00:00:00+00:00",
           "excerpt": "Learn how to properly set up GSC + use it to spot site issues and areas for improvement.",
           "fetched_at": "2026-08-20T14:21:49.206486+00:00"
         },
@@ -10728,6 +10784,13 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "Factors.ai vs Clearbit (Breeze Intelligence): which is the better GTM platform?",
+          "url": "https://www.factors.ai/blog/factors-vs-clearbit",
+          "published_at": "2026-09-10T00:00:00+00:00",
+          "excerpt": "Clearbit is now Breeze Intelligence, locked inside HubSpot. See how Factors.ai compares across features, pricing, intent data, and analytics. The full breakdown for B2B GTM teams.",
+          "fetched_at": "2026-07-24T11:03:15.226828+05:30"
+        },
+        {
           "title": "Understanding LinkedIn Ads CTR",
           "url": "https://www.factors.ai/blog/understanding-linkedin-ads-ctr",
           "published_at": "2026-09-10T00:00:00+00:00",
@@ -10935,13 +10998,6 @@
           "url": "https://www.factors.ai/blog/ai-pipeline-management",
           "published_at": "2026-07-28T00:00:00+00:00",
           "excerpt": "See how AI pipeline management helps B2B teams identify buying signals, forecast revenue, prioritize accounts, and drive predictable growth.",
-          "fetched_at": "2026-07-24T11:03:15.226828+05:30"
-        },
-        {
-          "title": "Factors.ai vs Clearbit (Breeze Intelligence): which is the better GTM platform?",
-          "url": "https://www.factors.ai/blog/factors-vs-clearbit",
-          "published_at": "2026-07-28T00:00:00+00:00",
-          "excerpt": "Clearbit is now Breeze Intelligence, locked inside HubSpot. See how Factors.ai compares across features, pricing, intent data, and analytics. The full breakdown for B2B GTM teams.",
           "fetched_at": "2026-07-24T11:03:15.226828+05:30"
         },
         {
@@ -11819,6 +11875,34 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "3 ways to prep for your next big race with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+          "published_at": "2026-09-10T16:00:00+00:00",
+          "excerpt": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+          "fetched_at": "2026-09-10T16:33:34.944581+00:00"
+        },
+        {
+          "title": "The Gemini app is now available for Windows",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+          "published_at": "2026-09-10T16:00:00+00:00",
+          "excerpt": "Gemini is now on windows",
+          "fetched_at": "2026-09-10T16:33:34.944581+00:00"
+        },
+        {
+          "title": "Switching password managers is easy and safe on Android",
+          "url": "https://blog.google/products-and-platforms/platforms/android/switch-password-managers/",
+          "published_at": "2026-09-10T16:00:00+00:00",
+          "excerpt": "Android bot showing how to switch password managers",
+          "fetched_at": "2026-09-10T16:33:34.944581+00:00"
+        },
+        {
+          "title": "Exploring Creative Intelligence with London’s Southbank Centre",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/",
+          "published_at": "2026-09-10T11:00:00+00:00",
+          "excerpt": "Southbank Centre Creative Intelligence poster with logos and dates",
+          "fetched_at": "2026-09-10T16:33:34.944581+00:00"
+        },
         {
           "title": "A new deep learning model maps global methane emissions from space.",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
