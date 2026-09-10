@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T16:47:21.271231+00:00",
+  "last_updated": "2026-09-10T09:02:19.172939+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,11 +4296,53 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google’s top ranking factors, according to 131 SEO professionals",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHJfQUdRZ3hHaVBycFRtWDllSGhObmJEd0tlZDBwWmhUdmE4R1BUa2NqZ25hcmtBT1R0MWkwRld1cmJ1YWRXVXN2N0xoUUJNVUVwcmRmQXBYMjRGdGdSek1SbEEzSC1SdVQ4U0V4ZENZMlJXaE9GLXdpRTFUTmtQRXM3cEZpX0hobG81NnN5Q213MzZaSXc?oc=5",
+          "published_at": "2026-09-09T18:53:00+00:00",
+          "excerpt": "Google’s top ranking factors, according to 131 SEO professionals Search Engine Land",
+          "fetched_at": "2026-09-10T09:01:52.319877+00:00"
+        },
+        {
+          "title": "Google’s target bidding shake-up: Why PPC marketers have been here before",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkN0S0JkbDlGb1BmUGNfcGFkN1BXMkJ6YTNDalR4S2xKc1E3amlDYW9tVzRBYXptWXp4VWI3MzZwbWVFNHJidGxUYVdlNXkxMlY2YzIzeDRJbzBjYUlCOFpUVjNJNEV4WFNVN21BYUYyV2hhRzJuU2tjUV8tT3piazJDc0JoX00xeVl1aXo0RUZsTm5SUnJhOWRLRERJOW1FYXl5R0FsODFsYUU?oc=5",
+          "published_at": "2026-09-09T17:29:00+00:00",
+          "excerpt": "Google’s target bidding shake-up: Why PPC marketers have been here before Search Engine Land",
+          "fetched_at": "2026-09-10T09:01:52.319877+00:00"
+        },
+        {
+          "title": "Google updates Location asset requirements without changing enforcement",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGpfTGFjSkctVFZhVlF2M0pITENMZU10YUdWNnpWa1hPMjlNU3gxMjNTUTFyejJWZEVzdlJFUi1YLXNjYmRXcEdaUmhiMGM1a3VUbkFXdkx1eGFUcXVyRmdhS3JmY3cwWjNNYldkQ2lFYTBEY1dNWjNycGhtWjRYWlgtLXJ3aUVjN0phRTFJc1BTbnItX0gyQnhmRkNpYzlLV01pYU5jRzdVYmc?oc=5",
+          "published_at": "2026-09-09T16:41:00+00:00",
+          "excerpt": "Google updates Location asset requirements without changing enforcement Search Engine Land",
+          "fetched_at": "2026-09-10T09:01:52.319877+00:00"
+        },
+        {
+          "title": "Jessica Bowman: SEO can’t win AI visibility alone",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVV1SVhTNUlfbEhpWVRkMmFmZ0VJZEJXYXVmR1psZm5WWjZnMV83OUpMTDdQcVJsa193UERuTi1rTlFadVExMGpiMjJITzVXQ0VNM25LYVN5UzUyTmZ1bHNpcmF4ZHhfYTdzTExWTTltdE1kanVYMTdpbjkweWkxcHhsQmVNZFd2ZHI5dUF5dFg1amM?oc=5",
+          "published_at": "2026-09-09T15:30:00+00:00",
+          "excerpt": "Jessica Bowman: SEO can’t win AI visibility alone Search Engine Land",
+          "fetched_at": "2026-09-10T09:01:52.319877+00:00"
+        },
+        {
+          "title": "4 risks hiding in your branded search results",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xYk9lNGlWQllrd1I4MkZCbllaTlNZS3ZFc1BkV3lrWEFRTFpGZGZ4MTNkbkZyQW5mRnFKa2hndXNfNU10REdJLWUwRzlnLTBPNkw5V0hvS183d1F4ZUhQY2FmVHRrWHlOcmJ5UmpOMlJ2QQ?oc=5",
+          "published_at": "2026-09-09T15:00:00+00:00",
+          "excerpt": "4 risks hiding in your branded search results Search Engine Land",
+          "fetched_at": "2026-09-10T09:01:52.319877+00:00"
+        },
+        {
           "title": "Caught by Google’s spam update? Don’t make recovery harder",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWm5YaVpqZU1nRm5WTHpxaFE2a0huRWlmUThGd0pNTmdNaGVJN251VURIX2ExdjZScWppSWlDOE5GUl84MEY5X2tvWWpRNWtrRnVsSEI2YllDUzFrV3hJczdfb0xPc2hzUDBrX09vRGNBZFFhTTViOThVb0dfZHZMcXliUEFyTWM?oc=5",
           "published_at": "2026-09-09T14:00:00+00:00",
           "excerpt": "Caught by Google’s spam update? Don’t make recovery harder Search Engine Land",
           "fetched_at": "2026-09-09T16:46:55.888662+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWW12Z2xQVW1GZW1UUml1RWFnTWFSSUxEMnBlVTBUVkMtTUdUWE5LVE9iVVJzeWxEbl9Ec2hEMnkwbnowSkFQLUpzaG50dElPbDdkTUtnVk1BYXBIWndVa2s3LVpVRGlDdFVVUk81ZldpOGFMZUJPVlp4ZnlqcFJOb0JRbHMwM3hxVFNJcWZad1RYOHNYV2V5NXRBNE16ZGpPaXF2WFFzV1JaRWxLS3NsME1oNUVjMnU0ZTAzTXpn?oc=5",
+          "published_at": "2026-09-09T08:01:13+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-09-02T08:52:52.717674+00:00"
         },
         {
           "title": "SMX Now: Find the entity gaps holding back your content strategy",
@@ -4385,13 +4427,6 @@
           "published_at": "2026-09-08T11:00:00+00:00",
           "excerpt": "Why growing restaurant chains win at local search and AI visibility Search Engine Land",
           "fetched_at": "2026-09-08T16:45:13.960727+00:00"
-        },
-        {
-          "title": "Ankit Vora",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tbmc4dmR5b2xfUk9BdGVoQ3Z5Y2RUbFhUVUI1Q3dyWlJVTFVHaUhvX3N4NFhZMmFMSnduTU8zajRyZlNQYVVSM3NFaUlibVhUdkFybm1qT21hUQ?oc=5",
-          "published_at": "2026-09-07T20:33:54+00:00",
-          "excerpt": "Ankit Vora Search Engine Land",
-          "fetched_at": "2026-09-08T08:57:06.146586+00:00"
         },
         {
           "title": "AI Overviews may be affecting Shopping ad CTR and impressions",
@@ -4669,7 +4704,7 @@
         {
           "title": "Anthropic AI watermarking: What it means for content and SEO",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JaFBmaFk1ZUYtb21VbFRyU1Y4Q3pFOHkyXzQ1NERvMjVXZ05hcS1qcXFWem1vUUpxcEtvWko2VHV5MC1hLWJrUmE4RFJvZnZLTVRxMGxOeHgxbENMQURFMXZIS19EeFBiN0JWRTdPUGNDbXMyd3RhNVN6cEdIZw?oc=5",
-          "published_at": "2026-09-01T12:00:00+00:00",
+          "published_at": "2026-09-01T07:00:00+00:00",
           "excerpt": "Anthropic AI watermarking: What it means for content and SEO Search Engine Land",
           "fetched_at": "2026-09-01T16:46:39.958328+00:00"
         },
@@ -4735,13 +4770,6 @@
           "published_at": "2026-08-29T23:28:05+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-08-29T16:48:46.086144+00:00"
-        },
-        {
-          "title": "- Search Engine Land",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWW12Z2xQVW1GZW1UUml1RWFnTWFSSUxEMnBlVTBUVkMtTUdUWE5LVE9iVVJzeWxEbl9Ec2hEMnkwbnowSkFQLUpzaG50dElPbDdkTUtnVk1BYXBIWndVa2s3LVpVRGlDdFVVUk81ZldpOGFMZUJPVlp4ZnlqcFJOb0JRbHMwM3hxVFNJcWZad1RYOHNYV2V5NXRBNE16ZGpPaXF2WFFzV1JaRWxLS3NsME1oNUVjMnU0ZTAzTXpn?oc=5",
-          "published_at": "2026-08-29T14:42:13+00:00",
-          "excerpt": "Search Engine Land",
-          "fetched_at": "2026-09-02T08:52:52.717674+00:00"
         },
         {
           "title": "Social Media Guides Archives",
@@ -5169,6 +5197,13 @@
           "published_at": "2026-08-21T07:00:00+00:00",
           "excerpt": "DTC LLM visibility: A case study on how vertical authority wins AI mentions Search Engine Land",
           "fetched_at": "2026-09-03T16:33:59.456858+00:00"
+        },
+        {
+          "title": "Ankit Vora",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tbmc4dmR5b2xfUk9BdGVoQ3Z5Y2RUbFhUVUI1Q3dyWlJVTFVHaUhvX3N4NFhZMmFMSnduTU8zajRyZlNQYVVSM3NFaUlibVhUdkFybm1qT21hUQ?oc=5",
+          "published_at": "2026-08-21T07:00:00+00:00",
+          "excerpt": "Ankit Vora Search Engine Land",
+          "fetched_at": "2026-09-08T08:57:06.146586+00:00"
         },
         {
           "title": "Word embedding Archives",
@@ -7615,6 +7650,48 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "How Freshpet Earned AI’s Trust: A GEO & AI Visibility Playbook via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/how-freshpet-earned-ais-trust-a-geo-ai-visibility-playbook-recap/588706/",
+          "published_at": "2026-09-10T07:45:26+00:00",
+          "excerpt": "Freshpet and Intero Digital explain how brands can audit AI visibility, restructure content for citation, and connect GEO work to business priorities. The post How Freshpet Earned AI’s Trust: A GEO & AI Visibility Playbook appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T09:02:07.629439+00:00"
+        },
+        {
+          "title": "Le Monde Says AI Overviews Haven’t Hurt Its Audience So Far via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/le-monde-says-ai-overviews-havent-hurt-its-audience-so-far/589018/",
+          "published_at": "2026-09-10T07:00:03+00:00",
+          "excerpt": "Le Monde says its audience hasn't dropped since AI Overviews launched in France, while app traffic and subscriber growth complicate the broader traffic story. The post Le Monde Says AI Overviews Haven’t Hurt Its Audience So Far appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T09:02:07.629439+00:00"
+        },
+        {
+          "title": "5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO",
+          "url": "https://www.searchenginejournal.com/ai-signals-multi-location-uberall-spa/587988/",
+          "published_at": "2026-09-10T05:00:48+00:00",
+          "excerpt": "Explore how multi-location businesses can optimize for AI models like ChatGPT and Gemini. Learn the key factors for success. The post 5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T09:02:07.629439+00:00"
+        },
+        {
+          "title": "WordPress Co-Founder Matt Mullenweg Ousted As CEO Of Automattic via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/wordpress-co-founder-matt-mullenweg-ousted-from-automattic/589009/",
+          "published_at": "2026-09-09T22:16:35+00:00",
+          "excerpt": "Automattic's board of directors placed Matt Mullenweg on paid leave of absence. Mullenweg claims conspiracy against him. The post WordPress Co-Founder Matt Mullenweg Ousted As CEO Of Automattic appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T09:02:07.629439+00:00"
+        },
+        {
+          "title": "ChatGPT Shopping Results Lean Hard On Product Feeds via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/chatgpt-shopping-results-lean-hard-on-product-feeds/589000/",
+          "published_at": "2026-09-09T21:39:29+00:00",
+          "excerpt": "ChatGPT Shopping is pulling more product picks from what it calls feed-integrated sources, and store visibility moved too. The post ChatGPT Shopping Results Lean Hard On Product Feeds appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T09:02:07.629439+00:00"
+        },
+        {
+          "title": "ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/chatgpt-gemini-claude-lead-ai-visibility-is-it-time-to-stop-tracking-perplexity/588378/",
+          "published_at": "2026-09-09T19:00:58+00:00",
+          "excerpt": "Giving Perplexity less weight in AI search tracking can prevent distorted visibility scores without erasing useful competitive signals. The post ChatGPT, Gemini & Claude Lead AI Visibility, Is It Time To Stop Tracking Perplexity? appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T09:02:07.629439+00:00"
+        },
+        {
           "title": "New Google Guide To Regional Search Features & Eligibility via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-regional-search-features-eligibility-guide/588975/",
           "published_at": "2026-09-09T16:37:30+00:00",
@@ -7664,7 +7741,7 @@
           "fetched_at": "2026-09-09T09:03:00.886118+00:00"
         },
         {
-          "title": "UK Publisher Loses 98% Of News Search Visibility After .com Move via @sejournal, @MattGSouthern",
+          "title": "UK Site Loses 98% Of News Search Visibility After .com Move via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/uk-publisher-news-search-visibility-com-move/588840/",
           "published_at": "2026-09-08T19:24:24+00:00",
           "excerpt": "A UK news site's trending-query visibility collapsed after moving from .co.uk to .com, and the new domain didn't pick up what the old one lost. The post UK Publisher Loses 98% Of News Search Visibility After .com Move appeared first on Search Engine Journal .",
@@ -7713,9 +7790,9 @@
           "fetched_at": "2026-09-07T17:47:27.214934+00:00"
         },
         {
-          "title": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel",
+          "title": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand",
           "url": "https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/",
-          "published_at": "2026-09-07T12:00:11+00:00",
+          "published_at": "2026-09-07T00:00:00+00:00",
           "excerpt": "Publishing more content won't fix what AI gets wrong about your brand. Too many versions of the truth is the real problem. The post Your Biggest AI Search Risk Is Conflicting Information About Your Brand appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-07T17:47:27.214934+00:00"
         },
@@ -10651,6 +10728,13 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "Understanding LinkedIn Ads CTR",
+          "url": "https://www.factors.ai/blog/understanding-linkedin-ads-ctr",
+          "published_at": "2026-09-10T00:00:00+00:00",
+          "excerpt": "Want higher ROI from LinkedIn Ads? Learn the industry-standard CTR benchmarks, why your ads might be underperforming, and actionable strategies to optimize your targeting and creative for better engagement. Learn effective strategies to improve the average CTR for LinkedIn ads,…",
+          "fetched_at": "2026-09-10T09:02:15.612550+00:00"
+        },
+        {
           "title": "A B2B CMO’s Guide to the 10 Best 6sense Alternatives",
           "url": "https://www.factors.ai/blog/6sense-alternatives-and-competitors",
           "published_at": "2026-09-09T00:00:00+00:00",
@@ -10960,6 +11044,13 @@
       "archive_titles_canonical": true,
       "color": "#178bd4",
       "articles": [
+        {
+          "title": "How Bot Traffic Is Wasting Your Ad Budget and Training Google to Spend More",
+          "url": "https://www.webfx.com/blog/ppc/bot-traffic-ad-budget/",
+          "published_at": "2026-09-08T17:09:47+00:00",
+          "excerpt": "The post How Bot Traffic Is Wasting Your Ad Budget and Training Google to Spend More appeared first on WebFX .",
+          "fetched_at": "2026-09-10T09:02:16.485980+00:00"
+        },
         {
           "title": "Google’s Latest Study Reveals How LLMs Recall Facts (+ What Marketers Can Do About It)",
           "url": "https://www.webfx.com/blog/ai/how-llms-recall-facts/",
@@ -11728,6 +11819,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "A new deep learning model maps global methane emissions from space.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
+          "published_at": "2026-09-09T18:15:00+00:00",
+          "excerpt": "Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.",
+          "fetched_at": "2026-09-10T09:02:19.169863+00:00"
+        },
+        {
+          "title": "Tackle your to-do list with new features in our Google AI plans.",
+          "url": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/",
+          "published_at": "2026-09-09T17:00:00+00:00",
+          "excerpt": "Subscribers can try Google Pics and Sheets canvas — plus, new voice features in Gmail, Docs, and Keep.",
+          "fetched_at": "2026-09-10T09:02:19.169863+00:00"
+        },
         {
           "title": "Get ready for the game with new football features in Search",
           "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
