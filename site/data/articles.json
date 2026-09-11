@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T08:59:54.393415+00:00",
+  "last_updated": "2026-09-11T16:38:08.370835+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,6 +4296,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Efficiency Archives",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vdVJCWm5uNzZsRzlIYUo3ZTluMjhDRFNQOWpiVUphY19VaFZfTDlFN0ZuMG5yeUNOY3JOLVdjS0h2ZkxhNVRkRmdMamJEQ2xvQzczWkhpU0g4Zw?oc=5",
+          "published_at": "2026-09-11T12:00:00+00:00",
+          "excerpt": "Efficiency Archives Search Engine Land",
+          "fetched_at": "2026-09-11T16:37:45.471626+00:00"
+        },
+        {
           "title": "Content marketing success falls to 12-year low: Survey",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TUnduQVJnLUp4Qk82bTd6RkJ1aUNhRzRZWlFlNVpsbkwzZVFtRUxramdzSVQxVFFwUm5qdC1meGd2a0EzNThoMmVIVWhiTTlPNmhlb1VaRjBsREhYSENlYzVuRF9xcEp4d2c5d1JuRnIwVzNvazh1SFZidkl2dGs?oc=5",
           "published_at": "2026-09-10T19:05:00+00:00",
@@ -4343,6 +4350,13 @@
           "published_at": "2026-09-10T13:00:00+00:00",
           "excerpt": "Google expands Data Manager and Meridian measurement tools Search Engine Land",
           "fetched_at": "2026-09-11T08:59:30.419203+00:00"
+        },
+        {
+          "title": "How to use multiple MMMs to make better paid media decisions",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMGs2Ri03N3pBMTZtWkt6d3BrRjctczF1bnpwVExHS0hscW81MGNId1c5bEptUkd6RllTT1Ryekp4R2RRMDRHWG9WVHNYenJ6NkhpYWI3QWJJei03c0hVUWYzQWh2a2t1dU4zR1Y2UG8yVjdrb1M2U25GYnBjOXhhWEZpOWJvTkJzU1QwdlNSajhiNm5a?oc=5",
+          "published_at": "2026-09-10T13:00:00+00:00",
+          "excerpt": "How to use multiple MMMs to make better paid media decisions Search Engine Land",
+          "fetched_at": "2026-09-11T16:37:45.471626+00:00"
         },
         {
           "title": "The dehumanization of SEO: Displaced by code, ignored by communication",
@@ -4695,13 +4709,6 @@
           "fetched_at": "2026-09-03T09:02:15.336548+00:00"
         },
         {
-          "title": "Creative targeting is quietly fragmenting your Meta audiences",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTzJFeWpSM1hiY1YyUW1jTDQ0bjlNXzg0M2E2MFdSUkdWTHZldjFjQXZNY3FpT3l4S1JtWWJvU3ZBa3NHV3E3OEZqS3E0M0FRWFpPa3pCMlBjQmp5YVJvRlpjVlgwMC1NZGlleFdNY2lidk5BdFVReW9pR0s5aUI4eFhwbzluSE5D?oc=5",
-          "published_at": "2026-09-02T14:00:00+00:00",
-          "excerpt": "Creative targeting is quietly fragmenting your Meta audiences Search Engine Land",
-          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
-        },
-        {
           "title": "Google Trends adds category filters",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jRjhYUFduVWlwNHYwZ01ud1h1d3U1NHFEbmpoaWJDZFhwUXlWbFhHRnMyQ2duN19HQkdQd0JzX2I5bkVCbFJXSXlFbTk2Q29EY3NtS2RIZHNNQ0x1U3pjM18tS3B2YldVdy1oRVRqVnZNTjV0UnIwY1JfUQ?oc=5",
           "published_at": "2026-09-02T13:25:00+00:00",
@@ -4730,6 +4737,13 @@
           "fetched_at": "2026-09-03T16:33:59.456858+00:00"
         },
         {
+          "title": "Creative targeting is quietly fragmenting your Meta audiences",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTzJFeWpSM1hiY1YyUW1jTDQ0bjlNXzg0M2E2MFdSUkdWTHZldjFjQXZNY3FpT3l4S1JtWWJvU3ZBa3NHV3E3OEZqS3E0M0FRWFpPa3pCMlBjQmp5YVJvRlpjVlgwMC1NZGlleFdNY2lidk5BdFVReW9pR0s5aUI4eFhwbzluSE5D?oc=5",
+          "published_at": "2026-09-02T07:00:00+00:00",
+          "excerpt": "Creative targeting is quietly fragmenting your Meta audiences Search Engine Land",
+          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
+        },
+        {
           "title": "From content creation to content orchestration: How agentic AI changes the role of content strategists",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2tkR3V1Sk5pSG5qNFdOc0tKblNfTEhJZVo2R21JOG9NamZEakUzZnJaMjdnZGlVc1VkSFBTWFJKN1FjX29sM2RhNGxOQ0c3dF9rZ2JmQVhQeTcyUzdZNlZab25xWDdlVnR2U09Nc2pSVjRJUi1sM1JsanJlOTVaUzVkZ3pKMkN6dmlyQmU5RThqOGxjSWZfMVE0QVA3ZHc?oc=5",
           "published_at": "2026-09-02T07:00:00+00:00",
@@ -4753,7 +4767,7 @@
         {
           "title": "Google vs. Microsoft AI Max: What’s the same and what’s different",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMlNBVzVVNWNmU2N4X1VLaEVRenBrM243ek5zY2gyNE56UlJ5aTFjU1FIV09YX05CSGI0QU5tdEpiTzNHQUtOV0Nub0x4MnpodGc1bnZkUVhCZ2tpak5oVWE2Z0Q5bWpfR0FMZlZndw?oc=5",
-          "published_at": "2026-09-01T13:00:00+00:00",
+          "published_at": "2026-09-01T07:00:00+00:00",
           "excerpt": "Google vs. Microsoft AI Max: What’s the same and what’s different Search Engine Land",
           "fetched_at": "2026-09-01T16:46:39.958328+00:00"
         },
@@ -7713,6 +7727,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "The 2003 Framework That Was Already Doing Query Fan-Out via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/",
+          "published_at": "2026-09-11T14:30:50+00:00",
+          "excerpt": "Use nested phrases and timely publishing to reach new Google searches and the longer queries AI systems generate. The post The 2003 Framework That Was Already Doing Query Fan-Out appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-11T16:37:54.939587+00:00"
+        },
+        {
+          "title": "What Wikipedia Reveals About AI Overviews And Web Traffic via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/",
+          "published_at": "2026-09-11T12:00:42+00:00",
+          "excerpt": "A University of Washington paper estimates AI Overviews reduced search referrals to Wikipedia by about 5%, a metric Google disputes. The post What Wikipedia Reveals About AI Overviews And Web Traffic appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-11T16:37:54.939587+00:00"
+        },
+        {
           "title": "New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] via @sejournal, @lorenbaker",
           "url": "https://www.searchenginejournal.com/new-ai-search-seo-kpis-4-signals-that-guide-real-decisions/588605/",
           "published_at": "2026-09-11T07:45:21+00:00",
@@ -7839,7 +7867,7 @@
           "fetched_at": "2026-09-09T16:47:05.702908+00:00"
         },
         {
-          "title": "Brands Are Tracking AI Visibility, But Are They Measuring The Right Things? via @sejournal, @MattGSouthern",
+          "title": "Brands Are Tracking AI Visibility, But Are They Measuring The Right Things?",
           "url": "https://www.searchenginejournal.com/brands-are-tracking-ai-visibility-but-are-they-measuring-the-right-things/587888/",
           "published_at": "2026-09-09T12:00:30+00:00",
           "excerpt": "AI visibility tools track brand mentions and citations, but marketers need outcome data to know what those movements mean and what to do next. The post Brands Are Tracking AI Visibility, But Are They Measuring The Right Things? appeared first on Search Engine Journal .",
@@ -9924,6 +9952,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "What is zero-click marketing? How to execute and measure it",
+          "url": "https://www.semrush.com/blog/zero-click-marketing/",
+          "published_at": "2026-09-11T10:06:00+00:00",
+          "excerpt": "Zero-click marketing is a content strategy for delivering value without requiring clicks to other pages.",
+          "fetched_at": "2026-09-11T16:38:01.572583+00:00"
+        },
+        {
           "title": "How to do keyword research with Claude and Semrush",
           "url": "https://www.semrush.com/blog/claude-keyword-research/",
           "published_at": "2026-09-10T17:12:00+00:00",
@@ -10071,17 +10106,17 @@
           "fetched_at": "2026-08-28T16:45:55.437854+00:00"
         },
         {
-          "title": "Google releases August 2026 spam update: What marketers need to know",
-          "url": "https://www.semrush.com/blog/google-august-2026-spam-update/",
-          "published_at": "2026-08-26T08:25:00+00:00",
-          "excerpt": "Google‘s August 2026 spam update finished rolling out on August 21. Learn what changed, what didn‘t, and how to read your data.",
-          "fetched_at": "2026-08-27T15:22:01.051166+00:00"
-        },
-        {
           "title": "Reddit's citations in ChatGPT fall from 3.8% to 0.5%",
           "url": "https://www.semrush.com/blog/reddits-citations-in-chatgpt-fall/",
           "published_at": "2026-08-26T08:21:00+00:00",
           "excerpt": "Promptwatch says Reddit‘s share of ChatGPT citations fell 86% in four days. OpenAI says it hasn‘t changed how it picks sources.",
+          "fetched_at": "2026-08-27T15:22:01.051166+00:00"
+        },
+        {
+          "title": "Google releases August 2026 spam update: What marketers need to know",
+          "url": "https://www.semrush.com/blog/google-august-2026-spam-update/",
+          "published_at": "2026-08-26T00:00:00+00:00",
+          "excerpt": "Google‘s August 2026 spam update finished rolling out on August 21. Learn what changed, what didn‘t, and how to read your data.",
           "fetched_at": "2026-08-27T15:22:01.051166+00:00"
         },
         {
@@ -11668,6 +11703,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Autonomous LLM post-training with Tunix on TPUs",
+          "url": "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
+          "published_at": "2026-09-11T00:00:00+00:00",
+          "excerpt": "Imagine going to sleep after writing a single Markdown specification and waking up to find that an A...",
+          "fetched_at": "2026-09-11T16:38:07.436566+00:00"
+        },
+        {
           "title": "The Anatomy of Harness Engineering: How to Evaluate, Iterate, and Guard AI Coding Agents",
           "url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
           "published_at": "2026-09-09T00:00:00+00:00",
@@ -11966,6 +12008,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
+          "url": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/",
+          "published_at": "2026-09-11T11:00:00+00:00",
+          "excerpt": "Google shares details on three projects that use technology to push the boundaries of human creativity that premiered during the 83rd Venice Film Festival.",
+          "fetched_at": "2026-09-11T16:38:08.367407+00:00"
+        },
         {
           "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/",
