@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T16:33:34.947589+00:00",
+  "last_updated": "2026-09-11T08:59:54.393415+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,6 +4296,62 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Content marketing success falls to 12-year low: Survey",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TUnduQVJnLUp4Qk82bTd6RkJ1aUNhRzRZWlFlNVpsbkwzZVFtRUxramdzSVQxVFFwUm5qdC1meGd2a0EzNThoMmVIVWhiTTlPNmhlb1VaRjBsREhYSENlYzVuRF9xcEp4d2c5d1JuRnIwVzNvazh1SFZidkl2dGs?oc=5",
+          "published_at": "2026-09-10T19:05:00+00:00",
+          "excerpt": "Content marketing success falls to 12-year low: Survey Search Engine Land",
+          "fetched_at": "2026-09-11T08:59:30.419203+00:00"
+        },
+        {
+          "title": "Ann Handley Archives",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmclJNdTF1M1FXb1lackNwZUVrcDZ0VU5MMThkc1RZQmpzSEtSYi0zRFRDRzdLX0VDb2VBSnNiZlZiZkpDazd4aG9mRGwxMkNpTEVaTG13UnJRdw?oc=5",
+          "published_at": "2026-09-10T19:05:00+00:00",
+          "excerpt": "Ann Handley Archives Search Engine Land",
+          "fetched_at": "2026-09-11T08:59:30.419203+00:00"
+        },
+        {
+          "title": "Amazon pilots ChatGPT Ads through its DSP",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdnE1QXpjeklteFF0c3pBbEZhYWdBOTJYRi1iRU5aclp4Nndzejg2cU9mM1NwQmd0QzMtVkp2ejlOdExLeEZtRUNhOHJiYWpEbFFpcHFkOUFwd25iZVdwa0V5cUJwTXZ5TFVnNnMxTWd0clNFTEJIVGZnM1ZlMDNiRHhNRQ?oc=5",
+          "published_at": "2026-09-10T15:40:00+00:00",
+          "excerpt": "Amazon pilots ChatGPT Ads through its DSP Search Engine Land",
+          "fetched_at": "2026-09-11T08:59:30.419203+00:00"
+        },
+        {
+          "title": "How to use Claude to run a stronger CRO audit",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHR3dXMyVS1oZWhJUnJnNGlYT1FoTzRka2t0NTB6eEVNMGoxSXZlamdxWENIZlJNdC1mQ0ZKVGYzb2ZVbmJoTkhxeE1PbnN1eG9YMXZyNHgySHNUdEpWU3NJb0VnN2lVMjNfYzhoWHdfTHRhQWNuZlZlYl9iN0pWQUQtT1JuUVZ6?oc=5",
+          "published_at": "2026-09-10T15:00:00+00:00",
+          "excerpt": "How to use Claude to run a stronger CRO audit Search Engine Land",
+          "fetched_at": "2026-09-11T08:59:30.419203+00:00"
+        },
+        {
+          "title": "When SEO best practices become SEO dogma",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORTIyWUhxM2JOeGlYQVJfSkI2aW1yX3J3cnctZl91ZDc5a2JUU0dSYllMZ1F0YlkyZ3pLeXRCWmlHMEpMSTZGRzZPOVAtUW41X2VRSlVTUVlfZjJIWmJ6b3otT0R2TWU0di0tSHROa3doRFBhSzU3RXo4WjhGQTVLdVFR?oc=5",
+          "published_at": "2026-09-10T14:00:00+00:00",
+          "excerpt": "When SEO best practices become SEO dogma Search Engine Land",
+          "fetched_at": "2026-09-11T08:59:30.419203+00:00"
+        },
+        {
+          "title": "OpenAI reportedly blocks rival AI tools from advertising in ChatGPT",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjBMSEh4MnBPQ1o3akl6NmdHZHlmSG1LQzBjM2s0akFxMmQ5OTZ3Wm5TZFZLdDdKOUlsWUtncGRMbHFKVExpcHJ4bDRDbzh4SXpxSlhDV2pxQXZuREtVTk5Od3pyNGU0Rlh0SDFpU3NJaDg5SVRkZ0EtblZjSGRBRmYtSU1xOWgxUGdVYTFIdTR6cjlYODAwX0IyeXRnYVdRRng1U3V3?oc=5",
+          "published_at": "2026-09-10T13:22:00+00:00",
+          "excerpt": "OpenAI reportedly blocks rival AI tools from advertising in ChatGPT Search Engine Land",
+          "fetched_at": "2026-09-11T08:59:30.419203+00:00"
+        },
+        {
+          "title": "Google expands Data Manager and Meridian measurement tools",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa2lCeWhzWGJiTXdZUXhEZ2g5c3AtVUNjaEZKblRBdWlObTRWZXpYeFBXY0hveXQ2aTlLX295V2FpbGdBSWVqTHZXcEhlWGFnODc1SDZGaWFBMlpzUFFNZlctV1VCWGtfQkNfV080THpNZEhVMjJTd1dxQ0dwZXJNUUdrUEsxSHZwWXFVX19wdVFfZTFRVllyS05R?oc=5",
+          "published_at": "2026-09-10T13:00:00+00:00",
+          "excerpt": "Google expands Data Manager and Meridian measurement tools Search Engine Land",
+          "fetched_at": "2026-09-11T08:59:30.419203+00:00"
+        },
+        {
+          "title": "The dehumanization of SEO: Displaced by code, ignored by communication",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1POHByYUNnSHlKWnBwUDVWSm1DSTM2ZDBvVW5ya1A4N2VQMGR2OTJxMFdxS1B3ZUxuS19VS3hOaWFVLTVLR2VsQ2MzMmV5NHVKY0V4cXV6OG5nMG8zVDEtMmZqa0RYYVk1aEg1NnRvU1JPTmt1TXk4?oc=5",
+          "published_at": "2026-09-10T12:00:00+00:00",
+          "excerpt": "The dehumanization of SEO: Displaced by code, ignored by communication Search Engine Land",
+          "fetched_at": "2026-09-11T08:59:30.419203+00:00"
+        },
+        {
           "title": "Google’s top ranking factors, according to 131 SEO professionals",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHJfQUdRZ3hHaVBycFRtWDllSGhObmJEd0tlZDBwWmhUdmE4R1BUa2NqZ25hcmtBT1R0MWkwRld1cmJ1YWRXVXN2N0xoUUJNVUVwcmRmQXBYMjRGdGdSek1SbEEzSC1SdVQ4U0V4ZENZMlJXaE9GLXdpRTFUTmtQRXM3cEZpX0hobG81NnN5Q213MzZaSXc?oc=5",
           "published_at": "2026-09-09T18:53:00+00:00",
@@ -4527,7 +4583,7 @@
           "fetched_at": "2026-09-05T08:26:53.847335+00:00"
         },
         {
-          "title": "SEO and PPC are sitting on each other’s best insights - searchengineland.com",
+          "title": "SEO and PPC are sitting on each other’s best insights",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGQmFOWlppeThnaDg0ZDh2U1ZibG5TQlZYdmxYbnFUWFAxbHE3MjhJZGVGb1I3Sk13RjJVUGFyTU5LcENiall0OHNlVUJyZGotcUJqenpmQktESEswSnNBMmpjMUhGWmVZX2MyY2IzRFY4SktsenNV?oc=5",
           "published_at": "2026-09-04T14:00:00+00:00",
           "excerpt": "SEO and PPC are sitting on each other’s best insights searchengineland.com",
@@ -4695,13 +4751,6 @@
           "fetched_at": "2026-09-01T16:46:39.958328+00:00"
         },
         {
-          "title": "10 technical SEO audit mistakes that lead to bad recommendations",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lNV8xZWNYVlVZdFQ2dms2QVliUXhya2lSTUFzaEZSRlRydENIRFhONlR3MHNFWjFCZjIwZURKSF9TUjJGMXFBaTF1bHo4eW1WemJQSThybmZOZ25kSHEyVUt6dDBlWWxFb3RqbVBwRmplUQ?oc=5",
-          "published_at": "2026-09-01T14:00:00+00:00",
-          "excerpt": "10 technical SEO audit mistakes that lead to bad recommendations Search Engine Land",
-          "fetched_at": "2026-09-01T16:46:39.958328+00:00"
-        },
-        {
           "title": "Google vs. Microsoft AI Max: What’s the same and what’s different",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMlNBVzVVNWNmU2N4X1VLaEVRenBrM243ek5zY2gyNE56UlJ5aTFjU1FIV09YX05CSGI0QU5tdEpiTzNHQUtOV0Nub0x4MnpodGc1bnZkUVhCZ2tpak5oVWE2Z0Q5bWpfR0FMZlZndw?oc=5",
           "published_at": "2026-09-01T13:00:00+00:00",
@@ -4716,18 +4765,18 @@
           "fetched_at": "2026-09-01T16:46:39.958328+00:00"
         },
         {
+          "title": "10 technical SEO audit mistakes that lead to bad recommendations",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lNV8xZWNYVlVZdFQ2dms2QVliUXhya2lSTUFzaEZSRlRydENIRFhONlR3MHNFWjFCZjIwZURKSF9TUjJGMXFBaTF1bHo4eW1WemJQSThybmZOZ25kSHEyVUt6dDBlWWxFb3RqbVBwRmplUQ?oc=5",
+          "published_at": "2026-09-01T07:00:00+00:00",
+          "excerpt": "10 technical SEO audit mistakes that lead to bad recommendations Search Engine Land",
+          "fetched_at": "2026-09-01T16:46:39.958328+00:00"
+        },
+        {
           "title": "Marcella Merigo",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOTBxcVlqTk0wbVhnMTNiaWpNa0U3aGNQbURUX3FtVHJySE96aXQyeXhtUFFVR1NCS3pMZDdFOHZWYmF5YVhmWU9pcW93TlZwVXdDeERIMlUtZG9qYVJDbA?oc=5",
           "published_at": "2026-08-31T14:00:00+00:00",
           "excerpt": "Marcella Merigo Search Engine Land",
           "fetched_at": "2026-08-29T16:48:46.086144+00:00"
-        },
-        {
-          "title": "Building an AI agent for ad management: The hard part isn’t the AI",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Tbksya1EwN2prLUNMYnZNT05YczdEQWFrbDFBYTdMWkRVSkRpbWZOQnpubWRqQWdGOXhxS3ZUV28yVlZZUzlGWl9SU0hoSlJ0QjBaSXlrRVV6WlJhU0RjNk9NdXBzRG9iMVEyRlJyWURfZ2s4NGs4?oc=5",
-          "published_at": "2026-08-31T12:00:00+00:00",
-          "excerpt": "Building an AI agent for ad management: The hard part isn’t the AI Search Engine Land",
-          "fetched_at": "2026-08-31T19:10:50.321892+00:00"
         },
         {
           "title": "Advertising management Archives",
@@ -4748,6 +4797,13 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvS3J1bk1ubkxCbmFVbXBlaEt1XzZ6aFJ5cXlOeUdVOV94QjZXcXFUTDAwVW5JNnIyM2N3bWVPS2k3RGJoTEFMN0ZVU2QyT3lfWGVsY2FHcE5uM2VXVU1EWHNPdTJpTFFDUXBjZUFieG42a1NKem1HRXJReG0?oc=5",
           "published_at": "2026-08-31T07:00:00+00:00",
           "excerpt": "5 steps to building Reddit authority for Google and ChatGPT visibility Search Engine Land",
+          "fetched_at": "2026-08-31T19:10:50.321892+00:00"
+        },
+        {
+          "title": "Building an AI agent for ad management: The hard part isn’t the AI",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Tbksya1EwN2prLUNMYnZNT05YczdEQWFrbDFBYTdMWkRVSkRpbWZOQnpubWRqQWdGOXhxS3ZUV28yVlZZUzlGWl9SU0hoSlJ0QjBaSXlrRVV6WlJhU0RjNk9NdXBzRG9iMVEyRlJyWURfZ2s4NGs4?oc=5",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "excerpt": "Building an AI agent for ad management: The hard part isn’t the AI Search Engine Land",
           "fetched_at": "2026-08-31T19:10:50.321892+00:00"
         },
         {
@@ -5087,13 +5143,6 @@
           "fetched_at": "2026-08-27T15:21:41.976495+00:00"
         },
         {
-          "title": "Jenni Romaniuk Archives",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuVXhsZ1FwOGNQZlJRS3psSDUyMkxUSEJqVlZvR0Q5bG90ZmdDLWdfR0NfLTRpWXJXNEJvZUFtSHRLVS1DSEV0N2I4MzZXOVY0ZGhZdVBrZkhUWUVrb3c?oc=5",
-          "published_at": "2026-08-24T12:00:00+00:00",
-          "excerpt": "Jenni Romaniuk Archives Search Engine Land",
-          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
-        },
-        {
           "title": "Better Brand Health Archives",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05clZfVEZ1T25hWjdsN3E2WUhBcVgxVWRtdWdjZXlCY05HS21td0RrVXJrczVnU3RwOHFPbXdnQjlxSXNEQ05DQUNQTTFJcFBkV2huT2t5aUE2Y0RxRXhFUjkxdkR2dw?oc=5",
           "published_at": "2026-08-24T12:00:00+00:00",
@@ -5147,6 +5196,13 @@
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN09PMjZCQTBldUhzWk1fbG5pdkMzNXVLdG1weHJJMjMzOXJpRU90ZGI2bkx5N092NTc5SXZXTGxqRGc4MzMwMm9fT2ZTTUtDTXBsOEtMcTA0aHJMSlJ4ZFZYcUVoR082UkR3WDZkdlc0WlJ2U0xDOTVjR0xXVzdNcVdn?oc=5",
           "published_at": "2026-08-24T07:00:00+00:00",
           "excerpt": "How to build an AI content workflow from the ground up Search Engine Land",
+          "fetched_at": "2026-08-25T05:58:02.278110+00:00"
+        },
+        {
+          "title": "Jenni Romaniuk Archives",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuVXhsZ1FwOGNQZlJRS3psSDUyMkxUSEJqVlZvR0Q5bG90ZmdDLWdfR0NfLTRpWXJXNEJvZUFtSHRLVS1DSEV0N2I4MzZXOVY0ZGhZdVBrZkhUWUVrb3c?oc=5",
+          "published_at": "2026-08-24T07:00:00+00:00",
+          "excerpt": "Jenni Romaniuk Archives Search Engine Land",
           "fetched_at": "2026-08-25T05:58:02.278110+00:00"
         },
         {
@@ -7657,6 +7713,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] via @sejournal, @lorenbaker",
+          "url": "https://www.searchenginejournal.com/new-ai-search-seo-kpis-4-signals-that-guide-real-decisions/588605/",
+          "published_at": "2026-09-11T07:45:21+00:00",
+          "excerpt": "Stas Levitan of LightSite AI explains four first-party signals marketers can use to connect AI bot attention with human traffic and better SEO decisions. The post New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-11T08:59:41.669196+00:00"
+        },
+        {
+          "title": "Google Adds Post View Counts To Business Profiles via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-business-profile-post-view-counts/589128/",
+          "published_at": "2026-09-10T21:13:27+00:00",
+          "excerpt": "Google says Business Profile post view counts are rolling out globally for posts published in the past 18 months, combining views from Search and Maps. The post Google Adds Post View Counts To Business Profiles appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-11T08:59:41.669196+00:00"
+        },
+        {
+          "title": "Is Your Local SEO Strategy Ready For Google’s Next AI Updates? [Webinar] via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/is-your-local-seo-strategy-ready-for-googles-next-ai-updates/589119/",
+          "published_at": "2026-09-10T20:11:11+00:00",
+          "excerpt": "Google & Uberall go live on Sept 24, sharing what comes next in Google Search and five local marketing strategy fixes that get locations recommended. The post Is Your Local SEO Strategy Ready For Google’s Next AI Updates? [Webinar] appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-11T08:59:41.669196+00:00"
+        },
+        {
+          "title": "Everyone Is Quoting The Same Number And Getting Different Answers via @sejournal, @DuaneForrester",
+          "url": "https://www.searchenginejournal.com/everyone-is-quoting-the-same-number-and-getting-different-answers/588659/",
+          "published_at": "2026-09-10T19:00:21+00:00",
+          "excerpt": "Publishers are blocking AI crawlers on a metric whose denominator is missing an unknown share of referrals. The post Everyone Is Quoting The Same Number And Getting Different Answers appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-11T08:59:41.669196+00:00"
+        },
+        {
           "title": "How Do I Keep Control As Platforms Automate My Account? – Ask A PPC via @sejournal, @navahf",
           "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-keep-control-as-platforms-automate-my-account/587340/",
           "published_at": "2026-09-10T14:30:20+00:00",
@@ -7776,13 +7860,6 @@
           "fetched_at": "2026-09-09T09:03:00.886118+00:00"
         },
         {
-          "title": "Google Ads Introduces Local Customer Optimization via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/google-ads-introduces-local-customer-optimization/588886/",
-          "published_at": "2026-09-09T02:54:24+00:00",
-          "excerpt": "Google Ads brings Local Customer Optimization to Performance Max and easier Store Sales measurement to help retailers drive and measure in-store purchases. The post Google Ads Introduces Local Customer Optimization appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-09T09:03:00.886118+00:00"
-        },
-        {
           "title": "Google Rolls Out Redesigned Search Results Across The EEA via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-rolls-out-redesigned-search-results-across-the-eea/588870/",
           "published_at": "2026-09-09T00:41:01+00:00",
@@ -7830,6 +7907,13 @@
           "published_at": "2026-09-08T00:00:00+00:00",
           "excerpt": "Advertiser data now spans single-digit to $22 CPCs, but ChatGPT Ads still lacks auction insights, industry benchmarks, and reliable audience data to judge performance. The post 6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like appeared first on Searc…",
           "fetched_at": "2026-09-08T16:45:25.992669+00:00"
+        },
+        {
+          "title": "Google Ads Introduces Local Customer Optimization",
+          "url": "https://www.searchenginejournal.com/google-ads-introduces-local-customer-optimization/588886/",
+          "published_at": "2026-09-08T00:00:00+00:00",
+          "excerpt": "Google Ads brings Local Customer Optimization to Performance Max and easier Store Sales measurement to help retailers drive and measure in-store purchases. The post Google Ads Introduces Local Customer Optimization appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-09T09:03:00.886118+00:00"
         },
         {
           "title": "Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs via @sejournal, @gregjarboe",
@@ -9840,6 +9924,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "How to do keyword research with Claude and Semrush",
+          "url": "https://www.semrush.com/blog/claude-keyword-research/",
+          "published_at": "2026-09-10T17:12:00+00:00",
+          "excerpt": "Learn how to use Claude and the Semrush MCP to find keyword ideas based on what your audience is saying.",
+          "fetched_at": "2026-09-11T08:59:48.808553+00:00"
+        },
+        {
           "title": "Internal links: ultimate guide + strategies",
           "url": "https://www.semrush.com/blog/internal-links/",
           "published_at": "2026-09-10T10:11:00+00:00",
@@ -10784,6 +10875,13 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "21 Best HockeyStack Alternatives & Competitors in 2026",
+          "url": "https://www.factors.ai/blog/hockeystack-alternatives",
+          "published_at": "2026-09-11T00:00:00+00:00",
+          "excerpt": "Compare HockeyStack alternatives, including Dreamdata, Factors.ai, CaliberMind, Ruler Analytics, etc, by pricing, features, ratings, pros, and cons.",
+          "fetched_at": "2026-08-31T10:59:52.905534+00:00"
+        },
+        {
           "title": "Factors.ai vs Clearbit (Breeze Intelligence): which is the better GTM platform?",
           "url": "https://www.factors.ai/blog/factors-vs-clearbit",
           "published_at": "2026-09-10T00:00:00+00:00",
@@ -10817,13 +10915,6 @@
           "published_at": "2026-09-07T00:00:00+00:00",
           "excerpt": "AI search marketing means getting cited by ChatGPT and Perplexity, not just ranked on Google. Here's how B2B SaaS teams build real AI search visibility.",
           "fetched_at": "2026-08-07T08:33:42.491071+00:00"
-        },
-        {
-          "title": "21 Best HockeyStack Alternatives & Competitors in 2026",
-          "url": "https://www.factors.ai/blog/hockeystack-alternatives",
-          "published_at": "2026-09-07T00:00:00+00:00",
-          "excerpt": "Compare HockeyStack alternatives, including Dreamdata, Factors.ai, CaliberMind, Ruler Analytics, etc, by pricing, features, ratings, pros, and cons.",
-          "fetched_at": "2026-08-31T10:59:52.905534+00:00"
         },
         {
           "title": "Top 22 Account-Based Marketing (ABM) Tools for 2026",
@@ -11875,6 +11966,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/",
+          "published_at": "2026-09-10T18:00:00+00:00",
+          "excerpt": "In June, Google Labs introduced Dreambeans, an experiment that creates personalized daily collections of stories. Now, Dreambeans is available to all accounts in the U.S…",
+          "fetched_at": "2026-09-11T08:59:54.389404+00:00"
+        },
         {
           "title": "3 ways to prep for your next big race with Search",
           "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
