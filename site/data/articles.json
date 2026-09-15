@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T09:31:13.696294+00:00",
+  "last_updated": "2026-09-15T17:10:02.091921+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4296,11 +4296,46 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "The follow-up query: Rethinking SEO for conversational search",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjVLQm14V01NVGFXNFdrX2JzNlFGZHZ6c0xtdEZYMnJaLXhSYmd6a0ZuRmd4T1Z0Z3hyZEg3UWpWTXN0OENRbm1Ib3BNVmQ3WUk3alNUZUkzeUJYLWExSTFRdnIzeHg0RS0yNzJES1ZZc0thSlpCZ3l6UjJHNWlRaHB2LWVZQWhRZy1jd1VGRlJrUTRBZ1dndFFDMnc?oc=5",
+          "published_at": "2026-09-15T15:00:00+00:00",
+          "excerpt": "The follow-up query: Rethinking SEO for conversational search Search Engine Land",
+          "fetched_at": "2026-09-15T17:09:32.622283+00:00"
+        },
+        {
+          "title": "YouTube watermark: An essential guide for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDRGxvWGRhZFVSd2c3SDloNGxOdThkWU9JbTdrMS05SWxvMTVTTXdDWW9vdUQ3LWFKSEFpUk9DcEhVVF9EWm03LUJldzNva3RCVmZPOTU1Mkd6MFVJNlRHZzB3?oc=5",
+          "published_at": "2026-09-15T14:07:00+00:00",
+          "excerpt": "YouTube watermark: An essential guide for 2026 Search Engine Land",
+          "fetched_at": "2026-09-15T17:09:32.622283+00:00"
+        },
+        {
+          "title": "YouTube video views: How they work & how to get more of them",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85Y2dxNFMxdDhGOVFrMG1IdENOWVlGOXNySHBhQUdObTRad0k5LXR5QVNETEZvOENHSzFEaWowQkJJdlNxUEFmN0tzZ1NTY1AtSEE2dkRpRHVZcTg5?oc=5",
+          "published_at": "2026-09-15T14:04:00+00:00",
+          "excerpt": "YouTube video views: How they work & how to get more of them Search Engine Land",
+          "fetched_at": "2026-09-15T17:09:32.622283+00:00"
+        },
+        {
           "title": "Ana Kostic",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCWS1NQVpOVkVUZjBidHJaTTNSdExxT2c2ZEtxS3BXTGxTVFdtNFgtZVZabGJSY1FBNktFZ1BENWlhek0wd29YUUJBaHBhWFUwQXA4OUxmVG9BZDlDcnZlZGFkc2QxMjh0?oc=5",
-          "published_at": "2026-09-15T00:32:38+00:00",
+          "published_at": "2026-09-15T12:00:00+00:00",
           "excerpt": "Ana Kostic Search Engine Land",
           "fetched_at": "2026-09-15T09:30:48.528192+00:00"
+        },
+        {
+          "title": "AI Overviews and paid search: When to fight, influence, or generate demand",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOEgxc204NUJKRUVlUnlKWGFydmFKUE1Rc1YxamRLTlhQVTNpelN1cUZsWU9RejdPRkg5Q1UwdzM4LW1rN1VxcTduVU9rM1JOejJWaVpXTEZoOTB1VEdWNXBaS1Qtbk9zT3BWWk1sWUdubDJUamVENnR5bUxub2NpbVV3eVU0dGpUeWlJQ3ZJSHZUcEdGUnBv?oc=5",
+          "published_at": "2026-09-15T12:00:00+00:00",
+          "excerpt": "AI Overviews and paid search: When to fight, influence, or generate demand Search Engine Land",
+          "fetched_at": "2026-09-15T17:09:32.622283+00:00"
+        },
+        {
+          "title": "3 ways to make AI safer in a live ad account",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHpmcllKRlFYUW1CMzNENHBFVHl4WnByWEVfUWZGSWM1bElGbWc5a29jSUZ3Z2x5OUVFMnhMZEZoZlNmLUxFSmEwQzRkdndYOXh0d3NVYktNc3RwNHRHSXhRd2UtNkRaQlZIal83eXEwRnVYbXFzOHNGUi1sSUxDOUlmaXpweXc?oc=5",
+          "published_at": "2026-09-15T11:00:00+00:00",
+          "excerpt": "3 ways to make AI safer in a live ad account Search Engine Land",
+          "fetched_at": "2026-09-15T17:09:32.622283+00:00"
         },
         {
           "title": "How to build a meaningful AI search visibility dashboard",
@@ -8301,6 +8336,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/",
+          "published_at": "2026-09-15T14:30:08+00:00",
+          "excerpt": "Meta published two Muse documents on the same day. One never mentions risk, attack, or prompt injection. The other uses them 39 times. The post Meta Published 2 Documents About Muse And Only One Mentions Attacks appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-15T17:09:49.499689+00:00"
+        },
+        {
+          "title": "Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] via @sejournal, @lorenbaker",
+          "url": "https://www.searchenginejournal.com/selling-on-chatgpt-how-brands-are-driving-revenue-through-ads-geo-webinar/589430/",
+          "published_at": "2026-09-15T14:10:14+00:00",
+          "excerpt": "We go live with OpenAI (ChatGPT) on Sept 22, to help you understand how your business can sell products or drive leads on ChatGPT. The post Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-15T17:09:49.499689+00:00"
+        },
+        {
+          "title": "ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/chatgpt-ads-arent-paid-search-5-questions-to-answer-before-you-shift-budget/589256/",
+          "published_at": "2026-09-15T12:00:30+00:00",
+          "excerpt": "Give ChatGPT Ads a clear role, budget source, and success criteria before pulling money from paid search campaigns that already perform. The post ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-15T17:09:49.499689+00:00"
+        },
+        {
+          "title": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/",
+          "published_at": "2026-09-15T10:14:18+00:00",
+          "excerpt": "Anthropic shares prompting upgrades that save tokens, improve how AI writes, code more efficiently, and handle longer tasks. The post Anthropic Shares Power Prompts That Improve AI Results appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-15T17:09:49.499689+00:00"
+        },
+        {
           "title": "Local Services Ads To Performance Max: What To Audit Before Migration via @sejournal, @hethr_campbell",
           "url": "https://www.searchenginejournal.com/local-services-ads-to-performance-max-what-to-audit-before-migration-recap/588906/",
           "published_at": "2026-09-15T07:45:08+00:00",
@@ -8413,27 +8476,6 @@
           "fetched_at": "2026-09-10T16:33:23.240925+00:00"
         },
         {
-          "title": "YouTube Gives You Feedback On Shorts Before Publishing via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/youtube-gives-you-feedback-on-shorts-before-publishing/589088/",
-          "published_at": "2026-09-10T13:55:02+00:00",
-          "excerpt": "YouTube is expanding Get Feedback, a tool that reviews a Shorts before publishing, to U.S. users The post YouTube Gives You Feedback On Shorts Before Publishing appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
-        },
-        {
-          "title": "Google Launches Meridian GeoX Globally via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/google-launches-meridian-geox-globally/589030/",
-          "published_at": "2026-09-10T13:02:34+00:00",
-          "excerpt": "Google launches Meridian GeoX globally, giving marketers new ways to run geo experiments and bring incrementality results into marketing mix modeling. The post Google Launches Meridian GeoX Globally appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
-        },
-        {
-          "title": "Google Expands Data Manager And Adds Uplift Measurement via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/google-expands-data-manager-and-adds-uplift-measurement/589025/",
-          "published_at": "2026-09-10T13:00:08+00:00",
-          "excerpt": "Google expands Data Manager across GA and DV360 and introduces a Data Strength Uplift Metric to measure the impact of first-party data. The post Google Expands Data Manager And Adds Uplift Measurement appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
-        },
-        {
           "title": "How Local Businesses Can Build Visibility In AI Search via @sejournal, @lorenbaker",
           "url": "https://www.searchenginejournal.com/how-local-businesses-can-build-visibility-in-ai-search/588095/",
           "published_at": "2026-09-10T12:00:53+00:00",
@@ -8460,6 +8502,27 @@
           "published_at": "2026-09-10T05:00:48+00:00",
           "excerpt": "Explore how multi-location businesses can optimize for AI models like ChatGPT and Gemini. Learn the key factors for success. The post 5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-10T09:02:07.629439+00:00"
+        },
+        {
+          "title": "YouTube Gives You Feedback On Shorts Before Publishing",
+          "url": "https://www.searchenginejournal.com/youtube-gives-you-feedback-on-shorts-before-publishing/589088/",
+          "published_at": "2026-09-10T00:00:00+00:00",
+          "excerpt": "YouTube is expanding Get Feedback, a tool that reviews a Shorts before publishing, to U.S. users The post YouTube Gives You Feedback On Shorts Before Publishing appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
+        },
+        {
+          "title": "Google Launches Meridian GeoX Globally",
+          "url": "https://www.searchenginejournal.com/google-launches-meridian-geox-globally/589030/",
+          "published_at": "2026-09-10T00:00:00+00:00",
+          "excerpt": "Google launches Meridian GeoX globally, giving marketers new ways to run geo experiments and bring incrementality results into marketing mix modeling. The post Google Launches Meridian GeoX Globally appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
+        },
+        {
+          "title": "Google Expands Data Manager And Adds Uplift Measurement",
+          "url": "https://www.searchenginejournal.com/google-expands-data-manager-and-adds-uplift-measurement/589025/",
+          "published_at": "2026-09-10T00:00:00+00:00",
+          "excerpt": "Google expands Data Manager across GA and DV360 and introduces a Data Strength Uplift Metric to measure the impact of first-party data. The post Google Expands Data Manager And Adds Uplift Measurement appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
         },
         {
           "title": "Google DeepMind Develops New AI Search Ranking Model",
@@ -8775,6 +8838,13 @@
           "published_at": "2026-08-31T21:40:45+00:00",
           "excerpt": "Rank Math paused its controversial feature, acknowledge a serious consent failure, and explains why it's coming back. The post Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-01T09:30:41.787267+00:00"
+        },
+        {
+          "title": "Google On What’s Next In AI Search + 5 Local Marketing Strategy Fixes",
+          "url": "https://www.searchenginejournal.com/webinar-lp-google-on-whats-next-in-ai-search-5-local-marketing-strategy-fixes/",
+          "published_at": "2026-08-31T21:22:51+00:00",
+          "excerpt": "See what Google is changing in AI Search and learn five local marketing fixes to get every location recommended, chosen, and booked. Reserve your free seat.",
+          "fetched_at": "2026-09-15T17:09:49.499689+00:00"
         },
         {
           "title": "Google Search Console AI Reports Rolled Out Worldwide via @sejournal, @MattGSouthern",
@@ -11549,7 +11619,7 @@
         {
           "title": "Best Marketing Attribution Tools in 2026 and Who They’re For",
           "url": "https://www.factors.ai/blog/top-marketing-attribution-tools",
-          "published_at": "2026-09-14T00:00:00+00:00",
+          "published_at": "2026-09-15T00:00:00+00:00",
           "excerpt": "Compare the top 12 marketing attribution tools for 2026. Detailed pricing, features, pros & cons, and a side-by-side comparison table to find the best fit for your B2B stack.",
           "fetched_at": "2026-08-19T14:18:16.628633+00:00"
         },
@@ -11870,6 +11940,13 @@
       "archive_titles_canonical": true,
       "color": "#178bd4",
       "articles": [
+        {
+          "title": "How Much Does Marketing for a Multi-Location or Multi-Brand Company Cost?",
+          "url": "https://www.webfx.com/blog/marketing/multi-location-marketing-cost/",
+          "published_at": "2026-09-15T07:45:40+00:00",
+          "excerpt": "The post How Much Does Marketing for a Multi-Location or Multi-Brand Company Cost? appeared first on WebFX .",
+          "fetched_at": "2026-09-15T17:09:56.976218+00:00"
+        },
         {
           "title": "Marketing After an Acquisition: A 90-Day Playbook for Newly Acquired Companies",
           "url": "https://www.webfx.com/blog/marketing/post-acquisition-marketing-plan/",
@@ -12354,6 +12431,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Build zero-trust AI agents that judge intent, not just syntax",
+          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/",
+          "published_at": "2026-09-15T00:00:00+00:00",
+          "excerpt": "This blog post explores how to transition AI agents from static, build-time security controls to dynamic runtime governance using the Gemini Enterprise Agent Platform. It highlights three primary managed defenses: Model Armor for screening edge prompts, Semantic Governance Polic…",
+          "fetched_at": "2026-09-15T17:10:01.180167+00:00"
+        },
+        {
           "title": "Autonomous LLM post-training with Tunix on TPUs",
           "url": "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
           "published_at": "2026-09-11T00:00:00+00:00",
@@ -12659,6 +12743,83 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
+          "published_at": "2026-09-15T17:00:00+00:00",
+          "excerpt": "Try the models today in ai.studio/live",
+          "fetched_at": "2026-09-15T17:10:02.088459+00:00"
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+          "published_at": "2026-09-15T17:00:00+00:00",
+          "excerpt": "Text \"Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\" with the Gemini Spark, all on a light blue background",
+          "fetched_at": "2026-09-15T17:10:02.088459+00:00"
+        },
+        {
+          "title": "15 organizations transforming public service with AI",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/",
+          "published_at": "2026-09-15T16:30:00+00:00",
+          "excerpt": "Text reading: \"Meet the Google.org Impact Challenge: AI for Government Innovation recipients\". over a light blue rendering of a city skyline",
+          "fetched_at": "2026-09-15T17:10:02.088459+00:00"
+        },
+        {
+          "title": "AI for Societal Impact",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+          "published_at": "2026-09-15T16:00:00+00:00",
+          "excerpt": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+          "fetched_at": "2026-09-15T17:10:02.088459+00:00"
+        },
+        {
+          "title": "Building AI to accelerate science and improve lives",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+          "published_at": "2026-09-15T16:00:00+00:00",
+          "excerpt": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+          "fetched_at": "2026-09-15T17:10:02.088459+00:00"
+        },
+        {
+          "title": "AI for everyone in every language",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+          "published_at": "2026-09-15T16:00:00+00:00",
+          "excerpt": "Animation of several words in different languages slowly zooming past",
+          "fetched_at": "2026-09-15T17:10:02.088459+00:00"
+        },
+        {
+          "title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/",
+          "published_at": "2026-09-15T16:00:00+00:00",
+          "excerpt": "Ask a scientist about wildfire detection",
+          "fetched_at": "2026-09-15T17:10:02.088459+00:00"
+        },
+        {
+          "title": "We’re committing $10 million toward Nevada’s cleaner, more affordable energy future.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/",
+          "published_at": "2026-09-15T16:00:00+00:00",
+          "excerpt": "We're providing funding to the Nevada Clean Energy Fund (NCEF) to help families within our data center communities.",
+          "fetched_at": "2026-09-15T17:10:02.088459+00:00"
+        },
+        {
+          "title": "Sharpen your study routine with new Gemini Notebook tools",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/",
+          "published_at": "2026-09-15T16:00:00+00:00",
+          "excerpt": "Text \"Supercharge your study sessions\" above the Gemini Notebook logo, all next to various windows of Gemini Notebook being used for studying",
+          "fetched_at": "2026-09-15T17:10:02.088459+00:00"
+        },
+        {
+          "title": "4 ways to tackle household chores with Gemini",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/",
+          "published_at": "2026-09-15T16:00:00+00:00",
+          "excerpt": "A photo of a broken doorknob with the prompt: How can I fix this?",
+          "fetched_at": "2026-09-15T17:10:02.088459+00:00"
+        },
+        {
+          "title": "New insights from Google’s AI & Economy ATLAS",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+          "published_at": "2026-09-15T13:00:00+00:00",
+          "excerpt": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+          "fetched_at": "2026-09-15T17:10:02.088459+00:00"
+        },
         {
           "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
           "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
