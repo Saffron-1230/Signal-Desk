@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T17:10:02.091921+00:00",
+  "last_updated": "2026-09-16T09:24:09.063740+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)",
+          "url": "https://ahrefs.com/blog/ai-marketing-trends/",
+          "published_at": "2026-09-16T09:01:04+00:00",
+          "excerpt": "The buyer’s journey looks different, because people now research and increasingly buy through AI tools instead of a page of blue links. The tools and processes we use to do marketing work have changed, because so much of it can … Read more ›",
+          "fetched_at": "2026-09-16T09:23:45.492318+00:00"
+        },
         {
           "title": "How We Use AI for Every Article Without Making AI Slop",
           "url": "https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/",
@@ -4296,6 +4303,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Matt Van Wagner shares what’s changed, what disappeared and what PPC still gets wrong",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMFdudW5ta25GQU1YRVh3WVEzblE0SmJwdTFJSV9OY21HTW5IeUJtaXdjSFY2SmdvNnlyRVlFZ1QyNXdfMVBVM0NxM0pRRTdqMWhVNGVrY0hKQjkyLWVGMFUxbzVJTjQ3S0E3STRaQ25maXk1Z2VtSzJidVhPd0xWVks4ZzI3Y3lIejJKNlVPZklpTERvN1YzdW9JVlB1enREeVFKQ01iQ1N2VjZLcDZma1ZnNDBfTDVYU28w?oc=5",
+          "published_at": "2026-09-15T17:52:00+00:00",
+          "excerpt": "Matt Van Wagner shares what’s changed, what disappeared and what PPC still gets wrong Search Engine Land",
+          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
+        },
+        {
+          "title": "Gemini 3.8 Live powers Google Search Live",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkNMSzJucEdKZnNLWkdfcWVjMUNrNXRUaTNDVGdjcHZZb3RQNXhINlVScEZ1aHBZc1VuUldLSmd6X2ozX1l0eTdMNzU0T3NnU1NGTVhCdUVjX215NFRYaGh5OFd1R3ZpZzhhWmtfTnk2RXBjOG5uclp0UkVuVUR4c0FCNA?oc=5",
+          "published_at": "2026-09-15T17:45:00+00:00",
+          "excerpt": "Gemini 3.8 Live powers Google Search Live Search Engine Land",
+          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
+        },
+        {
+          "title": "Google Ads AI needs guardrails, not blind trust ft Mike Ryan",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlVyU1VtWUh5QlNIMllXVW9GS0pGbXhpdHFrU1ZFTkRhSEVFbHhIcVYzRlc0WUI1ZFppTkpxTnJKQUQ4d0I5MmMzNnhtOU00WkxzN09IOUNYX0tlV3Z1QWF0X0RNVW54UW5udFVQbnkwZnd6NUZtSU5uWFJYVjc3ZHFFWGF6UlVId2NtdVhZb3lmSTRXaWw4M240bw?oc=5",
+          "published_at": "2026-09-15T17:40:00+00:00",
+          "excerpt": "Google Ads AI needs guardrails, not blind trust ft Mike Ryan Search Engine Land",
+          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
+        },
+        {
+          "title": "Google Chrome launches new metrics to measure ad-heavy websites",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMDFWT25ROHRqS3RCb2FZakkycGhnSzhkQTQwRzF2S3hrYjIySVpzaFFvOUFOdkxCZm9YY3J5dzI5RmYtekpVV0pQa0RGRUNVOXJLTlBRZkc2ejdIRmpxUkRqTVJLUkdpYlRsanVmakxpcGpPSkdKLXl4RVRnVGtQSnE5U3BFMjBfSmhCNGxKQ3ZnUi05aG5OSmJrRExTZUJV?oc=5",
+          "published_at": "2026-09-15T17:26:00+00:00",
+          "excerpt": "Google Chrome launches new metrics to measure ad-heavy websites Search Engine Land",
+          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
+        },
+        {
           "title": "The follow-up query: Rethinking SEO for conversational search",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjVLQm14V01NVGFXNFdrX2JzNlFGZHZ6c0xtdEZYMnJaLXhSYmd6a0ZuRmd4T1Z0Z3hyZEg3UWpWTXN0OENRbm1Ib3BNVmQ3WUk3alNUZUkzeUJYLWExSTFRdnIzeHg0RS0yNzJES1ZZc0thSlpCZ3l6UjJHNWlRaHB2LWVZQWhRZy1jd1VGRlJrUTRBZ1dndFFDMnc?oc=5",
           "published_at": "2026-09-15T15:00:00+00:00",
@@ -4315,6 +4350,27 @@
           "published_at": "2026-09-15T14:04:00+00:00",
           "excerpt": "YouTube video views: How they work & how to get more of them Search Engine Land",
           "fetched_at": "2026-09-15T17:09:32.622283+00:00"
+        },
+        {
+          "title": "Free keyword research template",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5acFhTTEw1UTlvSHNnU050OUFza3BoZzFJUmQ2YWd2S002eUN3blFvUzBWTnNpVUV2eXdsOUw4emxCdDVDQWtHY0RRWkxmLXBiTzV4V3dLaC1zNzhzNGdDY0FmME1WOGR6blJmVQ?oc=5",
+          "published_at": "2026-09-15T14:01:00+00:00",
+          "excerpt": "Free keyword research template Search Engine Land",
+          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
+        },
+        {
+          "title": "What happens before search strongly shapes the decision",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTNvVTFaenR0VXlfS1NvcXp0bDF0dzNxdkQxdUJVck1hcWZ3cVIwYXgxdDY2WnRzWFBTTEdLVFlXVUVYYjV5SmNONmdyZ0dWN011eld4T0NQRUpvRmpLZ1hSVWJBQmhVdi1SdlRZXy1yT2ZsY2ZibWh0RmNLZXFaX1JmTWg?oc=5",
+          "published_at": "2026-09-15T14:00:00+00:00",
+          "excerpt": "What happens before search strongly shapes the decision Search Engine Land",
+          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
+        },
+        {
+          "title": "Claude for SEO: 5 ways to automate repetitive work",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRzBlMlB6UkRZNXBlRDcwWllmd0tVNzZ6VDJaUzljZlNuUnVUSGJIcFJ6ZWJqdTlTVFN0QnotU0JaNW5PMUdQNmhZX2hzYmZ3OVQ5MFpXaGc5Z285WTd3UTBKZ3FzTC1OMTQ5enR1R3lDWDFPVGVOZFRMMzhBMWQ1SnZ4VW9pV2NMN3JiTUN3?oc=5",
+          "published_at": "2026-09-15T13:00:00+00:00",
+          "excerpt": "Claude for SEO: 5 ways to automate repetitive work Search Engine Land",
+          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
         },
         {
           "title": "Ana Kostic",
@@ -4968,7 +5024,7 @@
           "fetched_at": "2026-09-14T10:00:09.567147+00:00"
         },
         {
-          "title": "Google updates Location asset requirements without changing enforcement - searchengineland.com",
+          "title": "Google updates Location asset requirements without changing enforcement",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGpfTGFjSkctVFZhVlF2M0pITENMZU10YUdWNnpWa1hPMjlNU3gxMjNTUTFyejJWZEVzdlJFUi1YLXNjYmRXcEdaUmhiMGM1a3VUbkFXdkx1eGFUcXVyRmdhS3JmY3cwWjNNYldkQ2lFYTBEY1dNWjNycGhtWjRYWlgtLXJ3aUVjN0phRTFJc1BTbnItX0gyQnhmRkNpYzlLV01pYU5jRzdVYmc?oc=5",
           "published_at": "2026-09-09T16:41:00+00:00",
           "excerpt": "Google updates Location asset requirements without changing enforcement Search Engine Land",
@@ -5131,7 +5187,7 @@
         {
           "title": "Google tests traditional Search campaigns in AI Mode",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHpHdFFDYUZicnZCMzRUVUVrd3pxLWRRNG9KMmhqZjQxeFp5anFYeUQtY09WZ0MwWkxHQkNoUC1Pb0ZDSmNKX1ZfSkFIZ1RrOEl2MzJSc0NYYWFPb210MnlfZEc4SWZkOE9fNmFYczFqekEyUkZmbmktVDBuUUtvM3kzUU5VNmVFZXA3SGtoLUJuQQ?oc=5",
-          "published_at": "2026-09-07T14:13:00+00:00",
+          "published_at": "2026-09-07T07:00:00+00:00",
           "excerpt": "Google tests traditional Search campaigns in AI Mode Search Engine Land",
           "fetched_at": "2026-09-08T08:57:06.146586+00:00"
         },
@@ -5141,13 +5197,6 @@
           "published_at": "2026-09-04T17:47:00+00:00",
           "excerpt": "Alcohol advertising Archives searchengineland.com",
           "fetched_at": "2026-09-05T15:22:45.014068+00:00"
-        },
-        {
-          "title": "Semrush is bringing AI visibility under the Spotlight",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUY2Mzl6VFBZOERQRzZXVUphR1NJbGFfN2VPbng0eFl5TlZUWnFYdFJ0MVRCbGlfRGdtd2FRSU9mRmFjS0NpbGtieG9hcDBScFplVjhjU0hMUlZ1dXJ4RXFod0k4MHo0T3RJVU1RTEpGeFpQWGw0c1lBZG52VWNSd2dUNUlVcEVVVFBnUnk0a1hrWEU?oc=5",
-          "published_at": "2026-09-04T16:25:00+00:00",
-          "excerpt": "Semrush is bringing AI visibility under the Spotlight Search Engine Land",
-          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
         },
         {
           "title": "Apps Archives",
@@ -5169,13 +5218,6 @@
           "published_at": "2026-09-04T15:04:00+00:00",
           "excerpt": "Monica Richardson Archives Search Engine Land",
           "fetched_at": "2026-09-05T08:26:53.847335+00:00"
-        },
-        {
-          "title": "SEO and PPC are sitting on each other’s best insights",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGQmFOWlppeThnaDg0ZDh2U1ZibG5TQlZYdmxYbnFUWFAxbHE3MjhJZGVGb1I3Sk13RjJVUGFyTU5LcENiall0OHNlVUJyZGotcUJqenpmQktESEswSnNBMmpjMUhGWmVZX2MyY2IzRFY4SktsenNV?oc=5",
-          "published_at": "2026-09-04T14:00:00+00:00",
-          "excerpt": "SEO and PPC are sitting on each other’s best insights searchengineland.com",
-          "fetched_at": "2026-09-05T15:22:45.014068+00:00"
         },
         {
           "title": "Social Media Guides Archives",
@@ -5218,6 +5260,20 @@
           "published_at": "2026-09-04T07:00:00+00:00",
           "excerpt": "Google opens YouTube personalized ads to alcohol advertisers Search Engine Land",
           "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
+          "title": "Semrush is bringing AI visibility under the Spotlight",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUY2Mzl6VFBZOERQRzZXVUphR1NJbGFfN2VPbng0eFl5TlZUWnFYdFJ0MVRCbGlfRGdtd2FRSU9mRmFjS0NpbGtieG9hcDBScFplVjhjU0hMUlZ1dXJ4RXFod0k4MHo0T3RJVU1RTEpGeFpQWGw0c1lBZG52VWNSd2dUNUlVcEVVVFBnUnk0a1hrWEU?oc=5",
+          "published_at": "2026-09-04T07:00:00+00:00",
+          "excerpt": "Semrush is bringing AI visibility under the Spotlight Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
+          "title": "SEO and PPC are sitting on each other’s best insights",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGQmFOWlppeThnaDg0ZDh2U1ZibG5TQlZYdmxYbnFUWFAxbHE3MjhJZGVGb1I3Sk13RjJVUGFyTU5LcENiall0OHNlVUJyZGotcUJqenpmQktESEswSnNBMmpjMUhGWmVZX2MyY2IzRFY4SktsenNV?oc=5",
+          "published_at": "2026-09-04T07:00:00+00:00",
+          "excerpt": "SEO and PPC are sitting on each other’s best insights searchengineland.com",
+          "fetched_at": "2026-09-05T15:22:45.014068+00:00"
         },
         {
           "title": "What is a marketing funnel? Complete beginner’s guide",
@@ -5339,18 +5395,18 @@
           "fetched_at": "2026-09-03T09:02:15.336548+00:00"
         },
         {
-          "title": "Google Analytics showing zero traffic on Sept. 1",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZW02ZTVmOGI4cUJPWHdEZUJ4aHpKeFJIZVoxUzloRGw5UU9oMmM4eXhUTEd0TXJZZzk1d2Q5dVJadDJveTl6RzZFTjhZVmk2Y0VncEFpeGxva3l2RFpkX29ncTVnbWZsTkJWNHo5aG9EU3NGMk5BMlFrM1lZR2VHMEQ1UVBtQ3RRcHc1LUd4WHRFTGxm?oc=5",
-          "published_at": "2026-09-02T12:20:00+00:00",
-          "excerpt": "Google Analytics showing zero traffic on Sept. 1 Search Engine Land",
-          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
-        },
-        {
           "title": "How to prove paid social drives paid search demand",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbE5jMktKS2FGOFFHbWp0bDNFRG5OeXdYeUptLTk3VmVSYm1uMklDN01MYlhmTnlER2s0amRsemE0MnJfaFlaRGtza01LTm0yeUlfWDVqeDd6WEJ0Vk1uVkxWRnhfU3BId1BUTDhtZnUxeEozajB2UFdtZTRkTm5TemRoUEgxUQ?oc=5",
           "published_at": "2026-09-02T12:00:00+00:00",
           "excerpt": "How to prove paid social drives paid search demand Search Engine Land",
           "fetched_at": "2026-09-03T16:33:59.456858+00:00"
+        },
+        {
+          "title": "Google Analytics showing zero traffic on Sept. 1",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZW02ZTVmOGI4cUJPWHdEZUJ4aHpKeFJIZVoxUzloRGw5UU9oMmM4eXhUTEd0TXJZZzk1d2Q5dVJadDJveTl6RzZFTjhZVmk2Y0VncEFpeGxva3l2RFpkX29ncTVnbWZsTkJWNHo5aG9EU3NGMk5BMlFrM1lZR2VHMEQ1UVBtQ3RRcHc1LUd4WHRFTGxm?oc=5",
+          "published_at": "2026-09-02T07:00:00+00:00",
+          "excerpt": "Google Analytics showing zero traffic on Sept. 1 Search Engine Land",
+          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
         },
         {
           "title": "Evolving SEO for 2027: What still needs to change",
@@ -8336,6 +8392,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Adds New Ad Experience Metrics To CrUX Report via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/",
+          "published_at": "2026-09-15T21:46:09+00:00",
+          "excerpt": "Google is turning publisher advertising into user experience metric that adds four more numbers that publishers need to track. The post Google Adds New Ad Experience Metrics To CrUX Report appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-16T09:23:57.467898+00:00"
+        },
+        {
+          "title": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/",
+          "published_at": "2026-09-15T21:29:41+00:00",
+          "excerpt": "Cloudflare's Disallow AI Training keeps mixed-use crawlers available for search. Google and Apple honor training opt-outs; Bing robots.txt support is pending. The post Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-16T09:23:57.467898+00:00"
+        },
+        {
+          "title": "Brand Protection In AI Search: How To Audit And Defend Your Brand’s Identity",
+          "url": "https://www.searchenginejournal.com/brand-protection-in-ai-search-how-to-audit-and-defend-your-brands-identity/587581/",
+          "published_at": "2026-09-15T19:00:14+00:00",
+          "excerpt": "Spot false claims and impersonators in AI search, then match each brand protection problem to the right correction, report, or preventive action. The post Brand Protection In AI Search: How To Audit And Defend Your Brand’s Identity appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-16T09:23:57.467898+00:00"
+        },
+        {
           "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
           "url": "https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/",
           "published_at": "2026-09-15T14:30:08+00:00",
@@ -8469,13 +8546,6 @@
           "fetched_at": "2026-09-11T08:59:41.669196+00:00"
         },
         {
-          "title": "How Do I Keep Control As Platforms Automate My Account? – Ask A PPC via @sejournal, @navahf",
-          "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-keep-control-as-platforms-automate-my-account/587340/",
-          "published_at": "2026-09-10T14:30:20+00:00",
-          "excerpt": "Keep AI-driven PPC accountable with transparent reporting, brand-safe creative guardrails, and campaign structures that preserve performance without surrendering control. The post How Do I Keep Control As Platforms Automate My Account? – Ask A PPC appeared first on Search Engine…",
-          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
-        },
-        {
           "title": "How Local Businesses Can Build Visibility In AI Search via @sejournal, @lorenbaker",
           "url": "https://www.searchenginejournal.com/how-local-businesses-can-build-visibility-in-ai-search/588095/",
           "published_at": "2026-09-10T12:00:53+00:00",
@@ -8502,6 +8572,13 @@
           "published_at": "2026-09-10T05:00:48+00:00",
           "excerpt": "Explore how multi-location businesses can optimize for AI models like ChatGPT and Gemini. Learn the key factors for success. The post 5 AI Models, 4 Signals: What 120K Mentions Reveal About Multi-Location SEO appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-10T09:02:07.629439+00:00"
+        },
+        {
+          "title": "How Do I Keep Control As Platforms Automate My Account? – Ask A PPC",
+          "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-keep-control-as-platforms-automate-my-account/587340/",
+          "published_at": "2026-09-10T00:00:00+00:00",
+          "excerpt": "Keep AI-driven PPC accountable with transparent reporting, brand-safe creative guardrails, and campaign structures that preserve performance without surrendering control. The post How Do I Keep Control As Platforms Automate My Account? – Ask A PPC appeared first on Search Engine…",
+          "fetched_at": "2026-09-10T16:33:23.240925+00:00"
         },
         {
           "title": "YouTube Gives You Feedback On Shorts Before Publishing",
@@ -11941,6 +12018,20 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "How to Choose a Marketing Agency for PE-Backed Companies in 2026",
+          "url": "https://www.webfx.com/blog/marketing/choose-marketing-agency-pe-backed-company/",
+          "published_at": "2026-09-15T18:15:17+00:00",
+          "excerpt": "The post How to Choose a Marketing Agency for PE-Backed Companies in 2026 appeared first on WebFX .",
+          "fetched_at": "2026-09-16T09:24:06.126157+00:00"
+        },
+        {
+          "title": "How to Allocate Marketing Budget Across Multiple Locations and Brands",
+          "url": "https://www.webfx.com/blog/marketing/multi-location-marketing-budget/",
+          "published_at": "2026-09-15T17:42:26+00:00",
+          "excerpt": "The post How to Allocate Marketing Budget Across Multiple Locations and Brands appeared first on WebFX .",
+          "fetched_at": "2026-09-16T09:24:06.126157+00:00"
+        },
+        {
           "title": "How Much Does Marketing for a Multi-Location or Multi-Brand Company Cost?",
           "url": "https://www.webfx.com/blog/marketing/multi-location-marketing-cost/",
           "published_at": "2026-09-15T07:45:40+00:00",
@@ -12743,6 +12834,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Reimagining Chicago’s Thompson Center for the next generation",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/",
+          "published_at": "2026-09-16T05:01:00+00:00",
+          "excerpt": "Thompson Center",
+          "fetched_at": "2026-09-16T09:24:08.959774+00:00"
+        },
+        {
+          "title": "September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/september-2026-pixel-drop/",
+          "published_at": "2026-09-15T18:00:00+00:00",
+          "excerpt": "Our September Pixel Drop is here with an updated Pixel VIP widget, expanded chat Scam Detection, and more.",
+          "fetched_at": "2026-09-16T09:24:08.959774+00:00"
+        },
         {
           "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
