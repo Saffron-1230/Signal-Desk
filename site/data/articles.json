@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T09:24:09.063740+00:00",
+  "last_updated": "2026-09-16T17:10:19.424454+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "AI Overviews Cut CTR by 23.1% in France",
+          "url": "https://ahrefs.com/blog/ai-overviews-france-impact/",
+          "published_at": "2026-09-16T16:04:30+00:00",
+          "excerpt": "France got AI Overviews on July 22, 2026. We tracked 963 domains in GSC, 28 days before and 9 days after. The most exposed lost 23.1% of their CTR. Read more ›",
+          "fetched_at": "2026-09-16T17:09:55.081492+00:00"
+        },
         {
           "title": "8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)",
           "url": "https://ahrefs.com/blog/ai-marketing-trends/",
@@ -4303,6 +4310,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "OpenAI is turning ChatGPT ads into conversations",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVQZFp6V0ZFUHk2TmdLc21SWXY5b0U4V3R2WlpxdGQyRURQNWJ0azRsVVE5YWZGaDBHdTdlOW4tbi05SzJzTXZsWkRCbEVnYVRMRFdYWnNZV2pabjd1OGZrWjRyaE9PTTBiTEtTcUcxMlhiQUVlWWp4cWtQRC1zUmR4bGxwd0RUdmt0Mw?oc=5",
+          "published_at": "2026-09-16T15:01:00+00:00",
+          "excerpt": "OpenAI is turning ChatGPT ads into conversations Search Engine Land",
+          "fetched_at": "2026-09-16T17:09:57.160048+00:00"
+        },
+        {
+          "title": "Google Ads is showing advertisers how their spending compares with peers",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRW5RYlNuMnBCR3hSVXh2ajczM1NRdTlpRDRPc0VLZ09vQ0c1emFCY0dJVnlKRmRSaGRwaVhybGR1emFtd3pNOVpRUkZEY3RJLWRyRGE0bHNYMmJaMHl1ckVvbkxIMlVtbGJnVGhHWlBtTVV1X2VjQlJ2WnpzSkpvUVpLWFFKaWlLN2NGWXN2RU9YU1ZvVHBDc3I2Vko0QXFvc1A4SXRLcHRyaGN1?oc=5",
+          "published_at": "2026-09-16T14:50:00+00:00",
+          "excerpt": "Google Ads is showing advertisers how their spending compares with peers Search Engine Land",
+          "fetched_at": "2026-09-16T17:09:57.160048+00:00"
+        },
+        {
+          "title": "Google expands agentic commerce tools ahead of the holiday shopping rush",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckxuT2Z1eENYTnZWQ1A2VGlhQ0k3RGRUYXBrOTJ2Rm5tdXlzdXh3b1NYS3BYU2ZOYmtiS1MyMnZpbTJyVW9yMDJVUzZOSGJVc1dqTW43al93b21sSWRyQ1dzWnZtWjI5cXV4bUJvUk9PcnV4alNVdlo5cXl1bzRGNW1PU2k3YUhBaDItWUJZLWNjdkdINWxzQnM3cTdDR09ieVRtQXJtcVVfWXdL?oc=5",
+          "published_at": "2026-09-16T14:30:00+00:00",
+          "excerpt": "Google expands agentic commerce tools ahead of the holiday shopping rush Search Engine Land",
+          "fetched_at": "2026-09-16T17:09:57.160048+00:00"
+        },
+        {
+          "title": "9 ecommerce search trends that actually matter in 2027",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jMGRnaWUtQ3dsaXJDY2F1X3F1R3FxakM2allORjktRHRUU1RJUGl2ekdoMzJsdG82WW5Sbm5vZGlTRElhMlpwUC13STZLZ1UtTURXaWNtNGN6ZmhXeWQyaTdNR000QVJmUnJYcWtIR3hRbGRZb3hpWEF2Yw?oc=5",
+          "published_at": "2026-09-16T13:00:00+00:00",
+          "excerpt": "9 ecommerce search trends that actually matter in 2027 Search Engine Land",
+          "fetched_at": "2026-09-16T17:09:57.160048+00:00"
+        },
+        {
           "title": "Matt Van Wagner shares what’s changed, what disappeared and what PPC still gets wrong",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMFdudW5ta25GQU1YRVh3WVEzblE0SmJwdTFJSV9OY21HTW5IeUJtaXdjSFY2SmdvNnlyRVlFZ1QyNXdfMVBVM0NxM0pRRTdqMWhVNGVrY0hKQjkyLWVGMFUxbzVJTjQ3S0E3STRaQ25maXk1Z2VtSzJidVhPd0xWVks4ZzI3Y3lIejJKNlVPZklpTERvN1YzdW9JVlB1enREeVFKQ01iQ1N2VjZLcDZma1ZnNDBfTDVYU28w?oc=5",
           "published_at": "2026-09-15T17:52:00+00:00",
@@ -8392,6 +8427,41 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Search Profiles Now Available At 10,000 Followers via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-search-profiles-10000-followers/589635/",
+          "published_at": "2026-09-16T16:00:15+00:00",
+          "excerpt": "Google lowers Search profile eligibility to 10,000 followers for U.S. websites and creators, with new account tools and updated article displays. The post Google Search Profiles Now Available At 10,000 Followers appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-16T17:10:03.926557+00:00"
+        },
+        {
+          "title": "MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/",
+          "published_at": "2026-09-16T14:30:54+00:00",
+          "excerpt": "Three AI warnings landed in five days. Nicholas Carr described the pattern in 2008, and it changes how you plan next quarter. The post MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-16T17:10:03.926557+00:00"
+        },
+        {
+          "title": "How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage",
+          "url": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/",
+          "published_at": "2026-09-16T14:04:23+00:00",
+          "excerpt": "Strong affiliate numbers can hide brand bidding. Learn how to define violations, build a search test list, capture ad evidence, and match it to partners. The post How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-16T17:10:03.926557+00:00"
+        },
+        {
+          "title": "Beyond Content Parity: Building A Validated Content Workflow For AI Search via @sejournal, @billhunt",
+          "url": "https://www.searchenginejournal.com/beyond-content-parity-building-a-validated-content-workflow-for-ai-search/586184/",
+          "published_at": "2026-09-16T12:00:04+00:00",
+          "excerpt": "Build a validated content workflow for AI search by identifying decision gaps, acquiring original knowledge, and proving claims before publishing. The post Beyond Content Parity: Building A Validated Content Workflow For AI Search appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-16T17:10:03.926557+00:00"
+        },
+        {
+          "title": "Ex-Googler Jeff Dean Explains Design Choices Behind Gemini via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/",
+          "published_at": "2026-09-16T10:31:08+00:00",
+          "excerpt": "Ex-Googler Jeff Dean shares insights from Gemini's development and the approach he uses to discover promising new ideas. The post Ex-Googler Jeff Dean Explains Design Choices Behind Gemini appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-16T17:10:03.926557+00:00"
+        },
+        {
           "title": "Google Adds New Ad Experience Metrics To CrUX Report via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/",
           "published_at": "2026-09-15T21:46:09+00:00",
@@ -8497,21 +8567,7 @@
           "fetched_at": "2026-09-12T08:42:58.419221+00:00"
         },
         {
-          "title": "Google Documents Partner-Only API For Full-Web Search Results via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/google-documents-partner-only-api-for-full-web-search-results/589194/",
-          "published_at": "2026-09-11T17:32:12+00:00",
-          "excerpt": "Google's developer docs for the Web Search Service API show a partner-only path to full-web search results. The post Google Documents Partner-Only API For Full-Web Search Results appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-12T08:42:58.419221+00:00"
-        },
-        {
-          "title": "The 2003 Framework That Was Already Doing Query Fan-Out via @sejournal, @gregjarboe",
-          "url": "https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/",
-          "published_at": "2026-09-11T14:30:50+00:00",
-          "excerpt": "Use nested phrases and timely publishing to reach new Google searches and the longer queries AI systems generate. The post The 2003 Framework That Was Already Doing Query Fan-Out appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-11T16:37:54.939587+00:00"
-        },
-        {
-          "title": "What Wikipedia Reveals About AI Overviews And Web Traffic via @sejournal, @MattGSouthern",
+          "title": "What Wikipedia Reveals About AI Overviews And Web Traffic",
           "url": "https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/",
           "published_at": "2026-09-11T12:00:42+00:00",
           "excerpt": "A University of Washington paper estimates AI Overviews reduced search referrals to Wikipedia by about 5%, a metric Google disputes. The post What Wikipedia Reveals About AI Overviews And Web Traffic appeared first on Search Engine Journal .",
@@ -8523,6 +8579,20 @@
           "published_at": "2026-09-11T07:45:21+00:00",
           "excerpt": "Stas Levitan of LightSite AI explains four first-party signals marketers can use to connect AI bot attention with human traffic and better SEO decisions. The post New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-11T08:59:41.669196+00:00"
+        },
+        {
+          "title": "The 2003 Framework That Was Already Doing Query Fan-Out",
+          "url": "https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/",
+          "published_at": "2026-09-11T00:00:00+00:00",
+          "excerpt": "Use nested phrases and timely publishing to reach new Google searches and the longer queries AI systems generate. The post The 2003 Framework That Was Already Doing Query Fan-Out appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-11T16:37:54.939587+00:00"
+        },
+        {
+          "title": "Google Documents Partner-Only API For Full-Web Search Results",
+          "url": "https://www.searchenginejournal.com/google-documents-partner-only-api-for-full-web-search-results/589194/",
+          "published_at": "2026-09-11T00:00:00+00:00",
+          "excerpt": "Google's developer docs for the Web Search Service API show a partner-only path to full-web search results. The post Google Documents Partner-Only API For Full-Web Search Results appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-12T08:42:58.419221+00:00"
         },
         {
           "title": "Google Adds Post View Counts To Business Profiles via @sejournal, @MattGSouthern",
@@ -12018,6 +12088,13 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "How to Forecast Post-Acquisition Growth: The Playbook Behind 1.8X Faster Revenue Growth",
+          "url": "https://www.webfx.com/blog/marketing/forecast-marketing-growth-after-acquisition/",
+          "published_at": "2026-09-15T22:55:36+00:00",
+          "excerpt": "The post How to Forecast Post-Acquisition Growth: The Playbook Behind 1.8X Faster Revenue Growth appeared first on WebFX .",
+          "fetched_at": "2026-09-16T17:10:16.651885+00:00"
+        },
+        {
           "title": "How to Choose a Marketing Agency for PE-Backed Companies in 2026",
           "url": "https://www.webfx.com/blog/marketing/choose-marketing-agency-pe-backed-company/",
           "published_at": "2026-09-15T18:15:17+00:00",
@@ -12834,6 +12911,34 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "3 new ways we're improving Search profiles for publishers",
+          "url": "https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/",
+          "published_at": "2026-09-16T16:00:00+00:00",
+          "excerpt": "Search profiles",
+          "fetched_at": "2026-09-16T17:10:19.421273+00:00"
+        },
+        {
+          "title": "5 things to know about teens' views on AI today",
+          "url": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/",
+          "published_at": "2026-09-16T15:00:00+00:00",
+          "excerpt": "Collage of images showing teenagers using devices like phones and tablets",
+          "fetched_at": "2026-09-16T17:10:19.421273+00:00"
+        },
+        {
+          "title": "Boost your holiday sales with these agentic commerce updates",
+          "url": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/",
+          "published_at": "2026-09-16T14:00:00+00:00",
+          "excerpt": "A woman standing at a counter and typing on a laptop. Behind her are shelves full of ceramics and supplies",
+          "fetched_at": "2026-09-16T17:10:19.421273+00:00"
+        },
+        {
+          "title": "We’re catalyzing megaton-scale climate impact in Brazil",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/terradot-superpollutants-carbon-removal/",
+          "published_at": "2026-09-16T12:00:00+00:00",
+          "excerpt": "An aerial view of a flooded green rice paddy field under a bright blue sky filled with puffy white clouds, with flat-topped and conical hills visible in the background.",
+          "fetched_at": "2026-09-16T17:10:19.421273+00:00"
+        },
         {
           "title": "Reimagining Chicago’s Thompson Center for the next generation",
           "url": "https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/",
