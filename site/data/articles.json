@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T17:10:19.424454+00:00",
+  "last_updated": "2026-09-17T08:43:39.069307+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,11 +4310,25 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google updates Search profiles with design update, lower subscriber requirements and single login",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUXRIUy1DYnY5NHdqcVd1RC0wME9LZXVPeTdzX283bFYyemF3cm9MWll1aUl2bmNtcy1kcHNPMVZJdWwwSkpFVVA0REhlYjN1Nll4VUJGazZ3aVlEY1JyeE9pSGlhOTdUMDdkTjNJMW9MTjF2MnBpaFEzSm9FSmRGREhUNkM3aExHbDlYUzFZVTFDMVJWaXVRS1RBQ295RTNZQXY2aFhIclVGNE9QSkJFeVJBTDZOWVJxS1R6UmFOUTI1LVRBM2hGazdCTDU?oc=5",
+          "published_at": "2026-09-16T16:00:00+00:00",
+          "excerpt": "Google updates Search profiles with design update, lower subscriber requirements and single login Search Engine Land",
+          "fetched_at": "2026-09-17T08:43:16.667184+00:00"
+        },
+        {
           "title": "OpenAI is turning ChatGPT ads into conversations",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVQZFp6V0ZFUHk2TmdLc21SWXY5b0U4V3R2WlpxdGQyRURQNWJ0azRsVVE5YWZGaDBHdTdlOW4tbi05SzJzTXZsWkRCbEVnYVRMRFdYWnNZV2pabjd1OGZrWjRyaE9PTTBiTEtTcUcxMlhiQUVlWWp4cWtQRC1zUmR4bGxwd0RUdmt0Mw?oc=5",
           "published_at": "2026-09-16T15:01:00+00:00",
           "excerpt": "OpenAI is turning ChatGPT ads into conversations Search Engine Land",
           "fetched_at": "2026-09-16T17:09:57.160048+00:00"
+        },
+        {
+          "title": "3 GEO pillars: LLM readability, brand context, agentic commerce",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UUWVvMGVwcHZJOW01dWhGOGlPRUxqa3pXTHZSTmJmbGNZOWwzenlVZmlWUGJOOHNydUNHU3VkbW41N2luVHdsbGdXcHp2T3NVUHlTaGloWUxuZ0U?oc=5",
+          "published_at": "2026-09-16T15:00:00+00:00",
+          "excerpt": "3 GEO pillars: LLM readability, brand context, agentic commerce Search Engine Land",
+          "fetched_at": "2026-09-17T08:43:16.667184+00:00"
         },
         {
           "title": "Google Ads is showing advertisers how their spending compares with peers",
@@ -4331,11 +4345,25 @@
           "fetched_at": "2026-09-16T17:09:57.160048+00:00"
         },
         {
+          "title": "Your competitors’ negative reviews could improve your PPC ads",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdnRNWVlEUVd4SU5jeVloLXpFM3p1eW9mZE51WkJKbjB1S2pfSDhnUW5jWEJjZWFLaUxYSExwc3YyeVNZZENWYVQ0cDNXRFFoVEticmRMUmlhTGNPNVc2a1hsQjNSZEpFN2tMaFVIRW84Z21UQTRXWm5UaW4zNmJhVHRJcnV6UQ?oc=5",
+          "published_at": "2026-09-16T14:00:00+00:00",
+          "excerpt": "Your competitors’ negative reviews could improve your PPC ads Search Engine Land",
+          "fetched_at": "2026-09-17T08:43:16.667184+00:00"
+        },
+        {
           "title": "9 ecommerce search trends that actually matter in 2027",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jMGRnaWUtQ3dsaXJDY2F1X3F1R3FxakM2allORjktRHRUU1RJUGl2ekdoMzJsdG82WW5Sbm5vZGlTRElhMlpwUC13STZLZ1UtTURXaWNtNGN6ZmhXeWQyaTdNR000QVJmUnJYcWtIR3hRbGRZb3hpWEF2Yw?oc=5",
           "published_at": "2026-09-16T13:00:00+00:00",
           "excerpt": "9 ecommerce search trends that actually matter in 2027 Search Engine Land",
           "fetched_at": "2026-09-16T17:09:57.160048+00:00"
+        },
+        {
+          "title": "Are you building software instead of doing marketing?",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90S3hYdktfeDlhaE52bkctU09mQmFneWZjOG1meEtpTzdydWptaG1qTmVMaU5meDRza2ZHa0hvcGJjSTI3aDdQQ0dYVHNYYTZGNklXVWhrMTFKS3E5TTAyREdiY0I1aUFnWXo5ajZCMURESDZjQ25BNw?oc=5",
+          "published_at": "2026-09-16T12:00:00+00:00",
+          "excerpt": "Are you building software instead of doing marketing? Search Engine Land",
+          "fetched_at": "2026-09-17T08:43:16.667184+00:00"
         },
         {
           "title": "Matt Van Wagner shares what’s changed, what disappeared and what PPC still gets wrong",
@@ -5157,13 +5185,6 @@
           "fetched_at": "2026-09-09T09:02:47.856797+00:00"
         },
         {
-          "title": "Inside Google Maps: 72 ranking signals and the architecture behind local search",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUZOUFRYN3dGQlc2OUVEazlkcURwMXlYbVlxR2ZfSHduaUFydUZhRmZMZ0o3cTR2bnVST180OGtpYzRLeEJaM2Q4VDIyNDdaWXl1QnU5bXJiTWtLLVZiWGQxWTBmXy13ZkpnU2NaSHdud1kyN0pjV3Q4VzhJb1BnVW9mdGxPZXZjblBIbkRxUEw4Q0JVSFEyUWRaczJ1akhNVlNLQlJNZFA5T2h4ZktkN3dDT3g?oc=5",
-          "published_at": "2026-09-08T15:00:00+00:00",
-          "excerpt": "Inside Google Maps: 72 ranking signals and the architecture behind local search Search Engine Land",
-          "fetched_at": "2026-09-09T09:02:47.856797+00:00"
-        },
-        {
           "title": "Before scaling programmatic SEO, prove the pattern works",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0NlZUhhVTBnR2hLb2NlNzl3VHZGOEhBNW5lSFVJVHU0ZEhtTkdfZE5YX3hHX1BGbjk1X0hWMlpkZWtFWUh3QzVaZVVPSkktdUxYMk5GcmxpU0ZieDBzYmxENDYzOEF4b1JlX3ZYTTFwZ0diSDd3M3ZBZjNpbnZqT0RCLTJSRnpIMjJNdHAzMGE?oc=5",
           "published_at": "2026-09-08T14:00:00+00:00",
@@ -5211,6 +5232,13 @@
           "published_at": "2026-09-08T11:00:00+00:00",
           "excerpt": "Why growing restaurant chains win at local search and AI visibility Search Engine Land",
           "fetched_at": "2026-09-08T16:45:13.960727+00:00"
+        },
+        {
+          "title": "Inside Google Maps: 72 ranking signals and the architecture behind local search",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUZOUFRYN3dGQlc2OUVEazlkcURwMXlYbVlxR2ZfSHduaUFydUZhRmZMZ0o3cTR2bnVST180OGtpYzRLeEJaM2Q4VDIyNDdaWXl1QnU5bXJiTWtLLVZiWGQxWTBmXy13ZkpnU2NaSHdud1kyN0pjV3Q4VzhJb1BnVW9mdGxPZXZjblBIbkRxUEw4Q0JVSFEyUWRaczJ1akhNVlNLQlJNZFA5T2h4ZktkN3dDT3g?oc=5",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "excerpt": "Inside Google Maps: 72 ranking signals and the architecture behind local search Search Engine Land",
+          "fetched_at": "2026-09-09T09:02:47.856797+00:00"
         },
         {
           "title": "AI Overviews may be affecting Shopping ad CTR and impressions",
@@ -5262,13 +5290,6 @@
           "fetched_at": "2026-09-06T15:35:35.731508+00:00"
         },
         {
-          "title": "Limited Ad Serving: Why Google Ads suddenly show less often",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQd214STNpeTFNQVBtMEo2WDUxUS1FamcyT1dycDA3dERXUGhPSVBXWmJYN1FDWlBvb0ZLaXNfMGNaWktEZzd3MVRUUFpNV2xxazFsLTZnWmJBdzlUVU00bG9ELVJYdHRnTjdFV2xZNVpKaTg?oc=5",
-          "published_at": "2026-09-04T13:00:00+00:00",
-          "excerpt": "Limited Ad Serving: Why Google Ads suddenly show less often Search Engine Land",
-          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
-        },
-        {
           "title": "How to build a defensible SEO budget for 2027",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclR5ZWZaODBtT2JZejFDSVlNZVNLcjRBbXl5UlFkb3NpbGZrNy1qMlNodGRXcmVwVlVOckZ1V2JBMzFJR2RtbWpWN205RmxqT2ZWcmM1eEY3b0tidk1RTHktdG12UTdVYTRKYWZUMzdlNXYzS1IzNkhzN3VBbkRWQ01zRU5ULUtN?oc=5",
           "published_at": "2026-09-04T12:00:00+00:00",
@@ -5280,6 +5301,13 @@
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSnZkQ3JXWFFqZmhKWk9fTTRIdVItWlBRa014NVlYQl9ZVWcxdEljeHVDSlRpMnFQTUd5dG0xa2N4QWlVcERKSndmSW5NeEdrRjdKTlBGRnZUdG5RVVlSbW55cWREYWR1aVpwcHhPdXpfUjc2dllGNEs3VG9XdVZhRDY1Q3JnZw?oc=5",
           "published_at": "2026-09-04T07:00:00+00:00",
           "excerpt": "The big winners and losers in U.S. website traffic over the past year Search Engine Land",
+          "fetched_at": "2026-09-05T08:26:53.847335+00:00"
+        },
+        {
+          "title": "Limited Ad Serving: Why Google Ads suddenly show less often",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQd214STNpeTFNQVBtMEo2WDUxUS1FamcyT1dycDA3dERXUGhPSVBXWmJYN1FDWlBvb0ZLaXNfMGNaWktEZzd3MVRUUFpNV2xxazFsLTZnWmJBdzlUVU00bG9ELVJYdHRnTjdFV2xZNVpKaTg?oc=5",
+          "published_at": "2026-09-04T07:00:00+00:00",
+          "excerpt": "Limited Ad Serving: Why Google Ads suddenly show less often Search Engine Land",
           "fetched_at": "2026-09-05T08:26:53.847335+00:00"
         },
         {
@@ -8427,6 +8455,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Search Profile Badges Expose The Publisher Traffic Crisis via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-search-profile-badges-expose-the-publisher-traffic-crisis/589724/",
+          "published_at": "2026-09-16T23:07:48+00:00",
+          "excerpt": "Google published guidance for adding a Search profile badge as Search becomes a destination for following creators and publisher. The post Google Search Profile Badges Expose The Publisher Traffic Crisis appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-17T08:43:25.537801+00:00"
+        },
+        {
+          "title": "Google UCP Update Lets Merchants Enable Cart Transfer To Site via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-ucp-update-lets-merchants-enable-cart-transfer-to-site/589713/",
+          "published_at": "2026-09-16T20:35:52+00:00",
+          "excerpt": "Google is rolling out cart transfer and checkout testing in the Merchant Center UCP hub, plus a YouTube ads beta and wider AI insights. The post Google UCP Update Lets Merchants Enable Cart Transfer To Site appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-17T08:43:25.537801+00:00"
+        },
+        {
+          "title": "It Was There A Minute Ago via @sejournal, @pedrodias",
+          "url": "https://www.searchenginejournal.com/it-was-there-a-minute-ago/589500/",
+          "published_at": "2026-09-16T19:00:44+00:00",
+          "excerpt": "A model can know the right answer and still defer to a wrong tool result. What does that mean for your visibility report? The post It Was There A Minute Ago appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-17T08:43:25.537801+00:00"
+        },
+        {
           "title": "Google Search Profiles Now Available At 10,000 Followers via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-search-profiles-10000-followers/589635/",
           "published_at": "2026-09-16T16:00:15+00:00",
@@ -8546,25 +8595,18 @@
           "fetched_at": "2026-09-14T10:00:22.253912+00:00"
         },
         {
-          "title": "Google Admits Search Console Reporting For AI Search Is Inadequate via @sejournal, @martinibuster",
+          "title": "Google Admits Search Console Reporting For AI Search Is Inadequate",
           "url": "https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/",
-          "published_at": "2026-09-13T12:17:31+00:00",
+          "published_at": "2026-09-13T00:00:00+00:00",
           "excerpt": "Google admits that Search Console's AI search reporting does not adequately reflect AI search positioning data for SEO. The post Google Admits Search Console Reporting For AI Search Is Inadequate appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-13T16:30:00.387499+00:00"
         },
         {
-          "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse via @sejournal, @MattGSouthern",
+          "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse",
           "url": "https://www.searchenginejournal.com/google-search-redesign-business-profile-post-views-seo-pulse/589151/",
-          "published_at": "2026-09-12T12:30:38+00:00",
+          "published_at": "2026-09-12T00:00:00+00:00",
           "excerpt": "Google redesigned Search results across the EEA, Business Profile posts get view counts again, and ChatGPT Shopping now leans harder on product feeds. The post Google Search Redesign, Business Profile Post Views – SEO Pulse appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-12T15:39:37.219958+00:00"
-        },
-        {
-          "title": "SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause via @sejournal, @theshelleywalsh",
-          "url": "https://www.searchenginejournal.com/seo-for-paws-live-stream-conference-free-tickets-big-names-for-a-good-cause/588889/",
-          "published_at": "2026-09-11T19:00:59+00:00",
-          "excerpt": "SEO For Paws is back with Barry Schwartz, Glenn Gabe, and a lineup of search experts talking about search in the AI era. The post SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-12T08:42:58.419221+00:00"
         },
         {
           "title": "What Wikipedia Reveals About AI Overviews And Web Traffic",
@@ -8586,6 +8628,13 @@
           "published_at": "2026-09-11T00:00:00+00:00",
           "excerpt": "Use nested phrases and timely publishing to reach new Google searches and the longer queries AI systems generate. The post The 2003 Framework That Was Already Doing Query Fan-Out appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-11T16:37:54.939587+00:00"
+        },
+        {
+          "title": "SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause",
+          "url": "https://www.searchenginejournal.com/seo-for-paws-live-stream-conference-free-tickets-big-names-for-a-good-cause/588889/",
+          "published_at": "2026-09-11T00:00:00+00:00",
+          "excerpt": "SEO For Paws is back with Barry Schwartz, Glenn Gabe, and a lineup of search experts talking about search in the AI era. The post SEO For Paws Live Stream Conference: Free Tickets & Big Names For A Good Cause appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-12T08:42:58.419221+00:00"
         },
         {
           "title": "Google Documents Partner-Only API For Full-Web Search Results",
@@ -8971,6 +9020,13 @@
           "published_at": "2026-09-01T12:00:02+00:00",
           "excerpt": "Schema is not a magic ranking switch. Loren Baker explains how consistent structured data strengthens entity trust across local, ecommerce, and author-driven content. The post Schema For AI Citations: How To Become A Trusted Source appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-01T16:46:50.748434+00:00"
+        },
+        {
+          "title": "A New Place To Look: Where Your Next AI Citations & Clicks Come From",
+          "url": "https://www.searchenginejournal.com/webinar-lp-a-new-place-to-look-where-your-next-ai-citations-clicks-come-from/",
+          "published_at": "2026-09-01T08:21:28+00:00",
+          "excerpt": "Learn how to turn real customer language into AEO insights, FAQ content, and measurable AI citations and clicks in this free webinar with CallTrackingMetrics.",
+          "fetched_at": "2026-09-17T08:43:25.537801+00:00"
         },
         {
           "title": "How We Earned 1,000+ Links For GEO/SEO via @sejournal, @hethr_campbell",
@@ -12599,6 +12655,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
+          "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+          "published_at": "2026-09-16T00:00:00+00:00",
+          "excerpt": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live requests. It utilizes a multi-tiered detection pipeline—combi…",
+          "fetched_at": "2026-09-17T08:43:38.171843+00:00"
+        },
+        {
           "title": "Build zero-trust AI agents that judge intent, not just syntax",
           "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/",
           "published_at": "2026-09-15T00:00:00+00:00",
@@ -12911,6 +12974,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Helping bring the world’s first large-scale, near-zero emissions steel plant online",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/",
+          "published_at": "2026-09-17T07:00:00+00:00",
+          "excerpt": "Video opens with archival footage of smoky, coal-fired steel factories, then transitions to clean, modern exterior shots of Stegra's new facility and a clear digital animation showing how green hydrogen replaces coal to produce near-zero emission steel.",
+          "fetched_at": "2026-09-17T08:43:39.066338+00:00"
+        },
         {
           "title": "3 new ways we're improving Search profiles for publishers",
           "url": "https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/",
