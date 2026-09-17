@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T08:43:39.069307+00:00",
+  "last_updated": "2026-09-17T09:32:56.516569+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,6 +4310,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Pogo-sticking in SEO – why is it important?",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UUGNnaE1wcUM1MW1TTFl3T3F4YXozdmsxcmdFU2dWZWRvMEVuMEhQQXE1dmxKWVhFSTlqUTF2NGY4dW5sMEpGUWtnei1qUGwyUWtrQUlNZ2FhVkY1?oc=5",
+          "published_at": "2026-09-16T18:41:00+00:00",
+          "excerpt": "Pogo-sticking in SEO – why is it important? Search Engine Land",
+          "fetched_at": "2026-09-17T09:32:37.871963+00:00"
+        },
+        {
           "title": "Google updates Search profiles with design update, lower subscriber requirements and single login",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUXRIUy1DYnY5NHdqcVd1RC0wME9LZXVPeTdzX283bFYyemF3cm9MWll1aUl2bmNtcy1kcHNPMVZJdWwwSkpFVVA0REhlYjN1Nll4VUJGazZ3aVlEY1JyeE9pSGlhOTdUMDdkTjNJMW9MTjF2MnBpaFEzSm9FSmRGREhUNkM3aExHbDlYUzFZVTFDMVJWaXVRS1RBQ295RTNZQXY2aFhIclVGNE9QSkJFeVJBTDZOWVJxS1R6UmFOUTI1LVRBM2hGazdCTDU?oc=5",
           "published_at": "2026-09-16T16:00:00+00:00",
@@ -5080,13 +5087,6 @@
           "fetched_at": "2026-09-14T18:06:50.991427+00:00"
         },
         {
-          "title": "ChatGPT / OpenAI statistics: How many people use ChatGPT?",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ibEYzaENRbFdQdF8zY2pCNXFUSWlBOWRKNklKLWFwMHJHQnJtdTVZbUZFUGt3c0dqUEZVbWpGcm5MeG1YYURReGZBWld0V1ZIUEFRVkV3ZHBZY19E?oc=5",
-          "published_at": "2026-09-09T16:53:00+00:00",
-          "excerpt": "ChatGPT / OpenAI statistics: How many people use ChatGPT? Search Engine Land",
-          "fetched_at": "2026-09-14T10:00:09.567147+00:00"
-        },
-        {
           "title": "Google updates Location asset requirements without changing enforcement",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGpfTGFjSkctVFZhVlF2M0pITENMZU10YUdWNnpWa1hPMjlNU3gxMjNTUTFyejJWZEVzdlJFUi1YLXNjYmRXcEdaUmhiMGM1a3VUbkFXdkx1eGFUcXVyRmdhS3JmY3cwWjNNYldkQ2lFYTBEY1dNWjNycGhtWjRYWlgtLXJ3aUVjN0phRTFJc1BTbnItX0gyQnhmRkNpYzlLV01pYU5jRzdVYmc?oc=5",
           "published_at": "2026-09-09T16:41:00+00:00",
@@ -5141,6 +5141,13 @@
           "published_at": "2026-09-09T08:01:13+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-09-02T08:52:52.717674+00:00"
+        },
+        {
+          "title": "ChatGPT / OpenAI statistics: How many people use ChatGPT?",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ibEYzaENRbFdQdF8zY2pCNXFUSWlBOWRKNklKLWFwMHJHQnJtdTVZbUZFUGt3c0dqUEZVbWpGcm5MeG1YYURReGZBWld0V1ZIUEFRVkV3ZHBZY19E?oc=5",
+          "published_at": "2026-09-09T07:00:00+00:00",
+          "excerpt": "ChatGPT / OpenAI statistics: How many people use ChatGPT? Search Engine Land",
+          "fetched_at": "2026-09-14T10:00:09.567147+00:00"
         },
         {
           "title": "SMX Now: Find the entity gaps holding back your content strategy",
