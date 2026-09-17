@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T09:32:56.516569+00:00",
+  "last_updated": "2026-09-17T17:10:34.053734+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,6 +4310,41 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Stripe revenue and growth statistics (2026)",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcGE0b3ZmR0VnX2FXMEZCcVFfR1ZKM1JyUkJhMHFDWXo5SzZOanFaeG9YbjlZTHlBVGtqYWxBWWQybmQ5SUFJdDhSRWE0RUw0NlJvbklPc1g2Zk0?oc=5",
+          "published_at": "2026-09-17T14:55:00+00:00",
+          "excerpt": "Stripe revenue and growth statistics (2026) Search Engine Land",
+          "fetched_at": "2026-09-17T17:10:09.774979+00:00"
+        },
+        {
+          "title": "Google faces six years of court oversight in ad tech antitrust case",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVAwenZZTkpRQzE3dGZPbU1XV29CVXJmUFFkZzlkNk5HT05ILTVNMWxNbXh4bFVVVDl0bXNsYTcxVGQ3OXF1aFZjQjFCdndJRTBRRkdCU1VsVXRCd2M3QjJ4LVhLcFV1TzdkZjk5RmVuTUtLdDdQOElSbmx1U0FXSXVEaFVRdFhFSm43czBR?oc=5",
+          "published_at": "2026-09-17T14:30:00+00:00",
+          "excerpt": "Google faces six years of court oversight in ad tech antitrust case Search Engine Land",
+          "fetched_at": "2026-09-17T17:10:09.774979+00:00"
+        },
+        {
+          "title": "Ranking is only half the job: SEO for task completion",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03bU52M1NIWkpWVTRzVXBFUFZXU3lmcXNNSUEtZ21TbHR4RHlpZWRKV0Z0YVRFaFZneHNrTk1NLS1rZWE1UE1acW5zZl9pZUJhMFlfM1d2WUM3S3dTWTZIY3lUMV9ycGZqSS1nQ3NpdWotRmo2ZFZpcVpHSWw?oc=5",
+          "published_at": "2026-09-17T14:00:00+00:00",
+          "excerpt": "Ranking is only half the job: SEO for task completion Search Engine Land",
+          "fetched_at": "2026-09-17T17:10:09.774979+00:00"
+        },
+        {
+          "title": "How to tell which Google Ads controls actually control anything",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tNkYzM25JNHozeEh1dk9nM3pPSVowS09yMVh5OUxIOWt3RGZXVjkzNGJJS3V1UkoyWnpTclRiMDlfdzY5dWFPc0lzTTRyQTd6N1dRYjA3YkJQQXpSX3gzVnpCRERkZw?oc=5",
+          "published_at": "2026-09-17T13:00:00+00:00",
+          "excerpt": "How to tell which Google Ads controls actually control anything Search Engine Land",
+          "fetched_at": "2026-09-17T17:10:09.774979+00:00"
+        },
+        {
+          "title": "The SEO career playbook is dead. Good!",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOME9lUlVTN1RxN21LUTNvRy1JeTNJZEJuSERUZzAxMkNjSm1fRmJ5bVVsSVNEYml0LUpkN2lNdG42VUZ3VV9OdEtPdzNqQVN1aDkxZUdVUGY0ZHR6a0k0QVhXaWdEcmxfdTR3NQ?oc=5",
+          "published_at": "2026-09-17T12:00:00+00:00",
+          "excerpt": "The SEO career playbook is dead. Good! Search Engine Land",
+          "fetched_at": "2026-09-17T17:10:09.774979+00:00"
+        },
+        {
           "title": "Pogo-sticking in SEO – why is it important?",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UUGNnaE1wcUM1MW1TTFl3T3F4YXozdmsxcmdFU2dWZWRvMEVuMEhQQXE1dmxKWVhFSTlqUTF2NGY4dW5sMEpGUWtnei1qUGwyUWtrQUlNZ2FhVkY1?oc=5",
           "published_at": "2026-09-16T18:41:00+00:00",
@@ -4357,6 +4392,13 @@
           "published_at": "2026-09-16T14:00:00+00:00",
           "excerpt": "Your competitors’ negative reviews could improve your PPC ads Search Engine Land",
           "fetched_at": "2026-09-17T08:43:16.667184+00:00"
+        },
+        {
+          "title": "SMX Now: Find the entity gaps holding back your content strategy",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aWktGS2J2eWN0ZnN1bXk0SF90dWdlbzVyRlZRUkxSVkxkMnFWeFlUTHhmaWp1bENTU0dTWDdIYi1WYjdnTU1qY0NpY2FYRHhjLWZIU09jT2hpVDB3T0xFSmZ4OUdQc3gwUnd1dHIxRW9lSHRlN0lFclRwdGs?oc=5",
+          "published_at": "2026-09-16T13:36:00+00:00",
+          "excerpt": "SMX Now: Find the entity gaps holding back your content strategy Search Engine Land",
+          "fetched_at": "2026-09-04T08:55:43.309082+00:00"
         },
         {
           "title": "9 ecommerce search trends that actually matter in 2027",
@@ -5150,13 +5192,6 @@
           "fetched_at": "2026-09-14T10:00:09.567147+00:00"
         },
         {
-          "title": "SMX Now: Find the entity gaps holding back your content strategy",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aWktGS2J2eWN0ZnN1bXk0SF90dWdlbzVyRlZRUkxSVkxkMnFWeFlUTHhmaWp1bENTU0dTWDdIYi1WYjdnTU1qY0NpY2FYRHhjLWZIU09jT2hpVDB3T0xFSmZ4OUdQc3gwUnd1dHIxRW9lSHRlN0lFclRwdGs?oc=5",
-          "published_at": "2026-09-08T18:02:00+00:00",
-          "excerpt": "SMX Now: Find the entity gaps holding back your content strategy Search Engine Land",
-          "fetched_at": "2026-09-04T08:55:43.309082+00:00"
-        },
-        {
           "title": "Bluesky statistics: How Many people use bluesky? (2026)",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40NldPTnctZjU0OTcwSHBLaWpIQjVnUDJYWUphSFlTLW9FR2hEUFd1MHNvVnhEZHNKdzRzLVFUbjV6cHNQckkzbk9tNFZwZXhybTJOT3cyU1Z4Y09rXzYzN1M0RQ?oc=5",
           "published_at": "2026-09-08T17:51:00+00:00",
@@ -5213,13 +5248,6 @@
           "fetched_at": "2026-09-08T16:45:13.960727+00:00"
         },
         {
-          "title": "Google says DMA changes in EU resulted in worse degradation of search quality ever",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXdrTHE0Y2J3YnVLTHVDUkdnUXpUQnBnOURKQXJkNGlPVGZyZVB1ZXRlS2xUMy1NSnF3SHlxRjZVR1NxN2NBSXJScUFzbk9BdVp2TDExU25UalRDYmt2MGl3WkxtWU9USUtIM2xORGdWdi0zRng4M3p2d1B1RjhxOC1WMHJySHhkWHF1cHc0anZtZjBXQ3JHd0pFRXY2ODVDMHZEQmVPTWJKMmw4dVNmQ0lSdDNaRFlVWXc?oc=5",
-          "published_at": "2026-09-08T12:38:00+00:00",
-          "excerpt": "Google says DMA changes in EU resulted in worse degradation of search quality ever Search Engine Land",
-          "fetched_at": "2026-09-08T16:45:13.960727+00:00"
-        },
-        {
           "title": "How to build an AI governance framework for SEO",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZSFBJck5ZMGQzUGpKa1Y2MlM2Y3NkdERibmFFbm1lbjhrdU5BUDcyX2hsb1NQUmFlODV2ZFlBZ3RxZTBmLXVxZENCSWUyeVdtVFd3NTdDS3lkLVJnaWE4eExGOGZvclZoNjN4TmxSVVd4cUdzRGJieg?oc=5",
           "published_at": "2026-09-08T12:00:00+00:00",
@@ -5238,6 +5266,13 @@
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXU2VWVpbWQ3UHd3b1VWVUxOaHVaTS1Sb2l5eTFpV0o0bTgwbWhlWmlZc3BXOU1zSkpEa1NJZ01vWVVDZnJmamtpeS1VdkdpSkV4N3d5Z3VNRFpLNkxxY1dGVk56OFdTRjFQaUtCSHNvSlYza1UyZWpnRml0eHg0dXU1OE1sMHo1Rzc5ejdSZUlwbE42UGFEYlBlbzJDVGxOcUlSZktR?oc=5",
           "published_at": "2026-09-08T11:00:00+00:00",
           "excerpt": "Why growing restaurant chains win at local search and AI visibility Search Engine Land",
+          "fetched_at": "2026-09-08T16:45:13.960727+00:00"
+        },
+        {
+          "title": "Google says DMA changes in EU resulted in worse degradation of search quality ever",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXdrTHE0Y2J3YnVLTHVDUkdnUXpUQnBnOURKQXJkNGlPVGZyZVB1ZXRlS2xUMy1NSnF3SHlxRjZVR1NxN2NBSXJScUFzbk9BdVp2TDExU25UalRDYmt2MGl3WkxtWU9USUtIM2xORGdWdi0zRng4M3p2d1B1RjhxOC1WMHJySHhkWHF1cHc0anZtZjBXQ3JHd0pFRXY2ODVDMHZEQmVPTWJKMmw4dVNmQ0lSdDNaRFlVWXc?oc=5",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "excerpt": "Google says DMA changes in EU resulted in worse degradation of search quality ever Search Engine Land",
           "fetched_at": "2026-09-08T16:45:13.960727+00:00"
         },
         {
@@ -8462,6 +8497,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "AI Citation Test Finds Source Order Matters Less Than It Looks via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/ai-citation-test-finds-source-order-matters-less-than-it-looks/589806/",
+          "published_at": "2026-09-17T17:02:58+00:00",
+          "excerpt": "A controlled AI citation test found source order mattered less than raw data suggested, while structured rewrites shifted how citation credit was distributed. The post AI Citation Test Finds Source Order Matters Less Than It Looks appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-17T17:10:23.266154+00:00"
+        },
+        {
+          "title": "Reddit AI Search Picks Already-Popular Comments, Audit Finds via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/reddit-ai-search-picks-already-popular-comments-audit-finds/589771/",
+          "published_at": "2026-09-17T15:44:51+00:00",
+          "excerpt": "An audit of Reddit AI search found formal, highly upvoted comments were selected more often, while experiential language appeared less often. The post Reddit AI Search Picks Already-Popular Comments, Audit Finds appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-17T17:10:23.266154+00:00"
+        },
+        {
+          "title": "Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? – Ask An SEO via @sejournal, @rollerblader",
+          "url": "https://www.searchenginejournal.com/ask-an-seo-does-product-page-copy-matter-since-agents-read-feeds/585090/",
+          "published_at": "2026-09-17T14:30:32+00:00",
+          "excerpt": "Product page copy builds shopper trust and fills gaps in AI feeds, giving customers the details they need to buy. The post Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? – Ask An SEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-17T17:10:23.266154+00:00"
+        },
+        {
+          "title": "3 Predictions For 2027, And Why You Won’t Be Able To Check Them via @sejournal, @DuaneForrester",
+          "url": "https://www.searchenginejournal.com/3-predictions-for-2027-and-why-you-wont-be-able-to-check-them/589263/",
+          "published_at": "2026-09-17T12:00:01+00:00",
+          "excerpt": "The surface that ranks and the surface that earns are decoupling. Three predictions for Google in 2027, plus one about whether you'll know. The post 3 Predictions For 2027, And Why You Won’t Be Able To Check Them appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-17T17:10:23.266154+00:00"
+        },
+        {
           "title": "Google Search Profile Badges Expose The Publisher Traffic Crisis via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-search-profile-badges-expose-the-publisher-traffic-crisis/589724/",
           "published_at": "2026-09-16T23:07:48+00:00",
@@ -8595,7 +8658,7 @@
           "fetched_at": "2026-09-14T18:07:02.790049+00:00"
         },
         {
-          "title": "Matt Mullenweg Apparently Back In Charge At Automattic via @sejournal, @martinibuster",
+          "title": "Matt Mullenweg Apparently Back In Charge At Automattic",
           "url": "https://www.searchenginejournal.com/matt-mullenweg-apparently-back-in-charge-at-automattic/589251/",
           "published_at": "2026-09-13T21:10:22+00:00",
           "excerpt": "Automattic says Matt Mullenweg has returned with the board's full support. But its official announcement raises additional questions. The post Matt Mullenweg Apparently Back In Charge At Automattic appeared first on Search Engine Journal .",
@@ -10869,6 +10932,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
+          "url": "https://www.semrush.com/blog/my-editing-approaches-framework/",
+          "published_at": "2026-09-17T13:34:00+00:00",
+          "excerpt": "I use 5 editing approaches for content reviews. Find out what they are and how I choose the right one.",
+          "fetched_at": "2026-09-17T17:10:28.596870+00:00"
+        },
+        {
           "title": "What is zero-click marketing? How to execute and measure it",
           "url": "https://www.semrush.com/blog/zero-click-marketing/",
           "published_at": "2026-09-11T10:06:00+00:00",
@@ -11018,7 +11088,7 @@
         {
           "title": "How to track AI Overviews with Semrush",
           "url": "https://www.semrush.com/blog/semrush-ai-overview-research/",
-          "published_at": "2026-08-28T12:40:00+00:00",
+          "published_at": "2026-08-28T00:00:00+00:00",
           "excerpt": "AI Overviews are growing and impacting SEO campaigns. Learn how to track AI Overviews with Semrush.",
           "fetched_at": "2026-08-28T16:45:55.437854+00:00"
         },
@@ -12981,6 +13051,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Drive with “Forgotten Island” on Waze.",
+          "url": "https://blog.google/waze/waze-forgotten-island/",
+          "published_at": "2026-09-17T11:28:00+00:00",
+          "excerpt": "A bright, tropical promo image for DreamWorks' \"Forgotten Island\" film partnership with Waze. It features two animated characters, a red Jeepney bus, and themed keychains. Speech bubble: \"Make a U-Turn. Get ready to pivot and... boom, turn here.\" Promotional text reads: \"Drive w…",
+          "fetched_at": "2026-09-17T17:10:34.050503+00:00"
+        },
         {
           "title": "Helping bring the world’s first large-scale, near-zero emissions steel plant online",
           "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/",
