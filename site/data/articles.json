@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T09:05:44.796952+00:00",
+  "last_updated": "2026-09-18T16:35:10.044876+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,6 +4310,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Why your highest-converting B2B landing page might be hurting your pipeline",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWtET0d5S1ZrODFjazBSS21nc1pwbXM1RWJ4TzRTWmFfaUxWdlFyck53MVRaRVhqempnRlgydmNHOWViNk1DajdVOERSZXBLNFloc2JoWlNvRXNYZTlwMTRPMVVyZnVyOVFZdWRYR3NJU0JjUjFlRmlmSndSODFHSjdhdFBQSTZ5dEpFSWtDTlBRUQ?oc=5",
+          "published_at": "2026-09-18T12:00:00+00:00",
+          "excerpt": "Why your highest-converting B2B landing page might be hurting your pipeline Search Engine Land",
+          "fetched_at": "2026-09-18T16:34:46.783816+00:00"
+        },
+        {
           "title": "Google Ads’ Smart Bidding update appears to have ended bid suppression",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2pVdHdEYkVkeVFDTEFoU3haS3JDZ3pwMUU3VGo3X3o0T2Y3TURSaTBnSzZhQ0RzQ0FNb0JjcUZ4SS1wMGpNU0s4d2h6QkdSWXpqY1JhUl9tbGpsdGMyeEpYQm14bklLZjhQUzQzdXBzcWF4bldjVVBpcEdrcGFqel9zenlQRzdSelIySUZCcHdObk11Vm54QmxnWmdmeERuWTk3c1FETUs?oc=5",
           "published_at": "2026-09-17T19:58:00+00:00",
@@ -5241,13 +5248,6 @@
           "fetched_at": "2026-09-09T09:02:47.856797+00:00"
         },
         {
-          "title": "Google Ads AI Dashboards start appearing in advertiser accounts",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNakpNdlVZdGdkb3ZLYW04bk1ZNThvbzhBNWpDdGw5djNnaHBJWnNYUG42aUxjVTRDa0k1RGhxYU42bEo0elc3Nm1DUDhNVjhnMl9pRmhLX3hkaVA1QlM5N1hyTG5DOElxWThLc2NJMmh1MHRydFRQbTRNNlRlbS1lMlFFQ1RvbEhEM1hfTnRPSW81YzlCOHhWLUVqRjMyRHNL?oc=5",
-          "published_at": "2026-09-08T17:30:00+00:00",
-          "excerpt": "Google Ads AI Dashboards start appearing in advertiser accounts Search Engine Land",
-          "fetched_at": "2026-09-09T09:02:47.856797+00:00"
-        },
-        {
           "title": "Substack user and revenue statistics (2026)",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRY21ENjAxNkNPaVFyYnhHU3VYOHp2M1Y4cVZmTXBLaFJBbEZNNHlxbUhOR0NHRlhMZmhFQzNsTXk5bzIxM3JpdjdWd2FZVTBpeHJ5QVBTcUFYVnprUWc?oc=5",
           "published_at": "2026-09-08T17:17:00+00:00",
@@ -5315,6 +5315,13 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUZOUFRYN3dGQlc2OUVEazlkcURwMXlYbVlxR2ZfSHduaUFydUZhRmZMZ0o3cTR2bnVST180OGtpYzRLeEJaM2Q4VDIyNDdaWXl1QnU5bXJiTWtLLVZiWGQxWTBmXy13ZkpnU2NaSHdud1kyN0pjV3Q4VzhJb1BnVW9mdGxPZXZjblBIbkRxUEw4Q0JVSFEyUWRaczJ1akhNVlNLQlJNZFA5T2h4ZktkN3dDT3g?oc=5",
           "published_at": "2026-09-08T07:00:00+00:00",
           "excerpt": "Inside Google Maps: 72 ranking signals and the architecture behind local search Search Engine Land",
+          "fetched_at": "2026-09-09T09:02:47.856797+00:00"
+        },
+        {
+          "title": "Google Ads AI Dashboards start appearing in advertiser accounts",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNakpNdlVZdGdkb3ZLYW04bk1ZNThvbzhBNWpDdGw5djNnaHBJWnNYUG42aUxjVTRDa0k1RGhxYU42bEo0elc3Nm1DUDhNVjhnMl9pRmhLX3hkaVA1QlM5N1hyTG5DOElxWThLc2NJMmh1MHRydFRQbTRNNlRlbS1lMlFFQ1RvbEhEM1hfTnRPSW81YzlCOHhWLUVqRjMyRHNL?oc=5",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "excerpt": "Google Ads AI Dashboards start appearing in advertiser accounts Search Engine Land",
           "fetched_at": "2026-09-09T09:02:47.856797+00:00"
         },
         {
@@ -8539,6 +8546,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Cloudflare Will Write Your Robots.txt, And It Has A Point via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/cloudflare-will-write-your-robots-txt-and-it-has-a-point/589262/",
+          "published_at": "2026-09-18T14:30:00+00:00",
+          "excerpt": "Bot Preference Sync sets AI crawler policy per category, not per crawler. Allow GPTBot and block Bytespider, and no setting describes what you do. The post Cloudflare Will Write Your Robots.txt, And It Has A Point appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-18T16:34:59.799622+00:00"
+        },
+        {
+          "title": "State Of Search 2027: What To Stop, Measure & Fund",
+          "url": "https://www.searchenginejournal.com/state-of-search-2027-what-to-stop-measure-fund/589617/",
+          "published_at": "2026-09-18T14:15:43+00:00",
+          "excerpt": "Is a traffic decline actually hurting your business? Our State of Search 2027 shows how to tell and where to invest next. The post State Of Search 2027: What To Stop, Measure & Fund appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-18T16:34:59.799622+00:00"
+        },
+        {
+          "title": "Google’s AI Payment Pilot Vs. Cloudflare & Microsoft Models via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/googles-ai-payment-pilot-vs-cloudflare-and-microsoft-models/589636/",
+          "published_at": "2026-09-18T12:00:41+00:00",
+          "excerpt": "Google, Cloudflare, and Microsoft are testing different models for paying publishers when AI systems access or use their content. The post Google’s AI Payment Pilot Vs. Cloudflare & Microsoft Models appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-18T16:34:59.799622+00:00"
+        },
+        {
+          "title": "Google Responds To Cross-Domain Canonical De-Indexing Report via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-responds-to-cross-domain-canonical-de-indexing-report/589917/",
+          "published_at": "2026-09-18T11:39:51+00:00",
+          "excerpt": "Google's John Mueller explains how publishers can catch site problems before they become an indexing crisis. The post Google Responds To Cross-Domain Canonical De-Indexing Report appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-18T16:34:59.799622+00:00"
+        },
+        {
           "title": "More People Expect AI To Cut Jobs Than Add Them, Pew Finds via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/pew-ai-job-loss-expectations-survey/589836/",
           "published_at": "2026-09-17T21:44:38+00:00",
@@ -10995,11 +11030,39 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "What is agentic SEO? 8 workflows run on a live site",
+          "url": "https://www.semrush.com/blog/agentic-seo/",
+          "published_at": "2026-09-18T14:37:00+00:00",
+          "excerpt": "Agentic SEO hands defined workflows to an AI that pulls its own data. See the free Claude setup we used.",
+          "fetched_at": "2026-09-18T16:35:04.869470+00:00"
+        },
+        {
+          "title": "Semrush MCP use cases: 16 prompts for Claude or ChatGPT",
+          "url": "https://www.semrush.com/blog/semrush-mcp-use-case/",
+          "published_at": "2026-09-18T14:17:00+00:00",
+          "excerpt": "Copy-paste Semrush MCP prompts for keyword, competitor, content, and reporting work, tested on a live site.",
+          "fetched_at": "2026-09-18T16:35:04.869470+00:00"
+        },
+        {
+          "title": "Cloudflare's AI training block now spares Googlebot",
+          "url": "https://www.semrush.com/blog/cloudfare-blocks-ai-training/",
+          "published_at": "2026-09-18T14:04:00+00:00",
+          "excerpt": "Cloudflare‘s Disallow AI Training setting blocks AI training crawlers but not Googlebot. Bing won‘t honor it until early 2027.",
+          "fetched_at": "2026-09-18T16:35:04.869470+00:00"
+        },
+        {
           "title": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
           "url": "https://www.semrush.com/blog/my-editing-approaches-framework/",
           "published_at": "2026-09-17T13:34:00+00:00",
           "excerpt": "I use 5 editing approaches for content reviews. Find out what they are and how I choose the right one.",
           "fetched_at": "2026-09-17T17:10:28.596870+00:00"
+        },
+        {
+          "title": "Christine Skopec",
+          "url": "https://www.semrush.com/blog/user/christine-skopec/",
+          "published_at": "2026-09-17T00:00:00+00:00",
+          "excerpt": "Google‘s new Search profiles give publishers and creators a dedicated landing page in Discover. Here‘s what it means for brands.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "What is zero-click marketing? How to execute and measure it",
@@ -11021,6 +11084,13 @@
           "published_at": "2026-09-10T10:11:00+00:00",
           "excerpt": "Internal links help users, search engines, and AI crawlers understand your site. Here‘s how to fix issues holding you back.",
           "fetched_at": "2026-09-10T16:33:29.306730+00:00"
+        },
+        {
+          "title": "Alex Lindley",
+          "url": "https://www.semrush.com/blog/user/alex-lindley/",
+          "published_at": "2026-09-10T00:00:00+00:00",
+          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
@@ -11065,25 +11135,11 @@
           "fetched_at": "2026-09-07T17:47:34.495835+00:00"
         },
         {
-          "title": "Alex Lindley",
-          "url": "https://www.semrush.com/blog/user/alex-lindley/",
-          "published_at": "2026-09-07T00:00:00+00:00",
-          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "Long-tail keywords: the ultimate guide",
           "url": "https://www.semrush.com/blog/how-to-choose-long-tail-keywords/",
           "published_at": "2026-09-03T10:48:00+00:00",
           "excerpt": "Use long-tail keywords to drive quality traffic to your site from search and AI. Here’s how.",
           "fetched_at": "2026-09-03T16:34:16.548789+00:00"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-09-03T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Create an AI Brand Visibility Report [+ Template]",
@@ -11130,21 +11186,21 @@
         {
           "title": "How to rank in ChatGPT search: 8 steps to improve visibility",
           "url": "https://www.semrush.com/blog/chatgpt-search/",
-          "published_at": "2026-08-31T08:45:00+00:00",
+          "published_at": "2026-08-31T00:00:00+00:00",
           "excerpt": "Rank in ChatGPT search by making your content easy for AI systems to extract and by building off-site consensus.",
           "fetched_at": "2026-08-31T10:59:50.976609+00:00"
         },
         {
           "title": "Why is SEO important? 11 reasons it still matters.",
           "url": "https://www.semrush.com/blog/importance-of-seo/",
-          "published_at": "2026-08-31T08:21:00+00:00",
+          "published_at": "2026-08-31T00:00:00+00:00",
           "excerpt": "SEO improves your online visibility + complements answer engine optimization. Here’s why it matters in 2026.",
           "fetched_at": "2026-08-31T10:59:50.976609+00:00"
         },
         {
           "title": "8 Best AI Content Marketing Tools for 2026 (Tried & Tested)",
           "url": "https://www.semrush.com/blog/best-ai-content-marketing-tools/",
-          "published_at": "2026-08-31T07:41:00+00:00",
+          "published_at": "2026-08-31T00:00:00+00:00",
           "excerpt": "The best AI content marketing tools include Semrush‘s AI Visibility Toolkit and ChatGPT.",
           "fetched_at": "2026-08-31T10:59:50.976609+00:00"
         },
@@ -11182,6 +11238,13 @@
           "published_at": "2026-08-19T00:00:00+00:00",
           "excerpt": "This step-by-step guide teaches you how to build a content marketing strategy for your business.",
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
+        },
+        {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-08-19T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Microsoft Clarity adds an AI Scrape-to-Referral Ratio",
@@ -11697,13 +11760,6 @@
         {
           "title": "Google launches Search Profiles for publishers and creators",
           "url": "https://www.semrush.com/blog/google-launches-search-profiles/",
-          "published_at": "2026-06-08T00:00:00+00:00",
-          "excerpt": "Google‘s new Search profiles give publishers and creators a dedicated landing page in Discover. Here‘s what it means for brands.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
-          "title": "Christine Skopec",
-          "url": "https://www.semrush.com/blog/user/christine-skopec/",
           "published_at": "2026-06-08T00:00:00+00:00",
           "excerpt": "Google‘s new Search profiles give publishers and creators a dedicated landing page in Discover. Here‘s what it means for brands.",
           "fetched_at": "2026-08-05T13:30:54.878209+05:30"
@@ -13170,6 +13226,27 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Earn continuing education and college credits for AI educator training.",
+          "url": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/",
+          "published_at": "2026-09-18T16:00:00+00:00",
+          "excerpt": "Earn college or continuing education credits by taking the Google AI Educator Series courses.",
+          "fetched_at": "2026-09-18T16:35:10.041591+00:00"
+        },
+        {
+          "title": "New experts join Google’s AI & Economy team",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+          "published_at": "2026-09-18T14:00:00+00:00",
+          "excerpt": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+          "fetched_at": "2026-09-18T16:35:10.041591+00:00"
+        },
+        {
+          "title": "Co-creating the future of fashion with Google",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+          "published_at": "2026-09-18T13:00:00+00:00",
+          "excerpt": "Jane Wade and Sergio Hudson",
+          "fetched_at": "2026-09-18T16:35:10.041591+00:00"
+        },
         {
           "title": "Making global data easier to explore",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
