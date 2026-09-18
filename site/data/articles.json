@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T17:10:34.053734+00:00",
+  "last_updated": "2026-09-18T09:05:44.796952+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,6 +4310,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google Ads’ Smart Bidding update appears to have ended bid suppression",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2pVdHdEYkVkeVFDTEFoU3haS3JDZ3pwMUU3VGo3X3o0T2Y3TURSaTBnSzZhQ0RzQ0FNb0JjcUZ4SS1wMGpNU0s4d2h6QkdSWXpqY1JhUl9tbGpsdGMyeEpYQm14bklLZjhQUzQzdXBzcWF4bldjVVBpcEdrcGFqel9zenlQRzdSelIySUZCcHdObk11Vm54QmxnWmdmeERuWTk3c1FETUs?oc=5",
+          "published_at": "2026-09-17T19:58:00+00:00",
+          "excerpt": "Google Ads’ Smart Bidding update appears to have ended bid suppression Search Engine Land",
+          "fetched_at": "2026-09-18T09:05:22.698345+00:00"
+        },
+        {
+          "title": "Google Ads tests Product Value Optimization for AI bidding",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYng1cXlESzU4NHlHNTlqN2J5T3p4akVLaWl2U21UcVhfVHc3VklPbURDNmstZHN6c0plM04xdXo1VWpLSFBETHdoVWg1LU8xQkJYYTFQb3FUa3R2dEs2S3ZlWmJQQTk4VEhjdlBDdGtaSjVDQlMxUHJpM1J1VGxSS2tCWkV2TFh2Y1hGSjRTbUVCOVg0emdzcUNn?oc=5",
+          "published_at": "2026-09-17T17:44:00+00:00",
+          "excerpt": "Google Ads tests Product Value Optimization for AI bidding Search Engine Land",
+          "fetched_at": "2026-09-18T09:05:22.698345+00:00"
+        },
+        {
+          "title": "Five best HARO alternatives (Expert review)",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PbVM1aF9JS1cwSmhHcDU4NmFqMjNMX1c1NTJyMkl6MWl2VnpfZktHVmd3QUpLcUdNc01iU1F5X2NFTHQyeUk0eWpDNENMLXJjcTEyZGtna1NJQTFabHp3MF93?oc=5",
+          "published_at": "2026-09-17T17:29:00+00:00",
+          "excerpt": "Five best HARO alternatives (Expert review) Search Engine Land",
+          "fetched_at": "2026-09-18T09:05:22.698345+00:00"
+        },
+        {
+          "title": "Pinterest turns visual search into a new ad opportunity",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkgyMGZzNDE2YzhjSTRxejB1ZzlmaFFfX1RjRlhTRWJBZWtSbEgxZnVrclhrTGtuN01aWjlKRkpJOXpuRGMzZHdaS1hlT09pUEkwT0RsMnFFeGMtNEZkMXROZ2dITjBYcjJVbWl5SWNkSnBQOXp1akJEbVdHOFJHdThnNmdKbmFHbkFPOUNxclBrYk1CaWc?oc=5",
+          "published_at": "2026-09-17T17:14:00+00:00",
+          "excerpt": "Pinterest turns visual search into a new ad opportunity Search Engine Land",
+          "fetched_at": "2026-09-18T09:05:22.698345+00:00"
+        },
+        {
           "title": "Stripe revenue and growth statistics (2026)",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcGE0b3ZmR0VnX2FXMEZCcVFfR1ZKM1JyUkJhMHFDWXo5SzZOanFaeG9YbjlZTHlBVGtqYWxBWWQybmQ5SUFJdDhSRWE0RUw0NlJvbklPc1g2Zk0?oc=5",
           "published_at": "2026-09-17T14:55:00+00:00",
@@ -5190,6 +5218,13 @@
           "published_at": "2026-09-09T07:00:00+00:00",
           "excerpt": "ChatGPT / OpenAI statistics: How many people use ChatGPT? Search Engine Land",
           "fetched_at": "2026-09-14T10:00:09.567147+00:00"
+        },
+        {
+          "title": "Greg Heilers",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxRTB2RFkxM09iWDhTbGpOTjRBWHY3YVljMGo1S2VaNS1yM2NWdmlPMU5BOFFtb2g2WXY1N0dnb3hUMGdkajNrQkd1elplME1JeGRJYVRhX21OenRK?oc=5",
+          "published_at": "2026-09-09T07:00:00+00:00",
+          "excerpt": "Greg Heilers Search Engine Land",
+          "fetched_at": "2026-09-18T09:05:22.698345+00:00"
         },
         {
           "title": "Bluesky statistics: How Many people use bluesky? (2026)",
@@ -8335,6 +8370,13 @@
           "fetched_at": "2026-08-31T10:59:35.174472+00:00"
         },
         {
+          "title": "Online Advertising Glossary",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZcUhWaFlxZUU5WHRleXhMQUZPX1J6UWZaVG93WG82M1hDTHp5VVN4Q0lfdG5QdFNfbUY2eXZaRHRJRlRDbDExWWNtbzQ3WEpJU1pmam9R?oc=5",
+          "published_at": "2025-08-06T21:15:55+00:00",
+          "excerpt": "Online Advertising Glossary Search Engine Land",
+          "fetched_at": "2026-09-18T09:05:22.698345+00:00"
+        },
+        {
           "title": "Semrush",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WMGRjSnRLMHVPUEVDTVUzaEo3T3JlTzRqV3FzcU56TEZQX0tDRm1SWjZJTnJ3aUdvQTBwY1pvX3ZudGRGblFQLWk2ektRVVlZaDU1dnZB?oc=5",
           "published_at": "2024-11-26T14:59:02+00:00",
@@ -8497,6 +8539,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "More People Expect AI To Cut Jobs Than Add Them, Pew Finds via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/pew-ai-job-loss-expectations-survey/589836/",
+          "published_at": "2026-09-17T21:44:38+00:00",
+          "excerpt": "Pew's 37-country survey finds more people expect AI to reduce jobs than add them, a view more common in high-income countries than middle-income ones. The post More People Expect AI To Cut Jobs Than Add Them, Pew Finds appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-18T09:05:34.589407+00:00"
+        },
+        {
+          "title": "Google Updates Mediapartners-Google Crawler Guidance: Less About AdSense via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-updates-mediapartners-google-crawler-guidance-less-about-adsense/589821/",
+          "published_at": "2026-09-17T20:51:57+00:00",
+          "excerpt": "Google expanded their Mediapartners-Google guidance to make it about more than just AdSense. The post Google Updates Mediapartners-Google Crawler Guidance: Less About AdSense appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-18T09:05:34.589407+00:00"
+        },
+        {
+          "title": "I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It via @sejournal, @suganthan",
+          "url": "https://www.searchenginejournal.com/i-made-my-website-charge-ai-agents-a-penny-per-page-then-i-watched-claude-pay-it/589447/",
+          "published_at": "2026-09-17T19:00:29+00:00",
+          "excerpt": "GPTBot, ClaudeBot, and Googlebot won't pay your price yet. Charge now and you lose citations. Here's what to decide before the dashboard toggle arrives. The post I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It appeared first on Search Engine Jou…",
+          "fetched_at": "2026-09-18T09:05:34.589407+00:00"
+        },
+        {
           "title": "AI Citation Test Finds Source Order Matters Less Than It Looks via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/ai-citation-test-finds-source-order-matters-less-than-it-looks/589806/",
           "published_at": "2026-09-17T17:02:58+00:00",
@@ -8616,13 +8679,6 @@
           "fetched_at": "2026-09-15T17:09:49.499689+00:00"
         },
         {
-          "title": "ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/chatgpt-ads-arent-paid-search-5-questions-to-answer-before-you-shift-budget/589256/",
-          "published_at": "2026-09-15T12:00:30+00:00",
-          "excerpt": "Give ChatGPT Ads a clear role, budget source, and success criteria before pulling money from paid search campaigns that already perform. The post ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-15T17:09:49.499689+00:00"
-        },
-        {
           "title": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/",
           "published_at": "2026-09-15T10:14:18+00:00",
@@ -8630,11 +8686,18 @@
           "fetched_at": "2026-09-15T17:09:49.499689+00:00"
         },
         {
-          "title": "Local Services Ads To Performance Max: What To Audit Before Migration via @sejournal, @hethr_campbell",
+          "title": "Local Services Ads To Performance Max: What To Audit Before Migration",
           "url": "https://www.searchenginejournal.com/local-services-ads-to-performance-max-what-to-audit-before-migration-recap/588906/",
-          "published_at": "2026-09-15T07:45:08+00:00",
+          "published_at": "2026-09-15T00:00:00+00:00",
           "excerpt": "CallRail’s Meagan McLoughlin explains what to audit before/after Local Services Ads migrate into Google Ads, from historical reports to tracking numbers and lead quality. The post Local Services Ads To Performance Max: What To Audit Before Migration appeared first on Search Engi…",
           "fetched_at": "2026-09-15T09:31:02.114946+00:00"
+        },
+        {
+          "title": "ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget",
+          "url": "https://www.searchenginejournal.com/chatgpt-ads-arent-paid-search-5-questions-to-answer-before-you-shift-budget/589256/",
+          "published_at": "2026-09-15T00:00:00+00:00",
+          "excerpt": "Give ChatGPT Ads a clear role, budget source, and success criteria before pulling money from paid search campaigns that already perform. The post ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-15T17:09:49.499689+00:00"
         },
         {
           "title": "Google Tests Paying Publishers For AI Answers Via Search Console via @sejournal, @MattGSouthern",
@@ -12221,6 +12284,55 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "Should You Rebrand After an Acquisition? A Framework for Multi-Brand Companies",
+          "url": "https://www.webfx.com/blog/marketing/rebranding-after-acquisition/",
+          "published_at": "2026-09-17T19:08:06+00:00",
+          "excerpt": "The post Should You Rebrand After an Acquisition? A Framework for Multi-Brand Companies appeared first on WebFX .",
+          "fetched_at": "2026-09-18T09:05:40.807293+00:00"
+        },
+        {
+          "title": "SEO During a Merger or Acquisition: How to Protect Rankings and Leads",
+          "url": "https://www.webfx.com/blog/marketing/merger-acquisition-seo/",
+          "published_at": "2026-09-17T18:11:38+00:00",
+          "excerpt": "The post SEO During a Merger or Acquisition: How to Protect Rankings and Leads appeared first on WebFX .",
+          "fetched_at": "2026-09-18T09:05:40.807293+00:00"
+        },
+        {
+          "title": "How to Identify Underperforming Locations Using Marketing and Revenue Data",
+          "url": "https://www.webfx.com/blog/marketing/identify-underperforming-locations/",
+          "published_at": "2026-09-17T17:26:32+00:00",
+          "excerpt": "The post How to Identify Underperforming Locations Using Marketing and Revenue Data appeared first on WebFX .",
+          "fetched_at": "2026-09-18T09:05:40.807293+00:00"
+        },
+        {
+          "title": "How to Get Faster Marketing Returns After an Acquisition & Build a Repeatable Growth Engine",
+          "url": "https://www.webfx.com/blog/marketing/faster-marketing-returns-after-acquisition/",
+          "published_at": "2026-09-17T11:54:46+00:00",
+          "excerpt": "The post How to Get Faster Marketing Returns After an Acquisition & Build a Repeatable Growth Engine appeared first on WebFX .",
+          "fetched_at": "2026-09-18T09:05:40.807293+00:00"
+        },
+        {
+          "title": "How to Centralize Marketing Data Across Multiple Companies and Locations",
+          "url": "https://www.webfx.com/blog/marketing/centralize-marketing-data-multiple-locations/",
+          "published_at": "2026-09-17T02:22:37+00:00",
+          "excerpt": "The post How to Centralize Marketing Data Across Multiple Companies and Locations appeared first on WebFX .",
+          "fetched_at": "2026-09-18T09:05:40.807293+00:00"
+        },
+        {
+          "title": "How to Evaluate Marketing Agency Performance Across Multiple Brands",
+          "url": "https://www.webfx.com/blog/marketing/evaluate-marketing-agency-performance-across-brands/",
+          "published_at": "2026-09-16T19:55:08+00:00",
+          "excerpt": "The post How to Evaluate Marketing Agency Performance Across Multiple Brands appeared first on WebFX .",
+          "fetched_at": "2026-09-18T09:05:40.807293+00:00"
+        },
+        {
+          "title": "In-House vs. Agency Marketing for PE-Backed Multi-Brand Companies",
+          "url": "https://www.webfx.com/blog/marketing/in-house-vs-agency-pe-backed-companies/",
+          "published_at": "2026-09-16T16:34:07+00:00",
+          "excerpt": "The post In-House vs. Agency Marketing for PE-Backed Multi-Brand Companies appeared first on WebFX .",
+          "fetched_at": "2026-09-18T09:05:40.807293+00:00"
+        },
+        {
           "title": "How to Forecast Post-Acquisition Growth: The Playbook Behind 1.8X Faster Revenue Growth",
           "url": "https://www.webfx.com/blog/marketing/forecast-marketing-growth-after-acquisition/",
           "published_at": "2026-09-15T22:55:36+00:00",
@@ -12732,6 +12844,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Why client SDK generation belongs in the open",
+          "url": "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
+          "published_at": "2026-09-17T00:00:00+00:00",
+          "excerpt": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider. The newly open-sourced suite equips developers with deterministic, mul…",
+          "fetched_at": "2026-09-18T09:05:43.968196+00:00"
+        },
+        {
           "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
           "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
           "published_at": "2026-09-16T00:00:00+00:00",
@@ -13051,6 +13170,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Making global data easier to explore",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+          "published_at": "2026-09-17T20:00:00+00:00",
+          "excerpt": "UN System Data Commons Data webpage",
+          "fetched_at": "2026-09-18T09:05:44.793831+00:00"
+        },
+        {
+          "title": "The new CC, an AI agent built for families",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+          "published_at": "2026-09-17T18:15:00+00:00",
+          "excerpt": "CC rendering",
+          "fetched_at": "2026-09-18T09:05:44.793831+00:00"
+        },
         {
           "title": "Drive with “Forgotten Island” on Waze.",
           "url": "https://blog.google/waze/waze-forgotten-island/",
