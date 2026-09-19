@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T08:52:55.157915+00:00",
+  "last_updated": "2026-09-19T15:58:34.620946+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4331,6 +4331,20 @@
           "fetched_at": "2026-09-19T08:52:35.808000+00:00"
         },
         {
+          "title": "Google Merchant Center adds API support for product reviews",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX2xHUk9ZbUJJT2pPT0c2M2JfdEpnWmdEZFVCa0lFNVlaMFNTbElOT1VZUVl4bXlJc0FjTVFzRndsVDd4cEpJZTdGeVhQWk9QLWJlY2lScms4RElfek9sUzNqXzlTb2IxRFgtRmotZU9odTREdEdFOVVPS1BGdTQzSUNSMGo5R0pGeTBWOHplR0NyaEJYNm5iN0xLYw?oc=5",
+          "published_at": "2026-09-18T14:52:00+00:00",
+          "excerpt": "Google Merchant Center adds API support for product reviews Search Engine Land",
+          "fetched_at": "2026-09-19T15:58:12.354633+00:00"
+        },
+        {
+          "title": "Google Ads rolls out AI video dubbing in Asset Studio",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1FUUU85cDMxR2xuTmtCM2ZzRXhMTjlnS0MyVnFyeXhzN3N3RGFXX3k4ZWo0eUV1djNibFBSOC1zU0dMMDB2eUNnZ1BPaHdVZng1a3QxZXY1eXRhWGdha0UzZ09ianRsekdEMjRUTF9peTR1TnBBOVlxelJheUNQUE5UNlhfdjNnTFFyNXdFbmNBS2c?oc=5",
+          "published_at": "2026-09-18T14:43:00+00:00",
+          "excerpt": "Google Ads rolls out AI video dubbing in Asset Studio Search Engine Land",
+          "fetched_at": "2026-09-19T15:58:12.354633+00:00"
+        },
+        {
           "title": "Schema for AI search: Turning entity gaps into organic growth",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZlZrY2E4eTk3U18yemZ5VTczdnZubTh2UnZVWnlPZE0wOEMzWWdxc19nQ0s0OTcxQTIzeFBrb01KY0lNcm1kV0tkSktBTnZjcS13bDJaNF9GZjVqWFU0Z0dwOV8yaVB3cm0wcmhJOGNhRHpValpBU1ZmQVNGeVAtLVFPN2ltQQ?oc=5",
           "published_at": "2026-09-18T13:00:00+00:00",
@@ -5045,13 +5059,6 @@
           "fetched_at": "2026-09-14T18:06:50.991427+00:00"
         },
         {
-          "title": "Google Search Console Indexing report missing June data",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUNkNjVVbE5aZmNhVGhtMWNDODFiU2ZDRGtVa0wtX1g5X21vdk15TGUtY1d4clZrOW10aXdXSFg2YnhLTDJGZWVPZXc1WExFcXlwcDNoUkdmMlVHc2N0WHItaDNJelRZa3c5cGRHdV8tSmlmSVk4UG9WLS1NNXhVTDFBdWtNS2tWRDlVX2tIX3VvcEM5Umc?oc=5",
-          "published_at": "2026-09-11T14:18:00+00:00",
-          "excerpt": "Google Search Console Indexing report missing June data searchengineland.com",
-          "fetched_at": "2026-09-12T08:42:50.316674+00:00"
-        },
-        {
           "title": "Google Ads data shows query length shift post-AI Mode",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOHdYUzlya1U2Q3hCcHI1OUpxQ0Jxd1Ita3ZqOHhicl8wMDltX0Z5UkVkdHNCdEhIWTdxMi1TMV9rV29hRzZlY2RBMmVPTXRpVmNGQ09QMHhQcHlyT1BsaGdHQTRfSzZpQ0FlLWxGVEVneV81QjhGalZJaEJTRWNVRmNZanllQ1lTYjdYcC0xVlBNM1E?oc=5",
           "published_at": "2026-09-11T14:00:00+00:00",
@@ -5077,6 +5084,13 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjhIY21hSU9xRG9FMk5fX3lxNTJJVVpyd1cyY0ZnZkpZZGNSSmc3ekt1RmdVcnpGR2E2XzAyZ3pXdW0yTjFUSnRZdnNBOEMtZjFjbEtEYXdWOERqNUIyajZ2dlJvU1hmeC1FaHZ4dENIcUo2azA3c1AwV3VwRDdmWTRhNnc1dEdSYW5nVTNBTDF4UlRKdDdCbTRMSnAxTHhLRjIzRk5GWXJ1MnM?oc=5",
           "published_at": "2026-09-11T12:00:00+00:00",
           "excerpt": "The ghosting epidemic: Why efficiency killed basic professional courtesy searchengineland.com",
+          "fetched_at": "2026-09-12T08:42:50.316674+00:00"
+        },
+        {
+          "title": "Google Search Console Indexing report missing June data",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUNkNjVVbE5aZmNhVGhtMWNDODFiU2ZDRGtVa0wtX1g5X21vdk15TGUtY1d4clZrOW10aXdXSFg2YnhLTDJGZWVPZXc1WExFcXlwcDNoUkdmMlVHc2N0WHItaDNJelRZa3c5cGRHdV8tSmlmSVk4UG9WLS1NNXhVTDFBdWtNS2tWRDlVX2tIX3VvcEM5Umc?oc=5",
+          "published_at": "2026-09-11T07:00:00+00:00",
+          "excerpt": "Google Search Console Indexing report missing June data searchengineland.com",
           "fetched_at": "2026-09-12T08:42:50.316674+00:00"
         },
         {
@@ -5120,13 +5134,6 @@
           "published_at": "2026-09-10T19:05:00+00:00",
           "excerpt": "Ann Handley Archives Search Engine Land",
           "fetched_at": "2026-09-15T09:30:48.528192+00:00"
-        },
-        {
-          "title": "How to use Claude to run a stronger CRO audit",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHR3dXMyVS1oZWhJUnJnNGlYT1FoTzRka2t0NTB6eEVNMGoxSXZlamdxWENIZlJNdC1mQ0ZKVGYzb2ZVbmJoTkhxeE1PbnN1eG9YMXZyNHgySHNUdEpWU3NJb0VnN2lVMjNfYzhoWHdfTHRhQWNuZlZlYl9iN0pWQUQtT1JuUVZ6?oc=5",
-          "published_at": "2026-09-10T15:00:00+00:00",
-          "excerpt": "How to use Claude to run a stronger CRO audit Search Engine Land",
-          "fetched_at": "2026-09-11T08:59:30.419203+00:00"
         },
         {
           "title": "When SEO best practices become SEO dogma",
@@ -5175,6 +5182,13 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdnE1QXpjeklteFF0c3pBbEZhYWdBOTJYRi1iRU5aclp4Nndzejg2cU9mM1NwQmd0QzMtVkp2ejlOdExLeEZtRUNhOHJiYWpEbFFpcHFkOUFwd25iZVdwa0V5cUJwTXZ5TFVnNnMxTWd0clNFTEJIVGZnM1ZlMDNiRHhNRQ?oc=5",
           "published_at": "2026-09-10T07:00:00+00:00",
           "excerpt": "Amazon pilots ChatGPT Ads through its DSP Search Engine Land",
+          "fetched_at": "2026-09-11T08:59:30.419203+00:00"
+        },
+        {
+          "title": "How to use Claude to run a stronger CRO audit",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHR3dXMyVS1oZWhJUnJnNGlYT1FoTzRka2t0NTB6eEVNMGoxSXZlamdxWENIZlJNdC1mQ0ZKVGYzb2ZVbmJoTkhxeE1PbnN1eG9YMXZyNHgySHNUdEpWU3NJb0VnN2lVMjNfYzhoWHdfTHRhQWNuZlZlYl9iN0pWQUQtT1JuUVZ6?oc=5",
+          "published_at": "2026-09-10T07:00:00+00:00",
+          "excerpt": "How to use Claude to run a stronger CRO audit Search Engine Land",
           "fetched_at": "2026-09-11T08:59:30.419203+00:00"
         },
         {
@@ -8370,7 +8384,7 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "Welcome to the highest honor in search! - awards.searchengineland.com",
+          "title": "Welcome to the highest honor in search!",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QTG1Cd3NZUThwRjI5YjUwWnBnNEVZcmRDb0FObVl1OGhoSFdJWTduVGpmLWdaS2hHOEZ2Z2ljd1c3Rzcza1laRm9XNzFxX256VG53?oc=5",
           "published_at": "2026-04-07T05:26:39+00:00",
           "excerpt": "Welcome to the highest honor in search! Search Engine Land",
@@ -8588,6 +8602,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-payment-pilot-search-profiles-at-10000/589849/",
+          "published_at": "2026-09-19T12:30:42+00:00",
+          "excerpt": "Google is testing payments for content contributing to AI answers, Mueller says AI position data is hard to report, and Cloudflare splits training from search. The post Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-19T15:58:23.177382+00:00"
+        },
+        {
           "title": "Google Discover Test Adds Topic Overviews, Starting With Videos via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-discover-test-adds-topic-overviews-starting-with-videos/589963/",
           "published_at": "2026-09-18T22:24:26+00:00",
@@ -8721,13 +8742,6 @@
           "fetched_at": "2026-09-16T17:10:03.926557+00:00"
         },
         {
-          "title": "MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now via @sejournal, @gregjarboe",
-          "url": "https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/",
-          "published_at": "2026-09-16T14:30:54+00:00",
-          "excerpt": "Three AI warnings landed in five days. Nicholas Carr described the pattern in 2008, and it changes how you plan next quarter. The post MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-16T17:10:03.926557+00:00"
-        },
-        {
           "title": "How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage",
           "url": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/",
           "published_at": "2026-09-16T14:04:23+00:00",
@@ -8735,10 +8749,10 @@
           "fetched_at": "2026-09-16T17:10:03.926557+00:00"
         },
         {
-          "title": "Ex-Googler Jeff Dean Explains Design Choices Behind Gemini via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/",
-          "published_at": "2026-09-16T10:31:08+00:00",
-          "excerpt": "Ex-Googler Jeff Dean shares insights from Gemini's development and the approach he uses to discover promising new ideas. The post Ex-Googler Jeff Dean Explains Design Choices Behind Gemini appeared first on Search Engine Journal .",
+          "title": "MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now",
+          "url": "https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/",
+          "published_at": "2026-09-16T00:00:00+00:00",
+          "excerpt": "Three AI warnings landed in five days. Nicholas Carr described the pattern in 2008, and it changes how you plan next quarter. The post MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-16T17:10:03.926557+00:00"
         },
         {
@@ -8749,14 +8763,14 @@
           "fetched_at": "2026-09-16T17:10:03.926557+00:00"
         },
         {
-          "title": "Google Adds New Ad Experience Metrics To CrUX Report via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/",
-          "published_at": "2026-09-15T21:46:09+00:00",
-          "excerpt": "Google is turning publisher advertising into user experience metric that adds four more numbers that publishers need to track. The post Google Adds New Ad Experience Metrics To CrUX Report appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-16T09:23:57.467898+00:00"
+          "title": "Ex-Googler Jeff Dean Explains Design Choices Behind Gemini",
+          "url": "https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/",
+          "published_at": "2026-09-16T00:00:00+00:00",
+          "excerpt": "Ex-Googler Jeff Dean shares insights from Gemini's development and the approach he uses to discover promising new ideas. The post Ex-Googler Jeff Dean Explains Design Choices Behind Gemini appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-16T17:10:03.926557+00:00"
         },
         {
-          "title": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot via @sejournal, @MattGSouthern",
+          "title": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot",
           "url": "https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/",
           "published_at": "2026-09-15T21:29:41+00:00",
           "excerpt": "Cloudflare's Disallow AI Training keeps mixed-use crawlers available for search. Google and Apple honor training opt-outs; Bing robots.txt support is pending. The post Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot appeared first on Search Engine Journal .",
@@ -8770,24 +8784,17 @@
           "fetched_at": "2026-09-16T09:23:57.467898+00:00"
         },
         {
-          "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
+          "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks",
           "url": "https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/",
           "published_at": "2026-09-15T14:30:08+00:00",
           "excerpt": "Meta published two Muse documents on the same day. One never mentions risk, attack, or prompt injection. The other uses them 39 times. The post Meta Published 2 Documents About Muse And Only One Mentions Attacks appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-15T17:09:49.499689+00:00"
         },
         {
-          "title": "Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] via @sejournal, @lorenbaker",
+          "title": "Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar]",
           "url": "https://www.searchenginejournal.com/selling-on-chatgpt-how-brands-are-driving-revenue-through-ads-geo-webinar/589430/",
           "published_at": "2026-09-15T14:10:14+00:00",
           "excerpt": "We go live with OpenAI (ChatGPT) on Sept 22, to help you understand how your business can sell products or drive leads on ChatGPT. The post Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-15T17:09:49.499689+00:00"
-        },
-        {
-          "title": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/",
-          "published_at": "2026-09-15T10:14:18+00:00",
-          "excerpt": "Anthropic shares prompting upgrades that save tokens, improve how AI writes, code more efficiently, and handle longer tasks. The post Anthropic Shares Power Prompts That Improve AI Results appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-15T17:09:49.499689+00:00"
         },
         {
@@ -8805,23 +8812,37 @@
           "fetched_at": "2026-09-15T17:09:49.499689+00:00"
         },
         {
-          "title": "Google Tests Paying Publishers For AI Answers Via Search Console via @sejournal, @MattGSouthern",
+          "title": "Anthropic Shares Power Prompts That Improve AI Results",
+          "url": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/",
+          "published_at": "2026-09-15T00:00:00+00:00",
+          "excerpt": "Anthropic shares prompting upgrades that save tokens, improve how AI writes, code more efficiently, and handle longer tasks. The post Anthropic Shares Power Prompts That Improve AI Results appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-15T17:09:49.499689+00:00"
+        },
+        {
+          "title": "Google Adds New Ad Experience Metrics To CrUX Report",
+          "url": "https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/",
+          "published_at": "2026-09-15T00:00:00+00:00",
+          "excerpt": "Google is turning publisher advertising into user experience metric that adds four more numbers that publishers need to track. The post Google Adds New Ad Experience Metrics To CrUX Report appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-16T09:23:57.467898+00:00"
+        },
+        {
+          "title": "Google Tests Paying Publishers For AI Answers Via Search Console",
           "url": "https://www.searchenginejournal.com/google-tests-paying-publishers-for-ai-answers-via-search-console/589414/",
-          "published_at": "2026-09-14T17:38:53+00:00",
+          "published_at": "2026-09-14T00:00:00+00:00",
           "excerpt": "Google is testing a Search Console pilot that pays publishers when their content contributes to Gemini, AI Overviews, and AI Mode answers. The post Google Tests Paying Publishers For AI Answers Via Search Console appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-14T18:07:02.790049+00:00"
         },
         {
-          "title": "AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise via @sejournal, @gregjarboe",
+          "title": "AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise",
           "url": "https://www.searchenginejournal.com/ai-isnt-delivering-marketing-efficiency-its-repeating-programmatics-broken-promise/588722/",
-          "published_at": "2026-09-14T14:30:08+00:00",
+          "published_at": "2026-09-14T00:00:00+00:00",
           "excerpt": "Count AI marketing's hidden rework and maintenance costs before claiming efficiency gains, or risk repeating programmatic's mistake and starving long-term strategy. The post AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise appeared first on…",
           "fetched_at": "2026-09-14T18:07:02.790049+00:00"
         },
         {
-          "title": "How To Connect AI Search Visibility To Local Leads via @sejournal, @lorenbaker",
+          "title": "How To Connect AI Search Visibility To Local Leads",
           "url": "https://www.searchenginejournal.com/how-to-connect-ai-search-visibility-to-local-leads/588096/",
-          "published_at": "2026-09-14T12:00:25+00:00",
+          "published_at": "2026-09-14T00:00:00+00:00",
           "excerpt": "Sean McCrohan and Steve Wiideman explain how citation clicks, calls, prompt libraries, and customer language can connect AI discovery to local leads. The post How To Connect AI Search Visibility To Local Leads appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-14T18:07:02.790049+00:00"
         },
