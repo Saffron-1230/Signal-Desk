@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T10:05:58.076029+00:00",
+  "last_updated": "2026-09-21T18:15:00.402857+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -5479,6 +5479,13 @@
           "fetched_at": "2026-09-18T09:05:22.698345+00:00"
         },
         {
+          "title": "How to use ChatGPT at work: Expert techniques for beginners",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03Vzc4Rm52NDg0SERhX285Z0VLbE1ZZ0paVS16NFNJWlRJQzY2WDVtLVF4elcwUG5yZWg1Y0IwZklzWkMzWUprUTZJbzBlMGQ4QWladkZLRkYxTmZFU0sxTDBsNA?oc=5",
+          "published_at": "2026-09-09T07:00:00+00:00",
+          "excerpt": "How to use ChatGPT at work: Expert techniques for beginners Search Engine Land",
+          "fetched_at": "2026-09-21T18:14:35.833278+00:00"
+        },
+        {
           "title": "Google Ads adds new tools to drive and measure in-store sales",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3BDNW00N2NNVVVWaUFIWGU0TkFLRHBnWTVmMVA2czlNOWwzMmpQeXA1c3RjV1VtOThTTHAyTk1hUVhZeUxFSzFmSWNpMnZoR25tcGI0LUpyRGRuS1BhMnhBSHJVQWtwVEZKeDVzV01QejRzSDNKcHh3R21CQk9OcFpCTUMtMDJPOU5XSnlYcy1JdVFESlp5eEZUTWlWUQ?oc=5",
           "published_at": "2026-09-08T16:01:00+00:00",
@@ -5575,6 +5582,13 @@
           "published_at": "2026-09-08T07:00:00+00:00",
           "excerpt": "Revealing average screen time statistics for 2026 Search Engine Land",
           "fetched_at": "2026-09-21T10:05:35.520968+00:00"
+        },
+        {
+          "title": "Number of Threads users in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aYS1xeU5YZ0MwQ0tFejlDVkpXRV9JeWdadEhhbFlScnpqWWVuTkhTRzhCVVBFQUoxelQ1NmQ4ZV9qTl9GV21NNEhhR3VTX3pqUDd3SnZKOFhWUzc1?oc=5",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "excerpt": "Number of Threads users in 2026 Search Engine Land",
+          "fetched_at": "2026-09-21T18:14:35.833278+00:00"
         },
         {
           "title": "AI Overviews may be affecting Shopping ad CTR and impressions",
@@ -8791,6 +8805,48 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "How To Find The Sources Shaping AI Answers In Your Industry via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/how-to-find-the-sources-shaping-ai-answers-in-your-industry/589756/",
+          "published_at": "2026-09-21T18:12:21+00:00",
+          "excerpt": "Trendos' Gintare Rimolaityte explains how to map AI citation sources by industry and engine, identify competitor gaps, and turn an audit into content and outreach priorities. The post How To Find The Sources Shaping AI Answers In Your Industry appeared first on Search Engine Jou…",
+          "fetched_at": "2026-09-21T18:14:49.343831+00:00"
+        },
+        {
+          "title": "Shopify CEO Warns AI ‘Slop Grenades’ Shift Work To Coworkers via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/shopify-ceo-ai-slop-grenades-coworkers/590292/",
+          "published_at": "2026-09-21T15:14:46+00:00",
+          "excerpt": "Shopify CEO Tobi Lütke says unreviewed AI output is landing on coworkers. Freelance marketplace data shows demand for AI cleanup work rising elsewhere too. The post Shopify CEO Warns AI ‘Slop Grenades’ Shift Work To Coworkers appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-21T18:14:49.343831+00:00"
+        },
+        {
+          "title": "Google Lighthouse Adds Audit For AI Agent Resource Discovery via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-lighthouse-ai-agent-resource-discovery-audit/590274/",
+          "published_at": "2026-09-21T14:32:33+00:00",
+          "excerpt": "Lighthouse 13.5 adds an audit for AI agent resource discovery, but its checks differ from the latest ARD proposal. The post Google Lighthouse Adds Audit For AI Agent Resource Discovery appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-21T18:14:49.343831+00:00"
+        },
+        {
+          "title": "Agentic Commerce Is Not The Next Voice Shopping, But It Is Still Unproven via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/agentic-commerce-is-not-the-next-voice-shopping-but-it-is-still-unproven/589439/",
+          "published_at": "2026-09-21T14:30:37+00:00",
+          "excerpt": "Visa, Mastercard, PayPal, and Stripe name no live merchant. Google names three. Here is what the agentic commerce documentation still refuses to say. The post Agentic Commerce Is Not The Next Voice Shopping, But It Is Still Unproven appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-21T18:14:49.343831+00:00"
+        },
+        {
+          "title": "How To Build Local Pages AI Systems Can Find And Trust via @sejournal, @lorenbaker",
+          "url": "https://www.searchenginejournal.com/how-to-build-local-pages-ai-systems-can-find-and-trust/588097/",
+          "published_at": "2026-09-21T12:00:25+00:00",
+          "excerpt": "AI ranks passages, reads alt text, and cites whatever numbers you publish. Practical rules for local service pages from SEJ Live. The post How To Build Local Pages AI Systems Can Find And Trust appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-21T18:14:49.343831+00:00"
+        },
+        {
+          "title": "Research Shows Google AI Mode Sends Less Clicks & Is A Poor User Experience via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/research-shows-google-ai-mode-sends-less-clicks-is-a-poor-user-experience/590221/",
+          "published_at": "2026-09-21T11:47:17+00:00",
+          "excerpt": "Is Google lying about AI Search? New research shows AI Mode decreases clicks and it gives a poor user experience. The post Research Shows Google AI Mode Sends Less Clicks & Is A Poor User Experience appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-21T18:14:49.343831+00:00"
+        },
+        {
           "title": "Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-payment-pilot-search-profiles-at-10000/589849/",
           "published_at": "2026-09-19T12:30:42+00:00",
@@ -8896,17 +8952,17 @@
           "fetched_at": "2026-09-17T17:10:23.266154+00:00"
         },
         {
-          "title": "Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? – Ask An SEO via @sejournal, @rollerblader",
-          "url": "https://www.searchenginejournal.com/ask-an-seo-does-product-page-copy-matter-since-agents-read-feeds/585090/",
-          "published_at": "2026-09-17T14:30:32+00:00",
-          "excerpt": "Product page copy builds shopper trust and fills gaps in AI feeds, giving customers the details they need to buy. The post Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? – Ask An SEO appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-17T17:10:23.266154+00:00"
-        },
-        {
           "title": "3 Predictions For 2027, And Why You Won’t Be Able To Check Them via @sejournal, @DuaneForrester",
           "url": "https://www.searchenginejournal.com/3-predictions-for-2027-and-why-you-wont-be-able-to-check-them/589263/",
           "published_at": "2026-09-17T12:00:01+00:00",
           "excerpt": "The surface that ranks and the surface that earns are decoupling. Three predictions for Google in 2027, plus one about whether you'll know. The post 3 Predictions For 2027, And Why You Won’t Be Able To Check Them appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-17T17:10:23.266154+00:00"
+        },
+        {
+          "title": "Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? – Ask An SEO",
+          "url": "https://www.searchenginejournal.com/ask-an-seo-does-product-page-copy-matter-since-agents-read-feeds/585090/",
+          "published_at": "2026-09-17T00:00:00+00:00",
+          "excerpt": "Product page copy builds shopper trust and fills gaps in AI feeds, giving customers the details they need to buy. The post Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? – Ask An SEO appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-17T17:10:23.266154+00:00"
         },
         {
@@ -11317,6 +11373,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "AI citation outreach: a Semrush & Claude workflow",
+          "url": "https://www.semrush.com/blog/ai-citation-outreach/",
+          "published_at": "2026-09-21T09:49:00+00:00",
+          "excerpt": "AI answers pull brand facts from the pages they cite. Use Semrush data and Claude Code to get on those pages.",
+          "fetched_at": "2026-09-21T18:14:55.218622+00:00"
+        },
+        {
           "title": "What is agentic SEO? 8 workflows run on a live site",
           "url": "https://www.semrush.com/blog/agentic-seo/",
           "published_at": "2026-09-18T14:37:00+00:00",
@@ -11473,7 +11536,7 @@
         {
           "title": "Enterprise SEO: What it is & how to build a winning strategy",
           "url": "https://www.semrush.com/blog/enterprise-seo/",
-          "published_at": "2026-08-31T09:09:00+00:00",
+          "published_at": "2026-08-31T00:00:00+00:00",
           "excerpt": "Enterprise SEO involves optimizing a website’s visibility at scale, using templated and automated approaches.",
           "fetched_at": "2026-08-31T10:59:50.976609+00:00"
         },
@@ -12303,18 +12366,18 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "10 Best Leadlander Alternatives and Competitors for 2026",
+          "url": "https://www.factors.ai/blog/leadlander-alternatives",
+          "published_at": "2026-09-21T00:00:00+00:00",
+          "excerpt": "Looking for an alternative to Leadlander? Explore our top 10 alternatives to Leadlander. Compare features, pricing, and limitations to make an informed purchase decision.",
+          "fetched_at": "2026-09-21T10:05:54.511560+00:00"
+        },
+        {
           "title": "Top 15 Intent Data Platforms to Boost Your B2B SaaS Growth in 2026",
           "url": "https://www.factors.ai/blog/top-intent-data-platforms",
           "published_at": "2026-09-20T00:00:00+00:00",
           "excerpt": "An intent data platform is software that tracks online buying signals. Discover the top 15 platforms to scale your 2026 GTM strategy. Explore the top 15 intent data platforms, their features, and pricing. Choose the one that fits your budget and business goals.",
           "fetched_at": "2026-09-20T16:19:01.742659+00:00"
-        },
-        {
-          "title": "10 Best Leadlander Alternatives and Competitors for 2026",
-          "url": "https://www.factors.ai/blog/leadlander-alternatives",
-          "published_at": "2026-09-20T00:00:00+00:00",
-          "excerpt": "Looking for an alternative to Leadlander? Explore our top 10 alternatives to Leadlander. Compare features, pricing, and limitations to make an informed purchase decision.",
-          "fetched_at": "2026-09-21T10:05:54.511560+00:00"
         },
         {
           "title": "Best Marketing Attribution Tools in 2026 and Who They’re For",
@@ -13527,6 +13590,34 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Expanding free AI training for educators",
+          "url": "https://blog.google/products-and-platforms/products/education/digital-promise/",
+          "published_at": "2026-09-21T16:00:00+00:00",
+          "excerpt": "Badges in blue, red, orange, green with gradients representing Google AI Educator Series",
+          "fetched_at": "2026-09-21T18:15:00.394462+00:00"
+        },
+        {
+          "title": "Googlebook’s built-in intelligence reinvents the way you use your laptop",
+          "url": "https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/",
+          "published_at": "2026-09-21T13:00:00+00:00",
+          "excerpt": "A Googlebook with text reading: \"Designed for Gemini Intelligence\"",
+          "fetched_at": "2026-09-21T18:15:00.394462+00:00"
+        },
+        {
+          "title": "Premium materials and striking design set Googlebook apart",
+          "url": "https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/",
+          "published_at": "2026-09-21T13:00:00+00:00",
+          "excerpt": "Googlebook options",
+          "fetched_at": "2026-09-21T18:15:00.394462+00:00"
+        },
+        {
+          "title": "Googlebook: The laptop your Android phone has been waiting for",
+          "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
+          "published_at": "2026-09-21T13:00:00+00:00",
+          "excerpt": "Video shows the new Googlebook.",
+          "fetched_at": "2026-09-21T18:15:00.394462+00:00"
+        },
         {
           "title": "Earn continuing education and college credits for AI educator training.",
           "url": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/",
