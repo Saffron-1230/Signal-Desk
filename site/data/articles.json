@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T09:23:41.467672+00:00",
+  "last_updated": "2026-09-22T17:05:43.894220+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,6 +4310,55 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google Analytics adds hostname allowlists to fight spam traffic",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQnVwd1luQ2lpY0lsaDRmLTlWMVRSZmhoa0FCYm44dG9KMUpqTVBUdXNxXzVCeUs5RThVUzI1WnRZTGJOcUpwdkZkc3JuN1pFNTFvSDlYSnBWRzI0aFFFWHZSTWt2OWN6Yi1sT1hscFZKb2FER2ZJWTZ5TFNSd2c3TWJyM3U4YlZiX1hZWUl4dERFZE84RU1BdXhFZ3lHeUQ1?oc=5",
+          "published_at": "2026-09-22T16:38:00+00:00",
+          "excerpt": "Google Analytics adds hostname allowlists to fight spam traffic Search Engine Land",
+          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
+          "title": "Google Ads to test gun accessory ads on Search in the U.S.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzJVMzJIdGZiTVBodVhWLW1PM19ULUp0UDh3UEZBalI1Tnk3MkFJblJtX29ab1lJcDF6cE45czRvNFFqZ3RheUpJQWpOVS10bkFuZ1hSeGhTcE1IN19DbEQxWkpYbHpVR3BqYlF4dHJ0eHM5ZmhQb0l4azJ6aE4tYnhVNlBCRlVpY0xHOGxIZ1pPbHREU0R3Yg?oc=5",
+          "published_at": "2026-09-22T16:25:00+00:00",
+          "excerpt": "Google Ads to test gun accessory ads on Search in the U.S. Search Engine Land",
+          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
+          "title": "Shopify revenue and merchant statistics in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SG1nTndhY0FRNFNmMFF1N3lzOGFBeG1qNEE4Ti1kVURVU0xRNE54UHpXYVdpSG1OLW01X1NrNjFyTWd0MVZpT1d4eUNSQmNicVRjeHJEQlg0V0JX?oc=5",
+          "published_at": "2026-09-22T16:25:00+00:00",
+          "excerpt": "Shopify revenue and merchant statistics in 2026 Search Engine Land",
+          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
+          "title": "What is repurposing content?",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ScHVRUHZZd2hwdlZVeW1ybVFMd3NQUlJzVHV0cDFIbkxDZFdySjZwdmdzczdXT2FqVE9xZk1fS1M5aUFBdnJpLVpBTHFFMDU0SERFTjNRTDlzaTE3MVBhQ2RsdEE?oc=5",
+          "published_at": "2026-09-22T16:10:00+00:00",
+          "excerpt": "What is repurposing content? Search Engine Land",
+          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
+          "title": "How to use kill criteria to make better SEO decisions",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVVHJxUHR0N19yenMwa1hlLWp0M19iR3ZwVHZfUHpKZmFOaXA4ZENWTnRtM2tjeXVVSGN3a0RTcDF2aVN2RVdzWkhralVGQ2dGVHRQSktob0JhdFpBQ3kwMERucw?oc=5",
+          "published_at": "2026-09-22T15:00:00+00:00",
+          "excerpt": "How to use kill criteria to make better SEO decisions Search Engine Land",
+          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
+          "title": "Display ad costs fall ahead of the holiday shopping rush",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVVOSm1rR3M3TUZGZ2VrdHB6SFJiTW0yWEFjNi1BSzVRMm1MdlZRX1d6SGxqUGVGeTlVcE5KY1NVeFJvRG90dUsyOWYxQXpXb0xKSjI5OGgtb19CWjVkMGNiSjN3bDNDMk1BQTYwcEJUellnbnAzMmFaUTl1aUQxMlZDbUhGSGtQNzhnQTVaSGc1THZNT2Zn?oc=5",
+          "published_at": "2026-09-22T14:46:00+00:00",
+          "excerpt": "Display ad costs fall ahead of the holiday shopping rush Search Engine Land",
+          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
+          "title": "Crawl budget: What you need to know in 2027",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1paENnTEVMYWlTOW1laUppNmtxWkY2NE9ObGtfd3RIc1BFVGNjc25FOHU3ZkV4dDJucUlESE1zN2I2XzRyV1JQaThkV3pnemhqZDNhUXBDMWlvcUdEUFh0NExiMTdfWnNjaWZ1WlZ0WHpEYVdGS2lPcnFB?oc=5",
+          "published_at": "2026-09-22T13:00:00+00:00",
+          "excerpt": "Crawl budget: What you need to know in 2027 Search Engine Land",
+          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS21JX2c1Vm04dTM5dkNwV2xTTmJ5TnJPSlVILUo1X2psNHQ3UWR5UjJpQzM0WVZWcGdfa2Z1WTZsbzI5aXpGWW1IRHozMExMNC1fQUxUMHlTbm1RYVA3dVFadWpJeGEya09aVnhyZndSbl9TREVVcC15YUVWTU1STkJaa05QNjlZUmdOZGFCZGFQbU1IcEVXenhMcEk4Y0pBbFE2ZUk5QzZxcmF3SkRLc2FkSE1HZw?oc=5",
           "published_at": "2026-09-22T00:09:37+00:00",
@@ -4531,13 +4580,6 @@
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXLWRDb0ZDSG90cUdVSjRwbFBvVUc2WmtFa0hLUmVTcGd1emRPQTVTQTVvSnNmaFNSQlZ4bzNlems1aS1KcFBQZE14NnBaQWtwaVhsVzVhcG5CTHpGaWthag?oc=5",
           "published_at": "2026-09-18T19:15:01+00:00",
           "excerpt": "Kinsta Migration Search Engine Land",
-          "fetched_at": "2026-09-19T08:52:35.808000+00:00"
-        },
-        {
-          "title": "Chris Hanna",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fZjFlWTluVXI4QWNsOWxteDNVVFVCSXlZWjhjNG84ZlVkOEhCQzdsNVF3RW0tS0hQTkxKRUh4MmV1dmpsWnJlRlJpckZWWllGSlhjZF9xa2xOX3M?oc=5",
-          "published_at": "2026-09-18T19:15:01+00:00",
-          "excerpt": "Chris Hanna Search Engine Land",
           "fetched_at": "2026-09-19T08:52:35.808000+00:00"
         },
         {
@@ -5507,13 +5549,6 @@
           "fetched_at": "2026-09-12T15:39:21.261639+00:00"
         },
         {
-          "title": "Google’s top ranking factors, according to 131 SEO professionals",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHJfQUdRZ3hHaVBycFRtWDllSGhObmJEd0tlZDBwWmhUdmE4R1BUa2NqZ25hcmtBT1R0MWkwRld1cmJ1YWRXVXN2N0xoUUJNVUVwcmRmQXBYMjRGdGdSek1SbEEzSC1SdVQ4U0V4ZENZMlJXaE9GLXdpRTFUTmtQRXM3cEZpX0hobG81NnN5Q213MzZaSXc?oc=5",
-          "published_at": "2026-09-09T18:53:00+00:00",
-          "excerpt": "Google’s top ranking factors, according to 131 SEO professionals Search Engine Land",
-          "fetched_at": "2026-09-10T09:01:52.319877+00:00"
-        },
-        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMlBWNXBxQzMzc3lYU2JOOFprWUttenFPQzB4NzVKVWVidG8wMldudzU2c3lmQkh4dVd0VEZROUxoeElHNW1BOXlLYl8wT0ltWDc0b2ViR3haRjdQWlNCeDVnQkJnaXBpZEN0YUU3RWhGbkF3MlRnc3Z6OU1fazdTUVJ6VDJRLWk4QU5JWEtta3dGUWRKYkQtb1lUWmdELVdEdEk2eHJMXzV0VGUyMDhtemYwNGI3YTJyQ3Nna2NVT0lucWlRMG5BNWtYQ0RMSUFi?oc=5",
           "published_at": "2026-09-09T17:58:14+00:00",
@@ -5556,13 +5591,6 @@
           "fetched_at": "2026-09-09T16:46:55.888662+00:00"
         },
         {
-          "title": "Manual vs. automated Google Ads campaigns: How to allocate your budget",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT3hLcUc1dTMtWEtrOWRDbU01ZVV2RjFRdi1Xd0RVWGN4NVVNeUVnRGpCYS12T3FYTFcxZDYxa3U5TDNhVjFKRUtMRGZfVTBvNnZYRnRCaENsUElrWjZfZlQ3THpUS2c2RE1fcHhLbGZpTDd4X1plWEp1MFAtOF93eW1heUlzcWVQNWRLMXlRTExLRTA?oc=5",
-          "published_at": "2026-09-09T13:00:00+00:00",
-          "excerpt": "Manual vs. automated Google Ads campaigns: How to allocate your budget Search Engine Land",
-          "fetched_at": "2026-09-15T09:30:48.528192+00:00"
-        },
-        {
           "title": "The AI hours nobody on your marketing team is counting",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWJtaEdHX3BLMVplb2JQV2szajk1YnpVVGF0eEZYTE5WQVg1TGd5NmV1MEtRRlhEQ0hDSjMtWGl1QThWQlp4MkUyU0E2aUJvVkRYMVJvbmVLS19SVTZQY1JXMEc2TTZsTFlRT3VQQmZkRTMybXhjMVgyTFdQTlVpaDhFRm80V0YwODFFQXZvYjVSOFJ4?oc=5",
           "published_at": "2026-09-09T12:00:00+00:00",
@@ -5584,6 +5612,13 @@
           "fetched_at": "2026-09-02T08:52:52.717674+00:00"
         },
         {
+          "title": "Google’s top ranking factors, according to 131 SEO professionals",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHJfQUdRZ3hHaVBycFRtWDllSGhObmJEd0tlZDBwWmhUdmE4R1BUa2NqZ25hcmtBT1R0MWkwRld1cmJ1YWRXVXN2N0xoUUJNVUVwcmRmQXBYMjRGdGdSek1SbEEzSC1SdVQ4U0V4ZENZMlJXaE9GLXdpRTFUTmtQRXM3cEZpX0hobG81NnN5Q213MzZaSXc?oc=5",
+          "published_at": "2026-09-09T07:00:00+00:00",
+          "excerpt": "Google’s top ranking factors, according to 131 SEO professionals Search Engine Land",
+          "fetched_at": "2026-09-10T09:01:52.319877+00:00"
+        },
+        {
           "title": "Jessica Bowman: SEO can’t win AI visibility alone",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVV1SVhTNUlfbEhpWVRkMmFmZ0VJZEJXYXVmR1psZm5WWjZnMV83OUpMTDdQcVJsa193UERuTi1rTlFadVExMGpiMjJITzVXQ0VNM25LYVN5UzUyTmZ1bHNpcmF4ZHhfYTdzTExWTTltdE1kanVYMTdpbjkweWkxcHhsQmVNZFd2ZHI5dUF5dFg1amM?oc=5",
           "published_at": "2026-09-09T07:00:00+00:00",
@@ -5596,6 +5631,13 @@
           "published_at": "2026-09-09T07:00:00+00:00",
           "excerpt": "ChatGPT / OpenAI statistics: How many people use ChatGPT? Search Engine Land",
           "fetched_at": "2026-09-14T10:00:09.567147+00:00"
+        },
+        {
+          "title": "Manual vs. automated Google Ads campaigns: How to allocate your budget",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT3hLcUc1dTMtWEtrOWRDbU01ZVV2RjFRdi1Xd0RVWGN4NVVNeUVnRGpCYS12T3FYTFcxZDYxa3U5TDNhVjFKRUtMRGZfVTBvNnZYRnRCaENsUElrWjZfZlQ3THpUS2c2RE1fcHhLbGZpTDd4X1plWEp1MFAtOF93eW1heUlzcWVQNWRLMXlRTExLRTA?oc=5",
+          "published_at": "2026-09-09T07:00:00+00:00",
+          "excerpt": "Manual vs. automated Google Ads campaigns: How to allocate your budget Search Engine Land",
+          "fetched_at": "2026-09-15T09:30:48.528192+00:00"
         },
         {
           "title": "Greg Heilers",
@@ -5701,6 +5743,13 @@
           "published_at": "2026-09-08T07:00:00+00:00",
           "excerpt": "Bluesky statistics: How Many people use bluesky? (2026) Search Engine Land",
           "fetched_at": "2026-09-09T09:02:47.856797+00:00"
+        },
+        {
+          "title": "Chris Hanna",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fZjFlWTluVXI4QWNsOWxteDNVVFVCSXlZWjhjNG84ZlVkOEhCQzdsNVF3RW0tS0hQTkxKRUh4MmV1dmpsWnJlRlJpckZWWllGSlhjZF9xa2xOX3M?oc=5",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "excerpt": "Chris Hanna Search Engine Land",
+          "fetched_at": "2026-09-19T08:52:35.808000+00:00"
         },
         {
           "title": "Revealing average screen time statistics for 2026",
@@ -8762,6 +8811,13 @@
           "fetched_at": "2026-09-18T09:05:22.698345+00:00"
         },
         {
+          "title": "Pagination and SEO: What you need to know in 2027",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50eC1uWWxKWnVEOGZDZ1lDSG45OHdwZWdTc2x2ZFk2MVBkRUtmbDBNTXhwdFk0b25fRjQ4ZDQ0NmtvN3F5RGs1SWZ0TlgyOFZSX0hzTDhzR1N4bFh5YTZ3aGNET3J6ZjA1RVdfTE5OYUNuZW9ndGlCdlo3elA?oc=5",
+          "published_at": "2025-03-31T12:01:55+00:00",
+          "excerpt": "Pagination and SEO: What you need to know in 2027 Search Engine Land",
+          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
           "title": "Semrush",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WMGRjSnRLMHVPUEVDTVUzaEo3T3JlTzRqV3FzcU56TEZQX0tDRm1SWjZJTnJ3aUdvQTBwY1pvX3ZudGRGblFQLWk2ektRVVlZaDU1dnZB?oc=5",
           "published_at": "2024-11-26T14:59:02+00:00",
@@ -8924,6 +8980,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Customer Lifecycle Goals: The Good, The Bad, The Ugly",
+          "url": "https://www.searchenginejournal.com/customer-lifecycle-goals-the-good-the-bad-the-ugly/588192/",
+          "published_at": "2026-09-22T14:30:28+00:00",
+          "excerpt": "Decide whether Google Ads Customer Lifecycle Goals fit your business, and avoid settings that inflate ROAS or exclude valuable prospects. The post Customer Lifecycle Goals: The Good, The Bad, The Ugly appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-22T17:05:30.278899+00:00"
+        },
+        {
+          "title": "GEO Requests Rise Among More Search Freelancers Than Google SEO via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/fiverr-survey-search-freelancers-geo-demand/590403/",
+          "published_at": "2026-09-22T14:05:38+00:00",
+          "excerpt": "Fiverr's holiday survey finds more of its search freelancers reporting rising GEO requests than Google-ranking requests, though most still back SEO long term. The post GEO Requests Rise Among More Search Freelancers Than Google SEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-22T17:05:30.278899+00:00"
+        },
+        {
+          "title": "3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist via @sejournal, @alexanderkesler",
+          "url": "https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/",
+          "published_at": "2026-09-22T12:00:42+00:00",
+          "excerpt": "Buying groups arrive with vendors already chosen. AEO cannot fix a shortlist formed months earlier. Three steps to build brand consideration before research begins. The post 3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist appeared first on Search Engine Jo…",
+          "fetched_at": "2026-09-22T17:05:30.278899+00:00"
+        },
+        {
           "title": "Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/",
           "published_at": "2026-09-22T08:06:17+00:00",
@@ -9050,9 +9127,9 @@
           "fetched_at": "2026-09-18T16:34:59.799622+00:00"
         },
         {
-          "title": "Google Responds To Cross-Domain Canonical De-Indexing Report via @sejournal, @martinibuster",
+          "title": "Google Responds To Cross-Domain Canonical De-Indexing Report",
           "url": "https://www.searchenginejournal.com/google-responds-to-cross-domain-canonical-de-indexing-report/589917/",
-          "published_at": "2026-09-18T11:39:51+00:00",
+          "published_at": "2026-09-18T00:00:00+00:00",
           "excerpt": "Google's John Mueller explains how publishers can catch site problems before they become an indexing crisis. The post Google Responds To Cross-Domain Canonical De-Indexing Report appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-18T16:34:59.799622+00:00"
         },
@@ -11513,6 +11590,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Google's AI contribution pilot pays publishers",
+          "url": "https://www.semrush.com/blog/google-launches-ai-contribution-pilot/",
+          "published_at": "2026-09-22T10:22:00+00:00",
+          "excerpt": "Google‘s AI contribution pilot pays invited publishers through Search Console. Citations and links in AI answers don‘t qualify for payment.",
+          "fetched_at": "2026-09-22T17:05:38.128000+00:00"
+        },
+        {
           "title": "AI citation outreach: a Semrush & Claude workflow",
           "url": "https://www.semrush.com/blog/ai-citation-outreach/",
           "published_at": "2026-09-21T09:49:00+00:00",
@@ -11669,7 +11753,7 @@
         {
           "title": "18 SEO KPIs to measure organic & AI search performance",
           "url": "https://www.semrush.com/blog/seo-kpis/",
-          "published_at": "2026-08-31T09:23:00+00:00",
+          "published_at": "2026-08-31T00:00:00+00:00",
           "excerpt": "Relevant SEO KPIs to track include AI visibility, keyword rankings, organic traffic, and brand mentions.",
           "fetched_at": "2026-08-31T10:59:50.976609+00:00"
         },
@@ -13737,6 +13821,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Investing in global talent and AI literacy",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/",
+          "published_at": "2026-09-22T16:00:00+00:00",
+          "excerpt": "A woman typing at a computer in a computer lab",
+          "fetched_at": "2026-09-22T17:05:43.890586+00:00"
+        },
+        {
+          "title": "Using AI to help local governments connect with constituents",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/",
+          "published_at": "2026-09-22T14:00:00+00:00",
+          "excerpt": "Illustration of a crowd of people in front of the white house with various text bubbles",
+          "fetched_at": "2026-09-22T17:05:43.890586+00:00"
+        },
         {
           "title": "Expanding free AI training for educators",
           "url": "https://blog.google/products-and-platforms/products/education/digital-promise/",
