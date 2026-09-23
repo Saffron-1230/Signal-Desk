@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T17:05:43.894220+00:00",
-  "run_status": "success",
+  "last_updated": "2026-09-23T09:24:45.330898+00:00",
+  "run_status": "partial",
   "sources": {
     "ahrefs": {
       "name": "Ahrefs Blog",
@@ -8980,6 +8980,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/",
+          "published_at": "2026-09-23T07:00:33+00:00",
+          "excerpt": "Data shows ChatGPT ads becoming more common in retail conversations among US users on desktop. The post ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-23T09:24:34.048059+00:00"
+        },
+        {
+          "title": "Which Data Sources Should You Care About For AI Search? via @sejournal, @chrisgreenseo",
+          "url": "https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/",
+          "published_at": "2026-09-22T19:00:31+00:00",
+          "excerpt": "AI search pulls from more sources than most SEOs track. Here's a tiered view of which data sources deserve your attention first. The post Which Data Sources Should You Care About For AI Search? appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-23T09:24:34.048059+00:00"
+        },
+        {
           "title": "Customer Lifecycle Goals: The Good, The Bad, The Ugly",
           "url": "https://www.searchenginejournal.com/customer-lifecycle-goals-the-good-the-bad-the-ugly/588192/",
           "published_at": "2026-09-22T14:30:28+00:00",
@@ -9244,6 +9258,13 @@
           "published_at": "2026-09-15T19:00:14+00:00",
           "excerpt": "Spot false claims and impersonators in AI search, then match each brand protection problem to the right correction, report, or preventive action. The post Brand Protection In AI Search: How To Audit And Defend Your Brand’s Identity appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-16T09:23:57.467898+00:00"
+        },
+        {
+          "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges",
+          "url": "https://www.searchenginejournal.com/webinar-lp-tactical-solutions-for-the-biggest-ai-search-measurement-challenges/",
+          "published_at": "2026-09-15T18:00:31+00:00",
+          "excerpt": "Join STAT's Tom Capper on October 14 for tactical solutions to the biggest AI search measurement challenges, from AI Overviews to LLMs. Register free today.",
+          "fetched_at": "2026-09-23T09:24:34.048059+00:00"
         },
         {
           "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks",
@@ -11632,6 +11653,13 @@
           "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-09-18T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
           "url": "https://www.semrush.com/blog/my-editing-approaches-framework/",
           "published_at": "2026-09-17T13:34:00+00:00",
@@ -11819,13 +11847,6 @@
           "published_at": "2026-08-19T00:00:00+00:00",
           "excerpt": "This step-by-step guide teaches you how to build a content marketing strategy for your business.",
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-08-19T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Microsoft Clarity adds an AI Scrape-to-Referral Ratio",
@@ -12590,6 +12611,13 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "ChatGPT Ads for B2B: What They Cost, How They Work, and How to Launch Your First Campaign",
+          "url": "https://www.factors.ai/blog/chatgpt-ads-b2b",
+          "published_at": "2026-09-23T00:00:00+00:00",
+          "excerpt": "Learn how ChatGPT Ads work for B2B, including costs, targeting limits, campaign setup, and how to measure the channel against pipeline.",
+          "fetched_at": "2026-09-23T09:24:40.603961+00:00"
+        },
+        {
           "title": "Top 8 UnifyGTM Alternatives & Competitors for 2026",
           "url": "https://www.factors.ai/blog/unify-alternatives",
           "published_at": "2026-09-22T00:00:00+00:00",
@@ -12934,6 +12962,13 @@
       "archive_titles_canonical": true,
       "color": "#178bd4",
       "articles": [
+        {
+          "title": "Remote vs. In-Person Work: How WebFX Balances Workplace Flexibility and In-Person Connection",
+          "url": "https://www.webfx.com/blog/company/remote-vs-in-person-work/",
+          "published_at": "2026-09-22T12:25:32+00:00",
+          "excerpt": "The post Remote vs. In-Person Work: How WebFX Balances Workplace Flexibility and In-Person Connection appeared first on WebFX .",
+          "fetched_at": "2026-09-23T09:24:41.525069+00:00"
+        },
         {
           "title": "Should You Rebrand After an Acquisition? A Framework for Multi-Brand Companies",
           "url": "https://www.webfx.com/blog/marketing/rebranding-after-acquisition/",
@@ -13495,6 +13530,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Colab is now part of your Google AI plan",
+          "url": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
+          "published_at": "2026-09-22T00:00:00+00:00",
+          "excerpt": "Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.",
+          "fetched_at": "2026-09-23T09:24:44.500487+00:00"
+        },
+        {
           "title": "Why client SDK generation belongs in the open",
           "url": "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
           "published_at": "2026-09-17T00:00:00+00:00",
@@ -13821,6 +13863,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/",
+          "published_at": "2026-09-22T23:50:00+00:00",
+          "excerpt": "Smallholder farmers produce nearly 35% of the world’s food across more than 500 million farms, yet they often lack access to the satellite data, financial services, and …",
+          "fetched_at": "2026-09-23T09:24:45.326611+00:00"
+        },
         {
           "title": "Investing in global talent and AI literacy",
           "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/",
