@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T09:24:35.788885+00:00",
+  "last_updated": "2026-09-24T17:23:27.838203+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,6 +4310,41 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google releases September 2026 spam update",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQampqQW1mT1FYc1REYlo4alZYek5Ja2dvS1BXZlV1WW9GR25GZnUxT3FxLTJ3RnpDOHgwWXdrSG40SEFEYXVGdkJ5bU1kUVBxaV9DMDd1bTVuU0lVSVg4LUNzNTRqdlZYR2FiSUJ2QWFCczRMakRaam1QQXVOUVlMMjJGbzk?oc=5",
+          "published_at": "2026-09-24T16:27:00+00:00",
+          "excerpt": "Google releases September 2026 spam update Search Engine Land",
+          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
+        },
+        {
+          "title": "15 lessons from 15+ years in search",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sS1ZHd1g4elRfMjZNUjRPdnpRUzNrcFhLQzh4TWcwNGhzUDlGb1NFbGRQOXQxanVhRzRBc2h3YURzeUFJY3hQUHdwZnNHd0otM1ZYQnNqWldKTDEtc1VLcW5RRzFFZXdyZmt5cmJvZ0FWWTdIaFJZa3hR?oc=5",
+          "published_at": "2026-09-24T14:00:00+00:00",
+          "excerpt": "15 lessons from 15+ years in search Search Engine Land",
+          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
+        },
+        {
+          "title": "Google’s /goto change: The latest challenge for third-party SEO data",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hVVRlNy1wTnU0d2hNZWFjR25CWUhfU0dmdGFwbHpELWVlOFVJRll1bXJTb0NvNWdiY1MxS2t0RkVsekp1ekJ1MTdkeVhHeXVIV1RRR3VianZqVXRXcWJoYlZtMEV1N01nNHFRaVo0RjBnSW8xMUJLbTNqLVM5UQ?oc=5",
+          "published_at": "2026-09-24T13:00:00+00:00",
+          "excerpt": "Google’s /goto change: The latest challenge for third-party SEO data Search Engine Land",
+          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
+        },
+        {
+          "title": "Google Search Console performance reports gets multimodal filter",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVA3MFFseExnRVFlNjQxM3dEWkgwd0hTdUt2RUZ2aFJSN1BXdEpRd3RLb25nTTRlYW0xd1pTYkdiMXZkN1pZTlVScXpUOTdTbUw1Z09yMzNXajdFZXpwS1ZnNU5iTUlYM1I1dGw2SGxpTzEzZ2x5ZjVWZkpEa0Y2SV9HZkhSYWdyOTlBc2pZYlloeFloNXBwN2JhZ2tkdnRzTkE?oc=5",
+          "published_at": "2026-09-24T12:40:00+00:00",
+          "excerpt": "Google Search Console performance reports gets multimodal filter Search Engine Land",
+          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDl3Mnc4ME0wVFAwZlpLb2JSLXdJT1FkN2ZmZnRfcHFGdnNLRmZ1OF9BQXhiM1B0RjR6ZGFqeXpnYndIUmRTU1BUNEpvQXdZeURhSzM5OFhWYWU4QXc0djZrVjJUalRvSzZkNkpYNEM3VnAyWm9BMHFYVVMxNW1LMUtpR3pyTTBZWERQTEo3NEVWSks4cmhGTkJtNzV5SG1pNXhB?oc=5",
+          "published_at": "2026-09-24T07:09:04+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0JTQ3h1YzY1M0JtemY3UVpPNXdPaHU3WWZ0blpuQU5HbFlLWVZORW5VZXBRWngxV3Rta09pOXFMdnhmMWVMNXU0OHVWUWZPMERaUXhCRkNYekpDdllCWW1zOHZjbHZEZ0x6YjNNcWNzOUE5QnhQaEUzZF92VUFxRWNBWQ?oc=5",
           "published_at": "2026-09-24T02:56:24+00:00",
@@ -4343,6 +4378,13 @@
           "published_at": "2026-09-23T14:48:00+00:00",
           "excerpt": "Rank Math AI unifies SEO tools, adds Gemini visibility tracking Search Engine Land",
           "fetched_at": "2026-09-24T09:24:13.792004+00:00"
+        },
+        {
+          "title": "Google expands AI Brief and adds deeper AI Max reporting",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnZBcDB4Z2dHMW5jOWYwTXVIVDhfSVNDTGFwM2pXbDhGOXBEY2JQXzhoT3RYNk9uZXYyQlItZEhHamZmSExyNnpEWExGR3BIYk5HdVBNcEpGT2pxZjJJM3lVdXJQZ1ZzOVJDUVdXalJodHFMYzFFamZ5cWlRbG16aXI3SnJhMmQ5VDBpaHk1dzB4LXoxTU5v?oc=5",
+          "published_at": "2026-09-23T14:30:00+00:00",
+          "excerpt": "Google expands AI Brief and adds deeper AI Max reporting Search Engine Land",
+          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
         },
         {
           "title": "Discord user and funding statistics: How many people use Discord?",
@@ -4471,6 +4513,13 @@
           "fetched_at": "2026-09-22T17:05:16.257811+00:00"
         },
         {
+          "title": "Pagination and SEO: What you need to know in 2027",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50eC1uWWxKWnVEOGZDZ1lDSG45OHdwZWdTc2x2ZFk2MVBkRUtmbDBNTXhwdFk0b25fRjQ4ZDQ0NmtvN3F5RGs1SWZ0TlgyOFZSX0hzTDhzR1N4bFh5YTZ3aGNET3J6ZjA1RVdfTE5OYUNuZW9ndGlCdlo3elA?oc=5",
+          "published_at": "2026-09-22T12:00:00+00:00",
+          "excerpt": "Pagination and SEO: What you need to know in 2027 Search Engine Land",
+          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT1JwYnBBQmVqblp3UHB3azQ4My05UHhOLW5pQ0l3ck5CWnVjaEN5NG5qMG90WXdsdDBUd0tOV2I0MFZkRnEtbEQ4MHRzaTlURzQ0RGtfazloVEhzY1RTYy1XQWZXWnNRbGUyZEhrWVN5UExfUjl4MVYtMVdZLWdXMHA5SXp4ZjFESTR0N2t6OXVhakRIal9LMl9wLW4tVktuQ2hFUU8xSDdOdUE1X3BOeTJVYlp5SEpUQmNuejIteElTbmhG?oc=5",
           "published_at": "2026-09-22T00:40:45+00:00",
@@ -4574,13 +4623,6 @@
           "published_at": "2026-09-21T11:00:00+00:00",
           "excerpt": "CPC’s up, conversions down? Orchestrate data to find performance shifts Search Engine Land",
           "fetched_at": "2026-09-22T09:23:19.921346+00:00"
-        },
-        {
-          "title": "- Search Engine Land",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDl3Mnc4ME0wVFAwZlpLb2JSLXdJT1FkN2ZmZnRfcHFGdnNLRmZ1OF9BQXhiM1B0RjR6ZGFqeXpnYndIUmRTU1BUNEpvQXdZeURhSzM5OFhWYWU4QXc0djZrVjJUalRvSzZkNkpYNEM3VnAyWm9BMHFYVVMxNW1LMUtpR3pyTTBZWERQTEo3NEVWSks4cmhGTkJtNzV5SG1pNXhB?oc=5",
-          "published_at": "2026-09-20T21:43:01+00:00",
-          "excerpt": "Search Engine Land",
-          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -4947,13 +4989,6 @@
           "fetched_at": "2026-09-17T08:43:16.667184+00:00"
         },
         {
-          "title": "SMX Now: Find the entity gaps holding back your content strategy",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aWktGS2J2eWN0ZnN1bXk0SF90dWdlbzVyRlZRUkxSVkxkMnFWeFlUTHhmaWp1bENTU0dTWDdIYi1WYjdnTU1qY0NpY2FYRHhjLWZIU09jT2hpVDB3T0xFSmZ4OUdQc3gwUnd1dHIxRW9lSHRlN0lFclRwdGs?oc=5",
-          "published_at": "2026-09-16T13:36:00+00:00",
-          "excerpt": "SMX Now: Find the entity gaps holding back your content strategy Search Engine Land",
-          "fetched_at": "2026-09-04T08:55:43.309082+00:00"
-        },
-        {
           "title": "9 ecommerce search trends that actually matter in 2027",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jMGRnaWUtQ3dsaXJDY2F1X3F1R3FxakM2allORjktRHRUU1RJUGl2ekdoMzJsdG82WW5Sbm5vZGlTRElhMlpwUC13STZLZ1UtTURXaWNtNGN6ZmhXeWQyaTdNR000QVJmUnJYcWtIR3hRbGRZb3hpWEF2Yw?oc=5",
           "published_at": "2026-09-16T13:00:00+00:00",
@@ -4966,6 +5001,13 @@
           "published_at": "2026-09-16T12:00:00+00:00",
           "excerpt": "Are you building software instead of doing marketing? Search Engine Land",
           "fetched_at": "2026-09-17T08:43:16.667184+00:00"
+        },
+        {
+          "title": "SMX Now: Find the entity gaps holding back your content strategy",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aWktGS2J2eWN0ZnN1bXk0SF90dWdlbzVyRlZRUkxSVkxkMnFWeFlUTHhmaWp1bENTU0dTWDdIYi1WYjdnTU1qY0NpY2FYRHhjLWZIU09jT2hpVDB3T0xFSmZ4OUdQc3gwUnd1dHIxRW9lSHRlN0lFclRwdGs?oc=5",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "excerpt": "SMX Now: Find the entity gaps holding back your content strategy Search Engine Land",
+          "fetched_at": "2026-09-04T08:55:43.309082+00:00"
         },
         {
           "title": "Resource page link building",
@@ -5003,13 +5045,6 @@
           "fetched_at": "2026-09-16T09:23:46.754469+00:00"
         },
         {
-          "title": "What happens before search strongly shapes the decision",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTNvVTFaenR0VXlfS1NvcXp0bDF0dzNxdkQxdUJVck1hcWZ3cVIwYXgxdDY2WnRzWFBTTEdLVFlXVUVYYjV5SmNONmdyZ0dWN011eld4T0NQRUpvRmpLZ1hSVWJBQmhVdi1SdlRZXy1yT2ZsY2ZibWh0RmNLZXFaX1JmTWg?oc=5",
-          "published_at": "2026-09-15T14:00:00+00:00",
-          "excerpt": "What happens before search strongly shapes the decision Search Engine Land",
-          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
-        },
-        {
           "title": "Claude for SEO: 5 ways to automate repetitive work",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRzBlMlB6UkRZNXBlRDcwWllmd0tVNzZ6VDJaUzljZlNuUnVUSGJIcFJ6ZWJqdTlTVFN0QnotU0JaNW5PMUdQNmhZX2hzYmZ3OVQ5MFpXaGc5Z285WTd3UTBKZ3FzTC1OMTQ5enR1R3lDWDFPVGVOZFRMMzhBMWQ1SnZ4VW9pV2NMN3JiTUN3?oc=5",
           "published_at": "2026-09-15T13:00:00+00:00",
@@ -5043,6 +5078,13 @@
           "published_at": "2026-09-15T07:00:00+00:00",
           "excerpt": "The follow-up query: Rethinking SEO for conversational search Search Engine Land",
           "fetched_at": "2026-09-15T17:09:32.622283+00:00"
+        },
+        {
+          "title": "What happens before search strongly shapes the decision",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTNvVTFaenR0VXlfS1NvcXp0bDF0dzNxdkQxdUJVck1hcWZ3cVIwYXgxdDY2WnRzWFBTTEdLVFlXVUVYYjV5SmNONmdyZ0dWN011eld4T0NQRUpvRmpLZ1hSVWJBQmhVdi1SdlRZXy1yT2ZsY2ZibWh0RmNLZXFaX1JmTWg?oc=5",
+          "published_at": "2026-09-15T07:00:00+00:00",
+          "excerpt": "What happens before search strongly shapes the decision Search Engine Land",
+          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
         },
         {
           "title": "Google Chrome launches new metrics to measure ad-heavy websites",
@@ -5962,13 +6004,6 @@
           "fetched_at": "2026-09-06T15:35:35.731508+00:00"
         },
         {
-          "title": "How to build a defensible SEO budget for 2027",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclR5ZWZaODBtT2JZejFDSVlNZVNLcjRBbXl5UlFkb3NpbGZrNy1qMlNodGRXcmVwVlVOckZ1V2JBMzFJR2RtbWpWN205RmxqT2ZWcmM1eEY3b0tidk1RTHktdG12UTdVYTRKYWZUMzdlNXYzS1IzNkhzN3VBbkRWQ01zRU5ULUtN?oc=5",
-          "published_at": "2026-09-04T12:00:00+00:00",
-          "excerpt": "How to build a defensible SEO budget for 2027 searchengineland.com",
-          "fetched_at": "2026-09-05T15:22:45.014068+00:00"
-        },
-        {
           "title": "Social network usage & growth statistics (2026)",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMdlpHQjhmVWFaeG0xVGRQRW1NV0pYYmItc0J5VjJXZm9rcVlrMVBZdU1MeUZ0Y196dG5GTndsaHJITzVRN2NSQkRtMUVpNS02VlFCNHk0N3BGN1hmR0lKMHRFYw?oc=5",
           "published_at": "2026-09-04T07:00:00+00:00",
@@ -6022,6 +6057,13 @@
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UaU9fQXNtMUpPaXdWNUFobWV3VEVwVXpWZ0l0akd3Z3lsLWUtQmtDbE0teDJCM0tNWDFJeVpJMXhKWWJybDlfTUM2MkVyWGxHaDFxX1RtdENNSTliVlFQbQ?oc=5",
           "published_at": "2026-09-04T07:00:00+00:00",
           "excerpt": "What is a marketing funnel? Complete beginner’s guide searchengineland.com",
+          "fetched_at": "2026-09-05T15:22:45.014068+00:00"
+        },
+        {
+          "title": "How to build a defensible SEO budget for 2027",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclR5ZWZaODBtT2JZejFDSVlNZVNLcjRBbXl5UlFkb3NpbGZrNy1qMlNodGRXcmVwVlVOckZ1V2JBMzFJR2RtbWpWN205RmxqT2ZWcmM1eEY3b0tidk1RTHktdG12UTdVYTRKYWZUMzdlNXYzS1IzNkhzN3VBbkRWQ01zRU5ULUtN?oc=5",
+          "published_at": "2026-09-04T07:00:00+00:00",
+          "excerpt": "How to build a defensible SEO budget for 2027 searchengineland.com",
           "fetched_at": "2026-09-05T15:22:45.014068+00:00"
         },
         {
@@ -8958,13 +9000,6 @@
           "fetched_at": "2026-09-18T09:05:22.698345+00:00"
         },
         {
-          "title": "Pagination and SEO: What you need to know in 2027",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50eC1uWWxKWnVEOGZDZ1lDSG45OHdwZWdTc2x2ZFk2MVBkRUtmbDBNTXhwdFk0b25fRjQ4ZDQ0NmtvN3F5RGs1SWZ0TlgyOFZSX0hzTDhzR1N4bFh5YTZ3aGNET3J6ZjA1RVdfTE5OYUNuZW9ndGlCdlo3elA?oc=5",
-          "published_at": "2025-03-31T12:01:55+00:00",
-          "excerpt": "Pagination and SEO: What you need to know in 2027 Search Engine Land",
-          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
-        },
-        {
           "title": "Semrush",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WMGRjSnRLMHVPUEVDTVUzaEo3T3JlTzRqV3FzcU56TEZQX0tDRm1SWjZJTnJ3aUdvQTBwY1pvX3ZudGRGblFQLWk2ektRVVlZaDU1dnZB?oc=5",
           "published_at": "2024-11-26T14:59:02+00:00",
@@ -9141,6 +9176,55 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Rolls Out September 2026 Spam Update Globally via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-september-2026-spam-update/590828/",
+          "published_at": "2026-09-24T16:45:40+00:00",
+          "excerpt": "Google’s September 2026 spam update is rolling out worldwide and may take up to two weeks to complete. The post Google Rolls Out September 2026 Spam Update Globally appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-24T17:23:13.635106+00:00"
+        },
+        {
+          "title": "Google Search Console Adds Multimodal Filter For Image-Based Searches via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-search-console-multimodal-filter/590781/",
+          "published_at": "2026-09-24T14:52:48+00:00",
+          "excerpt": "Search Console’s new multimodal filter shows which pages receive traffic from image-based searches, without query data. The post Google Search Console Adds Multimodal Filter For Image-Based Searches appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-24T17:23:13.635106+00:00"
+        },
+        {
+          "title": "Why Agencies Lose Clients In The First 90 Days (And How To Stop It)",
+          "url": "https://www.searchenginejournal.com/why-agencies-lose-clients-in-the-first-90-days-and-how-to-stop-it/582895/",
+          "published_at": "2026-09-24T14:30:56+00:00",
+          "excerpt": "Most client churn happens in the first 90 days, not month six. This phase-by-phase onboarding framework shows agencies how to keep clients engaged and retained. The post Why Agencies Lose Clients In The First 90 Days (And How To Stop It) appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-24T17:23:13.635106+00:00"
+        },
+        {
+          "title": "Rising CPC? You’re Funding The Competition. Here’s How To Trace It.",
+          "url": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/",
+          "published_at": "2026-09-24T14:04:23+00:00",
+          "excerpt": "Strong affiliate numbers can hide brand bidding. Learn how to define violations, build a search test list, capture ad evidence, and match it to partners. The post How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-16T17:10:03.926557+00:00"
+        },
+        {
+          "title": "Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes via @sejournal, @TaylorDanRW",
+          "url": "https://www.searchenginejournal.com/search-console-uses-block-flattening-for-aios-forget-position-focus-on-outcomes/589582/",
+          "published_at": "2026-09-24T12:00:06+00:00",
+          "excerpt": "Block flattening can make weak AI Overview visibility look like a top ranking, so measure visits and conversions to assess search performance. The post Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-24T17:23:13.635106+00:00"
+        },
+        {
+          "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/",
+          "published_at": "2026-09-24T11:42:47+00:00",
+          "excerpt": "Google announced a new query fan-out framework that is described as ready for production-scale search. The post Google Announces New Query Fan-Out Framework: R4T-Diffusion appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-24T17:23:13.635106+00:00"
+        },
+        {
+          "title": "Google Search Decline Steepened To 40% YoY For Publishers via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-search-decline-publishers-chartbeat/590681/",
+          "published_at": "2026-09-24T09:25:37+00:00",
+          "excerpt": "A report finds Google Search and Discover declines got steeper for publishers, while direct, internal, and dark social grew. The post Google Search Decline Steepened To 40% YoY For Publishers appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-24T17:23:13.635106+00:00"
+        },
+        {
           "title": "YouTube Adds Shopping Features To Ask YouTube AI Search via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/",
           "published_at": "2026-09-23T22:37:15+00:00",
@@ -9176,7 +9260,7 @@
           "fetched_at": "2026-09-23T17:17:47.508552+00:00"
         },
         {
-          "title": "ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows via @sejournal, @MattGSouthern",
+          "title": "ChatGPT Ads Climbed In 3 Retail Categories, Led By Gaming: Comscore via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/",
           "published_at": "2026-09-23T07:00:33+00:00",
           "excerpt": "Data shows ChatGPT ads becoming more common in retail conversations among US users on desktop. The post ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows appeared first on Search Engine Journal .",
@@ -9197,7 +9281,7 @@
           "fetched_at": "2026-09-22T17:05:30.278899+00:00"
         },
         {
-          "title": "GEO Requests Rise Among More Search Freelancers Than Google SEO via @sejournal, @MattGSouthern",
+          "title": "Clients Want GEO, Freelancers Still Bet On SEO: Fiverr Survey via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/fiverr-survey-search-freelancers-geo-demand/590403/",
           "published_at": "2026-09-22T14:05:38+00:00",
           "excerpt": "Fiverr's holiday survey finds more of its search freelancers reporting rising GEO requests than Google-ranking requests, though most still back SEO long term. The post GEO Requests Rise Among More Search Freelancers Than Google SEO appeared first on Search Engine Journal .",
@@ -9211,7 +9295,7 @@
           "fetched_at": "2026-09-22T17:05:30.278899+00:00"
         },
         {
-          "title": "Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern",
+          "title": "Google Analytics Hostname Filters Can Now Allowlist Your Domains via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/",
           "published_at": "2026-09-22T08:06:17+00:00",
           "excerpt": "Google Analytics supports Include data filters for hostnames, so a property can keep event data from approved domains instead of excluding spam one by one. The post Google Analytics Adds Include Filters For Hostnames appeared first on Search Engine Journal .",
@@ -9418,13 +9502,6 @@
           "url": "https://www.searchenginejournal.com/google-search-profiles-10000-followers/589635/",
           "published_at": "2026-09-16T16:00:15+00:00",
           "excerpt": "Google lowers Search profile eligibility to 10,000 followers for U.S. websites and creators, with new account tools and updated article displays. The post Google Search Profiles Now Available At 10,000 Followers appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-16T17:10:03.926557+00:00"
-        },
-        {
-          "title": "How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage",
-          "url": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/",
-          "published_at": "2026-09-16T14:04:23+00:00",
-          "excerpt": "Strong affiliate numbers can hide brand bidding. Learn how to define violations, build a search test list, capture ad evidence, and match it to partners. The post How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-16T17:10:03.926557+00:00"
         },
         {
@@ -13740,6 +13817,20 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
+          "url": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
+          "published_at": "2026-09-24T00:00:00+00:00",
+          "excerpt": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific annotations (like x-google-api-management.mcp) to existing OpenAPI 3…",
+          "fetched_at": "2026-09-24T17:23:26.894258+00:00"
+        },
+        {
+          "title": "Reproducing OLMo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
+          "url": "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
+          "published_at": "2026-09-24T00:00:00+00:00",
+          "excerpt": "The MaxText team successfully reproduced AI2’s OLMo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training stages on all held-out evaluations. The implementation achieved…",
+          "fetched_at": "2026-09-24T17:23:26.894258+00:00"
+        },
+        {
           "title": "Introducing Support for Local AI Models in the Antigravity SDK",
           "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
           "published_at": "2026-09-23T00:00:00+00:00",
@@ -14080,6 +14171,55 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "5 ways to upgrade your study habits with Chrome",
+          "url": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
+          "published_at": "2026-09-24T17:00:00+00:00",
+          "excerpt": "The video shows a whiteboard that says \"Keeping Tabs on Google Chrome.\"",
+          "fetched_at": "2026-09-24T17:23:27.834772+00:00"
+        },
+        {
+          "title": "5 Google Photos updates to make the most of summer memories.",
+          "url": "https://blog.google/products-and-platforms/products/photos/google-photos-updates/",
+          "published_at": "2026-09-24T17:00:00+00:00",
+          "excerpt": "Five updates in Google Photos that will help you make the most of your summer memories.",
+          "fetched_at": "2026-09-24T17:23:27.834772+00:00"
+        },
+        {
+          "title": "Our new health and safety tools are live in the Google Health app.",
+          "url": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
+          "published_at": "2026-09-24T17:00:00+00:00",
+          "excerpt": "Pixel Watch users can explore the new health and safety tools in the Google Health app.",
+          "fetched_at": "2026-09-24T17:23:27.834772+00:00"
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+          "published_at": "2026-09-24T15:30:00+00:00",
+          "excerpt": "an image with the phrase \"Gemini 3.8 Live with Live Avatar\"",
+          "fetched_at": "2026-09-24T17:23:27.834772+00:00"
+        },
+        {
+          "title": "Behind Project Suncatcher, our moonshot to put AI in space",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+          "published_at": "2026-09-24T13:00:00+00:00",
+          "excerpt": "A yellow, red, and blue gradient background with the words Project Suncatcher overlaid",
+          "fetched_at": "2026-09-24T17:23:27.834772+00:00"
+        },
+        {
+          "title": "Helping 25,000 veterans and military families build careers in skilled trades",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/",
+          "published_at": "2026-09-24T12:00:00+00:00",
+          "excerpt": "A man with a beard, wearing clear safety glasses, gray work gloves, and a dark short-sleeved polo shirt, works on electrical wiring or panels in an industrial setting.",
+          "fetched_at": "2026-09-24T17:23:27.834772+00:00"
+        },
+        {
+          "title": "Turning cultural artifacts into interactive learning companions",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-talking-museum-museum-memory/",
+          "published_at": "2026-09-24T10:00:00+00:00",
+          "excerpt": "A split image showing \"Museum Memory\" in white text over faint classical statues on a pink background, next to \"The Talking Museum\" alongside an astronaut with a soundwave speech bubble on a light beige background.",
+          "fetched_at": "2026-09-24T17:23:27.834772+00:00"
+        },
         {
           "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
           "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
