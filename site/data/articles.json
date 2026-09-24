@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T17:18:00.654448+00:00",
+  "last_updated": "2026-09-24T09:24:35.788885+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,6 +4310,20 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0JTQ3h1YzY1M0JtemY3UVpPNXdPaHU3WWZ0blpuQU5HbFlLWVZORW5VZXBRWngxV3Rta09pOXFMdnhmMWVMNXU0OHVWUWZPMERaUXhCRkNYekpDdllCWW1zOHZjbHZEZ0x6YjNNcWNzOUE5QnhQaEUzZF92VUFxRWNBWQ?oc=5",
+          "published_at": "2026-09-24T02:56:24+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
+          "title": "BuzzStream review: Is this link building and outreach tool worth it?",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fTF9OXzdZeWdFcXJ6SmFIclh4SkV5LXU4c3RaQjhzdjBXRnFYaXNIUDJ3R2dDQ1cwLU5PU0ZpYlRWVUh6WTc0cFpvSF9idDlrV2xYSjdVTWlZTkpXZTBpZF9JQjQ?oc=5",
+          "published_at": "2026-09-23T20:37:00+00:00",
+          "excerpt": "BuzzStream review: Is this link building and outreach tool worth it? Search Engine Land",
+          "fetched_at": "2026-09-24T09:24:13.792004+00:00"
+        },
+        {
           "title": "How much of your Google Ads conversions come from AI Max?",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1anpEUHBxdEFxLTBmQjl5ck9OV1FJTk14dnVfcHQ4bENESGhKRHVySmswdmhjMWh5dm5ZempYR2dGLWFIdUtZelpCdUNjckNSQkFfV0QzTWlOTTlNMlhic0R4OFl2Z045UjNjOUZrTktKSkY5UFFCclJB?oc=5",
           "published_at": "2026-09-23T15:00:00+00:00",
@@ -4317,11 +4331,18 @@
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
-          "title": "- Search Engine Land",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0JTQ3h1YzY1M0JtemY3UVpPNXdPaHU3WWZ0blpuQU5HbFlLWVZORW5VZXBRWngxV3Rta09pOXFMdnhmMWVMNXU0OHVWUWZPMERaUXhCRkNYekpDdllCWW1zOHZjbHZEZ0x6YjNNcWNzOUE5QnhQaEUzZF92VUFxRWNBWQ?oc=5",
-          "published_at": "2026-09-23T14:56:25+00:00",
-          "excerpt": "Search Engine Land",
-          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+          "title": "Google expands its list of local advertising codes",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUllWWhweVl1aXZYd0d2ZXAyYWJFYTRPbkpUYkdZSTJwYVBJNm51ZXFaQ0FieWVvejhFZWdFNzdNdnNZekVQLV9tTUJJS2kxX1RGRTB5dFJ6Q2hJTjZMeVpDdjFlQ2QwdndLVU9lZ2FFbjJlMWlrSVViWERDQWZoa250QUFsZnVVX1lzaTBNbw?oc=5",
+          "published_at": "2026-09-23T14:54:00+00:00",
+          "excerpt": "Google expands its list of local advertising codes Search Engine Land",
+          "fetched_at": "2026-09-24T09:24:13.792004+00:00"
+        },
+        {
+          "title": "Rank Math AI unifies SEO tools, adds Gemini visibility tracking",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPek5aZlk2em1Dak1MOWplT1ktZW9lc251a2J3V1pwUEJuMkZMbTFBZTFyUmRsd1FoWnVOaG9HQ3FoZFZkYW5EQVloNEx3N0N3UXdwY1BBUWpObXp2cHI3WkhDWEx5elNnZHVrUWlUQ01JZ19JZGNaT2c3QW1oQmFEbkEwZjVKV2I2ZEE?oc=5",
+          "published_at": "2026-09-23T14:48:00+00:00",
+          "excerpt": "Rank Math AI unifies SEO tools, adds Gemini visibility tracking Search Engine Land",
+          "fetched_at": "2026-09-24T09:24:13.792004+00:00"
         },
         {
           "title": "Discord user and funding statistics: How many people use Discord?",
@@ -4336,6 +4357,13 @@
           "published_at": "2026-09-23T13:55:00+00:00",
           "excerpt": "Search everywhere optimization guide (+ free checklist) Search Engine Land",
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
+          "title": "Google AI Mode cuts clicks and user satisfaction: Study",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclczZFctRmc4QlY5bzVnMmF4VUNteURCOGF2V0Z5dFZnendHNFNEVUxzb29yMVQyRDBlRXpaY3VrRGJYT2dSM2xUbmJFN0pmZnZPSUhvbjhyLTdsY0h0cWNkYUdJN1ROenlHLXJxOXJFekg0ZEdkZmR4cU5ZWldTTmh2R1dmVEhi?oc=5",
+          "published_at": "2026-09-23T13:53:00+00:00",
+          "excerpt": "Google AI Mode cuts clicks and user satisfaction: Study Search Engine Land",
+          "fetched_at": "2026-09-24T09:24:13.792004+00:00"
         },
         {
           "title": "How to segment SEO data for multi-location brands",
@@ -9112,6 +9140,27 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "YouTube Adds Shopping Features To Ask YouTube AI Search via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/",
+          "published_at": "2026-09-23T22:37:15+00:00",
+          "excerpt": "YouTube is adding shopping features to Ask YouTube, which may organize product review videos into a comparison table and answer questions on watch pages. The post YouTube Adds Shopping Features To Ask YouTube AI Search appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-24T09:24:24.830402+00:00"
+        },
+        {
+          "title": "ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/chatgpt-ads-and-geo-where-paid-and-earned-ai-visibility-fit-together/590537/",
+          "published_at": "2026-09-23T19:08:12+00:00",
+          "excerpt": "OpenAI and Go Fish Digital unpack ChatGPT ads, earned AI visibility, practical GEO measurement, and what marketers can test next. The post ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-24T09:24:24.830402+00:00"
+        },
+        {
+          "title": "Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now",
+          "url": "https://www.searchenginejournal.com/amazon-marketing-clouds-5-year-dataset-6-use-cases-worth-building-now/589137/",
+          "published_at": "2026-09-23T19:00:57+00:00",
+          "excerpt": "Use Amazon Marketing Cloud's extended purchase history to set acquisition budgets, identify valuable customers, and retarget shoppers beyond the old 13-month limit. The post Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now appeared first on Search Engine J…",
+          "fetched_at": "2026-09-24T09:24:24.830402+00:00"
+        },
         {
           "title": "AI Agents Will Game Your SEO Metrics, MIT & Stanford Research Points To The Risk via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/ai-agents-will-game-your-seo-metrics-mit-stanford-research-points-to-the-risk/589948/",
@@ -14031,6 +14080,27 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+          "published_at": "2026-09-23T19:00:00+00:00",
+          "excerpt": "Google Vids logo surrounded by various video editing options",
+          "fetched_at": "2026-09-24T09:24:35.785534+00:00"
+        },
+        {
+          "title": "Google Beam expands with new regions, partners, and customers",
+          "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+          "published_at": "2026-09-23T18:00:00+00:00",
+          "excerpt": "Google Beam promotional animation",
+          "fetched_at": "2026-09-24T09:24:35.785534+00:00"
+        },
+        {
+          "title": "6 ways Android Enterprise is evolving for the modern workforce",
+          "url": "https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/",
+          "published_at": "2026-09-23T18:00:00+00:00",
+          "excerpt": "Four green Android figures dressed in work attire representing different professions.",
+          "fetched_at": "2026-09-24T09:24:35.785534+00:00"
+        },
         {
           "title": "6 new Google Flow Tools built by industry creatives",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
