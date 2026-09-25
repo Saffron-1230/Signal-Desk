@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T09:42:22.619388+00:00",
+  "last_updated": "2026-09-25T17:22:18.441346+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "How to Optimize for AI Search: A Guide for You and Your AI Agent",
+          "url": "https://ahrefs.com/blog/how-to-optimize-for-ai-search/",
+          "published_at": "2026-09-25T13:48:53+00:00",
+          "excerpt": "It might sound like a completely new discipline. For the most part, it isn’t. Google says its AI search features still rely on its core search systems. Your content still needs to be crawlable, indexable, and useful. Microsoft says that … Read more ›",
+          "fetched_at": "2026-09-25T17:21:54.583866+00:00"
+        },
         {
           "title": "AI Overviews Cut CTR by 23.1% in France",
           "url": "https://ahrefs.com/blog/ai-overviews-france-impact/",
@@ -4331,6 +4338,13 @@
           "fetched_at": "2026-09-25T09:41:59.840113+00:00"
         },
         {
+          "title": "9 checks to audit your AI visibility without a paid tool",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZUNZbThaRnRaUEl1RUpkRDFPeDZQeU9aRGtwVlpZcmpGSy1pV19lVTMxSC1NZXdPZ1FRVnpyOEhiOWh3V2NJc01pNVJlYW1sdTZVWmNBUG5SUElWLUJ4OWRfMk5PWUtnQjZYZldOMVpzWkNzX1NTY1JzMERhdw?oc=5",
+          "published_at": "2026-09-24T15:00:00+00:00",
+          "excerpt": "9 checks to audit your AI visibility without a paid tool Search Engine Land",
+          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
+        },
+        {
           "title": "15 lessons from 15+ years in search",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sS1ZHd1g4elRfMjZNUjRPdnpRUzNrcFhLQzh4TWcwNGhzUDlGb1NFbGRQOXQxanVhRzRBc2h3YURzeUFJY3hQUHdwZnNHd0otM1ZYQnNqWldKTDEtc1VLcW5RRzFFZXdyZmt5cmJvZ0FWWTdIaFJZa3hR?oc=5",
           "published_at": "2026-09-24T14:00:00+00:00",
@@ -4350,6 +4364,13 @@
           "published_at": "2026-09-24T12:40:00+00:00",
           "excerpt": "Google Search Console performance reports gets multimodal filter Search Engine Land",
           "fetched_at": "2026-09-24T17:22:59.645625+00:00"
+        },
+        {
+          "title": "How to use Google Veo to create video ads for PMax and Demand Gen",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MSkN6dzdlR1hqN2NDV0xRV0toV3k2YTIwbHU1YkZaRWJDZXNrSUZ3NnBnSFU1OHVBUEZzT3RybzZtQk1DZnMzd25HZ1JXR1h1Y21TY2xwVGxoUVlnUzZ6T2dtRzF5MHJURWcydjRJZDR1OVljUjV3SUJPRHU?oc=5",
+          "published_at": "2026-09-24T12:00:00+00:00",
+          "excerpt": "How to use Google Veo to create video ads for PMax and Demand Gen Search Engine Land",
+          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -4891,13 +4912,6 @@
           "fetched_at": "2026-09-15T17:09:32.622283+00:00"
         },
         {
-          "title": "How to dominate video-driven SERPs",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WRFMzaEVEZE4wSGVxaVVfWVAwUmdjYmJfUU9BZC00VlJlcFhic2h6eVBZSUV1dlFoVGgwSHBhdnIweDFLZmVwbTlST25pTXVoVDZ5UkRGank3RXpsZ3haek1WOFVTYzA3Nmt0V1pJTHk2QQ?oc=5",
-          "published_at": "2026-09-17T14:39:00+00:00",
-          "excerpt": "How to dominate video-driven SERPs Search Engine Land",
-          "fetched_at": "2026-09-21T10:05:35.520968+00:00"
-        },
-        {
           "title": "YouTube for SEO: Boost rankings with video content",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UTZ4ZkFYMWRNUzFtdm1QYlVhc0lTakFfY0hTbWREX1FxRkhheEtXTUc4MVlLWFBGSVdqM3pqWmxIQlJuX2JmVk5UeW52SmwwN2ZUMjdPXzVEZw?oc=5",
           "published_at": "2026-09-17T14:39:00+00:00",
@@ -4940,6 +4954,13 @@
           "fetched_at": "2026-09-17T17:10:09.774979+00:00"
         },
         {
+          "title": "How to dominate video-driven SERPs",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WRFMzaEVEZE4wSGVxaVVfWVAwUmdjYmJfUU9BZC00VlJlcFhic2h6eVBZSUV1dlFoVGgwSHBhdnIweDFLZmVwbTlST25pTXVoVDZ5UkRGank3RXpsZ3haek1WOFVTYzA3Nmt0V1pJTHk2QQ?oc=5",
+          "published_at": "2026-09-17T07:00:00+00:00",
+          "excerpt": "How to dominate video-driven SERPs Search Engine Land",
+          "fetched_at": "2026-09-21T10:05:35.520968+00:00"
+        },
+        {
           "title": "Deepseek AI usage stats for 2026",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xUjhuTkttU0s1TWM5T0dFcm9RdTkyM0EwRjVRZF9xVDFMa1I1X0kxVGt4dENmRGF4Snc0c0ZOZFNDbVZCMVFkS251dUJ5SU50dVNSNUs1azRpbnlVWXc?oc=5",
           "published_at": "2026-09-16T19:09:00+00:00",
@@ -4966,20 +4987,6 @@
           "published_at": "2026-09-16T15:19:00+00:00",
           "excerpt": "Keyword mapping: A step-by-step guide to better SEO + free template Search Engine Land",
           "fetched_at": "2026-09-20T09:22:04.386724+00:00"
-        },
-        {
-          "title": "OpenAI is turning ChatGPT ads into conversations",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVQZFp6V0ZFUHk2TmdLc21SWXY5b0U4V3R2WlpxdGQyRURQNWJ0azRsVVE5YWZGaDBHdTdlOW4tbi05SzJzTXZsWkRCbEVnYVRMRFdYWnNZV2pabjd1OGZrWjRyaE9PTTBiTEtTcUcxMlhiQUVlWWp4cWtQRC1zUmR4bGxwd0RUdmt0Mw?oc=5",
-          "published_at": "2026-09-16T15:01:00+00:00",
-          "excerpt": "OpenAI is turning ChatGPT ads into conversations Search Engine Land",
-          "fetched_at": "2026-09-16T17:09:57.160048+00:00"
-        },
-        {
-          "title": "3 GEO pillars: LLM readability, brand context, agentic commerce",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UUWVvMGVwcHZJOW01dWhGOGlPRUxqa3pXTHZSTmJmbGNZOWwzenlVZmlWUGJOOHNydUNHU3VkbW41N2luVHdsbGdXcHp2T3NVUHlTaGloWUxuZ0U?oc=5",
-          "published_at": "2026-09-16T15:00:00+00:00",
-          "excerpt": "3 GEO pillars: LLM readability, brand context, agentic commerce Search Engine Land",
-          "fetched_at": "2026-09-17T08:43:16.667184+00:00"
         },
         {
           "title": "Google expands agentic commerce tools ahead of the holiday shopping rush",
@@ -5017,11 +5024,25 @@
           "fetched_at": "2026-09-04T08:55:43.309082+00:00"
         },
         {
+          "title": "OpenAI is turning ChatGPT ads into conversations",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVQZFp6V0ZFUHk2TmdLc21SWXY5b0U4V3R2WlpxdGQyRURQNWJ0azRsVVE5YWZGaDBHdTdlOW4tbi05SzJzTXZsWkRCbEVnYVRMRFdYWnNZV2pabjd1OGZrWjRyaE9PTTBiTEtTcUcxMlhiQUVlWWp4cWtQRC1zUmR4bGxwd0RUdmt0Mw?oc=5",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "excerpt": "OpenAI is turning ChatGPT ads into conversations Search Engine Land",
+          "fetched_at": "2026-09-16T17:09:57.160048+00:00"
+        },
+        {
           "title": "Google Ads is showing advertisers how their spending compares with peers",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRW5RYlNuMnBCR3hSVXh2ajczM1NRdTlpRDRPc0VLZ09vQ0c1emFCY0dJVnlKRmRSaGRwaVhybGR1emFtd3pNOVpRUkZEY3RJLWRyRGE0bHNYMmJaMHl1ckVvbkxIMlVtbGJnVGhHWlBtTVV1X2VjQlJ2WnpzSkpvUVpLWFFKaWlLN2NGWXN2RU9YU1ZvVHBDc3I2Vko0QXFvc1A4SXRLcHRyaGN1?oc=5",
           "published_at": "2026-09-16T07:00:00+00:00",
           "excerpt": "Google Ads is showing advertisers how their spending compares with peers Search Engine Land",
           "fetched_at": "2026-09-16T17:09:57.160048+00:00"
+        },
+        {
+          "title": "3 GEO pillars: LLM readability, brand context, agentic commerce",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UUWVvMGVwcHZJOW01dWhGOGlPRUxqa3pXTHZSTmJmbGNZOWwzenlVZmlWUGJOOHNydUNHU3VkbW41N2luVHdsbGdXcHp2T3NVUHlTaGloWUxuZ0U?oc=5",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "excerpt": "3 GEO pillars: LLM readability, brand context, agentic commerce Search Engine Land",
+          "fetched_at": "2026-09-17T08:43:16.667184+00:00"
         },
         {
           "title": "Resource page link building",
@@ -8937,6 +8958,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "AI Agent Readiness Checker: Test your site with our free tool",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nWFRadnQ5MHRTUFFvUnNSUjRWTWZxLWhZWi1SRGRDN0lCQzd1ZEJWQ1ZEUlViZ1F1Q1QzV1VkZkVwckVZQTRfWlp0R1ZPdXJKaTNDYXkta05GUWNPRjZkN3hIVkVlVGlWQ2ZWV2hR?oc=5",
+          "published_at": "2026-06-26T17:08:47+00:00",
+          "excerpt": "AI Agent Readiness Checker: Test your site with our free tool Search Engine Land",
+          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
+        },
+        {
           "title": "Fill Rate",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdU5TeXdwVjhLWlJDOWM4cDhJSHlCa2UxQURqbnFuQjRZRy0tank1OS1uRE9YdzYwRk5CTkwtNFQ0QTBHeDVfenNwWUxYVE14X0pvMTFhTzYyalpONEhCNE1WVllSbGZVUG5QTERvdnRleVpoSmJVRmdiMGJYTF8ybW51RlppdXAyaXhvRVNuWUFMUFAzUXRzYmdGdGFGN01HSm8xcEJadkFUdi1sOVg4ZENpRUkzUjNMeWJkd09pUVF1YWs?oc=5",
           "published_at": "2026-06-13T09:04:09+00:00",
@@ -9098,6 +9126,13 @@
           "fetched_at": "2026-09-02T08:52:52.717674+00:00"
         },
         {
+          "title": "SMX Advanced San Diego 2027 speaker pitches are now open",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUFZIVFNxa2tSaXdHVnMyMGlOZUhHRFpsWEJ0aUt1MlZ1TjRuRG1JZHFUU3dqamZNb2V5a1p6MmQ0MVZsRTE2VVU3LW04NjI3bGI4dVV3VkxjVEkxYk4zWk4ya09obnpT?oc=5",
+          "published_at": "2022-10-29T01:16:36+00:00",
+          "excerpt": "SMX Advanced San Diego 2027 speaker pitches are now open Search Engine Land",
+          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
+        },
+        {
           "title": "Google algorithm updates: the latest news and guides",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2NzdG1FaXVsenVHOFBGd0NQcElMRUxCOUhBaDFvcFZMbUNuUWN6Z0lGNGZnUlpuczVuR3dSQ2x5akZJTnp3eVpPdHgxVF91RUpHX2p2Z25KMG1FeU9xbHRoNko3ank5MW5rRmRVaUtET2RpTUlrVFBDeFo1bjQtNjlSbk8?oc=5",
           "published_at": "2022-10-19T16:53:54+00:00",
@@ -9204,6 +9239,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "AI Agents Won’t Fix Bad Audience Data, They’ll Amplify It via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/ai-agents-wont-fix-bad-audience-data-theyll-amplify-it/589792/",
+          "published_at": "2026-09-25T14:30:43+00:00",
+          "excerpt": "AI models are everywhere. The data you feed them isn't. Mallory Gray of Skydeo explains why audience signals, not mention counts, decide who buys. The post AI Agents Won’t Fix Bad Audience Data, They’ll Amplify It appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-25T17:22:08.694064+00:00"
+        },
+        {
+          "title": "Google Has Deployed A New AI Spam Detector Called SAFE via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-has-deployed-a-new-ai-spam-detector-called-safe/590918/",
+          "published_at": "2026-09-25T12:47:46+00:00",
+          "excerpt": "Google's new system for catching AI content spam has already been deployed. This is why it may be a part of Google's Spam Update. The post Google Has Deployed A New AI Spam Detector Called SAFE appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-25T17:22:08.694064+00:00"
+        },
+        {
+          "title": "Google AI Overviews Have More Links, But Not All Reach The Web via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-ai-overviews-have-more-links-but-not-all-reach-the-web/590762/",
+          "published_at": "2026-09-25T12:00:57+00:00",
+          "excerpt": "Google's AI Overview links can lead to websites or AI Mode, and Search Console measures those interactions differently. The post Google AI Overviews Have More Links, But Not All Reach The Web appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-25T17:22:08.694064+00:00"
+        },
+        {
           "title": "LLMs Are Time Machines That Don’t Tell You How Far You Went via @sejournal, @DuaneForrester",
           "url": "https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/",
           "published_at": "2026-09-24T19:00:37+00:00",
@@ -9260,7 +9316,7 @@
           "fetched_at": "2026-09-24T17:23:13.635106+00:00"
         },
         {
-          "title": "YouTube Adds Shopping Features To Ask YouTube AI Search via @sejournal, @MattGSouthern",
+          "title": "YouTube Turns Ask YouTube AI Into A Product Discovery Surface via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/",
           "published_at": "2026-09-23T22:37:15+00:00",
           "excerpt": "YouTube is adding shopping features to Ask YouTube, which may organize product review videos into a comparison table and answer questions on watch pages. The post YouTube Adds Shopping Features To Ask YouTube AI Search appeared first on Search Engine Journal .",
@@ -9330,18 +9386,18 @@
           "fetched_at": "2026-09-22T17:05:30.278899+00:00"
         },
         {
-          "title": "3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist via @sejournal, @alexanderkesler",
-          "url": "https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/",
-          "published_at": "2026-09-22T12:00:42+00:00",
-          "excerpt": "Buying groups arrive with vendors already chosen. AEO cannot fix a shortlist formed months earlier. Three steps to build brand consideration before research begins. The post 3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist appeared first on Search Engine Jo…",
-          "fetched_at": "2026-09-22T17:05:30.278899+00:00"
-        },
-        {
-          "title": "Google Analytics Hostname Filters Can Now Allowlist Your Domains via @sejournal, @MattGSouthern",
+          "title": "Google Analytics Hostname Filters Can Now Allowlist Your Domains",
           "url": "https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/",
           "published_at": "2026-09-22T08:06:17+00:00",
           "excerpt": "Google Analytics supports Include data filters for hostnames, so a property can keep event data from approved domains instead of excluding spam one by one. The post Google Analytics Adds Include Filters For Hostnames appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-22T09:23:32.055585+00:00"
+        },
+        {
+          "title": "3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist",
+          "url": "https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/",
+          "published_at": "2026-09-22T00:00:00+00:00",
+          "excerpt": "Buying groups arrive with vendors already chosen. AEO cannot fix a shortlist formed months earlier. Three steps to build brand consideration before research begins. The post 3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist appeared first on Search Engine Jo…",
+          "fetched_at": "2026-09-22T17:05:30.278899+00:00"
         },
         {
           "title": "Job Boards Say Google Indexing API Requests Get No Response via @sejournal, @MattGSouthern",
@@ -11926,6 +11982,20 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "How to make the most of your 7-day Semrush free trial",
+          "url": "https://www.semrush.com/blog/free-7-day-semrush-one-trial/",
+          "published_at": "2026-09-25T13:26:00+00:00",
+          "excerpt": "Here are 6 ways to use Semrush during your free trial to improve your search + AI visibility.",
+          "fetched_at": "2026-09-25T17:22:13.321821+00:00"
+        },
+        {
+          "title": "B2B answer engine optimization: How to show up in AI",
+          "url": "https://www.semrush.com/blog/b2b-answer-engine-optimization/",
+          "published_at": "2026-09-25T09:06:00+00:00",
+          "excerpt": "B2B answer engine optimization improves your odds of appearing in the AI answers buying committees see.",
+          "fetched_at": "2026-09-25T17:22:13.321821+00:00"
+        },
+        {
           "title": "How to conduct an AI visibility audit with Semrush",
           "url": "https://www.semrush.com/blog/ai-visibility-audit-with-semrush-one/",
           "published_at": "2026-09-23T08:39:00+00:00",
@@ -11938,6 +12008,13 @@
           "published_at": "2026-09-22T10:22:00+00:00",
           "excerpt": "Google‘s AI contribution pilot pays invited publishers through Search Console. Citations and links in AI answers don‘t qualify for payment.",
           "fetched_at": "2026-09-22T17:05:38.128000+00:00"
+        },
+        {
+          "title": "Cecilia Meis",
+          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
+          "published_at": "2026-09-22T00:00:00+00:00",
+          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "AI citation outreach: a Semrush & Claude workflow",
@@ -11975,13 +12052,6 @@
           "fetched_at": "2026-09-18T16:35:04.869470+00:00"
         },
         {
-          "title": "Cecilia Meis",
-          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
-          "published_at": "2026-09-18T00:00:00+00:00",
-          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
           "url": "https://www.semrush.com/blog/my-editing-approaches-framework/",
           "published_at": "2026-09-17T13:34:00+00:00",
@@ -12015,13 +12085,6 @@
           "published_at": "2026-09-10T10:11:00+00:00",
           "excerpt": "Internal links help users, search engines, and AI crawlers understand your site. Here‘s how to fix issues holding you back.",
           "fetched_at": "2026-09-10T16:33:29.306730+00:00"
-        },
-        {
-          "title": "Alex Lindley",
-          "url": "https://www.semrush.com/blog/user/alex-lindley/",
-          "published_at": "2026-09-10T00:00:00+00:00",
-          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
@@ -12082,14 +12145,14 @@
         {
           "title": "How to prepare your site for AI agents",
           "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/",
-          "published_at": "2026-09-02T09:18:00+00:00",
+          "published_at": "2026-09-02T00:00:00+00:00",
           "excerpt": "AI agents browse, compare, and recommend on behalf of users. Learn how to make your site crawlable, readable, trustworthy, and easy to cite in AI-driven decision workflows.",
           "fetched_at": "2026-09-02T16:43:08.063580+00:00"
         },
         {
           "title": "Where does AI get its information? And how to get cited",
           "url": "https://www.semrush.com/blog/where-does-ai-get-its-information/",
-          "published_at": "2026-09-01T07:52:00+00:00",
+          "published_at": "2026-09-01T00:00:00+00:00",
           "excerpt": "AI gets information from channels like training data, live online information, and licensing partnerships.",
           "fetched_at": "2026-09-01T09:30:49.119222+00:00"
         },
@@ -12806,6 +12869,13 @@
           "published_at": "2026-05-21T00:00:00+00:00",
           "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
+        },
+        {
+          "title": "Alex Lindley",
+          "url": "https://www.semrush.com/blog/user/alex-lindley/",
+          "published_at": "2026-05-21T00:00:00+00:00",
+          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "What is PPC? A starter guide to pay-per-click advertising",
