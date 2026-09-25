@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T17:23:27.838203+00:00",
+  "last_updated": "2026-09-25T09:42:22.619388+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4310,11 +4310,25 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Conductor CEO Seth Besmertnik steps down after 20 years",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeG9BbjluQlJRN2tPeENJLV9WUWtrTk1yMHc1QnMtWkRfWjA4b0JHcmR3clVpRk4wYmM2MTM5S2FqTzFnWXJ0T3ptdTA1OTVUdHFOZ1dqM3VFekFPVUM3cndNS09BbXFnZ3pUT1NlcndWd3ZJbGotR0RUQ1lqQ2NBZWtB?oc=5",
+          "published_at": "2026-09-24T16:48:00+00:00",
+          "excerpt": "Conductor CEO Seth Besmertnik steps down after 20 years Search Engine Land",
+          "fetched_at": "2026-09-25T09:41:59.840113+00:00"
+        },
+        {
           "title": "Google releases September 2026 spam update",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQampqQW1mT1FYc1REYlo4alZYek5Ja2dvS1BXZlV1WW9GR25GZnUxT3FxLTJ3RnpDOHgwWXdrSG40SEFEYXVGdkJ5bU1kUVBxaV9DMDd1bTVuU0lVSVg4LUNzNTRqdlZYR2FiSUJ2QWFCczRMakRaam1QQXVOUVlMMjJGbzk?oc=5",
           "published_at": "2026-09-24T16:27:00+00:00",
           "excerpt": "Google releases September 2026 spam update Search Engine Land",
           "fetched_at": "2026-09-24T17:22:59.645625+00:00"
+        },
+        {
+          "title": "Generative engine optimization (GEO): How to win AI mentions",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
+          "published_at": "2026-09-24T16:02:00+00:00",
+          "excerpt": "Generative engine optimization (GEO): How to win AI mentions Search Engine Land",
+          "fetched_at": "2026-09-25T09:41:59.840113+00:00"
         },
         {
           "title": "15 lessons from 15+ years in search",
@@ -4508,7 +4522,7 @@
         {
           "title": "Crawl budget: What you need to know in 2027",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1paENnTEVMYWlTOW1laUppNmtxWkY2NE9ObGtfd3RIc1BFVGNjc25FOHU3ZkV4dDJucUlESE1zN2I2XzRyV1JQaThkV3pnemhqZDNhUXBDMWlvcUdEUFh0NExiMTdfWnNjaWZ1WlZ0WHpEYVdGS2lPcnFB?oc=5",
-          "published_at": "2026-09-22T13:00:00+00:00",
+          "published_at": "2026-09-22T13:06:51+00:00",
           "excerpt": "Crawl budget: What you need to know in 2027 Search Engine Land",
           "fetched_at": "2026-09-22T17:05:16.257811+00:00"
         },
@@ -4968,13 +4982,6 @@
           "fetched_at": "2026-09-17T08:43:16.667184+00:00"
         },
         {
-          "title": "Google Ads is showing advertisers how their spending compares with peers",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRW5RYlNuMnBCR3hSVXh2ajczM1NRdTlpRDRPc0VLZ09vQ0c1emFCY0dJVnlKRmRSaGRwaVhybGR1emFtd3pNOVpRUkZEY3RJLWRyRGE0bHNYMmJaMHl1ckVvbkxIMlVtbGJnVGhHWlBtTVV1X2VjQlJ2WnpzSkpvUVpLWFFKaWlLN2NGWXN2RU9YU1ZvVHBDc3I2Vko0QXFvc1A4SXRLcHRyaGN1?oc=5",
-          "published_at": "2026-09-16T14:50:00+00:00",
-          "excerpt": "Google Ads is showing advertisers how their spending compares with peers Search Engine Land",
-          "fetched_at": "2026-09-16T17:09:57.160048+00:00"
-        },
-        {
           "title": "Google expands agentic commerce tools ahead of the holiday shopping rush",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckxuT2Z1eENYTnZWQ1A2VGlhQ0k3RGRUYXBrOTJ2Rm5tdXlzdXh3b1NYS3BYU2ZOYmtiS1MyMnZpbTJyVW9yMDJVUzZOSGJVc1dqTW43al93b21sSWRyQ1dzWnZtWjI5cXV4bUJvUk9PcnV4alNVdlo5cXl1bzRGNW1PU2k3YUhBaDItWUJZLWNjdkdINWxzQnM3cTdDR09ieVRtQXJtcVVfWXdL?oc=5",
           "published_at": "2026-09-16T14:30:00+00:00",
@@ -5008,6 +5015,13 @@
           "published_at": "2026-09-16T07:00:00+00:00",
           "excerpt": "SMX Now: Find the entity gaps holding back your content strategy Search Engine Land",
           "fetched_at": "2026-09-04T08:55:43.309082+00:00"
+        },
+        {
+          "title": "Google Ads is showing advertisers how their spending compares with peers",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRW5RYlNuMnBCR3hSVXh2ajczM1NRdTlpRDRPc0VLZ09vQ0c1emFCY0dJVnlKRmRSaGRwaVhybGR1emFtd3pNOVpRUkZEY3RJLWRyRGE0bHNYMmJaMHl1ckVvbkxIMlVtbGJnVGhHWlBtTVV1X2VjQlJ2WnpzSkpvUVpLWFFKaWlLN2NGWXN2RU9YU1ZvVHBDc3I2Vko0QXFvc1A4SXRLcHRyaGN1?oc=5",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "excerpt": "Google Ads is showing advertisers how their spending compares with peers Search Engine Land",
+          "fetched_at": "2026-09-16T17:09:57.160048+00:00"
         },
         {
           "title": "Resource page link building",
@@ -8972,11 +8986,25 @@
           "fetched_at": "2026-08-30T10:00:45.743381+00:00"
         },
         {
+          "title": "Engagement Rate Calculator",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRjh2VHRRT0FNZVhzYUFfVGN2TzZGZmpaaUVNeHdWcGZvZV84aU5rNDNCa1V0cGJOODBxbFFoYXRoNFB4czZ5cTkwNW9JV2hmWlZwc1c0d183anRubEhVMjhVNjh5aFE1SlAzUVhxanVpWHFaeGpTMmVMcTFzZ0k1MGJjT0p2RHM?oc=5",
+          "published_at": "2025-08-07T21:38:58+00:00",
+          "excerpt": "Engagement Rate Calculator Search Engine Land",
+          "fetched_at": "2026-09-25T09:41:59.840113+00:00"
+        },
+        {
           "title": "Ad Pricing Guide",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZ1ozb3cxUUpsWFl5ZG5yeUtEZnNVM3N5cDJoN0g3cHFqNEVvUWI2bldqNzktN252c2dFbVBYLURZRmFPVVhUT3Rmd2k4WUJCUzhiT0VMb1dhWDdpR2c?oc=5",
           "published_at": "2025-08-07T21:38:51+00:00",
           "excerpt": "Ad Pricing Guide Search Engine Land",
           "fetched_at": "2026-08-21T14:19:41.274486+00:00"
+        },
+        {
+          "title": "Ad Calculators",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KWTc2S2lpaWJBNU1ibHNHbExST3pJbzFjLWZjVG9hdEdUMXBXeTIyenVDMDA0VTNMbWFGM3BkVUlGNFV5ZlNxOU9qd3NEdzFieldfSVIxYTMwZmVMSWlBRnh4TQ?oc=5",
+          "published_at": "2025-08-07T21:38:14+00:00",
+          "excerpt": "Ad Calculators Search Engine Land",
+          "fetched_at": "2026-09-25T09:41:59.840113+00:00"
         },
         {
           "title": "CPD Calculator (Cost Per Day)",
@@ -9176,6 +9204,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "LLMs Are Time Machines That Don’t Tell You How Far You Went via @sejournal, @DuaneForrester",
+          "url": "https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/",
+          "published_at": "2026-09-24T19:00:37+00:00",
+          "excerpt": "AI answers strip out the signals people once used to judge them. Here's why your content stack now misses in both directions. The post LLMs Are Time Machines That Don’t Tell You How Far You Went appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-25T09:42:13.341081+00:00"
+        },
+        {
           "title": "Google Rolls Out September 2026 Spam Update Globally via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-september-2026-spam-update/590828/",
           "published_at": "2026-09-24T16:45:40+00:00",
@@ -9265,6 +9300,13 @@
           "published_at": "2026-09-23T07:00:33+00:00",
           "excerpt": "Data shows ChatGPT ads becoming more common in retail conversations among US users on desktop. The post ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-23T09:24:34.048059+00:00"
+        },
+        {
+          "title": "The Link Building Graveyard: What to Bury & What Still Wins",
+          "url": "https://www.searchenginejournal.com/webinar-lp-the-link-building-graveyard-what-to-bury-what-still-wins/",
+          "published_at": "2026-09-22T21:11:59+00:00",
+          "excerpt": "Learn which link building tactics to retire and what still drives rankings and AI visibility. Join Michael Johnson of Resolve for this free October 21 webinar.",
+          "fetched_at": "2026-09-25T09:42:13.341081+00:00"
         },
         {
           "title": "Which Data Sources Should You Care About For AI Search? via @sejournal, @chrisgreenseo",
@@ -11905,6 +11947,13 @@
           "fetched_at": "2026-09-21T18:14:55.218622+00:00"
         },
         {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-09-21T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "What is agentic SEO? 8 workflows run on a live site",
           "url": "https://www.semrush.com/blog/agentic-seo/",
           "published_at": "2026-09-18T14:37:00+00:00",
@@ -11930,13 +11979,6 @@
           "url": "https://www.semrush.com/blog/user/cecilia-meis/",
           "published_at": "2026-09-18T00:00:00+00:00",
           "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-09-18T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
           "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
