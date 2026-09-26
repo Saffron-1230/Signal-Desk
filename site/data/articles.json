@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T17:22:18.441346+00:00",
+  "last_updated": "2026-09-26T09:26:47.204861+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4317,6 +4317,27 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Content gap analysis: The complete guide",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoY20tdy1QVU0tU096SW5VODdLazBIR1dNLXl3ZnM3WDQ3V3NqZWhFbGVJLUtCOTRjZmZsUk5wRXBOQ2l3SUJlY3BDd3BobDd6c3ZqVVBIY3ZQdw?oc=5",
+          "published_at": "2026-09-25T17:58:00+00:00",
+          "excerpt": "Content gap analysis: The complete guide Search Engine Land",
+          "fetched_at": "2026-09-26T09:26:26.421692+00:00"
+        },
+        {
+          "title": "Microsoft Ads API adds deeper search reporting and more PMax controls",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUhWeU9Yb2tTOE55eHNrWVRYc3BHWWFKZzNvQktVaW15Um9BRnBWamMwMnc4MGdMTVJrclhVY2tGNUxiRFhpeWFHMlg0eFpBNS1DcEcweEhXaUZpZkZKNEVROE04VEhEbkFGX3NSYmUtZkhqem0tVkN2d0h2clRscWJWcVdOZWs2TmFDQUEwVGEzb1BBdFBHdTl2R3JDMlpPd0tlN3pVOGY?oc=5",
+          "published_at": "2026-09-25T17:37:00+00:00",
+          "excerpt": "Microsoft Ads API adds deeper search reporting and more PMax controls Search Engine Land",
+          "fetched_at": "2026-09-26T09:26:26.421692+00:00"
+        },
+        {
+          "title": "Your AI content watermark isn’t what Google is looking for",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0N5SlB6VWVGY3dkcXFUTDF6cDVWbGxja2hhQW5oSkE0dXZMZTFuUmUxWXZkcEtJVkFDVUVubUlpSGZtVDltRkhnVFZVUmRoR2RqNUVfQ09IOFhxZ29YYUd0U09lNi1QY2ZqX2xUTFE4NTMyNzdGTjdVUzFSdkJVbTNKRGNsaGhMVTh4NWctSWJTS3Q2MmdqYw?oc=5",
+          "published_at": "2026-09-25T14:00:00+00:00",
+          "excerpt": "Your AI content watermark isn’t what Google is looking for Search Engine Land",
+          "fetched_at": "2026-09-26T09:26:26.421692+00:00"
+        },
+        {
           "title": "Conductor CEO Seth Besmertnik steps down after 20 years",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeG9BbjluQlJRN2tPeENJLV9WUWtrTk1yMHc1QnMtWkRfWjA4b0JHcmR3clVpRk4wYmM2MTM5S2FqTzFnWXJ0T3ptdTA1OTVUdHFOZ1dqM3VFekFPVUM3cndNS09BbXFnZ3pUT1NlcndWd3ZJbGotR0RUQ1lqQ2NBZWtB?oc=5",
           "published_at": "2026-09-24T16:48:00+00:00",
@@ -4590,13 +4611,6 @@
           "fetched_at": "2026-09-22T09:23:19.921346+00:00"
         },
         {
-          "title": "Title tags and SEO: Everything you need to know in 2027",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc2liVS0zYy00dFFqMVFlclZ5S2o2dGNXTGFvakZBcHJIWG1TZlBGWHVOMVhJclY3eW5qbFpjaC02V2hhbUhVazVCdTIyeVRsWGhKTmVtZ2lOZkxZRzhjLTI1RzY4TzllcjF0YW43Z044NTlFaDFsb1pyM015b0hnMlFkUGpVVEpRRnNV?oc=5",
-          "published_at": "2026-09-21T18:33:56+00:00",
-          "excerpt": "Title tags and SEO: Everything you need to know in 2027 Search Engine Land",
-          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
-        },
-        {
           "title": "YouTube cards: What are they, how to use them, and best practices",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hZUg4SFBQMzh2NkQxZkJMRndRRC02TnByWlZLbkFQcFRJTkppbV9lS2VYOFkyREY2QXpHUTEwcTdRbWxrSFFIOXR3ak5SWmJHT2dYaEdBRU1kV0pK?oc=5",
           "published_at": "2026-09-21T18:31:00+00:00",
@@ -4643,6 +4657,13 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONG02VTUtM0Q3akVvQ2l1VDQ5THdEVlUzVmxuc3ZZbzN2ejlqeTZLUjg3TFpraDRrajBhWnN6dy1CaTBXUmpsT0dLVXEtRWREXzFqek5WcE9fWU11ek42RGxnYXVhSGtmMmpUT1o5N1otZmxNZURMYkp2TFFXVVFUYkhGc2pSNzg?oc=5",
           "published_at": "2026-09-21T13:00:00+00:00",
           "excerpt": "Smarter ways to visualize search marketing data in 2027 Search Engine Land",
+          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
+        },
+        {
+          "title": "Title tags and SEO: Everything you need to know in 2027",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc2liVS0zYy00dFFqMVFlclZ5S2o2dGNXTGFvakZBcHJIWG1TZlBGWHVOMVhJclY3eW5qbFpjaC02V2hhbUhVazVCdTIyeVRsWGhKTmVtZ2lOZkxZRzhjLTI1RzY4TzllcjF0YW43Z044NTlFaDFsb1pyM015b0hnMlFkUGpVVEpRRnNV?oc=5",
+          "published_at": "2026-09-21T12:00:00+00:00",
+          "excerpt": "Title tags and SEO: Everything you need to know in 2027 Search Engine Land",
           "fetched_at": "2026-09-22T09:23:19.921346+00:00"
         },
         {
@@ -4849,24 +4870,10 @@
           "fetched_at": "2026-09-18T09:05:22.698345+00:00"
         },
         {
-          "title": "Google Ads tests Product Value Optimization for AI bidding",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYng1cXlESzU4NHlHNTlqN2J5T3p4akVLaWl2U21UcVhfVHc3VklPbURDNmstZHN6c0plM04xdXo1VWpLSFBETHdoVWg1LU8xQkJYYTFQb3FUa3R2dEs2S3ZlWmJQQTk4VEhjdlBDdGtaSjVDQlMxUHJpM1J1VGxSS2tCWkV2TFh2Y1hGSjRTbUVCOVg0emdzcUNn?oc=5",
-          "published_at": "2026-09-17T17:44:00+00:00",
-          "excerpt": "Google Ads tests Product Value Optimization for AI bidding Search Engine Land",
-          "fetched_at": "2026-09-18T09:05:22.698345+00:00"
-        },
-        {
           "title": "Five best HARO alternatives (Expert review)",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PbVM1aF9JS1cwSmhHcDU4NmFqMjNMX1c1NTJyMkl6MWl2VnpfZktHVmd3QUpLcUdNc01iU1F5X2NFTHQyeUk0eWpDNENMLXJjcTEyZGtna1NJQTFabHp3MF93?oc=5",
           "published_at": "2026-09-17T17:29:00+00:00",
           "excerpt": "Five best HARO alternatives (Expert review) Search Engine Land",
-          "fetched_at": "2026-09-18T09:05:22.698345+00:00"
-        },
-        {
-          "title": "Pinterest turns visual search into a new ad opportunity",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkgyMGZzNDE2YzhjSTRxejB1ZzlmaFFfX1RjRlhTRWJBZWtSbEgxZnVrclhrTGtuN01aWjlKRkpJOXpuRGMzZHdaS1hlT09pUEkwT0RsMnFFeGMtNEZkMXROZ2dITjBYcjJVbWl5SWNkSnBQOXp1akJEbVdHOFJHdThnNmdKbmFHbkFPOUNxclBrYk1CaWc?oc=5",
-          "published_at": "2026-09-17T17:14:00+00:00",
-          "excerpt": "Pinterest turns visual search into a new ad opportunity Search Engine Land",
           "fetched_at": "2026-09-18T09:05:22.698345+00:00"
         },
         {
@@ -4912,13 +4919,6 @@
           "fetched_at": "2026-09-15T17:09:32.622283+00:00"
         },
         {
-          "title": "YouTube for SEO: Boost rankings with video content",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UTZ4ZkFYMWRNUzFtdm1QYlVhc0lTakFfY0hTbWREX1FxRkhheEtXTUc4MVlLWFBGSVdqM3pqWmxIQlJuX2JmVk5UeW52SmwwN2ZUMjdPXzVEZw?oc=5",
-          "published_at": "2026-09-17T14:39:00+00:00",
-          "excerpt": "YouTube for SEO: Boost rankings with video content Search Engine Land",
-          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
-        },
-        {
           "title": "Video script template: Create engaging, high-retention videos",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45S1dPMHc5a1ljVHBvSVhFOEhRWmZoRUIxYjF0emQ0U1Biaks2Wmw3VFUzeVYtNnZfVTBzVG9Rc3k4ejJWZENCelREOFlGdFNudFpOY19iclEtNU9aRGFCdWNISGwyZzg?oc=5",
           "published_at": "2026-09-17T14:38:00+00:00",
@@ -4930,13 +4930,6 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVAwenZZTkpRQzE3dGZPbU1XV29CVXJmUFFkZzlkNk5HT05ILTVNMWxNbXh4bFVVVDl0bXNsYTcxVGQ3OXF1aFZjQjFCdndJRTBRRkdCU1VsVXRCd2M3QjJ4LVhLcFV1TzdkZjk5RmVuTUtLdDdQOElSbmx1U0FXSXVEaFVRdFhFSm43czBR?oc=5",
           "published_at": "2026-09-17T14:30:00+00:00",
           "excerpt": "Google faces six years of court oversight in ad tech antitrust case Search Engine Land",
-          "fetched_at": "2026-09-17T17:10:09.774979+00:00"
-        },
-        {
-          "title": "Ranking is only half the job: SEO for task completion",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03bU52M1NIWkpWVTRzVXBFUFZXU3lmcXNNSUEtZ21TbHR4RHlpZWRKV0Z0YVRFaFZneHNrTk1NLS1rZWE1UE1acW5zZl9pZUJhMFlfM1d2WUM3S3dTWTZIY3lUMV9ycGZqSS1nQ3NpdWotRmo2ZFZpcVpHSWw?oc=5",
-          "published_at": "2026-09-17T14:00:00+00:00",
-          "excerpt": "Ranking is only half the job: SEO for task completion Search Engine Land",
           "fetched_at": "2026-09-17T17:10:09.774979+00:00"
         },
         {
@@ -4954,11 +4947,39 @@
           "fetched_at": "2026-09-17T17:10:09.774979+00:00"
         },
         {
+          "title": "Ranking is only half the job: SEO for task completion",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03bU52M1NIWkpWVTRzVXBFUFZXU3lmcXNNSUEtZ21TbHR4RHlpZWRKV0Z0YVRFaFZneHNrTk1NLS1rZWE1UE1acW5zZl9pZUJhMFlfM1d2WUM3S3dTWTZIY3lUMV9ycGZqSS1nQ3NpdWotRmo2ZFZpcVpHSWw?oc=5",
+          "published_at": "2026-09-17T07:00:00+00:00",
+          "excerpt": "Ranking is only half the job: SEO for task completion Search Engine Land",
+          "fetched_at": "2026-09-17T17:10:09.774979+00:00"
+        },
+        {
+          "title": "Google Ads tests Product Value Optimization for AI bidding",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYng1cXlESzU4NHlHNTlqN2J5T3p4akVLaWl2U21UcVhfVHc3VklPbURDNmstZHN6c0plM04xdXo1VWpLSFBETHdoVWg1LU8xQkJYYTFQb3FUa3R2dEs2S3ZlWmJQQTk4VEhjdlBDdGtaSjVDQlMxUHJpM1J1VGxSS2tCWkV2TFh2Y1hGSjRTbUVCOVg0emdzcUNn?oc=5",
+          "published_at": "2026-09-17T07:00:00+00:00",
+          "excerpt": "Google Ads tests Product Value Optimization for AI bidding Search Engine Land",
+          "fetched_at": "2026-09-18T09:05:22.698345+00:00"
+        },
+        {
+          "title": "Pinterest turns visual search into a new ad opportunity",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkgyMGZzNDE2YzhjSTRxejB1ZzlmaFFfX1RjRlhTRWJBZWtSbEgxZnVrclhrTGtuN01aWjlKRkpJOXpuRGMzZHdaS1hlT09pUEkwT0RsMnFFeGMtNEZkMXROZ2dITjBYcjJVbWl5SWNkSnBQOXp1akJEbVdHOFJHdThnNmdKbmFHbkFPOUNxclBrYk1CaWc?oc=5",
+          "published_at": "2026-09-17T07:00:00+00:00",
+          "excerpt": "Pinterest turns visual search into a new ad opportunity Search Engine Land",
+          "fetched_at": "2026-09-18T09:05:22.698345+00:00"
+        },
+        {
           "title": "How to dominate video-driven SERPs",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WRFMzaEVEZE4wSGVxaVVfWVAwUmdjYmJfUU9BZC00VlJlcFhic2h6eVBZSUV1dlFoVGgwSHBhdnIweDFLZmVwbTlST25pTXVoVDZ5UkRGank3RXpsZ3haek1WOFVTYzA3Nmt0V1pJTHk2QQ?oc=5",
           "published_at": "2026-09-17T07:00:00+00:00",
           "excerpt": "How to dominate video-driven SERPs Search Engine Land",
           "fetched_at": "2026-09-21T10:05:35.520968+00:00"
+        },
+        {
+          "title": "YouTube for SEO: Boost rankings with video content",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UTZ4ZkFYMWRNUzFtdm1QYlVhc0lTakFfY0hTbWREX1FxRkhheEtXTUc4MVlLWFBGSVdqM3pqWmxIQlJuX2JmVk5UeW52SmwwN2ZUMjdPXzVEZw?oc=5",
+          "published_at": "2026-09-17T07:00:00+00:00",
+          "excerpt": "YouTube for SEO: Boost rankings with video content Search Engine Land",
+          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
         },
         {
           "title": "Deepseek AI usage stats for 2026",
@@ -5080,13 +5101,6 @@
           "fetched_at": "2026-09-16T09:23:46.754469+00:00"
         },
         {
-          "title": "Claude for SEO: 5 ways to automate repetitive work",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRzBlMlB6UkRZNXBlRDcwWllmd0tVNzZ6VDJaUzljZlNuUnVUSGJIcFJ6ZWJqdTlTVFN0QnotU0JaNW5PMUdQNmhZX2hzYmZ3OVQ5MFpXaGc5Z285WTd3UTBKZ3FzTC1OMTQ5enR1R3lDWDFPVGVOZFRMMzhBMWQ1SnZ4VW9pV2NMN3JiTUN3?oc=5",
-          "published_at": "2026-09-15T13:00:00+00:00",
-          "excerpt": "Claude for SEO: 5 ways to automate repetitive work Search Engine Land",
-          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
-        },
-        {
           "title": "Ana Kostic",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCWS1NQVpOVkVUZjBidHJaTTNSdExxT2c2ZEtxS3BXTGxTVFdtNFgtZVZabGJSY1FBNktFZ1BENWlhek0wd29YUUJBaHBhWFUwQXA4OUxmVG9BZDlDcnZlZGFkc2QxMjh0?oc=5",
           "published_at": "2026-09-15T12:00:00+00:00",
@@ -5113,6 +5127,13 @@
           "published_at": "2026-09-15T07:00:00+00:00",
           "excerpt": "The follow-up query: Rethinking SEO for conversational search Search Engine Land",
           "fetched_at": "2026-09-15T17:09:32.622283+00:00"
+        },
+        {
+          "title": "Claude for SEO: 5 ways to automate repetitive work",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRzBlMlB6UkRZNXBlRDcwWllmd0tVNzZ6VDJaUzljZlNuUnVUSGJIcFJ6ZWJqdTlTVFN0QnotU0JaNW5PMUdQNmhZX2hzYmZ3OVQ5MFpXaGc5Z285WTd3UTBKZ3FzTC1OMTQ5enR1R3lDWDFPVGVOZFRMMzhBMWQ1SnZ4VW9pV2NMN3JiTUN3?oc=5",
+          "published_at": "2026-09-15T07:00:00+00:00",
+          "excerpt": "Claude for SEO: 5 ways to automate repetitive work Search Engine Land",
+          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
         },
         {
           "title": "What happens before search strongly shapes the decision",
@@ -5584,13 +5605,6 @@
           "fetched_at": "2026-09-13T09:37:59.197732+00:00"
         },
         {
-          "title": "TikTok rejects Meta ads pushing rivals to join child safety settlement",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXpTel9ZWnFoS3JJTVE1cXhtVHVha2d4bTIwMGg0eVM0Tzh4NnRFNnhITU52TTlxYmVYeEV0OFU5Nmc1ZHZ4VFl6RUpCOG5NQy14bkFWVGxGTmZkaUFJaWlzLXdQWFIzcU5tVjFXOGgtRVhoajlHX25leFBmRjV3TVAwVnF1NTJoR1N4bnZfX2NqcWJRVFN5RkF0eFVaUkZ1YjQyekRQR3JvUQ?oc=5",
-          "published_at": "2026-09-11T17:23:00+00:00",
-          "excerpt": "TikTok rejects Meta ads pushing rivals to join child safety settlement searchengineland.com",
-          "fetched_at": "2026-09-12T08:42:50.316674+00:00"
-        },
-        {
           "title": "Most popular apps 2026: Global stats & rankings",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83LUM5N2tNOEVUYjMxVGU1U1dkZHdLRjUzSTVORjd6Yjk5MkxaNFpLSzJpVjRYQkV0N1hpRWlkeGN2M2R0UU1HZ1RCR1RIYWY0NFRJZG5mZ096alRnQmtZeGp3?oc=5",
           "published_at": "2026-09-11T15:40:00+00:00",
@@ -5644,6 +5658,13 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTlJuZWg5d0VjNEVnRUVTM2VCb2pUZEFtVXExekp2NzJLNHlfZ3J6RXVfTXZBZGZfOURvTzVmQTRHZ1VhLTk1d3MwdDk5eWd2MmJINDM3VC1CcUNGTjlxdlhHazZuQXpZd3dvS3ZQb2o3SzZSYmxPRGJiZTRKd2lGeEc3YllTWEFScmpqLWZaMDM2akFEQ0VWMDUwM2pSWU9EcHI3aA?oc=5",
           "published_at": "2026-09-11T07:00:00+00:00",
           "excerpt": "Advertisers report Google Ads credits being revoked after spending searchengineland.com",
+          "fetched_at": "2026-09-12T08:42:50.316674+00:00"
+        },
+        {
+          "title": "TikTok rejects Meta ads pushing rivals to join child safety settlement",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXpTel9ZWnFoS3JJTVE1cXhtVHVha2d4bTIwMGg0eVM0Tzh4NnRFNnhITU52TTlxYmVYeEV0OFU5Nmc1ZHZ4VFl6RUpCOG5NQy14bkFWVGxGTmZkaUFJaWlzLXdQWFIzcU5tVjFXOGgtRVhoajlHX25leFBmRjV3TVAwVnF1NTJoR1N4bnZfX2NqcWJRVFN5RkF0eFVaUkZ1YjQyekRQR3JvUQ?oc=5",
+          "published_at": "2026-09-11T07:00:00+00:00",
+          "excerpt": "TikTok rejects Meta ads pushing rivals to join child safety settlement searchengineland.com",
           "fetched_at": "2026-09-12T08:42:50.316674+00:00"
         },
         {
@@ -6165,11 +6186,11 @@
           "fetched_at": "2026-09-07T17:47:17.725919+00:00"
         },
         {
-          "title": "Gemini 3.8 Flash rolling out in Google Search - searchengineland.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYTU3RWtxaE8xWF93cjZDUWthT0R3TjA4cTVFUDZoT0Y0eXlneXc0SDhUNENaWUlQNUh3ODctbmNnZzRhaUYySkROYkJmZzZZcE9uVGVSRVRSQldPbzVrd3draE9SS0pCaWcxZUFlWU0zbjgxS0k1WjRJWVJYWDJxUlJzU2VUblVM?oc=5",
-          "published_at": "2026-09-02T15:56:00+00:00",
-          "excerpt": "Gemini 3.8 Flash rolling out in Google Search Search Engine Land",
-          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
+          "title": "9 best social media planning tools in 2026",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LUDh0OHFEdWc2cU1mbHhpdllMU3dnOXhuaVpuVEFJWC1RbGZ5aHJiel9lSkFBZ1I3ZVk5bVYyZkJZTlVBYTUyRUQ2LXN3Zl9idWI4N256aWRMa1RLUWs4WndzOTBrUkt3aHdYWkt2Yw?oc=5",
+          "published_at": "2026-09-03T07:00:00+00:00",
+          "excerpt": "9 best social media planning tools in 2026 Search Engine Land",
+          "fetched_at": "2026-09-26T09:26:26.421692+00:00"
         },
         {
           "title": "Google avoids AdX breakup in ad tech antitrust case",
@@ -6225,6 +6246,13 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTzJFeWpSM1hiY1YyUW1jTDQ0bjlNXzg0M2E2MFdSUkdWTHZldjFjQXZNY3FpT3l4S1JtWWJvU3ZBa3NHV3E3OEZqS3E0M0FRWFpPa3pCMlBjQmp5YVJvRlpjVlgwMC1NZGlleFdNY2lidk5BdFVReW9pR0s5aUI4eFhwbzluSE5D?oc=5",
           "published_at": "2026-09-02T07:00:00+00:00",
           "excerpt": "Creative targeting is quietly fragmenting your Meta audiences Search Engine Land",
+          "fetched_at": "2026-09-03T09:02:15.336548+00:00"
+        },
+        {
+          "title": "Gemini 3.8 Flash rolling out in Google Search",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYTU3RWtxaE8xWF93cjZDUWthT0R3TjA4cTVFUDZoT0Y0eXlneXc0SDhUNENaWUlQNUh3ODctbmNnZzRhaUYySkROYkJmZzZZcE9uVGVSRVRSQldPbzVrd3draE9SS0pCaWcxZUFlWU0zbjgxS0k1WjRJWVJYWDJxUlJzU2VUblVM?oc=5",
+          "published_at": "2026-09-02T07:00:00+00:00",
+          "excerpt": "Gemini 3.8 Flash rolling out in Google Search Search Engine Land",
           "fetched_at": "2026-09-03T09:02:15.336548+00:00"
         },
         {
@@ -9238,6 +9266,13 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/",
+          "published_at": "2026-09-25T19:00:09+00:00",
+          "excerpt": "Strip the visual layer and a machine can still use a website. Strip the structure, as markdown does, and it can only read about it. The post The Text-Only Version Of Your Website Strips Out The Wrong Layer appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-26T09:26:36.192079+00:00"
+        },
         {
           "title": "AI Agents Won’t Fix Bad Audience Data, They’ll Amplify It via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/ai-agents-wont-fix-bad-audience-data-theyll-amplify-it/589792/",
