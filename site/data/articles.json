@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T16:33:05.974870+00:00",
+  "last_updated": "2026-09-27T10:06:26.950934+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4331,6 +4331,27 @@
           "fetched_at": "2026-09-26T09:26:26.421692+00:00"
         },
         {
+          "title": "Google Ads API v25.2 adds competitive benchmarks and PMax upgrades",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1pBcXJFazhwVEVENERqTE15d2d6UVhCMXN2aTJfVUdwdF9xS05scm9Cc2I4bWlTXzV0VklVZWVPLWxGN2VuS2dibDdCb2hsMVhwamtKX2QzWldWTW43VjE3TU5YenhfeUUwaFNabDlybVAyRVgyVllNazZuR29TSHF6aHFOd3dhcUc3enJfa2FpSHNJVy1MLXdjNTNyWUdBdm5TLQ?oc=5",
+          "published_at": "2026-09-25T17:26:00+00:00",
+          "excerpt": "Google Ads API v25.2 adds competitive benchmarks and PMax upgrades Search Engine Land",
+          "fetched_at": "2026-09-27T10:06:01.740157+00:00"
+        },
+        {
+          "title": "Google tests bigger Local Services Ads",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kaGJBQzR6VGNaQnNMNXpYcU1CQ3pXaW1OWlFEeW9mX19FeFF1YjByYzZqRG5CcXFhaE43cHRWeTBiVGFBM0tBRmZzcjA3dnhqTm95Smw2a1NrcnE4aHdSTkNRUDRiUXlaaGdiMzJWZFA3YXJoZThtUUZXNEhGbk0?oc=5",
+          "published_at": "2026-09-25T17:18:00+00:00",
+          "excerpt": "Google tests bigger Local Services Ads Search Engine Land",
+          "fetched_at": "2026-09-27T10:06:01.740157+00:00"
+        },
+        {
+          "title": "Google Ads adds IP address and timestamp matching to Customer Match",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOERrNVhscGV0S3BrTGVRdG5aZWZXdkRGNzhzQVRRUFI4WmpIZ3hueU5OSS1RWmtrcER6aG5iTjBEek9rODdKa203WXpuRVF4aGhVQTFWM0VFdG9xT1cwb0t5Tmxxb1lQY1FSNXZXdUh6bk1MMXMzdkdpbnJEdUVYcUhHWEYtc3VTdUJNMHJMQ1hsX3VUamtjQk0wclBFMDE3M01KUzJn?oc=5",
+          "published_at": "2026-09-25T16:46:00+00:00",
+          "excerpt": "Google Ads adds IP address and timestamp matching to Customer Match Search Engine Land",
+          "fetched_at": "2026-09-27T10:06:01.740157+00:00"
+        },
+        {
           "title": "Your AI content watermark isn’t what Google is looking for",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0N5SlB6VWVGY3dkcXFUTDF6cDVWbGxja2hhQW5oSkE0dXZMZTFuUmUxWXZkcEtJVkFDVUVubUlpSGZtVDltRkhnVFZVUmRoR2RqNUVfQ09IOFhxZ29YYUd0U09lNi1QY2ZqX2xUTFE4NTMyNzdGTjdVUzFSdkJVbTNKRGNsaGhMVTh4NWctSWJTS3Q2MmdqYw?oc=5",
           "published_at": "2026-09-25T14:00:00+00:00",
@@ -4408,6 +4429,13 @@
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUJuLW02eXY2cUN1aTZQYWR6eEl0eGZiaEJjOHVhOEhEems0Y3BTUG5sWjhPbjRFci12a0R2QjQ1TUdjT0JieG95ZzNLRDNYS0JhRXhDLWk0b2NKZS1WSnl1aVhiZmRYd2JZS3BmbU1fdE9DNjB0U0tjSHlZdjF5c1c2VTh0MEVVTldLazlCMFJobWF4OE5UVjJNQ1laSXUyRjRVc0ZMRjVmMU9qc3dNV085V3NJOHVVZHMzQzVZQQ?oc=5",
+          "published_at": "2026-09-24T00:14:22+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
           "title": "BuzzStream review: Is this link building and outreach tool worth it?",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fTF9OXzdZeWdFcXJ6SmFIclh4SkV5LXU4c3RaQjhzdjBXRnFYaXNIUDJ3R2dDQ1cwLU5PU0ZpYlRWVUh6WTc0cFpvSF9idDlrV2xYSjdVTWlZTkpXZTBpZF9JQjQ?oc=5",
           "published_at": "2026-09-23T20:37:00+00:00",
@@ -4476,6 +4504,13 @@
           "published_at": "2026-09-23T11:00:00+00:00",
           "excerpt": "Retail media is evolving. Here is what marketers should value now Search Engine Land",
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFdMLTFfOVZmYXBBMGhOZDBoSFh4ZDJEZ1JaM0hCZEgzNVl1ZzhGX09kWlExcGpqVlB3cEJTTWcxbWxoYlJpNXFjeGNJRW1nY0szM3lrcGFQYkZxRW9GR2RZN2JHa205eGgzS0hGMmNkUzZQMFFUOTZ3MFdYcnIycjFKYTcwYUF0ZG1JUWRzQkZwa1ZBWDZndnp3MzlnTWV6RWlkbWNNNndSVFJfRExmQjU4aw?oc=5",
+          "published_at": "2026-09-23T07:40:28+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-09-27T10:06:01.740157+00:00"
         },
         {
           "title": "CrUX ad metrics added to the page experience SEO documentation",
@@ -4689,13 +4724,6 @@
         },
         {
           "title": "- Search Engine Land",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUJuLW02eXY2cUN1aTZQYWR6eEl0eGZiaEJjOHVhOEhEems0Y3BTUG5sWjhPbjRFci12a0R2QjQ1TUdjT0JieG95ZzNLRDNYS0JhRXhDLWk0b2NKZS1WSnl1aVhiZmRYd2JZS3BmbU1fdE9DNjB0U0tjSHlZdjF5c1c2VTh0MEVVTldLazlCMFJobWF4OE5UVjJNQ1laSXUyRjRVc0ZMRjVmMU9qc3dNV085V3NJOHVVZHMzQzVZQQ?oc=5",
-          "published_at": "2026-09-20T21:08:13+00:00",
-          "excerpt": "Search Engine Land",
-          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
-        },
-        {
-          "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM21OczQ0Sk44bHRxSDNRc2luRU5OczdlRkxWQzlXM2c3YkpHTkpCczRWSnRjbHVQaXVSa3ZpdVhMZk92ZFhURGN4OXhzVGhuX2t0eVo4LXlLV3phS2JRMzdXRnJxWWliUVJBMmRsM2FVZFZVeTU2Q01Mcm5qQnV3UGhfcw?oc=5",
           "published_at": "2026-09-20T16:36:03+00:00",
           "excerpt": "Search Engine Land",
@@ -4828,13 +4856,6 @@
           "fetched_at": "2026-09-19T15:58:12.354633+00:00"
         },
         {
-          "title": "Google Ads rolls out AI video dubbing in Asset Studio",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1FUUU85cDMxR2xuTmtCM2ZzRXhMTjlnS0MyVnFyeXhzN3N3RGFXX3k4ZWo0eUV1djNibFBSOC1zU0dMMDB2eUNnZ1BPaHdVZng1a3QxZXY1eXRhWGdha0UzZ09ianRsekdEMjRUTF9peTR1TnBBOVlxelJheUNQUE5UNlhfdjNnTFFyNXdFbmNBS2c?oc=5",
-          "published_at": "2026-09-18T14:43:00+00:00",
-          "excerpt": "Google Ads rolls out AI video dubbing in Asset Studio Search Engine Land",
-          "fetched_at": "2026-09-19T15:58:12.354633+00:00"
-        },
-        {
           "title": "3 PPC priorities to focus on in 2027",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZX2M2VVZhUWd2bW5DUkFSYUt6QTczTkFodFk3UGlsZEpya3pGWk12cUJiS3I1NFpNREFhZ0xsUUdwMlFtZWExMVNzOFdzVmZOdkpRT3VENEtocFB6Sml6ZUNWVEd5dVk?oc=5",
           "published_at": "2026-09-18T14:00:00+00:00",
@@ -4861,6 +4882,13 @@
           "published_at": "2026-09-18T11:48:00+00:00",
           "excerpt": "The latest jobs in search marketing Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Google Ads rolls out AI video dubbing in Asset Studio",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1FUUU85cDMxR2xuTmtCM2ZzRXhMTjlnS0MyVnFyeXhzN3N3RGFXX3k4ZWo0eUV1djNibFBSOC1zU0dMMDB2eUNnZ1BPaHdVZng1a3QxZXY1eXRhWGdha0UzZ09ianRsekdEMjRUTF9peTR1TnBBOVlxelJheUNQUE5UNlhfdjNnTFFyNXdFbmNBS2c?oc=5",
+          "published_at": "2026-09-18T07:00:00+00:00",
+          "excerpt": "Google Ads rolls out AI video dubbing in Asset Studio Search Engine Land",
+          "fetched_at": "2026-09-19T15:58:12.354633+00:00"
         },
         {
           "title": "Google Ads’ Smart Bidding update appears to have ended bid suppression",
@@ -5017,13 +5045,6 @@
           "fetched_at": "2026-09-20T09:22:04.386724+00:00"
         },
         {
-          "title": "Google expands agentic commerce tools ahead of the holiday shopping rush",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckxuT2Z1eENYTnZWQ1A2VGlhQ0k3RGRUYXBrOTJ2Rm5tdXlzdXh3b1NYS3BYU2ZOYmtiS1MyMnZpbTJyVW9yMDJVUzZOSGJVc1dqTW43al93b21sSWRyQ1dzWnZtWjI5cXV4bUJvUk9PcnV4alNVdlo5cXl1bzRGNW1PU2k3YUhBaDItWUJZLWNjdkdINWxzQnM3cTdDR09ieVRtQXJtcVVfWXdL?oc=5",
-          "published_at": "2026-09-16T14:30:00+00:00",
-          "excerpt": "Google expands agentic commerce tools ahead of the holiday shopping rush Search Engine Land",
-          "fetched_at": "2026-09-16T17:09:57.160048+00:00"
-        },
-        {
           "title": "Your competitors’ negative reviews could improve your PPC ads",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdnRNWVlEUVd4SU5jeVloLXpFM3p1eW9mZE51WkJKbjB1S2pfSDhnUW5jWEJjZWFLaUxYSExwc3YyeVNZZENWYVQ0cDNXRFFoVEticmRMUmlhTGNPNVc2a1hsQjNSZEpFN2tMaFVIRW84Z21UQTRXWm5UaW4zNmJhVHRJcnV6UQ?oc=5",
           "published_at": "2026-09-16T14:00:00+00:00",
@@ -5050,6 +5071,13 @@
           "published_at": "2026-09-16T07:00:00+00:00",
           "excerpt": "SMX Now: Find the entity gaps holding back your content strategy Search Engine Land",
           "fetched_at": "2026-09-04T08:55:43.309082+00:00"
+        },
+        {
+          "title": "Google expands agentic commerce tools ahead of the holiday shopping rush",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckxuT2Z1eENYTnZWQ1A2VGlhQ0k3RGRUYXBrOTJ2Rm5tdXlzdXh3b1NYS3BYU2ZOYmtiS1MyMnZpbTJyVW9yMDJVUzZOSGJVc1dqTW43al93b21sSWRyQ1dzWnZtWjI5cXV4bUJvUk9PcnV4alNVdlo5cXl1bzRGNW1PU2k3YUhBaDItWUJZLWNjdkdINWxzQnM3cTdDR09ieVRtQXJtcVVfWXdL?oc=5",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "excerpt": "Google expands agentic commerce tools ahead of the holiday shopping rush Search Engine Land",
+          "fetched_at": "2026-09-16T17:09:57.160048+00:00"
         },
         {
           "title": "OpenAI is turning ChatGPT ads into conversations",
@@ -9021,7 +9049,7 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "Welcome to the highest honor in search!",
+          "title": "Welcome to the highest honor in search! - awards.searchengineland.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QTG1Cd3NZUThwRjI5YjUwWnBnNEVZcmRDb0FObVl1OGhoSFdJWTduVGpmLWdaS2hHOEZ2Z2ljd1c3Rzcza1laRm9XNzFxX256VG53?oc=5",
           "published_at": "2026-04-07T05:26:39+00:00",
           "excerpt": "Welcome to the highest honor in search! Search Engine Land",
