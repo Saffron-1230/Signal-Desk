@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T11:05:36.464608+00:00",
-  "run_status": "success",
+  "last_updated": "2026-09-28T19:45:26.693350+00:00",
+  "run_status": "partial",
   "sources": {
     "ahrefs": {
       "name": "Ahrefs Blog",
@@ -9337,6 +9337,48 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/mit-harvard-data-show-how-seo-and-paid-media-managers-become-directors/590669/",
+          "published_at": "2026-09-28T19:00:01+00:00",
+          "excerpt": "SEO and paid media managers can strengthen their promotion case by proving AI's net gains and building a reskilling plan for their teams. The post MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
+        },
+        {
+          "title": "CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies via @sejournal, @CallRail",
+          "url": "https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/",
+          "published_at": "2026-09-28T15:46:48+00:00",
+          "excerpt": "CallRail's ChatGPT ads integration lets SMBs and agencies attribute calls, texts, and forms to campaigns, send conversion data to OpenAI, and compare performance across channels. The post CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies appeared first on Sea…",
+          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
+        },
+        {
+          "title": "The Generative AI Report Sucks – Let’s Make It Brilliant",
+          "url": "https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/",
+          "published_at": "2026-09-28T14:30:29+00:00",
+          "excerpt": "Google's Generative AI report shows visibility and nothing else. Layer commercial data and traffic dependency on top and you get real exposure. The post The Generative AI Report Sucks – Let’s Make It Brilliant appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
+        },
+        {
+          "title": "Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-plans-to-adopt-ucp-draft-spec-for-ai-mode-hotel-booking/591235/",
+          "published_at": "2026-09-28T13:44:16+00:00",
+          "excerpt": "UCP has published a draft hotel booking specification, Google says it will adopt the open standard for AI Mode hotel booking over the coming months. The post Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
+        },
+        {
+          "title": "AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study via @sejournal, @MPentzek",
+          "url": "https://www.searchenginejournal.com/humans-lost-4-of-6-content-types-in-our-localization-benchmark/589294/",
+          "published_at": "2026-09-28T12:00:01+00:00",
+          "excerpt": "Stop evaluating \"Chinese LLMs\" as a category. A 774-output localization benchmark shows why model choice beats post-editing, and what to test yourself. The post AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study appeared first on Search Engi…",
+          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
+        },
+        {
+          "title": "Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/automattic-matt-mullenweg-fail-to-dismiss-wp-engine-antitrust-claims/591210/",
+          "published_at": "2026-09-28T11:46:33+00:00",
+          "excerpt": "WP Engine is gratified by the judge's antitrust ruling, but Automattic also scores seven victories. The post Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
+        },
+        {
           "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/",
           "published_at": "2026-09-26T12:00:46+00:00",
@@ -9442,14 +9484,7 @@
           "fetched_at": "2026-09-24T09:24:24.830402+00:00"
         },
         {
-          "title": "Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now",
-          "url": "https://www.searchenginejournal.com/amazon-marketing-clouds-5-year-dataset-6-use-cases-worth-building-now/589137/",
-          "published_at": "2026-09-23T19:00:57+00:00",
-          "excerpt": "Use Amazon Marketing Cloud's extended purchase history to set acquisition budgets, identify valuable customers, and retarget shoppers beyond the old 13-month limit. The post Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now appeared first on Search Engine J…",
-          "fetched_at": "2026-09-24T09:24:24.830402+00:00"
-        },
-        {
-          "title": "AI Agents Will Game Your SEO Metrics, MIT & Stanford Research Points To The Risk via @sejournal, @gregjarboe",
+          "title": "AI Agents Will Game Your SEO Metrics, MIT & Stanford Research Points To The Risk",
           "url": "https://www.searchenginejournal.com/ai-agents-will-game-your-seo-metrics-mit-stanford-research-points-to-the-risk/589948/",
           "published_at": "2026-09-23T14:30:15+00:00",
           "excerpt": "AI agents find the cheapest route to any target you set. Research from MIT and Stanford shows why SEO teams need metrics agents can't fake. The post AI Agents Will Game Your SEO Metrics, MIT & Stanford Research Points To The Risk appeared first on Search Engine Journal .",
@@ -9463,11 +9498,18 @@
           "fetched_at": "2026-09-23T17:17:47.508552+00:00"
         },
         {
-          "title": "ChatGPT Ads Climbed In 3 Retail Categories, Led By Gaming: Comscore via @sejournal, @MattGSouthern",
+          "title": "ChatGPT Ads Climbed In 3 Retail Categories, Led By Gaming: Comscore",
           "url": "https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/",
-          "published_at": "2026-09-23T07:00:33+00:00",
+          "published_at": "2026-09-23T00:00:00+00:00",
           "excerpt": "Data shows ChatGPT ads becoming more common in retail conversations among US users on desktop. The post ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-23T09:24:34.048059+00:00"
+        },
+        {
+          "title": "Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now",
+          "url": "https://www.searchenginejournal.com/amazon-marketing-clouds-5-year-dataset-6-use-cases-worth-building-now/589137/",
+          "published_at": "2026-09-23T00:00:00+00:00",
+          "excerpt": "Use Amazon Marketing Cloud's extended purchase history to set acquisition budgets, identify valuable customers, and retarget shoppers beyond the old 13-month limit. The post Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now appeared first on Search Engine J…",
+          "fetched_at": "2026-09-24T09:24:24.830402+00:00"
         },
         {
           "title": "The Link Building Graveyard: What to Bury & What Still Wins",
@@ -12094,6 +12136,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "What is llms.txt & should you use it?",
+          "url": "https://www.semrush.com/blog/llms-txt/",
+          "published_at": "2026-09-28T16:15:00+00:00",
+          "excerpt": "An llms.txt file is designed to help large language models (LLMs) better understand the content on your site.",
+          "fetched_at": "2026-09-28T19:45:21.481963+00:00"
+        },
+        {
           "title": "10 SEO best practices for Google and AI search",
           "url": "https://www.semrush.com/blog/seo-best-practices/",
           "published_at": "2026-09-28T09:18:00+00:00",
@@ -12113,6 +12162,13 @@
           "published_at": "2026-09-25T09:06:00+00:00",
           "excerpt": "B2B answer engine optimization improves your odds of appearing in the AI answers buying committees see.",
           "fetched_at": "2026-09-25T17:22:13.321821+00:00"
+        },
+        {
+          "title": "Alex Lindley",
+          "url": "https://www.semrush.com/blog/user/alex-lindley/",
+          "published_at": "2026-09-25T00:00:00+00:00",
+          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "How to conduct an AI visibility audit with Semrush",
@@ -12250,7 +12306,7 @@
         {
           "title": "Long-tail keywords: the ultimate guide",
           "url": "https://www.semrush.com/blog/how-to-choose-long-tail-keywords/",
-          "published_at": "2026-09-03T10:48:00+00:00",
+          "published_at": "2026-09-03T00:00:00+00:00",
           "excerpt": "Use long-tail keywords to drive quality traffic to your site from search and AI. Here’s how.",
           "fetched_at": "2026-09-03T16:34:16.548789+00:00"
         },
@@ -12988,13 +13044,6 @@
           "published_at": "2026-05-21T00:00:00+00:00",
           "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
-        },
-        {
-          "title": "Alex Lindley",
-          "url": "https://www.semrush.com/blog/user/alex-lindley/",
-          "published_at": "2026-05-21T00:00:00+00:00",
-          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "What is PPC? A starter guide to pay-per-click advertising",
@@ -14062,7 +14111,7 @@
           "fetched_at": "2026-09-24T17:23:26.894258+00:00"
         },
         {
-          "title": "Reproducing OLMo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
+          "title": "Reproducing Olmo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
           "url": "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
           "published_at": "2026-09-24T00:00:00+00:00",
           "excerpt": "The MaxText team successfully reproduced AI2’s OLMo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training stages on all held-out evaluations. The implementation achieved…",
@@ -14409,6 +14458,34 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+          "published_at": "2026-09-28T19:00:00+00:00",
+          "excerpt": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "fetched_at": "2026-09-28T19:45:26.690288+00:00"
+        },
+        {
+          "title": "Google Arts & Culture turns 15 — and gives its app a makeover",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
+          "published_at": "2026-09-28T16:30:00+00:00",
+          "excerpt": "Celebrating 15 years of Google Arts & Culture with a new app experience YouTube video",
+          "fetched_at": "2026-09-28T19:45:26.690288+00:00"
+        },
+        {
+          "title": "3 ways this grocer cooks for 200 guests with Gemini",
+          "url": "https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/",
+          "published_at": "2026-09-28T15:00:00+00:00",
+          "excerpt": "How Edy’s Grocer Caters for 200 Guests YouTube video",
+          "fetched_at": "2026-09-28T19:45:26.690288+00:00"
+        },
+        {
+          "title": "Introducing Vertical Video Unification with Display & Video 360.",
+          "url": "https://blog.google/products/marketingplatform/360/vertical-video-unification/",
+          "published_at": "2026-09-28T13:00:00+00:00",
+          "excerpt": "Unify vertical video buys with Google Display & Video 360. See how Unilever boosted reach by 24% using Gemini-powered measurement. Get the details.",
+          "fetched_at": "2026-09-28T19:45:26.690288+00:00"
+        },
         {
           "title": "5 ways to upgrade your study habits with Chrome",
           "url": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
