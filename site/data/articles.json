@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T19:45:26.693350+00:00",
-  "run_status": "partial",
+  "last_updated": "2026-09-29T10:48:36.225221+00:00",
+  "run_status": "success",
   "sources": {
     "ahrefs": {
       "name": "Ahrefs Blog",
@@ -4317,6 +4317,62 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Microsoft opens Excluded Content Terms to all advertisers",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmEzc1lYWUtOQjAyZnRHOFVMN216YVplMWtHUlFnRGMyY25DY2VqcngxbmhsN2JjN1pJeEtzLTVfdnlFOVprR1BCY2h5ZnI1b1ltcGFkR2hpNlNFbU5SRWZsLTdXUlBBRDRTOFJlZG5mMzRyVDVDb1NkdTJoeGtOVnJzbXA1a1ktZ1ljZjNZdXhqbHRVeU9oMA?oc=5",
+          "published_at": "2026-09-28T17:45:00+00:00",
+          "excerpt": "Microsoft opens Excluded Content Terms to all advertisers Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "Google tests a new look for mobile ad sitelinks",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalpYZUs5VS1LTnAxV1NHa2VsX0RzamVwcmR1OFlFOEJHR2FaeHhldzdJNHFWN2ZIY3V3NjdGLU1kVzNSMHVYc25MSkROM2ZIVURwNWFJbjI2TWdITVcyT3BSYXp4Y3F6c2FpTXM5bVhIWjU5Y2RidmhQazFsYzVGaU1zUlk4UkhETzBr?oc=5",
+          "published_at": "2026-09-28T17:17:00+00:00",
+          "excerpt": "Google tests a new look for mobile ad sitelinks Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "24 key user-generated content (UGC) Statistics for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OYklVdnR6cUNJWTZtTnBzME9weW5SV0tfWGFoVVVFVy1fSUJNZXBUMkpEd2xHOHkzbURpVF90bnJqbTJvMFZzVGlTUS1JR1B5aTdjSkl1TWh5S3ZXRVE?oc=5",
+          "published_at": "2026-09-28T17:06:00+00:00",
+          "excerpt": "24 key user-generated content (UGC) Statistics for 2026 Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "YouTube hashtags: How to use them to get more views",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BZURjU3huTHM4MkpmZnVNS2hDcUpvc1RObWE3Y3lFbGk2TE9NbDFnRDZfc3ZZZ1ZDbEQtcFQwNDFuUHVUTTVmSVI2S2dYMkYwWmlWejlHY3ZLZzFrOHVjaQ?oc=5",
+          "published_at": "2026-09-28T16:03:00+00:00",
+          "excerpt": "YouTube hashtags: How to use them to get more views Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "PPC monitoring: What to check between audits",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jZ24yYzEzb1NveGs0M1VnU3I0LTZOV0NEdzJHb1NHU0hEMWVYUWo3VkRtNmt3OFEzMndCVVhkLVRBMTNZcThsMmZSOEQ4NnQ4R0pVYXpjVHAtcVhNMENJRXBqUDFyLXl5OG00aXB0azgxNklHM0o1eWJJaw?oc=5",
+          "published_at": "2026-09-28T15:00:00+00:00",
+          "excerpt": "PPC monitoring: What to check between audits Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "You can outsource marketing. You can’t outsource accountability.",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wWE5iTUtlODRwSFM2ZXlpeDhJekRMOE5oWHNtS1h2VzNncGJ1bGFzakRBQVhubFRmUVUyX3RuQmZCRDFFb1VvWkgyTGw3NmdRcmZLYXhXbmVYM18ya2hwY3M2V0tfZ21COC01dmNINmdROXV6dnlJTjJCZHFWczg?oc=5",
+          "published_at": "2026-09-28T14:00:00+00:00",
+          "excerpt": "You can outsource marketing. You can’t outsource accountability. Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "7 AI search myths, debunked: What the data says about SEO",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03ZE9EME10ZDM1WDZTQWJBLVQ0VFVudXpIdkdfb0RtOW9VQm51bXloVzJpRG9Xa1R5SldISk1FdGVBQzkzdkJfRUFUVDQ1MnBaRkdDcnpJRlFzeE9DZ2NHb0hVUlRzQTR3WV9pY2llYVhWQmk2MXM1eg?oc=5",
+          "published_at": "2026-09-28T13:00:00+00:00",
+          "excerpt": "7 AI search myths, debunked: What the data says about SEO Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "Fractional SEO leadership: The case for strategic ownership",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05YUZzRzEzeDd1b1Q5YVkyWnA0WkNvZHZuTzVKakdTSlk4bGFRdDdxc0ZoV1ZCMkYzTW1nMXc5NjFKRW80VU5OekwybjZOZUZZV2hOT2Q2SjlDelBtQVZjTDViZHFtcERiN0RvY013?oc=5",
+          "published_at": "2026-09-28T12:00:00+00:00",
+          "excerpt": "Fractional SEO leadership: The case for strategic ownership Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
           "title": "Content gap analysis: The complete guide",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoY20tdy1QVU0tU096SW5VODdLazBIR1dNLXl3ZnM3WDQ3V3NqZWhFbGVJLUtCOTRjZmZsUk5wRXBOQ2l3SUJlY3BDd3BobDd6c3ZqVVBIY3ZQdw?oc=5",
           "published_at": "2026-09-25T17:58:00+00:00",
@@ -4357,6 +4413,20 @@
           "published_at": "2026-09-25T16:31:00+00:00",
           "excerpt": "The latest jobs in search marketing Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "11 awesome ChatGPT alternatives to try + 17 runner ups",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yU05KSVNSS3hfYXhHWm5iNG5NMW1veHE1VlgwczRoMmg1aXFIZWpLUHlqcUhHdmdMdFdhNTdWNTdfUkNPMG51SXMtbnR1Q2dXRGR4R2s4NFFtMGFtUExHOUhpSUhpZw?oc=5",
+          "published_at": "2026-09-25T16:12:00+00:00",
+          "excerpt": "11 awesome ChatGPT alternatives to try + 17 runner ups Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "SMX Advanced San Diego 2027 speaker pitches are now open",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUFZIVFNxa2tSaXdHVnMyMGlOZUhHRFpsWEJ0aUt1MlZ1TjRuRG1JZHFUU3dqamZNb2V5a1p6MmQ0MVZsRTE2VVU3LW04NjI3bGI4dVV3VkxjVEkxYk4zWk4ya09obnpT?oc=5",
+          "published_at": "2026-09-25T15:17:00+00:00",
+          "excerpt": "SMX Advanced San Diego 2027 speaker pitches are now open Search Engine Land",
+          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
         },
         {
           "title": "10 ways Claude can derail your SEO if you don’t check its work",
@@ -4907,7 +4977,7 @@
         {
           "title": "Why your highest-converting B2B landing page might be hurting your pipeline",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWtET0d5S1ZrODFjazBSS21nc1pwbXM1RWJ4TzRTWmFfaUxWdlFyck53MVRaRVhqempnRlgydmNHOWViNk1DajdVOERSZXBLNFloc2JoWlNvRXNYZTlwMTRPMVVyZnVyOVFZdWRYR3NJU0JjUjFlRmlmSndSODFHSjdhdFBQSTZ5dEpFSWtDTlBRUQ?oc=5",
-          "published_at": "2026-09-18T12:00:00+00:00",
+          "published_at": "2026-09-18T07:00:00+00:00",
           "excerpt": "Why your highest-converting B2B landing page might be hurting your pipeline Search Engine Land",
           "fetched_at": "2026-09-18T16:34:46.783816+00:00"
         },
@@ -4975,13 +5045,6 @@
           "fetched_at": "2026-09-17T17:10:09.774979+00:00"
         },
         {
-          "title": "How to tell which Google Ads controls actually control anything",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tNkYzM25JNHozeEh1dk9nM3pPSVowS09yMVh5OUxIOWt3RGZXVjkzNGJJS3V1UkoyWnpTclRiMDlfdzY5dWFPc0lzTTRyQTd6N1dRYjA3YkJQQXpSX3gzVnpCRERkZw?oc=5",
-          "published_at": "2026-09-17T13:00:00+00:00",
-          "excerpt": "How to tell which Google Ads controls actually control anything Search Engine Land",
-          "fetched_at": "2026-09-17T17:10:09.774979+00:00"
-        },
-        {
           "title": "The SEO career playbook is dead. Good!",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOME9lUlVTN1RxN21LUTNvRy1JeTNJZEJuSERUZzAxMkNjSm1fRmJ5bVVsSVNEYml0LUpkN2lNdG42VUZ3VV9OdEtPdzNqQVN1aDkxZUdVUGY0ZHR6a0k0QVhXaWdEcmxfdTR3NQ?oc=5",
           "published_at": "2026-09-17T12:00:00+00:00",
@@ -4993,6 +5056,13 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03bU52M1NIWkpWVTRzVXBFUFZXU3lmcXNNSUEtZ21TbHR4RHlpZWRKV0Z0YVRFaFZneHNrTk1NLS1rZWE1UE1acW5zZl9pZUJhMFlfM1d2WUM3S3dTWTZIY3lUMV9ycGZqSS1nQ3NpdWotRmo2ZFZpcVpHSWw?oc=5",
           "published_at": "2026-09-17T07:00:00+00:00",
           "excerpt": "Ranking is only half the job: SEO for task completion Search Engine Land",
+          "fetched_at": "2026-09-17T17:10:09.774979+00:00"
+        },
+        {
+          "title": "How to tell which Google Ads controls actually control anything",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tNkYzM25JNHozeEh1dk9nM3pPSVowS09yMVh5OUxIOWt3RGZXVjkzNGJJS3V1UkoyWnpTclRiMDlfdzY5dWFPc0lzTTRyQTd6N1dRYjA3YkJQQXpSX3gzVnpCRERkZw?oc=5",
+          "published_at": "2026-09-17T07:00:00+00:00",
+          "excerpt": "How to tell which Google Ads controls actually control anything Search Engine Land",
           "fetched_at": "2026-09-17T17:10:09.774979+00:00"
         },
         {
@@ -9224,13 +9294,6 @@
           "fetched_at": "2026-09-02T08:52:52.717674+00:00"
         },
         {
-          "title": "SMX Advanced San Diego 2027 speaker pitches are now open",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUFZIVFNxa2tSaXdHVnMyMGlOZUhHRFpsWEJ0aUt1MlZ1TjRuRG1JZHFUU3dqamZNb2V5a1p6MmQ0MVZsRTE2VVU3LW04NjI3bGI4dVV3VkxjVEkxYk4zWk4ya09obnpT?oc=5",
-          "published_at": "2022-10-29T01:16:36+00:00",
-          "excerpt": "SMX Advanced San Diego 2027 speaker pitches are now open Search Engine Land",
-          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
-        },
-        {
           "title": "Google algorithm updates: the latest news and guides",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2NzdG1FaXVsenVHOFBGd0NQcElMRUxCOUhBaDFvcFZMbUNuUWN6Z0lGNGZnUlpuczVuR3dSQ2x5akZJTnp3eVpPdHgxVF91RUpHX2p2Z25KMG1FeU9xbHRoNko3ank5MW5rRmRVaUtET2RpTUlrVFBDeFo1bjQtNjlSbk8?oc=5",
           "published_at": "2022-10-19T16:53:54+00:00",
@@ -9336,6 +9399,34 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Google On What’s Next In AI Search + 5 Local Marketing Strategy Fixes via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/sej-webinar-recap-1ff80c9968b8/590978/",
+          "published_at": "2026-09-29T07:45:43+00:00",
+          "excerpt": "Google and Uberall explain how to improve local AI-search readiness through accurate Business Profiles, relevant content, review responses, and location-level measurement. The post Google On What’s Next In AI Search + 5 Local Marketing Strategy Fixes appeared first on Search Eng…",
+          "fetched_at": "2026-09-29T10:48:26.510941+00:00"
+        },
+        {
+          "title": "Google Rolls Out AI Mode Info Monitoring To All Users Globally via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-ai-mode-info-monitoring-global-rollout/591312/",
+          "published_at": "2026-09-29T01:11:42+00:00",
+          "excerpt": "Google is rolling out AI Mode’s information monitoring globally, with ongoing updates and suggested monitoring tasks in Search. The post Google Rolls Out AI Mode Info Monitoring To All Users Globally appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-29T10:48:26.510941+00:00"
+        },
+        {
+          "title": "Anthropic Publishes Prompting Guidance For Claude Opus 5.5 via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/anthropic-claude-opus-5-5-prompting-guidance/591278/",
+          "published_at": "2026-09-28T20:48:12+00:00",
+          "excerpt": "Anthropic's Claude Opus 5.5 prompting guide asks developers to retest effort settings and reconsider chat prompt lines telling Claude to think carefully. The post Anthropic Publishes Prompting Guidance For Claude Opus 5.5 appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-29T10:48:26.510941+00:00"
+        },
+        {
+          "title": "Court Filing Quotes OpenAI Engineer: Users “Won’t Click” Links via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/openai-engineer-users-wont-click-links-court-filing/591303/",
+          "published_at": "2026-09-28T20:23:46+00:00",
+          "excerpt": "A court brief quotes an OpenAI engineer saying users \"won't click\" links and cites Microsoft data on lower CTRs in Bing Chat than in search. The post Court Filing Quotes OpenAI Engineer: Users “Won’t Click” Links appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-29T10:48:26.510941+00:00"
+        },
         {
           "title": "MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/mit-harvard-data-show-how-seo-and-paid-media-managers-become-directors/590669/",
@@ -9449,17 +9540,10 @@
           "fetched_at": "2026-09-16T17:10:03.926557+00:00"
         },
         {
-          "title": "Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes via @sejournal, @TaylorDanRW",
+          "title": "Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes",
           "url": "https://www.searchenginejournal.com/search-console-uses-block-flattening-for-aios-forget-position-focus-on-outcomes/589582/",
           "published_at": "2026-09-24T12:00:06+00:00",
           "excerpt": "Block flattening can make weak AI Overview visibility look like a top ranking, so measure visits and conversions to assess search performance. The post Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-24T17:23:13.635106+00:00"
-        },
-        {
-          "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/",
-          "published_at": "2026-09-24T11:42:47+00:00",
-          "excerpt": "Google announced a new query fan-out framework that is described as ready for production-scale search. The post Google Announces New Query Fan-Out Framework: R4T-Diffusion appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-24T17:23:13.635106+00:00"
         },
         {
@@ -9470,11 +9554,11 @@
           "fetched_at": "2026-09-24T17:23:13.635106+00:00"
         },
         {
-          "title": "YouTube Turns Ask YouTube AI Into A Product Discovery Surface via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/",
-          "published_at": "2026-09-23T22:37:15+00:00",
-          "excerpt": "YouTube is adding shopping features to Ask YouTube, which may organize product review videos into a comparison table and answer questions on watch pages. The post YouTube Adds Shopping Features To Ask YouTube AI Search appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-24T09:24:24.830402+00:00"
+          "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion",
+          "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/",
+          "published_at": "2026-09-24T00:00:00+00:00",
+          "excerpt": "Google announced a new query fan-out framework that is described as ready for production-scale search. The post Google Announces New Query Fan-Out Framework: R4T-Diffusion appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-24T17:23:13.635106+00:00"
         },
         {
           "title": "ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together via @sejournal, @hethr_campbell",
@@ -9503,6 +9587,13 @@
           "published_at": "2026-09-23T00:00:00+00:00",
           "excerpt": "Data shows ChatGPT ads becoming more common in retail conversations among US users on desktop. The post ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-23T09:24:34.048059+00:00"
+        },
+        {
+          "title": "YouTube Turns Ask YouTube AI Into A Product Discovery Surface",
+          "url": "https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/",
+          "published_at": "2026-09-23T00:00:00+00:00",
+          "excerpt": "YouTube is adding shopping features to Ask YouTube, which may organize product review videos into a comparison table and answer questions on watch pages. The post YouTube Adds Shopping Features To Ask YouTube AI Search appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-24T09:24:24.830402+00:00"
         },
         {
           "title": "Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now",
@@ -12136,6 +12227,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Google releases September 2026 spam update",
+          "url": "https://www.semrush.com/blog/google-spam-update-september-2026/",
+          "published_at": "2026-09-29T08:26:00+00:00",
+          "excerpt": "Google’s September 2026 spam update may take up to two weeks to roll out, making ranking drops harder to diagnose.",
+          "fetched_at": "2026-09-29T10:48:31.395131+00:00"
+        },
+        {
           "title": "What is llms.txt & should you use it?",
           "url": "https://www.semrush.com/blog/llms-txt/",
           "published_at": "2026-09-28T16:15:00+00:00",
@@ -14471,6 +14569,13 @@
           "published_at": "2026-09-28T16:30:00+00:00",
           "excerpt": "Celebrating 15 years of Google Arts & Culture with a new app experience YouTube video",
           "fetched_at": "2026-09-28T19:45:26.690288+00:00"
+        },
+        {
+          "title": "See what 4 builders are making with Gemini 3.8 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
+          "published_at": "2026-09-28T16:00:00+00:00",
+          "excerpt": "A collage of four digital 3D visualization projects showing two views of globe satellite maps, a dinosaur skeleton model, and an exploded view of a mechanical transmission diagram with labeled components.",
+          "fetched_at": "2026-09-29T10:48:36.222098+00:00"
         },
         {
           "title": "3 ways this grocer cooks for 200 guests with Gemini",
