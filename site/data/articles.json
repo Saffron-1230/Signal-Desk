@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T10:36:28.617668+00:00",
+  "last_updated": "2026-09-30T18:02:47.839601+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,27 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "69% of Marketers Are Publishing More AI Content Than Last Year (New Research Report)",
+          "url": "https://ahrefs.com/blog/marketers-ai-content-creation/",
+          "published_at": "2026-09-30T15:56:21+00:00",
+          "excerpt": "301 respondents shared what they’re using AI for, how it affects their productivity, their favorite tools, and more. AI use in content creation is almost ubiquitous, with 93% of respondents saying they utilize it Claude is the most-used model for … Read more ›",
+          "fetched_at": "2026-09-30T18:02:23.566819+00:00"
+        },
+        {
+          "title": "AI Visibility Data Paralysis: How to Get Unstuck",
+          "url": "https://ahrefs.com/blog/ai-visibility-workflow/",
+          "published_at": "2026-09-30T15:42:56+00:00",
+          "excerpt": "Your brand might be missing from important conversations, losing recommendations to competitors, associated with the wrong topics, or described using outdated information. AI assistants may even struggle to access your content in the first place. Each of these problems needs … R…",
+          "fetched_at": "2026-09-30T18:02:23.566819+00:00"
+        },
+        {
+          "title": "Claude Code for SEO: 35 Use Cases",
+          "url": "https://ahrefs.com/blog/claude-code-for-seo/",
+          "published_at": "2026-09-30T15:35:57+00:00",
+          "excerpt": "35 practical ways to use Claude Code for SEO, from content briefs and Search Console analysis to internal linking and technical fixes, with real examples. Read more ›",
+          "fetched_at": "2026-09-30T18:02:23.566819+00:00"
+        },
         {
           "title": "How to Optimize for AI Search: A Guide for You and Your AI Agent",
           "url": "https://ahrefs.com/blog/how-to-optimize-for-ai-search/",
@@ -4317,6 +4338,20 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "What 9 million AI answers reveal about search visibility",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUUcxdmh3NzRPRkFQT0xnLXVGYTFnb3JvMUhkX2hleWh0TUlGOGNOdjloeFR6WDZSc3duUWNmeFJERk54dkNiWGNySW9GUkFJRnM4UUY5UEc1YXpfWFZXVXdjR0ZLOGJFMHNIMXhfNDN1dVJsdGpnVjdlOFBBNFk?oc=5",
+          "published_at": "2026-09-30T14:00:00+00:00",
+          "excerpt": "What 9 million AI answers reveal about search visibility Search Engine Land",
+          "fetched_at": "2026-09-30T18:02:24.881921+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNHVLLXMyZ05LcjR1QjBVVFVUS09KU2oyQW1ack5HZzZuNEctaXg3M000d0VHREhRZ0lYMk9Yek8zNGhhQk1NODBLc1RCMkN1Und6U0wzSmdqWjFnaGdBZm5aYVNIZ0VoUzJLX3FGbU9hVUlGYVo2MkxiM2VaakVRZ29rUWpzSDF1NXRaZzAzcTdKcV9XMm9TS0EybFhUUQ?oc=5",
+          "published_at": "2026-09-29T22:17:51+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-09-30T18:02:24.881921+00:00"
+        },
+        {
           "title": "Report: ChatGPT Ads are growing fast, but advertisers are still figuring them out",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOW1NSXlLanlMUzV0bjlQRVV5NTBER2xtMm9zWFJOdEhwdzJPOEU1ZE41NDhFNDFCNWlSTEJJTm0zZkxuUWtkTVBNRUJVdngyTmx2Vzl1VV9WR01yOTZUbjNSRjlISDJ4dTFxS29qeFp0TXBQV2VTZFpWNDhmTlpoYnFNM0FRTU9NLTFhMDJKX0dVUUlXTmp5eDlXbExCXzB2eGVoRTRnSWFOTWdyNUlhQkhvS0k?oc=5",
           "published_at": "2026-09-29T18:55:00+00:00",
@@ -4350,6 +4385,13 @@
           "published_at": "2026-09-29T14:00:00+00:00",
           "excerpt": "Is your Google Ads account ready for Q4? searchengineland.com",
           "fetched_at": "2026-09-29T18:09:32.043366+00:00"
+        },
+        {
+          "title": "Google appeals the European Commission’s DMA mandate to share search data",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTVdvWmJBbWlVcmlodzhhV2g0dmZYaVhXcm5wZ2xsS2pCZFNCdWpscWZrTVYxYTNfd0gtbDBmRmh1M0hIMDI2bVE1c1hUMFZ6Rl92LWF2MHZxUVcwUTFCcnZtekxIcEl6NDhJeFVTb2szQTlZRWpUNHFhTnYwZTlFeFNZMzByWG5QT3pzSVlkMW1BM2dfd2dic0NtajBhamEyUktPNDEtNVVZejlU?oc=5",
+          "published_at": "2026-09-29T13:43:00+00:00",
+          "excerpt": "Google appeals the European Commission’s DMA mandate to share search data Search Engine Land",
+          "fetched_at": "2026-09-30T18:02:24.881921+00:00"
         },
         {
           "title": "ChatGPT shortlists: How to benchmark visibility and find room to compete",
@@ -4702,13 +4744,6 @@
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
-          "title": "Google Ads reframes Smart Bidding learning around 50 conversions",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzI4c1JaekpvSUlJSjM0OGZxaXFBT05mYjlrMTFfWU9lNHZMZHh4QkxUSy01QU9NckxQWEtTNFh2WEc1aUp1OXlKSWRJSktjd2xqM1FtSFN3Y2YyMUFESUpLRDlqWmk0SHJGT01qaUxlZDZNZWVwNUtNbXhzWWRCX2d2Y1hYdGZFeXNnMW5xV0ZERnNURjhwbkJBR25RUVA1WFE?oc=5",
-          "published_at": "2026-09-22T17:02:00+00:00",
-          "excerpt": "Google Ads reframes Smart Bidding learning around 50 conversions Search Engine Land",
-          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
-        },
-        {
           "title": "Google Analytics adds hostname allowlists to fight spam traffic",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQnVwd1luQ2lpY0lsaDRmLTlWMVRSZmhoa0FCYm44dG9KMUpqTVBUdXNxXzVCeUs5RThVUzI1WnRZTGJOcUpwdkZkc3JuN1pFNTFvSDlYSnBWRzI0aFFFWHZSTWt2OWN6Yi1sT1hscFZKb2FER2ZJWTZ5TFNSd2c3TWJyM3U4YlZiX1hZWUl4dERFZE84RU1BdXhFZ3lHeUQ1?oc=5",
           "published_at": "2026-09-22T16:38:00+00:00",
@@ -4772,6 +4807,13 @@
           "fetched_at": "2026-09-22T17:05:16.257811+00:00"
         },
         {
+          "title": "Google Ads reframes Smart Bidding learning around 50 conversions",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzI4c1JaekpvSUlJSjM0OGZxaXFBT05mYjlrMTFfWU9lNHZMZHh4QkxUSy01QU9NckxQWEtTNFh2WEc1aUp1OXlKSWRJSktjd2xqM1FtSFN3Y2YyMUFESUpLRDlqWmk0SHJGT01qaUxlZDZNZWVwNUtNbXhzWWRCX2d2Y1hYdGZFeXNnMW5xV0ZERnNURjhwbkJBR25RUVA1WFE?oc=5",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "excerpt": "Google Ads reframes Smart Bidding learning around 50 conversions Search Engine Land",
+          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT1JwYnBBQmVqblp3UHB3azQ4My05UHhOLW5pQ0l3ck5CWnVjaEN5NG5qMG90WXdsdDBUd0tOV2I0MFZkRnEtbEQ4MHRzaTlURzQ0RGtfazloVEhzY1RTYy1XQWZXWnNRbGUyZEhrWVN5UExfUjl4MVYtMVdZLWdXMHA5SXp4ZjFESTR0N2t6OXVhakRIal9LMl9wLW4tVktuQ2hFUU8xSDdOdUE1X3BOeTJVYlp5SEpUQmNuejIteElTbmhG?oc=5",
           "published_at": "2026-09-22T00:40:45+00:00",
@@ -4818,13 +4860,6 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzBEQ0pIb3pVdlI0d0s3ZDZVUnd3aDg5amNyQ3ZudWRFQ2Y0NkVhbzBZcE0zbjl6QzV3Q0ZNcGZhb3NVbVpQclFCSW1RR1poSVh2U0U1QjRINGtNcnRXSlFzOTYzb2Mzd1hhbHUydzlIYW03WlRhTkVhOXM5Q3JyRDhTSW5VR1c2Ykc1WmN0ejVyb0p6Rk9uM1Fkaw?oc=5",
           "published_at": "2026-09-21T17:31:00+00:00",
           "excerpt": "From pre-Google SEO to AI: What Heather Lloyd-Martin says still matters Search Engine Land",
-          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
-        },
-        {
-          "title": "21 SEO tasks you should be automating (and how)",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxcTZGdlRNZncwNnBhUmVnZFJaR3NaZVBZMlR2NnNDMU40Um5BWlA3cjRucEptZDl4UVpQOW9BWUNsLTlweGhOUFM1X2NfMURKZEppYTZLU1BiaDluUzlyQnpXUEFlQQ?oc=5",
-          "published_at": "2026-09-21T17:30:00+00:00",
-          "excerpt": "21 SEO tasks you should be automating (and how) Search Engine Land",
           "fetched_at": "2026-09-22T09:23:19.921346+00:00"
         },
         {
@@ -4875,6 +4910,13 @@
           "published_at": "2026-09-21T07:00:00+00:00",
           "excerpt": "Chris Hanna Search Engine Land",
           "fetched_at": "2026-09-19T08:52:35.808000+00:00"
+        },
+        {
+          "title": "21 SEO tasks you should be automating (and how)",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxcTZGdlRNZncwNnBhUmVnZFJaR3NaZVBZMlR2NnNDMU40Um5BWlA3cjRucEptZDl4UVpQOW9BWUNsLTlweGhOUFM1X2NfMURKZEppYTZLU1BiaDluUzlyQnpXUEFlQQ?oc=5",
+          "published_at": "2026-09-21T07:00:00+00:00",
+          "excerpt": "21 SEO tasks you should be automating (and how) Search Engine Land",
+          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
         },
         {
           "title": "Google Ads lets offline uploads fill gaps in tag-based conversions",
@@ -9210,7 +9252,7 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "Welcome to the highest honor in search! - awards.searchengineland.com",
+          "title": "Welcome to the highest honor in search!",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QTG1Cd3NZUThwRjI5YjUwWnBnNEVZcmRDb0FObVl1OGhoSFdJWTduVGpmLWdaS2hHOEZ2Z2ljd1c3Rzcza1laRm9XNzFxX256VG53?oc=5",
           "published_at": "2026-04-07T05:26:39+00:00",
           "excerpt": "Welcome to the highest honor in search! Search Engine Land",
@@ -9463,6 +9505,41 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "OpenAI Dots Run Read-Only Research When Nobody Is Asking via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/",
+          "published_at": "2026-09-30T14:44:15+00:00",
+          "excerpt": "OpenAI's Dots can review connected apps and run scheduled checks between conversations, with read-only limits on proactive research. The post OpenAI Dots Run Read-Only Research When Nobody Is Asking appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-30T18:02:34.981285+00:00"
+        },
+        {
+          "title": "Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/",
+          "published_at": "2026-09-30T14:30:05+00:00",
+          "excerpt": "Your PR team's Wikipedia, podcast, and Reddit expertise can help you build the third-party signals that support AI visibility. The post Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-30T18:02:34.981285+00:00"
+        },
+        {
+          "title": "Google Analytics Adds App Conversions To Cross-Channel Reports via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/",
+          "published_at": "2026-09-30T14:23:27+00:00",
+          "excerpt": "Google Analytics now supports app conversions in its performance and attribution reports. The post Google Analytics Adds App Conversions To Cross-Channel Reports appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-30T18:02:34.981285+00:00"
+        },
+        {
+          "title": "The AI Search Metrics I Use To Track Client Pipelines",
+          "url": "https://www.searchenginejournal.com/the-ai-search-metrics-i-use-to-track-client-pipelines/589123/",
+          "published_at": "2026-09-30T12:00:13+00:00",
+          "excerpt": "See whether AI search reaches buyers and creates qualified opportunities with five measures covering brand presence, answer accuracy, and attribution. The post The AI Search Metrics I Use To Track Client Pipelines appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-30T18:02:34.981285+00:00"
+        },
+        {
+          "title": "OuterBox Launches OBxFrontier to Kill Busywork With Custom AI",
+          "url": "https://www.searchenginejournal.com/outerbox-launches-obxfrontier-to-kill-busywork-with-custom-ai-spn/591288/",
+          "published_at": "2026-09-30T11:00:00+00:00",
+          "excerpt": "OuterBox launches OBxFrontier, a custom AI development service that maps client workflow problems and builds AI agents around their existing systems. The post OuterBox Launches OBxFrontier to Kill Busywork With Custom AI appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-30T18:02:34.981285+00:00"
+        },
+        {
           "title": "How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar] via @sejournal, @lorenbaker",
           "url": "https://www.searchenginejournal.com/how-are-enterprise-seo-pros-measuring-ai-overviews-llms-webinar/590971/",
           "published_at": "2026-09-30T07:45:08+00:00",
@@ -9575,13 +9652,6 @@
           "fetched_at": "2026-09-28T19:45:15.190483+00:00"
         },
         {
-          "title": "The Generative AI Report Sucks – Let’s Make It Brilliant",
-          "url": "https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/",
-          "published_at": "2026-09-28T14:30:29+00:00",
-          "excerpt": "Google's Generative AI report shows visibility and nothing else. Layer commercial data and traffic dependency on top and you get real exposure. The post The Generative AI Report Sucks – Let’s Make It Brilliant appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
-        },
-        {
           "title": "Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-plans-to-adopt-ucp-draft-spec-for-ai-mode-hotel-booking/591235/",
           "published_at": "2026-09-28T13:44:16+00:00",
@@ -9589,17 +9659,24 @@
           "fetched_at": "2026-09-28T19:45:15.190483+00:00"
         },
         {
-          "title": "AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study via @sejournal, @MPentzek",
-          "url": "https://www.searchenginejournal.com/humans-lost-4-of-6-content-types-in-our-localization-benchmark/589294/",
-          "published_at": "2026-09-28T12:00:01+00:00",
-          "excerpt": "Stop evaluating \"Chinese LLMs\" as a category. A 774-output localization benchmark shows why model choice beats post-editing, and what to test yourself. The post AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study appeared first on Search Engi…",
-          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
-        },
-        {
-          "title": "Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims via @sejournal, @martinibuster",
+          "title": "Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims",
           "url": "https://www.searchenginejournal.com/automattic-matt-mullenweg-fail-to-dismiss-wp-engine-antitrust-claims/591210/",
           "published_at": "2026-09-28T11:46:33+00:00",
           "excerpt": "WP Engine is gratified by the judge's antitrust ruling, but Automattic also scores seven victories. The post Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
+        },
+        {
+          "title": "The Generative AI Report Sucks – Let’s Make It Brilliant",
+          "url": "https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/",
+          "published_at": "2026-09-28T00:00:00+00:00",
+          "excerpt": "Google's Generative AI report shows visibility and nothing else. Layer commercial data and traffic dependency on top and you get real exposure. The post The Generative AI Report Sucks – Let’s Make It Brilliant appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
+        },
+        {
+          "title": "AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study",
+          "url": "https://www.searchenginejournal.com/humans-lost-4-of-6-content-types-in-our-localization-benchmark/589294/",
+          "published_at": "2026-09-28T00:00:00+00:00",
+          "excerpt": "Stop evaluating \"Chinese LLMs\" as a category. A 774-output localization benchmark shows why model choice beats post-editing, and what to test yourself. The post AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study appeared first on Search Engi…",
           "fetched_at": "2026-09-28T19:45:15.190483+00:00"
         },
         {
@@ -14370,6 +14447,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Accelerating Spatio-Temporal Attention for Video Diffusion on TPUs",
+          "url": "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
+          "published_at": "2026-09-30T00:00:00+00:00",
+          "excerpt": "To address the quadratic latency bottleneck of self-attention in high-resolution video diffusion models, developers implemented Sparse VideoGen (SVG) to dynamically route attention heads to highly structured spatial or temporal sparse masks. Translating this algorithmic sparsity…",
+          "fetched_at": "2026-09-30T18:02:46.921464+00:00"
+        },
+        {
           "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
           "url": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
           "published_at": "2026-09-24T00:00:00+00:00",
@@ -14724,6 +14808,41 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Supporting AI readiness in higher education",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/",
+          "published_at": "2026-09-30T16:43:00+00:00",
+          "excerpt": "Graduation caps and icons in different colors",
+          "fetched_at": "2026-09-30T18:02:47.836765+00:00"
+        },
+        {
+          "title": "Let skills in Gemini tackle your most repetitive tasks",
+          "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
+          "published_at": "2026-09-30T16:00:00+00:00",
+          "excerpt": "Example skill for presentation prep",
+          "fetched_at": "2026-09-30T18:02:47.836765+00:00"
+        },
+        {
+          "title": "Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate",
+          "url": "https://blog.google/products-and-platforms/products/translate/international-translation-day-2026/",
+          "published_at": "2026-09-30T16:00:00+00:00",
+          "excerpt": "The illustration shows people around the world using Google Translate.",
+          "fetched_at": "2026-09-30T18:02:47.836765+00:00"
+        },
+        {
+          "title": "Waze rolls out new features to support Breast Cancer Awareness Month.",
+          "url": "https://blog.google/waze/breast-cancer-awareness-month/",
+          "published_at": "2026-09-30T16:00:00+00:00",
+          "excerpt": "This October, Waze will help drivers find screening clinics, assess their health risks, and schedule routine checkups.",
+          "fetched_at": "2026-09-30T18:02:47.836765+00:00"
+        },
+        {
+          "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/",
+          "published_at": "2026-09-30T15:00:00+00:00",
+          "excerpt": "Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
+          "fetched_at": "2026-09-30T18:02:47.836765+00:00"
+        },
         {
           "title": "Game on: Henry Cavill is putting Googlebook to the test",
           "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/",
