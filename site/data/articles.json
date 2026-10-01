@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T18:02:47.839601+00:00",
+  "last_updated": "2026-10-01T11:04:35.153521+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4338,11 +4338,25 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "The collapse of attribution",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iaktDRDFBTDBUNF9GQl9CTGtlRDBxOUFzMmxYbndLRG9wdUQ3dTRqV250S3pOcHM0d0VBaHEtTklSblNsSkdaNl9XX3BGQnVIWFJyNDNoUExUaHpPOFdLV0N5OWYxdmM?oc=5",
+          "published_at": "2026-09-30T15:00:00+00:00",
+          "excerpt": "The collapse of attribution Search Engine Land",
+          "fetched_at": "2026-10-01T11:04:10.504819+00:00"
+        },
+        {
           "title": "What 9 million AI answers reveal about search visibility",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUUcxdmh3NzRPRkFQT0xnLXVGYTFnb3JvMUhkX2hleWh0TUlGOGNOdjloeFR6WDZSc3duUWNmeFJERk54dkNiWGNySW9GUkFJRnM4UUY5UEc1YXpfWFZXVXdjR0ZLOGJFMHNIMXhfNDN1dVJsdGpnVjdlOFBBNFk?oc=5",
           "published_at": "2026-09-30T14:00:00+00:00",
           "excerpt": "What 9 million AI answers reveal about search visibility Search Engine Land",
           "fetched_at": "2026-09-30T18:02:24.881921+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0JTQ3h1YzY1M0JtemY3UVpPNXdPaHU3WWZ0blpuQU5HbFlLWVZORW5VZXBRWngxV3Rta09pOXFMdnhmMWVMNXU0OHVWUWZPMERaUXhCRkNYekpDdllCWW1zOHZjbHZEZ0x6YjNNcWNzOUE5QnhQaEUzZF92VUFxRWNBWQ?oc=5",
+          "published_at": "2026-09-30T08:33:25+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -4370,6 +4384,13 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56YVB0a1NJTl9qaGxfSzRuRDhtN3cya2QxNXFwblBidDdaWXBNTXVhWHNBU0Nsam9OQ0dfb1R5TjJFWkhyZXRySnZ2cmx5d0VzTXlr?oc=5",
           "published_at": "2026-09-29T15:53:00+00:00",
           "excerpt": "H1 tag best practices: Definition, strategy, and examples searchengineland.com",
+          "fetched_at": "2026-09-29T18:09:32.043366+00:00"
+        },
+        {
+          "title": "Your 2027 guide to SEO reporting and tracking",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TaHBRVXRETmt3d09CNEppQkFKdmh3SnVpVlFXZVhwTnRRcVJ3MnZiODFQdllXMmdUZkduTkVTQVJmaUJKZ1J5Z3JkTElEdnRGTzhvVE1uNm5DeWUyX2owTVViVEJReHJUeGdDNXVtNktyUQ?oc=5",
+          "published_at": "2026-09-29T15:00:00+00:00",
+          "excerpt": "Your 2027 guide to SEO reporting and tracking searchengineland.com",
           "fetched_at": "2026-09-29T18:09:32.043366+00:00"
         },
         {
@@ -4406,6 +4427,13 @@
           "published_at": "2026-09-29T12:35:00+00:00",
           "excerpt": "Google AI Mode monitoring capabilities now live for all searchengineland.com",
           "fetched_at": "2026-09-29T18:09:32.043366+00:00"
+        },
+        {
+          "title": "Why Performance Max isn’t a YouTube ad strategy for ecommerce",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHJEYnExTzlMbFNDUWw5dUs5dzdscVhCelMtU1V5ODJYRW9fUzVJaEVwSjM1eUpiQzZTRU9uMWRGQ2E3R2pFazZWZjdwWUtIMUhzRXZmOHRLam9sSExvMTBNMHU0d2g2ZjlLVkRSeEMzYnd0Y2RRSFlScVZWdFRaemt6RWlOTkIz?oc=5",
+          "published_at": "2026-09-29T12:00:00+00:00",
+          "excerpt": "Why Performance Max isn’t a YouTube ad strategy for ecommerce Search Engine Land",
+          "fetched_at": "2026-10-01T11:04:10.504819+00:00"
         },
         {
           "title": "Microsoft opens Excluded Content Terms to all advertisers",
@@ -4619,13 +4647,6 @@
         },
         {
           "title": "- Search Engine Land",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0JTQ3h1YzY1M0JtemY3UVpPNXdPaHU3WWZ0blpuQU5HbFlLWVZORW5VZXBRWngxV3Rta09pOXFMdnhmMWVMNXU0OHVWUWZPMERaUXhCRkNYekpDdllCWW1zOHZjbHZEZ0x6YjNNcWNzOUE5QnhQaEUzZF92VUFxRWNBWQ?oc=5",
-          "published_at": "2026-09-24T02:56:24+00:00",
-          "excerpt": "Search Engine Land",
-          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
-        },
-        {
-          "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUJuLW02eXY2cUN1aTZQYWR6eEl0eGZiaEJjOHVhOEhEems0Y3BTUG5sWjhPbjRFci12a0R2QjQ1TUdjT0JieG95ZzNLRDNYS0JhRXhDLWk0b2NKZS1WSnl1aVhiZmRYd2JZS3BmbU1fdE9DNjB0U0tjSHlZdjF5c1c2VTh0MEVVTldLazlCMFJobWF4OE5UVjJNQ1laSXUyRjRVc0ZMRjVmMU9qc3dNV085V3NJOHVVZHMzQzVZQQ?oc=5",
           "published_at": "2026-09-24T00:14:22+00:00",
           "excerpt": "Search Engine Land",
@@ -4737,13 +4758,6 @@
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
-          "title": "Google AI Overviews now appear in 39% of U.S. desktop searches",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GY3pIenNxY21IdGhRc1RNdDJydmZ0UXUzWjBJeVB0c2tkYl9FMjFOem5EeGdMZGV3TlVlMzl5Vk4zdUU2TGhUZEEtTHlfa2tOS0V4dXUzZzFCR3F4c25ONFVfUXJRSVR1V2xvRzNfZUdidkJvRUV5SXVqT0Rjdw?oc=5",
-          "published_at": "2026-09-22T17:13:00+00:00",
-          "excerpt": "Google AI Overviews now appear in 39% of U.S. desktop searches Search Engine Land",
-          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
-        },
-        {
           "title": "Google Analytics adds hostname allowlists to fight spam traffic",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQnVwd1luQ2lpY0lsaDRmLTlWMVRSZmhoa0FCYm44dG9KMUpqTVBUdXNxXzVCeUs5RThVUzI1WnRZTGJOcUpwdkZkc3JuN1pFNTFvSDlYSnBWRzI0aFFFWHZSTWt2OWN6Yi1sT1hscFZKb2FER2ZJWTZ5TFNSd2c3TWJyM3U4YlZiX1hZWUl4dERFZE84RU1BdXhFZ3lHeUQ1?oc=5",
           "published_at": "2026-09-22T16:38:00+00:00",
@@ -4805,6 +4819,13 @@
           "published_at": "2026-09-22T12:00:00+00:00",
           "excerpt": "Pagination and SEO: What you need to know in 2027 Search Engine Land",
           "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
+          "title": "Google AI Overviews now appear in 39% of U.S. desktop searches",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GY3pIenNxY21IdGhRc1RNdDJydmZ0UXUzWjBJeVB0c2tkYl9FMjFOem5EeGdMZGV3TlVlMzl5Vk4zdUU2TGhUZEEtTHlfa2tOS0V4dXUzZzFCR3F4c25ONFVfUXJRSVR1V2xvRzNfZUdidkJvRUV5SXVqT0Rjdw?oc=5",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "excerpt": "Google AI Overviews now appear in 39% of U.S. desktop searches Search Engine Land",
+          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
           "title": "Google Ads reframes Smart Bidding learning around 50 conversions",
@@ -5535,6 +5556,13 @@
           "fetched_at": "2026-09-15T09:30:48.528192+00:00"
         },
         {
+          "title": "Podcast statistics you need to know in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSYjRpMFNjYU5leXlyLUhQTTZ0ZU1QcVZjRmV2V2IycktSOElNQmdmc1ZVdm9VRFJ4bVBXVHNzQVVzTldKaDVPM3VaNjQzdURjSmxKcXJpRU5sMHBT?oc=5",
+          "published_at": "2026-09-14T07:00:00+00:00",
+          "excerpt": "Podcast statistics you need to know in 2026 Search Engine Land",
+          "fetched_at": "2026-09-15T09:30:48.528192+00:00"
+        },
+        {
           "title": "OpenAI confirms conversion-focused ads are coming to ChatGPT - Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV3ViZm1ER0lLc3QxM2VDc1B1U0Y1c0lkc3Vkby0teDRzZkR1Rl92b3Z4OTB0b0VGTmtYT0VLbC0wYnZtdGJGUjR5MWJ2LTc4RmcxOENDWHdPQkZpZXlXQ29id2tlRXpSOUtKWjFQWktVRTRhdDR1ZFRhTjE2Q3JiZkc2ZU9rM0dIS0dMZU5xZUw4bkJ4dExldW51WlRYOGV6em55LWoxa2ZUSlhwc2dsRl9LazZWNkxZ?oc=5",
           "published_at": "2026-09-13T21:12:45+00:00",
@@ -5854,13 +5882,6 @@
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83LUM5N2tNOEVUYjMxVGU1U1dkZHdLRjUzSTVORjd6Yjk5MkxaNFpLSzJpVjRYQkV0N1hpRWlkeGN2M2R0UU1HZ1RCR1RIYWY0NFRJZG5mZ096alRnQmtZeGp3?oc=5",
           "published_at": "2026-09-11T15:40:00+00:00",
           "excerpt": "Most popular apps 2026: Global stats & rankings Search Engine Land",
-          "fetched_at": "2026-09-15T09:30:48.528192+00:00"
-        },
-        {
-          "title": "Podcast statistics you need to know in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSYjRpMFNjYU5leXlyLUhQTTZ0ZU1QcVZjRmV2V2IycktSOElNQmdmc1ZVdm9VRFJ4bVBXVHNzQVVzTldKaDVPM3VaNjQzdURjSmxKcXJpRU5sMHBT?oc=5",
-          "published_at": "2026-09-11T15:30:00+00:00",
-          "excerpt": "Podcast statistics you need to know in 2026 Search Engine Land",
           "fetched_at": "2026-09-15T09:30:48.528192+00:00"
         },
         {
@@ -9392,13 +9413,6 @@
           "fetched_at": "2026-09-02T08:52:52.717674+00:00"
         },
         {
-          "title": "Your 2027 guide to SEO reporting and tracking",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TaHBRVXRETmt3d09CNEppQkFKdmh3SnVpVlFXZVhwTnRRcVJ3MnZiODFQdllXMmdUZkduTkVTQVJmaUJKZ1J5Z3JkTElEdnRGTzhvVE1uNm5DeWUyX2owTVViVEJReHJUeGdDNXVtNktyUQ?oc=5",
-          "published_at": "2022-12-15T11:00:58+00:00",
-          "excerpt": "Your 2027 guide to SEO reporting and tracking searchengineland.com",
-          "fetched_at": "2026-09-29T18:09:32.043366+00:00"
-        },
-        {
           "title": "Google algorithm updates: the latest news and guides",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2NzdG1FaXVsenVHOFBGd0NQcElMRUxCOUhBaDFvcFZMbUNuUWN6Z0lGNGZnUlpuczVuR3dSQ2x5akZJTnp3eVpPdHgxVF91RUpHX2p2Z25KMG1FeU9xbHRoNko3ank5MW5rRmRVaUtET2RpTUlrVFBDeFo1bjQtNjlSbk8?oc=5",
           "published_at": "2022-10-19T16:53:54+00:00",
@@ -9469,6 +9483,13 @@
           "fetched_at": "2026-08-29T16:48:46.086144+00:00"
         },
         {
+          "title": "Working with Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PbU1idUhOVHZkeW1ZYTVIMHNXajhIbnhyLWRJT0hBNWprcWVCX2Nva3dZNW96NlhGX0pCRURtUnV4TzNvUW5VVWVPS0M?oc=5",
+          "published_at": "2010-11-03T09:58:50+00:00",
+          "excerpt": "Working with Search Engine Land Search Engine Land",
+          "fetched_at": "2026-10-01T11:04:10.504819+00:00"
+        },
+        {
           "title": "About Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tbW5hbzJqWGtXdTFpdHBkWW10QlRNcXFzWF8zS1VXVGRuTDQ3MDBvUndNUHlsWUw1QjNIZWVfRHVhb2Jsc1pDbTJn?oc=5",
           "published_at": "2010-11-03T09:56:20+00:00",
@@ -9504,6 +9525,41 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Where to Find the Exact Phrases That Get Your Content Cited in AI Search via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/where-to-find-the-exact-phrases-that-get-your-content-cited-in-ai-search/591562/",
+          "published_at": "2026-10-01T10:15:00+00:00",
+          "excerpt": "Join CTM on October 13 to learn how first-party customer data can earn AI citations, improve FAQ content, and reveal which clicks become leads. The post Where to Find the Exact Phrases That Get Your Content Cited in AI Search appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-01T11:04:19.272306+00:00"
+        },
+        {
+          "title": "Cloudflare Moves Monetization Gateway & Pay Per Use Into Beta via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/cloudflare-moves-monetization-gateway-pay-per-use-into-beta/591719/",
+          "published_at": "2026-10-01T08:30:55+00:00",
+          "excerpt": "Cloudflare's Monetization Gateway charges AI agents per request in a closed beta, and Pay Per Use pays publishers for the AI uses that buyers report. The post Cloudflare Moves Monetization Gateway & Pay Per Use Into Beta appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-01T11:04:19.272306+00:00"
+        },
+        {
+          "title": "Google AI Pilot Pays Some Sites Under 0.1% Of Ad Revenue via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-ai-pilot-pays-some-sites-under-0-1-of-ad-revenue/591717/",
+          "published_at": "2026-10-01T07:00:15+00:00",
+          "excerpt": "A new report says Google's AI contribution pilot pays publishers widely different amounts, and some participants still can't tell how payouts are calculated. The post Google AI Pilot Pays Some Sites Under 0.1% Of Ad Revenue appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-01T11:04:19.272306+00:00"
+        },
+        {
+          "title": "LiveRamp Expands OpenAI Deal With First-Party Data Targeting via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/liveramp-expands-openai-partnership-chatgpt-ads/591510/",
+          "published_at": "2026-10-01T03:05:53+00:00",
+          "excerpt": "LiveRamp expands its OpenAI partnership, bringing RampID first-party audiences to ChatGPT Ads as advertisers gain more targeting and bidding options. The post LiveRamp Expands OpenAI Deal With First-Party Data Targeting appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-01T11:04:19.272306+00:00"
+        },
+        {
+          "title": "Using Local (AI) Compute To Reduce Reliance On Frontier Models via @sejournal, @chrisgreenseo",
+          "url": "https://www.searchenginejournal.com/using-local-ai-compute-to-reduce-reliance-on-frontier-models/591047/",
+          "published_at": "2026-09-30T19:00:04+00:00",
+          "excerpt": "How much SEO work can you move off the cloud and onto the user's machine? A Chrome extension experiment with Gemini Nano has answers. The post Using Local (AI) Compute To Reduce Reliance On Frontier Models appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-01T11:04:19.272306+00:00"
+        },
         {
           "title": "OpenAI Dots Run Read-Only Research When Nobody Is Asking via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/",
@@ -9617,39 +9673,11 @@
           "fetched_at": "2026-09-30T10:36:17.132914+00:00"
         },
         {
-          "title": "Google Rolls Out AI Mode Info Monitoring To All Users Globally via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/google-ai-mode-info-monitoring-global-rollout/591312/",
-          "published_at": "2026-09-29T01:11:42+00:00",
-          "excerpt": "Google is rolling out AI Mode’s information monitoring globally, with ongoing updates and suggested monitoring tasks in Search. The post Google Rolls Out AI Mode Info Monitoring To All Users Globally appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-29T10:48:26.510941+00:00"
-        },
-        {
-          "title": "Anthropic Publishes Prompting Guidance For Claude Opus 5.5 via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/anthropic-claude-opus-5-5-prompting-guidance/591278/",
-          "published_at": "2026-09-28T20:48:12+00:00",
-          "excerpt": "Anthropic's Claude Opus 5.5 prompting guide asks developers to retest effort settings and reconsider chat prompt lines telling Claude to think carefully. The post Anthropic Publishes Prompting Guidance For Claude Opus 5.5 appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-29T10:48:26.510941+00:00"
-        },
-        {
           "title": "Court Filing Quotes OpenAI Engineer: Users “Won’t Click” Links via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/openai-engineer-users-wont-click-links-court-filing/591303/",
           "published_at": "2026-09-28T20:23:46+00:00",
           "excerpt": "A court brief quotes an OpenAI engineer saying users \"won't click\" links and cites Microsoft data on lower CTRs in Bing Chat than in search. The post Court Filing Quotes OpenAI Engineer: Users “Won’t Click” Links appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-29T10:48:26.510941+00:00"
-        },
-        {
-          "title": "MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors via @sejournal, @gregjarboe",
-          "url": "https://www.searchenginejournal.com/mit-harvard-data-show-how-seo-and-paid-media-managers-become-directors/590669/",
-          "published_at": "2026-09-28T19:00:01+00:00",
-          "excerpt": "SEO and paid media managers can strengthen their promotion case by proving AI's net gains and building a reskilling plan for their teams. The post MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
-        },
-        {
-          "title": "CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies via @sejournal, @CallRail",
-          "url": "https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/",
-          "published_at": "2026-09-28T15:46:48+00:00",
-          "excerpt": "CallRail's ChatGPT ads integration lets SMBs and agencies attribute calls, texts, and forms to campaigns, send conversion data to OpenAI, and compare performance across channels. The post CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies appeared first on Sea…",
-          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
         },
         {
           "title": "Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking via @sejournal, @MattGSouthern",
@@ -9666,6 +9694,20 @@
           "fetched_at": "2026-09-28T19:45:15.190483+00:00"
         },
         {
+          "title": "MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors",
+          "url": "https://www.searchenginejournal.com/mit-harvard-data-show-how-seo-and-paid-media-managers-become-directors/590669/",
+          "published_at": "2026-09-28T00:00:00+00:00",
+          "excerpt": "SEO and paid media managers can strengthen their promotion case by proving AI's net gains and building a reskilling plan for their teams. The post MIT & Harvard Data Show How SEO And Paid Media Managers Become Directors appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
+        },
+        {
+          "title": "CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies",
+          "url": "https://www.searchenginejournal.com/callrail-makes-chatgpt-ads-measurable-for-smbs-and-marketing-agencies-spn/589843/",
+          "published_at": "2026-09-28T00:00:00+00:00",
+          "excerpt": "CallRail's ChatGPT ads integration lets SMBs and agencies attribute calls, texts, and forms to campaigns, send conversion data to OpenAI, and compare performance across channels. The post CallRail Makes ChatGPT Ads Measurable For SMBs And Marketing Agencies appeared first on Sea…",
+          "fetched_at": "2026-09-28T19:45:15.190483+00:00"
+        },
+        {
           "title": "The Generative AI Report Sucks – Let’s Make It Brilliant",
           "url": "https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/",
           "published_at": "2026-09-28T00:00:00+00:00",
@@ -9678,6 +9720,20 @@
           "published_at": "2026-09-28T00:00:00+00:00",
           "excerpt": "Stop evaluating \"Chinese LLMs\" as a category. A 774-output localization benchmark shows why model choice beats post-editing, and what to test yourself. The post AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study appeared first on Search Engi…",
           "fetched_at": "2026-09-28T19:45:15.190483+00:00"
+        },
+        {
+          "title": "Google Rolls Out AI Mode Info Monitoring To All Users Globally",
+          "url": "https://www.searchenginejournal.com/google-ai-mode-info-monitoring-global-rollout/591312/",
+          "published_at": "2026-09-28T00:00:00+00:00",
+          "excerpt": "Google is rolling out AI Mode’s information monitoring globally, with ongoing updates and suggested monitoring tasks in Search. The post Google Rolls Out AI Mode Info Monitoring To All Users Globally appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-29T10:48:26.510941+00:00"
+        },
+        {
+          "title": "Anthropic Publishes Prompting Guidance For Claude Opus 5.5",
+          "url": "https://www.searchenginejournal.com/anthropic-claude-opus-5-5-prompting-guidance/591278/",
+          "published_at": "2026-09-28T00:00:00+00:00",
+          "excerpt": "Anthropic's Claude Opus 5.5 prompting guide asks developers to retest effort settings and reconsider chat prompt lines telling Claude to think carefully. The post Anthropic Publishes Prompting Guidance For Claude Opus 5.5 appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-29T10:48:26.510941+00:00"
         },
         {
           "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse via @sejournal, @MattGSouthern",
@@ -12444,6 +12500,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Ultimate SEO checklist: 43 tips to optimize your website",
+          "url": "https://www.semrush.com/blog/seo-checklist/",
+          "published_at": "2026-10-01T08:25:00+00:00",
+          "excerpt": "Use this SEO checklist to optimize your site for both Google and AI-driven search results.",
+          "fetched_at": "2026-10-01T11:04:30.051882+00:00"
+        },
+        {
           "title": "AEO vs SEO: core differences & how to win visibility in both",
           "url": "https://www.semrush.com/blog/aeo-vs-seo/",
           "published_at": "2026-09-30T08:36:00+00:00",
@@ -12463,6 +12526,13 @@
           "published_at": "2026-09-29T08:26:00+00:00",
           "excerpt": "Google’s September 2026 spam update may take up to two weeks to roll out, making ranking drops harder to diagnose.",
           "fetched_at": "2026-09-29T10:48:31.395131+00:00"
+        },
+        {
+          "title": "Cecilia Meis",
+          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
+          "published_at": "2026-09-29T00:00:00+00:00",
+          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "What is llms.txt & should you use it?",
@@ -12519,13 +12589,6 @@
           "published_at": "2026-09-22T10:22:00+00:00",
           "excerpt": "Google‘s AI contribution pilot pays invited publishers through Search Console. Citations and links in AI answers don‘t qualify for payment.",
           "fetched_at": "2026-09-22T17:05:38.128000+00:00"
-        },
-        {
-          "title": "Cecilia Meis",
-          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
-          "published_at": "2026-09-22T00:00:00+00:00",
-          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "AI citation outreach: a Semrush & Claude workflow",
@@ -12607,7 +12670,7 @@
         {
           "title": "9 best AI search engines in 2026 [tested & reviewed]",
           "url": "https://www.semrush.com/blog/best-ai-search-engines/",
-          "published_at": "2026-09-09T09:22:00+00:00",
+          "published_at": "2026-09-09T00:00:00+00:00",
           "excerpt": "We reviewed the best AI search engines so you can choose the right one for your needs.",
           "fetched_at": "2026-09-09T16:47:12.480104+00:00"
         },
@@ -14808,6 +14871,34 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
+          "published_at": "2026-09-30T21:30:00+00:00",
+          "excerpt": "Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.",
+          "fetched_at": "2026-10-01T11:04:35.150010+00:00"
+        },
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+          "published_at": "2026-09-30T20:00:00+00:00",
+          "excerpt": "Stylized promotional blog key art graphic with modern editorial branding and the text \"Gemini 4 Argon\"",
+          "fetched_at": "2026-10-01T11:04:35.150010+00:00"
+        },
+        {
+          "title": "Google is supporting water resilience in Chile.",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
+          "published_at": "2026-09-30T18:34:00+00:00",
+          "excerpt": "Google is investing $1.2M to line Chile's Unidos de Buin canal, saving 1.9 billion gallons of water annually. See how we boost watershed health.",
+          "fetched_at": "2026-10-01T11:04:35.150010+00:00"
+        },
+        {
+          "title": "More partners are joining the Alliance for America’s Skilled Trades.",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-americas-skilled-trades-expands/",
+          "published_at": "2026-09-30T18:15:00+00:00",
+          "excerpt": "The Alliance for America’s Skilled Trades is expanding, welcoming 14 new partners to accelerate training and career access nationwide.For every 100 skilled trades worker…",
+          "fetched_at": "2026-10-01T11:04:35.150010+00:00"
+        },
         {
           "title": "Supporting AI readiness in higher education",
           "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/",
