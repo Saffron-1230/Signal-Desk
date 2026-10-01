@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T11:04:35.153521+00:00",
+  "last_updated": "2026-10-01T18:29:12.000307+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "SEO for Static Sites: 8 Problems to Watch For",
+          "url": "https://ahrefs.com/blog/seo-for-static-sites/",
+          "published_at": "2026-10-01T14:57:42+00:00",
+          "excerpt": "But easier to build doesn’t necessarily mean easier to optimize. WordPress and other CMSs quietly handle many SEO basics through plugins and built-in functionality, from canonicals and sitemaps to redirects, metadata, schema, and 404 handling. With a static site, much … Read mor…",
+          "fetched_at": "2026-10-01T18:28:52.900689+00:00"
+        },
         {
           "title": "69% of Marketers Are Publishing More AI Content Than Last Year (New Research Report)",
           "url": "https://ahrefs.com/blog/marketers-ai-content-creation/",
@@ -4338,6 +4345,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "How to write a press release that gets results",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UOHJrYjREWnZyUkpZdmVQWDJFWjRlNmR5LVV5LVladGlUczFZUld6Ykt5TUVjYlRCYVctOWlzRGdwZk5QbkdhYlJKWGFYY1VCR19XLS1nSXh2cWlIWkJCOGtoUVJ0d0E?oc=5",
+          "published_at": "2026-10-01T17:10:00+00:00",
+          "excerpt": "How to write a press release that gets results Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
+        },
+        {
+          "title": "Penske Media lawsuit over Google AI Overviews dismissed",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0dOQ2VBcm9WTHhuVXpJTTVnSEhycDdXQUxPU0JNanRYaTYxdi1rN3YxNldRY1Jaamg1MnNjeWR6akZZUmctbmJ1a0F3YVV0UDhxek11UjVBQ3lMcGN2YlhBRGRHYUg1blhveUlHd05pTFhrYUZaRnVyZ2tmZTNqOWpaaklJTXRXRUtJT0tDNkd0TWpscWc?oc=5",
+          "published_at": "2026-10-01T16:54:00+00:00",
+          "excerpt": "Penske Media lawsuit over Google AI Overviews dismissed Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
+        },
+        {
+          "title": "OpenAI expands ChatGPT Ads with bulk product campaigns and deeper reporting",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXpxaXBNaHc3YVNELUcwYWVDX3ByZHJrMTRsa1VEZGNxTDBHNHhNZnlIYzdvSmIxRm95Z0NQbGFiclZIMThmU2JjR21UbnJ0eC1HdHlJdFk0d1M5NGFWU3NIMWcwbTFjbjJ6bmpNeXJrMHdDUnAyVWxuUnZiSUU2dVBYazB2SENFbVZkUVlVOFR5Zng1b05vejREMUFuTmhfMVZlc3o2Wm51THZzT1ZtOA?oc=5",
+          "published_at": "2026-09-30T16:07:00+00:00",
+          "excerpt": "OpenAI expands ChatGPT Ads with bulk product campaigns and deeper reporting Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
+        },
+        {
+          "title": "Google AI contribution pilot earns publishers one-tenth of 1% of ad revenues",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNem51dFExWl9fSVRxYmhteDhXRlJ1SUN5bWpZeTQ1UHNOenFFRnBfdnpyeHphbGpzQVRzeGtIb1R4b3VHTUR0TEpmZzVQU0hfcHZOWlhzcUZXZnhJV2F3ZTJSalp6Q29xeTZ6cWFZRzFJeWM3bXZSODNCUEZSV2E2Z1RqdjY0Y3l2M2MwRzhzb1JLNE1mVHNIdlh1NTJiWjFERTVXWEswak1GNmppMW83MA?oc=5",
+          "published_at": "2026-09-30T15:50:00+00:00",
+          "excerpt": "Google AI contribution pilot earns publishers one-tenth of 1% of ad revenues Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
+        },
+        {
           "title": "The collapse of attribution",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iaktDRDFBTDBUNF9GQl9CTGtlRDBxOUFzMmxYbndLRG9wdUQ3dTRqV250S3pOcHM0d0VBaHEtTklSblNsSkdaNl9XX3BGQnVIWFJyNDNoUExUaHpPOFdLV0N5OWYxdmM?oc=5",
           "published_at": "2026-09-30T15:00:00+00:00",
@@ -4884,13 +4919,6 @@
           "fetched_at": "2026-09-22T09:23:19.921346+00:00"
         },
         {
-          "title": "How to become the answer in AI search: The ASC framework",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVTZLTUtaM0hHVjlpSEg5Q1g3T1hMZ3g5dTdMVFh2WV92MWhHRVcxSnJUWFREZWt4NXpfQkZXZUlLMVdhWW1fVWhVSDZsaXgtclFWb3Uwem4zcmdMYk4zSklJSW1aQk1JVndn?oc=5",
-          "published_at": "2026-09-21T15:00:00+00:00",
-          "excerpt": "How to become the answer in AI search: The ASC framework Search Engine Land",
-          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
-        },
-        {
           "title": "Measuring AEO: A 3-layer attribution framework",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkJDS1NyVWtCalRnSkRYeGpkekoxV3ZpVHdLQjF5TVdRMVJELXRJVldhRUtxcjZoMUt5NDBpTmtkd090WWV5UFdiU3FxSEJrcVhhT3R4c0ZFN3d1VGFhX3FxSHRhWEpyTkJLU1VKcFFVWXdMc1V2ZTBVc0txRG05S1hKMGRpX25o?oc=5",
           "published_at": "2026-09-21T14:00:00+00:00",
@@ -4902,13 +4930,6 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONG02VTUtM0Q3akVvQ2l1VDQ5THdEVlUzVmxuc3ZZbzN2ejlqeTZLUjg3TFpraDRrajBhWnN6dy1CaTBXUmpsT0dLVXEtRWREXzFqek5WcE9fWU11ek42RGxnYXVhSGtmMmpUT1o5N1otZmxNZURMYkp2TFFXVVFUYkhGc2pSNzg?oc=5",
           "published_at": "2026-09-21T13:00:00+00:00",
           "excerpt": "Smarter ways to visualize search marketing data in 2027 Search Engine Land",
-          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
-        },
-        {
-          "title": "Title tags and SEO: Everything you need to know in 2027",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc2liVS0zYy00dFFqMVFlclZ5S2o2dGNXTGFvakZBcHJIWG1TZlBGWHVOMVhJclY3eW5qbFpjaC02V2hhbUhVazVCdTIyeVRsWGhKTmVtZ2lOZkxZRzhjLTI1RzY4TzllcjF0YW43Z044NTlFaDFsb1pyM015b0hnMlFkUGpVVEpRRnNV?oc=5",
-          "published_at": "2026-09-21T12:00:00+00:00",
-          "excerpt": "Title tags and SEO: Everything you need to know in 2027 Search Engine Land",
           "fetched_at": "2026-09-22T09:23:19.921346+00:00"
         },
         {
@@ -4933,10 +4954,24 @@
           "fetched_at": "2026-09-19T08:52:35.808000+00:00"
         },
         {
+          "title": "How to become the answer in AI search: The ASC framework",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVTZLTUtaM0hHVjlpSEg5Q1g3T1hMZ3g5dTdMVFh2WV92MWhHRVcxSnJUWFREZWt4NXpfQkZXZUlLMVdhWW1fVWhVSDZsaXgtclFWb3Uwem4zcmdMYk4zSklJSW1aQk1JVndn?oc=5",
+          "published_at": "2026-09-21T07:00:00+00:00",
+          "excerpt": "How to become the answer in AI search: The ASC framework Search Engine Land",
+          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
+        },
+        {
           "title": "21 SEO tasks you should be automating (and how)",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxcTZGdlRNZncwNnBhUmVnZFJaR3NaZVBZMlR2NnNDMU40Um5BWlA3cjRucEptZDl4UVpQOW9BWUNsLTlweGhOUFM1X2NfMURKZEppYTZLU1BiaDluUzlyQnpXUEFlQQ?oc=5",
           "published_at": "2026-09-21T07:00:00+00:00",
           "excerpt": "21 SEO tasks you should be automating (and how) Search Engine Land",
+          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
+        },
+        {
+          "title": "Title tags and SEO: Everything you need to know in 2027",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc2liVS0zYy00dFFqMVFlclZ5S2o2dGNXTGFvakZBcHJIWG1TZlBGWHVOMVhJclY3eW5qbFpjaC02V2hhbUhVazVCdTIyeVRsWGhKTmVtZ2lOZkxZRzhjLTI1RzY4TzllcjF0YW43Z044NTlFaDFsb1pyM015b0hnMlFkUGpVVEpRRnNV?oc=5",
+          "published_at": "2026-09-21T07:00:00+00:00",
+          "excerpt": "Title tags and SEO: Everything you need to know in 2027 Search Engine Land",
           "fetched_at": "2026-09-22T09:23:19.921346+00:00"
         },
         {
@@ -9266,6 +9301,13 @@
           "fetched_at": "2026-08-30T10:00:45.743381+00:00"
         },
         {
+          "title": "Sitemap Generator Tool: Build an XML sitemap for search engines and AI crawlers",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oM0xYSFlHZHVDUm1RUTdlOW5TaUNXVEJZdEgwdjI4M1kwNFk4TjBxc0xoMlBXeEpyNWV6eHdQS2RtcTY3VnAzZTlRTEs1dGhyT21tNlZHSUNBYUhRQ1JWWUNSaERHZlk?oc=5",
+          "published_at": "2026-06-03T18:40:37+00:00",
+          "excerpt": "Sitemap Generator Tool: Build an XML sitemap for search engines and AI crawlers Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
+        },
+        {
           "title": "Google I/O Archives",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PRGlMeWhmcG1OQ2tzNkFqeFZUdFBvSE11ZnJiRHdRU201dFEyQUlGdWh1ZzVmLUVaVXJwVU1UNzd5SVJsMWhGcXdERW4yZDllUHJGeGFETTM?oc=5",
           "published_at": "2026-04-20T02:06:40+00:00",
@@ -9357,6 +9399,13 @@
           "fetched_at": "2026-09-05T08:26:53.847335+00:00"
         },
         {
+          "title": "SEO and meta descriptions: Everything you need to know in 2027",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnFQbGcxTS1lN19fQmFTVXlBZFJDeUdlYjB3X2I4YURRa3d4Unh3NmpkeWltSFlTUUd6MEZHSElsNUJUMlc5RlM5dUhOYW1qYmpaWlRZRGNqWmFabG52ZjdKRk1DYjhhbEpnRzBJNnl6ejY5aXpjbk1WOUxMUERONWpR?oc=5",
+          "published_at": "2024-11-01T12:00:45+00:00",
+          "excerpt": "SEO and meta descriptions: Everything you need to know in 2027 Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
+        },
+        {
           "title": "The SEO’s guide to Google Search Console",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93amk2MWFUWnUzSjJ4WjVnd3B0OWpZN2NfZ0x1dFpBSkE4aU1EQ0FoWkRFZGN1NktuOWxwS1BkSXk5ZzdNQmY4VW0xb3ptYi1jYjZsRmJnR2JER3ZSMmRneDNSTGZoc21rbzY4N3NfeUt0dm9TYlE?oc=5",
           "published_at": "2024-07-08T13:01:02+00:00",
@@ -9397,6 +9446,13 @@
           "published_at": "2023-03-28T18:42:21+00:00",
           "excerpt": "SMX® Advanced | Mar. 17-19, 2027 - San Diego | Expert-level training Search Engine Land",
           "fetched_at": "2026-09-03T09:02:15.336548+00:00"
+        },
+        {
+          "title": "Advanced Google Ads SMX® Master Class | Brad Geddes | Oct. 13",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLUpsSXJVOEtkLW9kdkRmdkNRUkhZdUc5OFBpUlNlbC1PWGFpenQ2emFnZVVVSjg4NVBFek9ITXFoYTB2eWRxbEs0bW5PUldPbFJDN3VnaWJZdXZ3RHMxR0F1dy1vVnhLMFhLMGZhUk1ZX3F6V0VzZkw4S0JWQjQ?oc=5",
+          "published_at": "2023-03-28T17:57:09+00:00",
+          "excerpt": "Advanced Google Ads SMX® Master Class | Brad Geddes | Oct. 13 Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
         },
         {
           "title": "Your guide to speaking at SMX",
@@ -9526,6 +9582,41 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "AI Changed Your Buyer Faster Than Your Business Can Adapt via @sejournal, @DuaneForrester",
+          "url": "https://www.searchenginejournal.com/ai-changed-your-buyer-faster-than-your-business-can-adapt/591043/",
+          "published_at": "2026-10-01T14:00:52+00:00",
+          "excerpt": "AI changed the buyer in 18 months. Most businesses still run on 12-month plans. Here's where the gap shows up and why it keeps widening. The post AI Changed Your Buyer Faster Than Your Business Can Adapt appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-01T18:29:01.359920+00:00"
+        },
+        {
+          "title": "Nothing Is On Fire At Google via @sejournal, @pedrodias",
+          "url": "https://www.searchenginejournal.com/nothing-is-on-fire-at-google/591422/",
+          "published_at": "2026-10-01T13:00:47+00:00",
+          "excerpt": "Google has data, chips and cash to lead in AI. The real question is whether it will disrupt the Search business that pays for everything. The post Nothing Is On Fire At Google appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-01T18:29:01.359920+00:00"
+        },
+        {
+          "title": "Google Gemini Adds UTM Parameters For Referral Attribution via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-gemini-adds-utm-parameters-for-referral-attribution/591754/",
+          "published_at": "2026-10-01T12:15:03+00:00",
+          "excerpt": "Gemini's new UTM parameters give site owners clearer attribution for traffic coming from Google's AI platform. The post Google Gemini Adds UTM Parameters For Referral Attribution appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-01T18:29:01.359920+00:00"
+        },
+        {
+          "title": "What Are Common Structured Data Mistakes That Hurt AI Visibility? – Ask An SEO via @sejournal, @HelenPollitt1",
+          "url": "https://www.searchenginejournal.com/what-are-common-structured-data-mistakes-that-hurt-ai-visibility-ask-an-seo/589924/",
+          "published_at": "2026-10-01T12:00:54+00:00",
+          "excerpt": "Understand the most common structured data mistakes that hurt AI visibility and how to avoid them The post What Are Common Structured Data Mistakes That Hurt AI Visibility? – Ask An SEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-01T18:29:01.359920+00:00"
+        },
+        {
+          "title": "Judge Acknowledges Publisher Harm But Dismisses Google Antitrust Claims via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/judge-acknowledges-publisher-harm-but-dismisses-google-antitrust-claims/591748/",
+          "published_at": "2026-10-01T11:49:28+00:00",
+          "excerpt": "Google antitrust ruling shows how publishers can allege real harm yet still fail in a federal court. The post Judge Acknowledges Publisher Harm But Dismisses Google Antitrust Claims appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-01T18:29:01.359920+00:00"
+        },
+        {
           "title": "Where to Find the Exact Phrases That Get Your Content Cited in AI Search via @sejournal, @hethr_campbell",
           "url": "https://www.searchenginejournal.com/where-to-find-the-exact-phrases-that-get-your-content-cited-in-ai-search/591562/",
           "published_at": "2026-10-01T10:15:00+00:00",
@@ -9631,24 +9722,10 @@
           "fetched_at": "2026-09-29T18:09:43.293388+00:00"
         },
         {
-          "title": "Google Desktop CTR Fell In Q2 While Mobile Rose, Data Shows via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/google-desktop-mobile-ctr-q2-2026/591402/",
-          "published_at": "2026-09-29T13:26:52+00:00",
-          "excerpt": "Q2 data shows Google desktop CTR down and mobile up at top positions, in a comparison spanning the end of a Search Console logging error. The post Google Desktop CTR Fell In Q2 While Mobile Rose, Data Shows appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-29T18:09:43.293388+00:00"
-        },
-        {
-          "title": "EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In via @sejournal, @martinibuster",
+          "title": "EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In",
           "url": "https://www.searchenginejournal.com/emdash-1-0-challenges-wordpress-freedom-with-cloudflare-lock-in/591378/",
           "published_at": "2026-09-29T12:17:17+00:00",
           "excerpt": "EmDash 1.0 trades WordPress's freedom of choice for heavy reliance on Cloudflare's infrastructure. The post EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-29T18:09:43.293388+00:00"
-        },
-        {
-          "title": "ChatGPT Ad CTR Topped 1% In 4 Markets, Not In The U.S.: Report via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/chatgpt-ad-ctr-markets-report/591384/",
-          "published_at": "2026-09-29T12:10:56+00:00",
-          "excerpt": "A report using Similarweb panel data breaks down ChatGPT ad click-through rates by market and tracks how often the top ChatGPT advertisers changed. The post ChatGPT Ad CTR Topped 1% In 4 Markets, Not In The U.S.: Report appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-29T18:09:43.293388+00:00"
         },
         {
@@ -9666,9 +9743,23 @@
           "fetched_at": "2026-09-29T10:48:26.510941+00:00"
         },
         {
-          "title": "Google On What’s Next In AI Search + 5 Local Marketing Strategy Fixes via @sejournal, @hethr_campbell",
+          "title": "Google Desktop CTR Fell In Q2 While Mobile Rose, Data Shows",
+          "url": "https://www.searchenginejournal.com/google-desktop-mobile-ctr-q2-2026/591402/",
+          "published_at": "2026-09-29T00:00:00+00:00",
+          "excerpt": "Q2 data shows Google desktop CTR down and mobile up at top positions, in a comparison spanning the end of a Search Console logging error. The post Google Desktop CTR Fell In Q2 While Mobile Rose, Data Shows appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-29T18:09:43.293388+00:00"
+        },
+        {
+          "title": "ChatGPT Ad CTR Topped 1% In 4 Markets, Not In The U.S.: Report",
+          "url": "https://www.searchenginejournal.com/chatgpt-ad-ctr-markets-report/591384/",
+          "published_at": "2026-09-29T00:00:00+00:00",
+          "excerpt": "A report using Similarweb panel data breaks down ChatGPT ad click-through rates by market and tracks how often the top ChatGPT advertisers changed. The post ChatGPT Ad CTR Topped 1% In 4 Markets, Not In The U.S.: Report appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-29T18:09:43.293388+00:00"
+        },
+        {
+          "title": "Google On What’s Next In AI Search + 5 Local Marketing Strategy Fixes",
           "url": "https://www.searchenginejournal.com/google-on-whats-next-in-ai-search-5-local-marketing-strategy-fixes/590978/",
-          "published_at": "2026-09-29T07:45:43+00:00",
+          "published_at": "2026-09-29T00:00:00+00:00",
           "excerpt": "Google and Uberall explain how to improve local AI-search readiness through accurate Business Profiles, relevant content, review responses, and location-level measurement. The post Google On What’s Next In AI Search + 5 Local Marketing Strategy Fixes appeared first on Search Eng…",
           "fetched_at": "2026-09-30T10:36:17.132914+00:00"
         },
@@ -14871,6 +14962,27 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Guided Vision in Gemini Live: built for accessibility",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+          "published_at": "2026-10-01T16:00:00+00:00",
+          "excerpt": "stylized hero image reading \"Guided Vision\"",
+          "fetched_at": "2026-10-01T18:29:11.996823+00:00"
+        },
+        {
+          "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
+          "published_at": "2026-10-01T16:00:00+00:00",
+          "excerpt": "Many stars bursting out of a laptop",
+          "fetched_at": "2026-10-01T18:29:11.996823+00:00"
+        },
+        {
+          "title": "5 ways Search can help you perfect your at-home coffee routine",
+          "url": "https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/",
+          "published_at": "2026-10-01T13:00:00+00:00",
+          "excerpt": "Google AI-created image showing a latte in a cup, with latte art of a magnifying glass and Gemini spark",
+          "fetched_at": "2026-10-01T18:29:11.996823+00:00"
+        },
         {
           "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
