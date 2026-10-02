@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T10:36:51.409278+00:00",
+  "last_updated": "2026-10-02T17:56:15.051815+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "AI Overviews Currently Appear for 83% of Branded Searches",
+          "url": "https://ahrefs.com/blog/ai-overviews-on-branded-searches/",
+          "published_at": "2026-10-02T11:33:46+00:00",
+          "excerpt": "That prompted us to investigate AI Overviews for branded searches on a larger scale. We found that AI Overviews now appear for 83% of branded queries, potentially reducing clicks to brands’ own websites and giving third-party sources like Wikipedia, YouTube … Read more ›",
+          "fetched_at": "2026-10-02T17:55:52.646882+00:00"
+        },
         {
           "title": "SEO for Static Sites: 8 Problems to Watch For",
           "url": "https://ahrefs.com/blog/seo-for-static-sites/",
@@ -4345,6 +4352,27 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "What effective SEO client onboarding looks like: The first 90 days",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNl9SblZwRnpOU0ZrOEgyNzQtYk9jYnFIaTJYZUxZY0pkWVYwaEpQQ3BHS1hGa19JcjJsVHJ0Sk5MeTE4VklEd2FoeVp0amo1bXB6V1BfQ3RoOTNIb0M4cXpWeC15ZjNSLW1jRV9VbTFKODJaTmFjb0wtel9EVUE1eTFaVXowMjRM?oc=5",
+          "published_at": "2026-10-02T13:00:00+00:00",
+          "excerpt": "What effective SEO client onboarding looks like: The first 90 days Search Engine Land",
+          "fetched_at": "2026-10-02T17:55:54.006926+00:00"
+        },
+        {
+          "title": "Google says main content is critical and describes how search quality raters evaluate it",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWhndzA2MTdabjVzb3dTT0x1S2tRcEhyNlMzcWZZV192QU92WTdWR3RNQ2VBZTByZklDR3hVWTlYbndZNzFaMEJQUXd3Rlh1cllXZFdQclFUR2ZlVWI5VmZsWk1ETC1meEJlZngzRVlJTm5yUHJDeXliRGZzMVNvMUkwNllwVlFMNjlWRUV5cVk5aHBOTXZnQzM4bnZ6bHVVRldSMkkyYWhkZnljdEljc3pOM2ZkTFpUOUpLRUVwdkZaZw?oc=5",
+          "published_at": "2026-10-02T12:33:00+00:00",
+          "excerpt": "Google says main content is critical and describes how search quality raters evaluate it Search Engine Land",
+          "fetched_at": "2026-10-02T17:55:54.006926+00:00"
+        },
+        {
+          "title": "Google Search now says it's critical to manually factcheck and review all AI-generated content for accuracy and trustworthiness",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON18wY281TWxRYkpLV2xqMDF3T1llR1BKVEJBaC1TUFBzVVg0OHgzc3FVd2t2al9VUDgyYUdQdXBHWi1oWXg1VlRaRjVkZ0pxNTBNcEt4ZFlNUTlzbkVYeUxSNFVQX0N3UnYtU0pIb2lrdmd3enh2TXVRbFA5OTNVY3J2cGNlYjdaTTgyamwtcXE2bTlZMFlkbFQzdGgtQmx5SWVkVEY1Y0pzSTF3T3NidGQ5c2J3ZkptNS12Vi11YzdXQzFIbzEzTzhzZ0FCc19CbUZmUjA5TXhiMXdZRlFIWDRLc0FCX29YSkxuQmJYRzA3aVUt?oc=5",
+          "published_at": "2026-10-02T00:27:00+00:00",
+          "excerpt": "Google Search now says it's critical to manually factcheck and review all AI-generated content for accuracy and trustworthiness Search Engine Land",
+          "fetched_at": "2026-10-02T17:55:54.006926+00:00"
+        },
+        {
           "title": "How to write a press release that gets results",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UOHJrYjREWnZyUkpZdmVQWDJFWjRlNmR5LVV5LVladGlUczFZUld6Ykt5TUVjYlRCYVctOWlzRGdwZk5QbkdhYlJKWGFYY1VCR19XLS1nSXh2cWlIWkJCOGtoUVJ0d0E?oc=5",
           "published_at": "2026-10-01T17:10:00+00:00",
@@ -4730,13 +4758,6 @@
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
-          "title": "Google expands AI Brief and adds deeper AI Max reporting",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnZBcDB4Z2dHMW5jOWYwTXVIVDhfSVNDTGFwM2pXbDhGOXBEY2JQXzhoT3RYNk9uZXYyQlItZEhHamZmSExyNnpEWExGR3BIYk5HdVBNcEpGT2pxZjJJM3lVdXJQZ1ZzOVJDUVdXalJodHFMYzFFamZ5cWlRbG16aXI3SnJhMmQ5VDBpaHk1dzB4LXoxTU5v?oc=5",
-          "published_at": "2026-09-23T14:30:00+00:00",
-          "excerpt": "Google expands AI Brief and adds deeper AI Max reporting Search Engine Land",
-          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
-        },
-        {
           "title": "Discord user and funding statistics: How many people use Discord?",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95NnpESjFDRGZSLVdjTjBOT0JGbGVDTFA0SEpkRzIzZlNoOFI4MXBLZU1vd0JJd3JYRlZob1lwQlptMkJvMGZtTnY5M2FETzZuX0RlRjBDbnloc1FJ?oc=5",
           "published_at": "2026-09-23T14:25:00+00:00",
@@ -4798,6 +4819,13 @@
           "published_at": "2026-09-23T07:00:00+00:00",
           "excerpt": "Google expands its list of local advertising codes Search Engine Land",
           "fetched_at": "2026-09-24T09:24:13.792004+00:00"
+        },
+        {
+          "title": "Google expands AI Brief and adds deeper AI Max reporting",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnZBcDB4Z2dHMW5jOWYwTXVIVDhfSVNDTGFwM2pXbDhGOXBEY2JQXzhoT3RYNk9uZXYyQlItZEhHamZmSExyNnpEWExGR3BIYk5HdVBNcEpGT2pxZjJJM3lVdXJQZ1ZzOVJDUVdXalJodHFMYzFFamZ5cWlRbG16aXI3SnJhMmQ5VDBpaHk1dzB4LXoxTU5v?oc=5",
+          "published_at": "2026-09-23T07:00:00+00:00",
+          "excerpt": "Google expands AI Brief and adds deeper AI Max reporting Search Engine Land",
+          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
         },
         {
           "title": "CrUX ad metrics added to the page experience SEO documentation",
@@ -9392,6 +9420,13 @@
           "fetched_at": "2026-09-25T09:41:59.840113+00:00"
         },
         {
+          "title": "CTR Calculator (Click-Through Rate)",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xMmpUUGVkVW9BNGRKY3VBSjMzZmlIc1otVlExZnFwaWdtMVZJU3lRNjNJQ2pxaEdKX0M0X2JQZUNhcWhYRnFwNVUwZW1DVDFEUVVJVUVSY1U2UHBvMWw2anNKbHV2RHo0cy1qQlY5WFdLNXZVeDhj?oc=5",
+          "published_at": "2025-08-07T21:38:57+00:00",
+          "excerpt": "CTR Calculator (Click-Through Rate) Search Engine Land",
+          "fetched_at": "2026-10-02T17:55:54.006926+00:00"
+        },
+        {
           "title": "Ad Pricing Guide",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZ1ozb3cxUUpsWFl5ZG5yeUtEZnNVM3N5cDJoN0g3cHFqNEVvUWI2bldqNzktN252c2dFbVBYLURZRmFPVVhUT3Rmd2k4WUJCUzhiT0VMb1dhWDdpR2c?oc=5",
           "published_at": "2025-08-07T21:38:51+00:00",
@@ -9539,6 +9574,13 @@
           "fetched_at": "2026-09-03T09:02:15.336548+00:00"
         },
         {
+          "title": "How to structure PPC campaigns",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42R2JtSy1QYzNRLVpKMk1fUi1vcU12NnJXQ0FDcWdTTEFaTVNEMnNIZjRFX01MLTJoaE9QbDNhX0Mwem9kMnZvbXRMSHlJZ0IybFljdHduVHRtTnVEbExnQ3lhM0czUVJkZFVLRDFtUHc5Zw?oc=5",
+          "published_at": "2018-05-23T01:57:06+00:00",
+          "excerpt": "How to structure PPC campaigns Search Engine Land",
+          "fetched_at": "2026-10-02T17:55:54.006926+00:00"
+        },
+        {
           "title": "Enter the 2026 Search Engine Land Awards today",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HSUU2X0cyOVN4ek1YbVNQN0hLQlZHTmF4UzVPSTdCakxSeFJpcWlDbndvWmZ0SDJtNHJFRW05NllYcVVBTUxrQUxUdw?oc=5",
           "published_at": "2017-07-19T16:30:46+00:00",
@@ -9616,6 +9658,34 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/",
+          "published_at": "2026-10-02T15:49:43+00:00",
+          "excerpt": "Andrej Karpathy suggests asking LLMs to explain topics in an aerospace writing standard, or to answer with diagrams, HTML pages, or custom explainer videos. The post OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-02T17:56:05.430580+00:00"
+        },
+        {
+          "title": "Google Adds Fake Author Warning To Helpful Content Guidance via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-fake-author-warning-site-owner-guidance/591806/",
+          "published_at": "2026-10-02T15:03:06+00:00",
+          "excerpt": "Google's people-first content guidance now warns site owners against fabricated author profiles, a form of deception its rater guidelines already described. The post Google Adds Fake Author Warning To Helpful Content Guidance appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-02T17:56:05.430580+00:00"
+        },
+        {
+          "title": "How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) via @sejournal, @coreydmorris",
+          "url": "https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/",
+          "published_at": "2026-10-02T14:30:46+00:00",
+          "excerpt": "A step-by-step process for building an SEO content roadmap that accounts for AI Overviews, from keyword gaps to a prioritized, citation-ready plan. The post How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-02T17:56:05.430580+00:00"
+        },
+        {
+          "title": "When A Search Query Becomes A Standing Instruction via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/",
+          "published_at": "2026-10-02T12:00:09+00:00",
+          "excerpt": "Google's AI Mode monitoring and OpenAI's dots keep requests active, with different tasks, sources, controls, and questions about site visibility. The post When A Search Query Becomes A Standing Instruction appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-02T17:56:05.430580+00:00"
+        },
         {
           "title": "Google Tells Sites To Fact-Check AI Content Before Publishing via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
@@ -15011,6 +15081,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "The latest AI news we announced in September 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+          "published_at": "2026-10-02T15:00:00+00:00",
+          "excerpt": "A video showing the September AI updates",
+          "fetched_at": "2026-10-02T17:56:15.048164+00:00"
+        },
         {
           "title": "Our Project Suncatcher prototype satellite is in orbit.",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
