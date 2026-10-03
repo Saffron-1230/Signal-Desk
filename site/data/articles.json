@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T09:57:31.697802+00:00",
+  "last_updated": "2026-10-03T16:33:17.651664+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4366,6 +4366,13 @@
           "fetched_at": "2026-10-03T09:57:13.504455+00:00"
         },
         {
+          "title": "Google Ads brings A/B testing to Performance Max asset groups",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdG8xaGZDRmtidkd0RFNLZW41WXo5SVJKQ0o0dDNpYTg4em1ORjJPODVTOUtVOHQ0SzRyRGhCbG5MMmwtZVBTWFAyYVFCZ3BwVldvV04wc19odXJIN1EyYS1EUlRSenRFOWJmNzVxY2pLM1AwWUFaRFEzaFlzT0wzWnVKUUJPLW9lRG02YktzNUhuclMzSFlYWDNmRUtMdw?oc=5",
+          "published_at": "2026-10-02T15:55:34+00:00",
+          "excerpt": "Google Ads brings A/B testing to Performance Max asset groups Search Engine Land",
+          "fetched_at": "2026-10-03T16:32:56.535793+00:00"
+        },
+        {
           "title": "How to decide which ecommerce categories deserve more internal links",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcEMyQlB6eWJaU0htUE1lM0Y1WGZKaGFCdjFzVTlNUDl4dTltMzRqVUNqaFc0aTVJblBORmFwTnRGOTV4aC0wZDkweDhITDNxUEVOd0Fxa2x1YXBPM0dHWVdERVNDZlN0bXFZMkhweDlzVDFUbUdEaGxLMGRNaDMzc0s3TG5ITmNRMnZjZ2M3TS11WWxKQkFsZ3JpWXJEbHhpbUlETlFoUQ?oc=5",
           "published_at": "2026-10-02T14:00:00+00:00",
@@ -4578,7 +4585,7 @@
         {
           "title": "Google tests a new look for mobile ad sitelinks",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalpYZUs5VS1LTnAxV1NHa2VsX0RzamVwcmR1OFlFOEJHR2FaeHhldzdJNHFWN2ZIY3V3NjdGLU1kVzNSMHVYc25MSkROM2ZIVURwNWFJbjI2TWdITVcyT3BSYXp4Y3F6c2FpTXM5bVhIWjU5Y2RidmhQazFsYzVGaU1zUlk4UkhETzBr?oc=5",
-          "published_at": "2026-09-28T17:17:00+00:00",
+          "published_at": "2026-09-28T17:17:41+00:00",
           "excerpt": "Google tests a new look for mobile ad sitelinks Search Engine Land",
           "fetched_at": "2026-09-29T10:48:12.552095+00:00"
         },
@@ -4646,20 +4653,6 @@
           "fetched_at": "2026-09-26T09:26:26.421692+00:00"
         },
         {
-          "title": "Google Ads API v25.2 adds competitive benchmarks and PMax upgrades",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1pBcXJFazhwVEVENERqTE15d2d6UVhCMXN2aTJfVUdwdF9xS05scm9Cc2I4bWlTXzV0VklVZWVPLWxGN2VuS2dibDdCb2hsMVhwamtKX2QzWldWTW43VjE3TU5YenhfeUUwaFNabDlybVAyRVgyVllNazZuR29TSHF6aHFOd3dhcUc3enJfa2FpSHNJVy1MLXdjNTNyWUdBdm5TLQ?oc=5",
-          "published_at": "2026-09-25T17:26:00+00:00",
-          "excerpt": "Google Ads API v25.2 adds competitive benchmarks and PMax upgrades Search Engine Land",
-          "fetched_at": "2026-09-27T10:06:01.740157+00:00"
-        },
-        {
-          "title": "Google tests bigger Local Services Ads",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kaGJBQzR6VGNaQnNMNXpYcU1CQ3pXaW1OWlFEeW9mX19FeFF1YjByYzZqRG5CcXFhaE43cHRWeTBiVGFBM0tBRmZzcjA3dnhqTm95Smw2a1NrcnE4aHdSTkNRUDRiUXlaaGdiMzJWZFA3YXJoZThtUUZXNEhGbk0?oc=5",
-          "published_at": "2026-09-25T17:18:00+00:00",
-          "excerpt": "Google tests bigger Local Services Ads Search Engine Land",
-          "fetched_at": "2026-09-27T10:06:01.740157+00:00"
-        },
-        {
           "title": "Google Ads adds IP address and timestamp matching to Customer Match",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOERrNVhscGV0S3BrTGVRdG5aZWZXdkRGNzhzQVRRUFI4WmpIZ3hueU5OSS1RWmtrcER6aG5iTjBEek9rODdKa203WXpuRVF4aGhVQTFWM0VFdG9xT1cwb0t5Tmxxb1lQY1FSNXZXdUh6bk1MMXMzdkdpbnJEdUVYcUhHWEYtc3VTdUJNMHJMQ1hsX3VUamtjQk0wclBFMDE3M01KUzJn?oc=5",
           "published_at": "2026-09-25T16:46:00+00:00",
@@ -4709,6 +4702,20 @@
           "fetched_at": "2026-09-28T11:05:12.335424+00:00"
         },
         {
+          "title": "Google Ads API v25.2 adds competitive benchmarks and PMax upgrades",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1pBcXJFazhwVEVENERqTE15d2d6UVhCMXN2aTJfVUdwdF9xS05scm9Cc2I4bWlTXzV0VklVZWVPLWxGN2VuS2dibDdCb2hsMVhwamtKX2QzWldWTW43VjE3TU5YenhfeUUwaFNabDlybVAyRVgyVllNazZuR29TSHF6aHFOd3dhcUc3enJfa2FpSHNJVy1MLXdjNTNyWUdBdm5TLQ?oc=5",
+          "published_at": "2026-09-25T07:00:00+00:00",
+          "excerpt": "Google Ads API v25.2 adds competitive benchmarks and PMax upgrades Search Engine Land",
+          "fetched_at": "2026-09-27T10:06:01.740157+00:00"
+        },
+        {
+          "title": "Google tests bigger Local Services Ads",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kaGJBQzR6VGNaQnNMNXpYcU1CQ3pXaW1OWlFEeW9mX19FeFF1YjByYzZqRG5CcXFhaE43cHRWeTBiVGFBM0tBRmZzcjA3dnhqTm95Smw2a1NrcnE4aHdSTkNRUDRiUXlaaGdiMzJWZFA3YXJoZThtUUZXNEhGbk0?oc=5",
+          "published_at": "2026-09-25T07:00:00+00:00",
+          "excerpt": "Google tests bigger Local Services Ads Search Engine Land",
+          "fetched_at": "2026-09-27T10:06:01.740157+00:00"
+        },
+        {
           "title": "Conductor CEO Seth Besmertnik steps down after 20 years",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeG9BbjluQlJRN2tPeENJLV9WUWtrTk1yMHc1QnMtWkRfWjA4b0JHcmR3clVpRk4wYmM2MTM5S2FqTzFnWXJ0T3ptdTA1OTVUdHFOZ1dqM3VFekFPVUM3cndNS09BbXFnZ3pUT1NlcndWd3ZJbGotR0RUQ1lqQ2NBZWtB?oc=5",
           "published_at": "2026-09-24T16:48:00+00:00",
@@ -4721,13 +4728,6 @@
           "published_at": "2026-09-24T16:27:00+00:00",
           "excerpt": "Google releases September 2026 spam update Search Engine Land",
           "fetched_at": "2026-09-24T17:22:59.645625+00:00"
-        },
-        {
-          "title": "Generative engine optimization (GEO): How to win AI mentions",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
-          "published_at": "2026-09-24T16:02:00+00:00",
-          "excerpt": "Generative engine optimization (GEO): How to win AI mentions Search Engine Land",
-          "fetched_at": "2026-09-25T09:41:59.840113+00:00"
         },
         {
           "title": "How to use SimilarWeb for SEO and content marketing",
@@ -4772,6 +4772,13 @@
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
+          "title": "Generative engine optimization (GEO): How to win AI mentions",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
+          "published_at": "2026-09-24T07:00:00+00:00",
+          "excerpt": "Generative engine optimization (GEO): How to win AI mentions Search Engine Land",
+          "fetched_at": "2026-09-25T09:41:59.840113+00:00"
+        },
+        {
           "title": "How to use Google Veo to create video ads for PMax and Demand Gen",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MSkN6dzdlR1hqN2NDV0xRV0toV3k2YTIwbHU1YkZaRWJDZXNrSUZ3NnBnSFU1OHVBUEZzT3RybzZtQk1DZnMzd25HZ1JXR1h1Y21TY2xwVGxoUVlnUzZ6T2dtRzF5MHJURWcydjRJZDR1OVljUjV3SUJPRHU?oc=5",
           "published_at": "2026-09-24T07:00:00+00:00",
@@ -4807,13 +4814,6 @@
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
-          "title": "Visual content and SEO: How to use images and videos in 2027",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxYjlfU0tRSUNPS09oUWJlWERCdnMtMnRyMGhvVUhKQ2h6VnJCMkdrRG1mdTN0b1lWWDV1RGY4c3N5T2c3RWlhX1U2ZHVXT3luUmhTT3NjdFFydUpDTy1kODR0aFUtUkxZVUxId09MTTZJMnRhS1pj?oc=5",
-          "published_at": "2026-09-23T14:00:00+00:00",
-          "excerpt": "Visual content and SEO: How to use images and videos in 2027 Search Engine Land",
-          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
-        },
-        {
           "title": "Search everywhere optimization guide (+ free checklist)",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xRW1DS05TTVgwcUtBa1huTWNvNnV2WmV4WDFrckYwS2QzNDF6bnBIUVBzMHRHVW9uWVcybEVxUXRpcmxfbldGUVBUdm50SWN6Q2hIdmY1eXN2UjNNWFRTSER1RjV2eUhLNVpROVMxVENWYVk?oc=5",
           "published_at": "2026-09-23T13:55:00+00:00",
@@ -4840,6 +4840,13 @@
           "published_at": "2026-09-23T07:40:28+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-09-27T10:06:01.740157+00:00"
+        },
+        {
+          "title": "Visual content and SEO: How to use images and videos in 2027",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxYjlfU0tRSUNPS09oUWJlWERCdnMtMnRyMGhvVUhKQ2h6VnJCMkdrRG1mdTN0b1lWWDV1RGY4c3N5T2c3RWlhX1U2ZHVXT3luUmhTT3NjdFFydUpDTy1kODR0aFUtUkxZVUxId09MTTZJMnRhS1pj?oc=5",
+          "published_at": "2026-09-23T07:00:00+00:00",
+          "excerpt": "Visual content and SEO: How to use images and videos in 2027 Search Engine Land",
+          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
           "title": "Rank Math AI unifies SEO tools, adds Gemini visibility tracking",
@@ -9701,6 +9708,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/",
+          "published_at": "2026-10-03T12:00:26+00:00",
+          "excerpt": "Google adds fact-checking to its AI content guidance, Gemini links show UTM tags, desktop CTR fell in Q2, and a judge dismisses two AI suits. The post Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-03T16:33:06.458403+00:00"
+        },
+        {
           "title": "Shopify Now Enrolls Your Store In Every New AI Shopping Channel via @sejournal, @slobodanmanic",
           "url": "https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/",
           "published_at": "2026-10-02T19:00:52+00:00",
@@ -9834,7 +9848,7 @@
           "fetched_at": "2026-09-30T18:02:34.981285+00:00"
         },
         {
-          "title": "Google Analytics Adds App Conversions To Cross-Channel Reports via @sejournal, @MattGSouthern",
+          "title": "Google Analytics Adds App Conversions To Cross-Channel Reports",
           "url": "https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/",
           "published_at": "2026-09-30T14:23:27+00:00",
           "excerpt": "Google Analytics now supports app conversions in its performance and attribution reports. The post Google Analytics Adds App Conversions To Cross-Channel Reports appeared first on Search Engine Journal .",
