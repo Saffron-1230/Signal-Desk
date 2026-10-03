@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T17:56:15.051815+00:00",
+  "last_updated": "2026-10-03T09:57:31.697802+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4352,6 +4352,27 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Y Combinator Archives",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WZXVqX2s4OFNWT0lGVDhldjBQTkIteU9EV0xSNVkycWN5Y0hrcXBNVnhmWUp3bGV6dWV4WUkzMUpPemZJNWN6bWl4MWdFSmF0d0Y0bXpMb1V6djFx?oc=5",
+          "published_at": "2026-10-03T03:01:24+00:00",
+          "excerpt": "Y Combinator Archives Search Engine Land",
+          "fetched_at": "2026-10-03T09:57:13.504455+00:00"
+        },
+        {
+          "title": "Google Ads loosens business name rules for some advertisers",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOU1fSmtYcFhiNlR1LTcycThEbEFrUDRJYnN5YXJJZmk3Mml1ZUFRRGVRcUU0MHd0R0lWZ2RlbkJ3ajdrNkM4VElRM25MbGdNTkpST2txVzJ3TW5ESDl2ZnVEdzhwMGwxT0Y4THF5bUNwZUFZSmR3ZS16cU5rX0stWTdhWTNnT0VUaG40QVZhMGRLM2hmcnMwcG53cw?oc=5",
+          "published_at": "2026-10-02T16:09:40+00:00",
+          "excerpt": "Google Ads loosens business name rules for some advertisers Search Engine Land",
+          "fetched_at": "2026-10-03T09:57:13.504455+00:00"
+        },
+        {
+          "title": "How to decide which ecommerce categories deserve more internal links",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcEMyQlB6eWJaU0htUE1lM0Y1WGZKaGFCdjFzVTlNUDl4dTltMzRqVUNqaFc0aTVJblBORmFwTnRGOTV4aC0wZDkweDhITDNxUEVOd0Fxa2x1YXBPM0dHWVdERVNDZlN0bXFZMkhweDlzVDFUbUdEaGxLMGRNaDMzc0s3TG5ITmNRMnZjZ2M3TS11WWxKQkFsZ3JpWXJEbHhpbUlETlFoUQ?oc=5",
+          "published_at": "2026-10-02T14:00:00+00:00",
+          "excerpt": "How to decide which ecommerce categories deserve more internal links Search Engine Land",
+          "fetched_at": "2026-10-03T09:57:13.504455+00:00"
+        },
+        {
           "title": "What effective SEO client onboarding looks like: The first 90 days",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNl9SblZwRnpOU0ZrOEgyNzQtYk9jYnFIaTJYZUxZY0pkWVYwaEpQQ3BHS1hGa19JcjJsVHJ0Sk5MeTE4VklEd2FoeVp0amo1bXB6V1BfQ3RoOTNIb0M4cXpWeC15ZjNSLW1jRV9VbTFKODJaTmFjb0wtel9EVUE1eTFaVXowMjRM?oc=5",
           "published_at": "2026-10-02T13:00:00+00:00",
@@ -4361,14 +4382,14 @@
         {
           "title": "Google says main content is critical and describes how search quality raters evaluate it",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWhndzA2MTdabjVzb3dTT0x1S2tRcEhyNlMzcWZZV192QU92WTdWR3RNQ2VBZTByZklDR3hVWTlYbndZNzFaMEJQUXd3Rlh1cllXZFdQclFUR2ZlVWI5VmZsWk1ETC1meEJlZngzRVlJTm5yUHJDeXliRGZzMVNvMUkwNllwVlFMNjlWRUV5cVk5aHBOTXZnQzM4bnZ6bHVVRldSMkkyYWhkZnljdEljc3pOM2ZkTFpUOUpLRUVwdkZaZw?oc=5",
-          "published_at": "2026-10-02T12:33:00+00:00",
+          "published_at": "2026-10-02T12:33:34+00:00",
           "excerpt": "Google says main content is critical and describes how search quality raters evaluate it Search Engine Land",
           "fetched_at": "2026-10-02T17:55:54.006926+00:00"
         },
         {
           "title": "Google Search now says it's critical to manually factcheck and review all AI-generated content for accuracy and trustworthiness",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON18wY281TWxRYkpLV2xqMDF3T1llR1BKVEJBaC1TUFBzVVg0OHgzc3FVd2t2al9VUDgyYUdQdXBHWi1oWXg1VlRaRjVkZ0pxNTBNcEt4ZFlNUTlzbkVYeUxSNFVQX0N3UnYtU0pIb2lrdmd3enh2TXVRbFA5OTNVY3J2cGNlYjdaTTgyamwtcXE2bTlZMFlkbFQzdGgtQmx5SWVkVEY1Y0pzSTF3T3NidGQ5c2J3ZkptNS12Vi11YzdXQzFIbzEzTzhzZ0FCc19CbUZmUjA5TXhiMXdZRlFIWDRLc0FCX29YSkxuQmJYRzA3aVUt?oc=5",
-          "published_at": "2026-10-02T00:27:00+00:00",
+          "published_at": "2026-10-02T00:27:20+00:00",
           "excerpt": "Google Search now says it's critical to manually factcheck and review all AI-generated content for accuracy and trustworthiness Search Engine Land",
           "fetched_at": "2026-10-02T17:55:54.006926+00:00"
         },
@@ -4382,9 +4403,16 @@
         {
           "title": "Google clarifies ‘Destination not working’ ad policy with more examples",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVJzak9hXzhCdGVvczF4bTY2aG52bFBDQ1E5aFZDVEQtSTNsU2pBSjBYWHFLTUJERWVWa2FBYmtjNERERWY5ZUFaTmhoOGRSLXMxZURTalZQYXR3MU04bzNOYk4wMGlhVl9Wc2hTcWY5TWkxbTVrTVJ5a1laQW9BU0FBRVlESUFoYUlKNXYxeVhOdEd1d3dJWE42Z2QwSGZIcURpRjVwdDU?oc=5",
-          "published_at": "2026-10-01T17:07:00+00:00",
+          "published_at": "2026-10-01T17:07:13+00:00",
           "excerpt": "Google clarifies ‘Destination not working’ ad policy with more examples Search Engine Land",
           "fetched_at": "2026-10-02T10:36:34.236099+00:00"
+        },
+        {
+          "title": "AdsBot Archives",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yYWpMN0NIcVBBSDFUMUFGT1NvZTZCMjQ3dXA4RlRXclBHNFJYQkpoWllFUndXbWJ6UWhrUGxLNjRGTWlQaGpzZjVvMUJVMFdEVF9JZg?oc=5",
+          "published_at": "2026-10-01T17:07:00+00:00",
+          "excerpt": "AdsBot Archives Search Engine Land",
+          "fetched_at": "2026-10-03T09:57:13.504455+00:00"
         },
         {
           "title": "Penske Media lawsuit over Google AI Overviews dismissed",
@@ -4415,6 +4443,13 @@
           "fetched_at": "2026-10-02T10:36:34.236099+00:00"
         },
         {
+          "title": "Google location asset requirements: What you need to know",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPWkxuOVR4SnNHd3ZNbTAxWU9wZFViOXJMcDNFRE5wYjF1dXdsRkxvUjJzbnFFSlBiQnpsSDI0NEFpS21VazVmUVBrLVhQYjIzeUx2dk5WcWkzdFJ0YUw0bFcyTjR6dmQyUTZMLWtSc2tLUV93VnhrMmJn?oc=5",
+          "published_at": "2026-10-01T12:00:00+00:00",
+          "excerpt": "Google location asset requirements: What you need to know Search Engine Land",
+          "fetched_at": "2026-10-03T09:57:13.504455+00:00"
+        },
+        {
           "title": "OpenAI expands ChatGPT Ads with bulk product campaigns and deeper reporting",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXpxaXBNaHc3YVNELUcwYWVDX3ByZHJrMTRsa1VEZGNxTDBHNHhNZnlIYzdvSmIxRm95Z0NQbGFiclZIMThmU2JjR21UbnJ0eC1HdHlJdFk0d1M5NGFWU3NIMWcwbTFjbjJ6bmpNeXJrMHdDUnAyVWxuUnZiSUU2dVBYazB2SENFbVZkUVlVOFR5Zng1b05vejREMUFuTmhfMVZlc3o2Wm51THZzT1ZtOA?oc=5",
           "published_at": "2026-09-30T16:07:00+00:00",
@@ -4424,7 +4459,7 @@
         {
           "title": "Google AI contribution pilot earns publishers one-tenth of 1% of ad revenues",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNem51dFExWl9fSVRxYmhteDhXRlJ1SUN5bWpZeTQ1UHNOenFFRnBfdnpyeHphbGpzQVRzeGtIb1R4b3VHTUR0TEpmZzVQU0hfcHZOWlhzcUZXZnhJV2F3ZTJSalp6Q29xeTZ6cWFZRzFJeWM3bXZSODNCUEZSV2E2Z1RqdjY0Y3l2M2MwRzhzb1JLNE1mVHNIdlh1NTJiWjFERTVXWEswak1GNmppMW83MA?oc=5",
-          "published_at": "2026-09-30T15:50:00+00:00",
+          "published_at": "2026-09-30T15:50:43+00:00",
           "excerpt": "Google AI contribution pilot earns publishers one-tenth of 1% of ad revenues Search Engine Land",
           "fetched_at": "2026-10-01T18:28:54.395839+00:00"
         },
@@ -4487,7 +4522,7 @@
         {
           "title": "Amazon Ads taps Yelp to turn product purchases into local service leads",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXY3ODQyNHJmcGwyVmdnd2Vlc1BkSlRvX3BBWms0bkRDUHRXN0xMaXlqTUFhdWxWYlRoWk5TM2cxR3Y5bDZuTTRLYW53WjVuMG1fZTZxUXRqcGt6RHM4T2MyWTN3RmprWVFLZEhfbmdzOFhpR2NQcTl5b3ZOLXItcDFfN3JhNVhETUM5enFJeHpaNk81NnlOeElZejhLLUJ5REgxV25FRXRQMjQ?oc=5",
-          "published_at": "2026-09-29T14:10:00+00:00",
+          "published_at": "2026-09-29T14:10:48+00:00",
           "excerpt": "Amazon Ads taps Yelp to turn product purchases into local service leads Search Engine Land",
           "fetched_at": "2026-09-30T10:36:00.880685+00:00"
         },
@@ -4553,6 +4588,13 @@
           "published_at": "2026-09-28T17:06:00+00:00",
           "excerpt": "24 key user-generated content (UGC) Statistics for 2026 Search Engine Land",
           "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "Business statistics Archives",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NTkdwdFVFWUhKb1RCV2tEWUw0cVFRQ0FTdHNaU3JRU1NpUEozaEpTaDhVd0ZkaURsdUNSNDk2N25GS3I3S3FkOGl1amJMNUlHaFlYVlMtQkRlVHZBU2NwTFBzRFljZw?oc=5",
+          "published_at": "2026-09-28T16:06:00+00:00",
+          "excerpt": "Business statistics Archives Search Engine Land",
+          "fetched_at": "2026-10-03T09:57:13.504455+00:00"
         },
         {
           "title": "YouTube hashtags: How to use them to get more views",
@@ -4723,18 +4765,18 @@
           "fetched_at": "2026-09-24T17:22:59.645625+00:00"
         },
         {
-          "title": "How to use Google Veo to create video ads for PMax and Demand Gen",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MSkN6dzdlR1hqN2NDV0xRV0toV3k2YTIwbHU1YkZaRWJDZXNrSUZ3NnBnSFU1OHVBUEZzT3RybzZtQk1DZnMzd25HZ1JXR1h1Y21TY2xwVGxoUVlnUzZ6T2dtRzF5MHJURWcydjRJZDR1OVljUjV3SUJPRHU?oc=5",
-          "published_at": "2026-09-24T12:00:00+00:00",
-          "excerpt": "How to use Google Veo to create video ads for PMax and Demand Gen Search Engine Land",
-          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
-        },
-        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDl3Mnc4ME0wVFAwZlpLb2JSLXdJT1FkN2ZmZnRfcHFGdnNLRmZ1OF9BQXhiM1B0RjR6ZGFqeXpnYndIUmRTU1BUNEpvQXdZeURhSzM5OFhWYWU4QXc0djZrVjJUalRvSzZkNkpYNEM3VnAyWm9BMHFYVVMxNW1LMUtpR3pyTTBZWERQTEo3NEVWSks4cmhGTkJtNzV5SG1pNXhB?oc=5",
           "published_at": "2026-09-24T07:09:04+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
+          "title": "How to use Google Veo to create video ads for PMax and Demand Gen",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MSkN6dzdlR1hqN2NDV0xRV0toV3k2YTIwbHU1YkZaRWJDZXNrSUZ3NnBnSFU1OHVBUEZzT3RybzZtQk1DZnMzd25HZ1JXR1h1Y21TY2xwVGxoUVlnUzZ6T2dtRzF5MHJURWcydjRJZDR1OVljUjV3SUJPRHU?oc=5",
+          "published_at": "2026-09-24T07:00:00+00:00",
+          "excerpt": "How to use Google Veo to create video ads for PMax and Demand Gen Search Engine Land",
+          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -4779,13 +4821,6 @@
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
-          "title": "Google AI Mode cuts clicks and user satisfaction: Study",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclczZFctRmc4QlY5bzVnMmF4VUNteURCOGF2V0Z5dFZnendHNFNEVUxzb29yMVQyRDBlRXpaY3VrRGJYT2dSM2xUbmJFN0pmZnZPSUhvbjhyLTdsY0h0cWNkYUdJN1ROenlHLXJxOXJFekg0ZEdkZmR4cU5ZWldTTmh2R1dmVEhi?oc=5",
-          "published_at": "2026-09-23T13:53:00+00:00",
-          "excerpt": "Google AI Mode cuts clicks and user satisfaction: Study Search Engine Land",
-          "fetched_at": "2026-09-24T09:24:13.792004+00:00"
-        },
-        {
           "title": "How to segment SEO data for multi-location brands",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtcC1tdEFqWFRMQ2o4TkpxWFZYajdwRloxckJ3d1BHM3pUdFdpU0ItU1BwMGxienRfNE1ZbVc2dGZfQ1B5TFo3Yk5iM3BRRThYcjJOM3JvSU1OSm4tZlRfbl8zUlRnTWlGc0tkY0J2dklXZEVxdVRBRWRJSzFHTmM?oc=5",
           "published_at": "2026-09-23T13:00:00+00:00",
@@ -4818,6 +4853,13 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUllWWhweVl1aXZYd0d2ZXAyYWJFYTRPbkpUYkdZSTJwYVBJNm51ZXFaQ0FieWVvejhFZWdFNzdNdnNZekVQLV9tTUJJS2kxX1RGRTB5dFJ6Q2hJTjZMeVpDdjFlQ2QwdndLVU9lZ2FFbjJlMWlrSVViWERDQWZoa250QUFsZnVVX1lzaTBNbw?oc=5",
           "published_at": "2026-09-23T07:00:00+00:00",
           "excerpt": "Google expands its list of local advertising codes Search Engine Land",
+          "fetched_at": "2026-09-24T09:24:13.792004+00:00"
+        },
+        {
+          "title": "Google AI Mode cuts clicks and user satisfaction: Study",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclczZFctRmc4QlY5bzVnMmF4VUNteURCOGF2V0Z5dFZnendHNFNEVUxzb29yMVQyRDBlRXpaY3VrRGJYT2dSM2xUbmJFN0pmZnZPSUhvbjhyLTdsY0h0cWNkYUdJN1ROenlHLXJxOXJFekg0ZEdkZmR4cU5ZWldTTmh2R1dmVEhi?oc=5",
+          "published_at": "2026-09-23T07:00:00+00:00",
+          "excerpt": "Google AI Mode cuts clicks and user satisfaction: Study Search Engine Land",
           "fetched_at": "2026-09-24T09:24:13.792004+00:00"
         },
         {
@@ -4898,17 +4940,17 @@
           "fetched_at": "2026-09-22T17:05:16.257811+00:00"
         },
         {
-          "title": "Crawl budget: What you need to know in 2027",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1paENnTEVMYWlTOW1laUppNmtxWkY2NE9ObGtfd3RIc1BFVGNjc25FOHU3ZkV4dDJucUlESE1zN2I2XzRyV1JQaThkV3pnemhqZDNhUXBDMWlvcUdEUFh0NExiMTdfWnNjaWZ1WlZ0WHpEYVdGS2lPcnFB?oc=5",
-          "published_at": "2026-09-22T13:06:51+00:00",
-          "excerpt": "Crawl budget: What you need to know in 2027 Search Engine Land",
+          "title": "Pagination and SEO: What you need to know in 2027",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50eC1uWWxKWnVEOGZDZ1lDSG45OHdwZWdTc2x2ZFk2MVBkRUtmbDBNTXhwdFk0b25fRjQ4ZDQ0NmtvN3F5RGs1SWZ0TlgyOFZSX0hzTDhzR1N4bFh5YTZ3aGNET3J6ZjA1RVdfTE5OYUNuZW9ndGlCdlo3elA?oc=5",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "excerpt": "Pagination and SEO: What you need to know in 2027 Search Engine Land",
           "fetched_at": "2026-09-22T17:05:16.257811+00:00"
         },
         {
-          "title": "Pagination and SEO: What you need to know in 2027",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50eC1uWWxKWnVEOGZDZ1lDSG45OHdwZWdTc2x2ZFk2MVBkRUtmbDBNTXhwdFk0b25fRjQ4ZDQ0NmtvN3F5RGs1SWZ0TlgyOFZSX0hzTDhzR1N4bFh5YTZ3aGNET3J6ZjA1RVdfTE5OYUNuZW9ndGlCdlo3elA?oc=5",
-          "published_at": "2026-09-22T12:00:00+00:00",
-          "excerpt": "Pagination and SEO: What you need to know in 2027 Search Engine Land",
+          "title": "Crawl budget: What you need to know in 2027",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1paENnTEVMYWlTOW1laUppNmtxWkY2NE9ObGtfd3RIc1BFVGNjc25FOHU3ZkV4dDJucUlESE1zN2I2XzRyV1JQaThkV3pnemhqZDNhUXBDMWlvcUdEUFh0NExiMTdfWnNjaWZ1WlZ0WHpEYVdGS2lPcnFB?oc=5",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "excerpt": "Crawl budget: What you need to know in 2027 Search Engine Land",
           "fetched_at": "2026-09-22T17:05:16.257811+00:00"
         },
         {
@@ -9659,6 +9701,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Shopify Now Enrolls Your Store In Every New AI Shopping Channel via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/",
+          "published_at": "2026-10-02T19:00:52+00:00",
+          "excerpt": "Shopify merchants: your agentic storefronts setting now shares products with Meta and unnamed startups. Leave it on, and watch what Shopify adds. The post Shopify Now Enrolls Your Store In Every New AI Shopping Channel appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-03T09:57:22.035685+00:00"
+        },
+        {
           "title": "OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/",
           "published_at": "2026-10-02T15:49:43+00:00",
@@ -10455,6 +10504,13 @@
           "published_at": "2026-09-12T00:00:00+00:00",
           "excerpt": "Google redesigned Search results across the EEA, Business Profile posts get view counts again, and ChatGPT Shopping now leans harder on product feeds. The post Google Search Redesign, Business Profile Post Views – SEO Pulse appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-12T15:39:37.219958+00:00"
+        },
+        {
+          "title": "AI Search Tracking Checklist: How to Attribute Calls From ChatGPT, Claude, and Perplexity",
+          "url": "https://www.searchenginejournal.com/partner-resources/ai-search-tracking-checklist-how-to-attribute-calls/?itm_source=website&itm_medium=home-page&itm_campaign=synd-callrail-091126",
+          "published_at": "2026-09-11T15:50:50+00:00",
+          "excerpt": "Download CallRail’s AI Search Tracking Checklist to attribute calls from ChatGPT, Claude, and Perplexity and prove how AI search is driving real leads.",
+          "fetched_at": "2026-10-03T09:57:22.035685+00:00"
         },
         {
           "title": "What Wikipedia Reveals About AI Overviews And Web Traffic",
