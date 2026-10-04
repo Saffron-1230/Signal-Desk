@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T10:40:39.864687+00:00",
+  "last_updated": "2026-10-04T16:54:47.996134+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4380,6 +4380,13 @@
           "fetched_at": "2026-10-03T16:32:56.535793+00:00"
         },
         {
+          "title": "Google Ads will automatically pull promotions from advertisers’ websites",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEZBTE01LXBOQmZXTTl4Q2pLdG1HVFdTS1JfZmhyR1QwSXZtczB4TzF1YUdHMjhIeG0yUmFWTjlQdE9hdl9KazRSMENiT2tPRXJOejREU2p4WHFORzEzV3RPeFIwODZXMHVWUVA2cmtQMFB6OWZsc2xQajdSR29DQXhYbTREaVI3VHBLM3pIS0Z6b0hsaEkyVjVubHBkbkNLbTFYQ3lLNWVKYUE?oc=5",
+          "published_at": "2026-10-02T15:45:59+00:00",
+          "excerpt": "Google Ads will automatically pull promotions from advertisers’ websites Search Engine Land",
+          "fetched_at": "2026-10-04T16:54:31.035574+00:00"
+        },
+        {
           "title": "How to decide which ecommerce categories deserve more internal links",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcEMyQlB6eWJaU0htUE1lM0Y1WGZKaGFCdjFzVTlNUDl4dTltMzRqVUNqaFc0aTVJblBORmFwTnRGOTV4aC0wZDkweDhITDNxUEVOd0Fxa2x1YXBPM0dHWVdERVNDZlN0bXFZMkhweDlzVDFUbUdEaGxLMGRNaDMzc0s3TG5ITmNRMnZjZ2M3TS11WWxKQkFsZ3JpWXJEbHhpbUlETlFoUQ?oc=5",
           "published_at": "2026-10-02T14:00:00+00:00",
@@ -4438,7 +4445,7 @@
         {
           "title": "Google AI Overviews jump from 26% to 80% of branded queries",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0ltM3IzUnoxR2RYMkpoYXl3S05pWjYzajJXd0hFcXptY1l6OGdHQS1udWRhWXgxOC1mdTE4S0JHM2hidG11cGZ2dkZCZHNGVy04ZTRtdTV5d3hTcjJtWXYwNEZ6MnVGUDgtT2Q2Q1JUMEJNNXN2UWRUWWY4VjdaN3dQUy1mMU1DQndSMmEwaw?oc=5",
-          "published_at": "2026-10-01T16:17:00+00:00",
+          "published_at": "2026-10-01T16:17:08+00:00",
           "excerpt": "Google AI Overviews jump from 26% to 80% of branded queries Search Engine Land",
           "fetched_at": "2026-10-02T10:36:34.236099+00:00"
         },
@@ -4592,7 +4599,7 @@
         {
           "title": "Microsoft opens Excluded Content Terms to all advertisers",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmEzc1lYWUtOQjAyZnRHOFVMN216YVplMWtHUlFnRGMyY25DY2VqcngxbmhsN2JjN1pJeEtzLTVfdnlFOVprR1BCY2h5ZnI1b1ltcGFkR2hpNlNFbU5SRWZsLTdXUlBBRDRTOFJlZG5mMzRyVDVDb1NkdTJoeGtOVnJzbXA1a1ktZ1ljZjNZdXhqbHRVeU9oMA?oc=5",
-          "published_at": "2026-09-28T17:45:00+00:00",
+          "published_at": "2026-09-28T17:45:04+00:00",
           "excerpt": "Microsoft opens Excluded Content Terms to all advertisers Search Engine Land",
           "fetched_at": "2026-09-29T10:48:12.552095+00:00"
         },
@@ -9614,6 +9621,13 @@
           "published_at": "2023-03-28T08:19:46+00:00",
           "excerpt": "Your guide to speaking at SMX Search Engine Land",
           "fetched_at": "2026-09-02T08:52:52.717674+00:00"
+        },
+        {
+          "title": "SMX® Next | SEO, GEO, PPC, and AI training | Online Nov. 18",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83aVJQbnFDN1JpVzd4TUpBSXJkVzJyX1A2NVlKNXJYR282eHBJdXlHS0pGT0pZbmRidGNrLXhGRmlTa3ROMFJNU3NSWmVVUQ?oc=5",
+          "published_at": "2023-03-27T21:29:20+00:00",
+          "excerpt": "SMX® Next | SEO, GEO, PPC, and AI training | Online Nov. 18 Search Engine Land",
+          "fetched_at": "2026-10-04T16:54:31.035574+00:00"
         },
         {
           "title": "SMX® | Search Marketing Expo | Expert-led SEO, PPC, and AI Training",
