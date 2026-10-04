@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T16:33:17.651664+00:00",
+  "last_updated": "2026-10-04T10:40:39.864687+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4359,6 +4359,13 @@
           "fetched_at": "2026-10-03T09:57:13.504455+00:00"
         },
         {
+          "title": "What is web copywriting?",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WbkUwYlVqOXk4dnI0OFRZRVBZSnprVEVOX0dEQlFuaG9UTDExOTJnS01jR1BVcUpZeW1TcDhfNTV6eDZhanowVjFIblBjeGJSZjFjRGZuMEJtTkZ5Y1hj?oc=5",
+          "published_at": "2026-10-02T18:44:09+00:00",
+          "excerpt": "What is web copywriting? Search Engine Land",
+          "fetched_at": "2026-10-04T10:40:23.953059+00:00"
+        },
+        {
           "title": "Google Ads loosens business name rules for some advertisers",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOU1fSmtYcFhiNlR1LTcycThEbEFrUDRJYnN5YXJJZmk3Mml1ZUFRRGVRcUU0MHd0R0lWZ2RlbkJ3ajdrNkM4VElRM25MbGdNTkpST2txVzJ3TW5ESDl2ZnVEdzhwMGwxT0Y4THF5bUNwZUFZSmR3ZS16cU5rX0stWTdhWTNnT0VUaG40QVZhMGRLM2hmcnMwcG53cw?oc=5",
           "published_at": "2026-10-02T16:09:40+00:00",
@@ -4424,7 +4431,7 @@
         {
           "title": "Penske Media lawsuit over Google AI Overviews dismissed",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0dOQ2VBcm9WTHhuVXpJTTVnSEhycDdXQUxPU0JNanRYaTYxdi1rN3YxNldRY1Jaamg1MnNjeWR6akZZUmctbmJ1a0F3YVV0UDhxek11UjVBQ3lMcGN2YlhBRGRHYUg1blhveUlHd05pTFhrYUZaRnVyZ2tmZTNqOWpaaklJTXRXRUtJT0tDNkd0TWpscWc?oc=5",
-          "published_at": "2026-10-01T16:54:00+00:00",
+          "published_at": "2026-10-01T16:54:59+00:00",
           "excerpt": "Penske Media lawsuit over Google AI Overviews dismissed Search Engine Land",
           "fetched_at": "2026-10-01T18:28:54.395839+00:00"
         },
@@ -4441,6 +4448,13 @@
           "published_at": "2026-10-01T16:17:00+00:00",
           "excerpt": "Ginzamarkets, Inc. Archives Search Engine Land",
           "fetched_at": "2026-10-02T10:36:34.236099+00:00"
+        },
+        {
+          "title": "What is visual content? 17 types that drive links, shares, and traffic",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14T21uQl9iQWNTX3ptLWgwUDZNOW9vTjN1YVpaVVp3eEFnWEstbFdNb0VvVFVwMEctT1FwTG1tSk8yZ25YSHJpNjM5M1htcThoeFg1T1NGNWdMTzF1ZlE?oc=5",
+          "published_at": "2026-10-01T16:00:55+00:00",
+          "excerpt": "What is visual content? 17 types that drive links, shares, and traffic Search Engine Land",
+          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
           "title": "The best SEO hires bring judgment, not just expertise",
@@ -4493,6 +4507,13 @@
         },
         {
           "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXRlOVNjVzRWNXpSWWp4Z2lCU3htMTJrV2ZYRzdadjFpTVVDM1h2dndsN2lPaVp0OU4wWDFqNE53RWp6cmx3LWhEdGpvQkFDRHRWc016N0tEWXFQNVFtcHd1Y185d3ZWNlA3T3VfUmhPcHhQckNMTzh0ZkRlTWtkVXdzQWZwbzNjOExvb0tic3JDd0ZMWmRwc1ZlME54MDBvNUM0bnlMVlJYbWFyMG5j?oc=5",
+          "published_at": "2026-09-30T02:03:07+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-10-04T10:40:23.953059+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNHVLLXMyZ05LcjR1QjBVVFVUS09KU2oyQW1ack5HZzZuNEctaXg3M000d0VHREhRZ0lYMk9Yek8zNGhhQk1NODBLc1RCMkN1Und6U0wzSmdqWjFnaGdBZm5aYVNIZ0VoUzJLX3FGbU9hVUlGYVo2MkxiM2VaakVRZ29rUWpzSDF1NXRaZzAzcTdKcV9XMm9TS0EybFhUUQ?oc=5",
           "published_at": "2026-09-29T22:17:51+00:00",
           "excerpt": "Search Engine Land",
@@ -4501,7 +4522,7 @@
         {
           "title": "Report: ChatGPT Ads are growing fast, but advertisers are still figuring them out",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOW1NSXlLanlMUzV0bjlQRVV5NTBER2xtMm9zWFJOdEhwdzJPOEU1ZE41NDhFNDFCNWlSTEJJTm0zZkxuUWtkTVBNRUJVdngyTmx2Vzl1VV9WR01yOTZUbjNSRjlISDJ4dTFxS29qeFp0TXBQV2VTZFpWNDhmTlpoYnFNM0FRTU9NLTFhMDJKX0dVUUlXTmp5eDlXbExCXzB2eGVoRTRnSWFOTWdyNUlhQkhvS0k?oc=5",
-          "published_at": "2026-09-29T18:55:00+00:00",
+          "published_at": "2026-09-29T18:55:49+00:00",
           "excerpt": "Report: ChatGPT Ads are growing fast, but advertisers are still figuring them out Search Engine Land",
           "fetched_at": "2026-09-30T10:36:00.880685+00:00"
         },
@@ -4557,7 +4578,7 @@
         {
           "title": "Google AI Mode monitoring capabilities now live for all",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeFlMamJwOE01WXloMVR1dGVpa192ZXJVWTlMazlIWVN2LWxLM0FvYW55UlJ2dmZ6Q1Y0RzVsX0FaWlh2VG9KR3ZFX2hJRl9KZTh2OTlmX3dZZ1dQMDU5RnhDSHlmUEVtYmd3bm1IR3E1YkdpU2JuOV9fbHJ4UUgtamd1U1hmZXp2RGJZNGpySmR5emh6T0E?oc=5",
-          "published_at": "2026-09-29T12:35:00+00:00",
+          "published_at": "2026-09-29T12:35:05+00:00",
           "excerpt": "Google AI Mode monitoring capabilities now live for all searchengineland.com",
           "fetched_at": "2026-09-29T18:09:32.043366+00:00"
         },
@@ -4592,7 +4613,7 @@
         {
           "title": "24 key user-generated content (UGC) Statistics for 2026",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OYklVdnR6cUNJWTZtTnBzME9weW5SV0tfWGFoVVVFVy1fSUJNZXBUMkpEd2xHOHkzbURpVF90bnJqbTJvMFZzVGlTUS1JR1B5aTdjSkl1TWh5S3ZXRVE?oc=5",
-          "published_at": "2026-09-28T17:06:00+00:00",
+          "published_at": "2026-09-28T17:06:36+00:00",
           "excerpt": "24 key user-generated content (UGC) Statistics for 2026 Search Engine Land",
           "fetched_at": "2026-09-29T10:48:12.552095+00:00"
         },
@@ -4646,20 +4667,6 @@
           "fetched_at": "2026-09-26T09:26:26.421692+00:00"
         },
         {
-          "title": "Microsoft Ads API adds deeper search reporting and more PMax controls",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUhWeU9Yb2tTOE55eHNrWVRYc3BHWWFKZzNvQktVaW15Um9BRnBWamMwMnc4MGdMTVJrclhVY2tGNUxiRFhpeWFHMlg0eFpBNS1DcEcweEhXaUZpZkZKNEVROE04VEhEbkFGX3NSYmUtZkhqem0tVkN2d0h2clRscWJWcVdOZWs2TmFDQUEwVGEzb1BBdFBHdTl2R3JDMlpPd0tlN3pVOGY?oc=5",
-          "published_at": "2026-09-25T17:37:00+00:00",
-          "excerpt": "Microsoft Ads API adds deeper search reporting and more PMax controls Search Engine Land",
-          "fetched_at": "2026-09-26T09:26:26.421692+00:00"
-        },
-        {
-          "title": "Google Ads adds IP address and timestamp matching to Customer Match",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOERrNVhscGV0S3BrTGVRdG5aZWZXdkRGNzhzQVRRUFI4WmpIZ3hueU5OSS1RWmtrcER6aG5iTjBEek9rODdKa203WXpuRVF4aGhVQTFWM0VFdG9xT1cwb0t5Tmxxb1lQY1FSNXZXdUh6bk1MMXMzdkdpbnJEdUVYcUhHWEYtc3VTdUJNMHJMQ1hsX3VUamtjQk0wclBFMDE3M01KUzJn?oc=5",
-          "published_at": "2026-09-25T16:46:00+00:00",
-          "excerpt": "Google Ads adds IP address and timestamp matching to Customer Match Search Engine Land",
-          "fetched_at": "2026-09-27T10:06:01.740157+00:00"
-        },
-        {
           "title": "The latest jobs in search marketing",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
           "published_at": "2026-09-25T16:31:00+00:00",
@@ -4674,25 +4681,11 @@
           "fetched_at": "2026-09-29T10:48:12.552095+00:00"
         },
         {
-          "title": "SMX Advanced San Diego 2027 speaker pitches are now open",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUFZIVFNxa2tSaXdHVnMyMGlOZUhHRFpsWEJ0aUt1MlZ1TjRuRG1JZHFUU3dqamZNb2V5a1p6MmQ0MVZsRTE2VVU3LW04NjI3bGI4dVV3VkxjVEkxYk4zWk4ya09obnpT?oc=5",
-          "published_at": "2026-09-25T15:17:00+00:00",
-          "excerpt": "SMX Advanced San Diego 2027 speaker pitches are now open Search Engine Land",
-          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
-        },
-        {
           "title": "10 ways Claude can derail your SEO if you don’t check its work",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DbWl0emJMVk5QcUhaUXF5NXhtdzlFSlV5WlFiSFJTUVhQWkNtZXFoUEd1OVk3dGJidmhKYVlfTm9LdGNJZlNpeFpfRlNZR1VuekZ2SmN1YjVrYlpoaThUYlp2Yw?oc=5",
           "published_at": "2026-09-25T15:00:00+00:00",
           "excerpt": "10 ways Claude can derail your SEO if you don’t check its work Search Engine Land",
           "fetched_at": "2026-09-27T17:05:28.878590+00:00"
-        },
-        {
-          "title": "Your AI content watermark isn’t what Google is looking for",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0N5SlB6VWVGY3dkcXFUTDF6cDVWbGxja2hhQW5oSkE0dXZMZTFuUmUxWXZkcEtJVkFDVUVubUlpSGZtVDltRkhnVFZVUmRoR2RqNUVfQ09IOFhxZ29YYUd0U09lNi1QY2ZqX2xUTFE4NTMyNzdGTjdVUzFSdkJVbTNKRGNsaGhMVTh4NWctSWJTS3Q2MmdqYw?oc=5",
-          "published_at": "2026-09-25T14:00:00+00:00",
-          "excerpt": "Your AI content watermark isn’t what Google is looking for Search Engine Land",
-          "fetched_at": "2026-09-26T09:26:26.421692+00:00"
         },
         {
           "title": "When more PPC budget doesn’t equal more leads",
@@ -4702,10 +4695,38 @@
           "fetched_at": "2026-09-28T11:05:12.335424+00:00"
         },
         {
+          "title": "SMX Advanced San Diego 2027 speaker pitches are now open",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUFZIVFNxa2tSaXdHVnMyMGlOZUhHRFpsWEJ0aUt1MlZ1TjRuRG1JZHFUU3dqamZNb2V5a1p6MmQ0MVZsRTE2VVU3LW04NjI3bGI4dVV3VkxjVEkxYk4zWk4ya09obnpT?oc=5",
+          "published_at": "2026-09-25T07:00:00+00:00",
+          "excerpt": "SMX Advanced San Diego 2027 speaker pitches are now open Search Engine Land",
+          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
+        },
+        {
+          "title": "Your AI content watermark isn’t what Google is looking for",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0N5SlB6VWVGY3dkcXFUTDF6cDVWbGxja2hhQW5oSkE0dXZMZTFuUmUxWXZkcEtJVkFDVUVubUlpSGZtVDltRkhnVFZVUmRoR2RqNUVfQ09IOFhxZ29YYUd0U09lNi1QY2ZqX2xUTFE4NTMyNzdGTjdVUzFSdkJVbTNKRGNsaGhMVTh4NWctSWJTS3Q2MmdqYw?oc=5",
+          "published_at": "2026-09-25T07:00:00+00:00",
+          "excerpt": "Your AI content watermark isn’t what Google is looking for Search Engine Land",
+          "fetched_at": "2026-09-26T09:26:26.421692+00:00"
+        },
+        {
+          "title": "Microsoft Ads API adds deeper search reporting and more PMax controls",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUhWeU9Yb2tTOE55eHNrWVRYc3BHWWFKZzNvQktVaW15Um9BRnBWamMwMnc4MGdMTVJrclhVY2tGNUxiRFhpeWFHMlg0eFpBNS1DcEcweEhXaUZpZkZKNEVROE04VEhEbkFGX3NSYmUtZkhqem0tVkN2d0h2clRscWJWcVdOZWs2TmFDQUEwVGEzb1BBdFBHdTl2R3JDMlpPd0tlN3pVOGY?oc=5",
+          "published_at": "2026-09-25T07:00:00+00:00",
+          "excerpt": "Microsoft Ads API adds deeper search reporting and more PMax controls Search Engine Land",
+          "fetched_at": "2026-09-26T09:26:26.421692+00:00"
+        },
+        {
           "title": "Google Ads API v25.2 adds competitive benchmarks and PMax upgrades",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1pBcXJFazhwVEVENERqTE15d2d6UVhCMXN2aTJfVUdwdF9xS05scm9Cc2I4bWlTXzV0VklVZWVPLWxGN2VuS2dibDdCb2hsMVhwamtKX2QzWldWTW43VjE3TU5YenhfeUUwaFNabDlybVAyRVgyVllNazZuR29TSHF6aHFOd3dhcUc3enJfa2FpSHNJVy1MLXdjNTNyWUdBdm5TLQ?oc=5",
           "published_at": "2026-09-25T07:00:00+00:00",
           "excerpt": "Google Ads API v25.2 adds competitive benchmarks and PMax upgrades Search Engine Land",
+          "fetched_at": "2026-09-27T10:06:01.740157+00:00"
+        },
+        {
+          "title": "Google Ads adds IP address and timestamp matching to Customer Match",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOERrNVhscGV0S3BrTGVRdG5aZWZXdkRGNzhzQVRRUFI4WmpIZ3hueU5OSS1RWmtrcER6aG5iTjBEek9rODdKa203WXpuRVF4aGhVQTFWM0VFdG9xT1cwb0t5Tmxxb1lQY1FSNXZXdUh6bk1MMXMzdkdpbnJEdUVYcUhHWEYtc3VTdUJNMHJMQ1hsX3VUamtjQk0wclBFMDE3M01KUzJn?oc=5",
+          "published_at": "2026-09-25T07:00:00+00:00",
+          "excerpt": "Google Ads adds IP address and timestamp matching to Customer Match Search Engine Land",
           "fetched_at": "2026-09-27T10:06:01.740157+00:00"
         },
         {
@@ -4721,13 +4742,6 @@
           "published_at": "2026-09-24T16:48:00+00:00",
           "excerpt": "Conductor CEO Seth Besmertnik steps down after 20 years Search Engine Land",
           "fetched_at": "2026-09-25T09:41:59.840113+00:00"
-        },
-        {
-          "title": "Google releases September 2026 spam update",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQampqQW1mT1FYc1REYlo4alZYek5Ja2dvS1BXZlV1WW9GR25GZnUxT3FxLTJ3RnpDOHgwWXdrSG40SEFEYXVGdkJ5bU1kUVBxaV9DMDd1bTVuU0lVSVg4LUNzNTRqdlZYR2FiSUJ2QWFCczRMakRaam1QQXVOUVlMMjJGbzk?oc=5",
-          "published_at": "2026-09-24T16:27:00+00:00",
-          "excerpt": "Google releases September 2026 spam update Search Engine Land",
-          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
         },
         {
           "title": "How to use SimilarWeb for SEO and content marketing",
@@ -4758,18 +4772,25 @@
           "fetched_at": "2026-09-24T17:22:59.645625+00:00"
         },
         {
-          "title": "Google Search Console performance reports gets multimodal filter",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVA3MFFseExnRVFlNjQxM3dEWkgwd0hTdUt2RUZ2aFJSN1BXdEpRd3RLb25nTTRlYW0xd1pTYkdiMXZkN1pZTlVScXpUOTdTbUw1Z09yMzNXajdFZXpwS1ZnNU5iTUlYM1I1dGw2SGxpTzEzZ2x5ZjVWZkpEa0Y2SV9HZkhSYWdyOTlBc2pZYlloeFloNXBwN2JhZ2tkdnRzTkE?oc=5",
-          "published_at": "2026-09-24T12:40:00+00:00",
-          "excerpt": "Google Search Console performance reports gets multimodal filter Search Engine Land",
-          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
-        },
-        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDl3Mnc4ME0wVFAwZlpLb2JSLXdJT1FkN2ZmZnRfcHFGdnNLRmZ1OF9BQXhiM1B0RjR6ZGFqeXpnYndIUmRTU1BUNEpvQXdZeURhSzM5OFhWYWU4QXc0djZrVjJUalRvSzZkNkpYNEM3VnAyWm9BMHFYVVMxNW1LMUtpR3pyTTBZWERQTEo3NEVWSks4cmhGTkJtNzV5SG1pNXhB?oc=5",
           "published_at": "2026-09-24T07:09:04+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
+          "title": "Google Search Console performance reports gets multimodal filter",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVA3MFFseExnRVFlNjQxM3dEWkgwd0hTdUt2RUZ2aFJSN1BXdEpRd3RLb25nTTRlYW0xd1pTYkdiMXZkN1pZTlVScXpUOTdTbUw1Z09yMzNXajdFZXpwS1ZnNU5iTUlYM1I1dGw2SGxpTzEzZ2x5ZjVWZkpEa0Y2SV9HZkhSYWdyOTlBc2pZYlloeFloNXBwN2JhZ2tkdnRzTkE?oc=5",
+          "published_at": "2026-09-24T07:00:00+00:00",
+          "excerpt": "Google Search Console performance reports gets multimodal filter Search Engine Land",
+          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
+        },
+        {
+          "title": "Google releases September 2026 spam update",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQampqQW1mT1FYc1REYlo4alZYek5Ja2dvS1BXZlV1WW9GR25GZnUxT3FxLTJ3RnpDOHgwWXdrSG40SEFEYXVGdkJ5bU1kUVBxaV9DMDd1bTVuU0lVSVg4LUNzNTRqdlZYR2FiSUJ2QWFCczRMakRaam1QQXVOUVlMMjJGbzk?oc=5",
+          "published_at": "2026-09-24T07:00:00+00:00",
+          "excerpt": "Google releases September 2026 spam update Search Engine Land",
+          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
         },
         {
           "title": "Generative engine optimization (GEO): How to win AI mentions",
@@ -4791,13 +4812,6 @@
           "published_at": "2026-09-24T00:14:22+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
-        },
-        {
-          "title": "BuzzStream review: Is this link building and outreach tool worth it?",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fTF9OXzdZeWdFcXJ6SmFIclh4SkV5LXU4c3RaQjhzdjBXRnFYaXNIUDJ3R2dDQ1cwLU5PU0ZpYlRWVUh6WTc0cFpvSF9idDlrV2xYSjdVTWlZTkpXZTBpZF9JQjQ?oc=5",
-          "published_at": "2026-09-23T20:37:00+00:00",
-          "excerpt": "BuzzStream review: Is this link building and outreach tool worth it? Search Engine Land",
-          "fetched_at": "2026-09-24T09:24:13.792004+00:00"
         },
         {
           "title": "How much of your Google Ads conversions come from AI Max?",
@@ -4870,6 +4884,13 @@
           "fetched_at": "2026-09-24T09:24:13.792004+00:00"
         },
         {
+          "title": "BuzzStream review: Is this link building and outreach tool worth it?",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fTF9OXzdZeWdFcXJ6SmFIclh4SkV5LXU4c3RaQjhzdjBXRnFYaXNIUDJ3R2dDQ1cwLU5PU0ZpYlRWVUh6WTc0cFpvSF9idDlrV2xYSjdVTWlZTkpXZTBpZF9JQjQ?oc=5",
+          "published_at": "2026-09-23T07:00:00+00:00",
+          "excerpt": "BuzzStream review: Is this link building and outreach tool worth it? Search Engine Land",
+          "fetched_at": "2026-09-24T09:24:13.792004+00:00"
+        },
+        {
           "title": "Google expands AI Brief and adds deeper AI Max reporting",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnZBcDB4Z2dHMW5jOWYwTXVIVDhfSVNDTGFwM2pXbDhGOXBEY2JQXzhoT3RYNk9uZXYyQlItZEhHamZmSExyNnpEWExGR3BIYk5HdVBNcEpGT2pxZjJJM3lVdXJQZ1ZzOVJDUVdXalJodHFMYzFFamZ5cWlRbG16aXI3SnJhMmQ5VDBpaHk1dzB4LXoxTU5v?oc=5",
           "published_at": "2026-09-23T07:00:00+00:00",
@@ -4881,13 +4902,6 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXRxS2s2c1ZWTUtFQmwyQ1ZrS19ySmx3NjI0bV8wNU9GcnIwWXBLa3VTSDdsWVRMaVVUYkdYR3UtZGJvZTlTSVllcXJhUFR5Y1BrcjF1RTBjT0xZdHpoYVM4U2xDVnphMDFkN2NfTzdqRDFfbmFhdFFVS0VNY2JLRGlxbVN6bUZxV0I5czd4ck56WDJORDkwbXg2SUhXNVU?oc=5",
           "published_at": "2026-09-22T19:30:00+00:00",
           "excerpt": "CrUX ad metrics added to the page experience SEO documentation Search Engine Land",
-          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
-        },
-        {
-          "title": "What is visual content? 17 types that drive links, shares, and traffic - searchengineland.com",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14T21uQl9iQWNTX3ptLWgwUDZNOW9vTjN1YVpaVVp3eEFnWEstbFdNb0VvVFVwMEctT1FwTG1tSk8yZ25YSHJpNjM5M1htcThoeFg1T1NGNWdMTzF1ZlE?oc=5",
-          "published_at": "2026-09-22T18:50:00+00:00",
-          "excerpt": "What is visual content? 17 types that drive links, shares, and traffic Search Engine Land",
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
@@ -4973,6 +4987,13 @@
           "published_at": "2026-09-22T07:00:00+00:00",
           "excerpt": "Google Ads reframes Smart Bidding learning around 50 conversions Search Engine Land",
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
+          "title": "SEO attribution is still broken. Stop trying to make it perfect.",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkRJYjRFVE1YV3ZsYWdRWHprRXAzWVZiMEdaMkRDeUdjTklWaHlqaFdOczY5UWRDRGRuVE93RFZHMDdfbGpUZ051RGtRQktIeW5yR2NOa2hZRklmR0NGZG9xWnVhbnE2eGxUZER5U3o0Z1Y5MHBjYWllZ1RNWU93cUF2NmNreFd3MlE?oc=5",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "excerpt": "SEO attribution is still broken. Stop trying to make it perfect. Search Engine Land",
+          "fetched_at": "2026-10-04T10:40:23.953059+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -9511,6 +9532,13 @@
           "fetched_at": "2026-09-18T09:05:22.698345+00:00"
         },
         {
+          "title": "Free Competitor Analysis Tool - Get Traffic & SEO Insights",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wSWN3c2k5S2NsdzVTZFZTV1hlaFZQUjZHLV9QczdyMWRsMzA4clhoNEpVQlJHMlhGMmxGV3V6RVAxWGY0YWZBRDNZeDcxa3RBeU11YXNMcXNvQ2F1czlWdVhJSUlWb1BESHJ3?oc=5",
+          "published_at": "2025-02-05T15:07:46+00:00",
+          "excerpt": "Free Competitor Analysis Tool - Get Traffic & SEO Insights Search Engine Land",
+          "fetched_at": "2026-10-04T10:40:23.953059+00:00"
+        },
+        {
           "title": "Semrush",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WMGRjSnRLMHVPUEVDTVUzaEo3T3JlTzRqV3FzcU56TEZQX0tDRm1SWjZJTnJ3aUdvQTBwY1pvX3ZudGRGblFQLWk2ektRVVlZaDU1dnZB?oc=5",
           "published_at": "2024-11-26T14:59:02+00:00",
@@ -9572,6 +9600,13 @@
           "published_at": "2023-03-28T17:57:09+00:00",
           "excerpt": "Advanced Google Ads SMX® Master Class | Brad Geddes | Oct. 13 Search Engine Land",
           "fetched_at": "2026-10-01T18:28:54.395839+00:00"
+        },
+        {
+          "title": "Search Marketing Workshops from SMX | Online October 2026",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhSGdweGdKd3MxckRQUUFVZE1NYVBuc3Y0cW9FNkhkS09IWWRlLWVwSjVvbEN1czBodnBWN1I1dWdSdkZobFVHTUREcWFaSUtkXzQweWU5WDQ1VFU?oc=5",
+          "published_at": "2023-03-28T14:06:29+00:00",
+          "excerpt": "Search Marketing Workshops from SMX | Online October 2026 Search Engine Land",
+          "fetched_at": "2026-10-04T10:40:23.953059+00:00"
         },
         {
           "title": "Your guide to speaking at SMX",
