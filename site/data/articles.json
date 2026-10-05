@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T11:41:36.565521+00:00",
+  "last_updated": "2026-10-05T20:43:28.282416+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4352,6 +4352,41 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "What is generative AI and how does it work?",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtTm93bENFbVhhNnZtQTF6c1lDakVfNEZ4S2lWTWEydm5KUThEMnFPSVhnajlyOC04Mjh2VlZnUzd6VGsyUFlIV084bTBhdllxdnp1VjhlWThaVGRh?oc=5",
+          "published_at": "2026-10-05T17:14:27+00:00",
+          "excerpt": "What is generative AI and how does it work? Search Engine Land",
+          "fetched_at": "2026-10-05T20:43:04.909947+00:00"
+        },
+        {
+          "title": "OpenAI brings visual ads and expanded measurement to ChatGPT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanBDUWtlSTFvYkRIdm1nRk9uY05uVnRNeGZLZ2pUWEdLM0VZbExkTVVLUjRhOXRiQmxJd2QzNzdTYzhYWmZZYTVKRGRiUDNoYmFMQWExMmN6UE1VRTBXdUR5ODJ4d3VIYmlMYktPRnVyYzR1NmoxYktMLUQxN1g1NzhlbElRdDJRdTdwZ2FlNWY4d09DeXM3bzBXalQ?oc=5",
+          "published_at": "2026-10-05T16:05:17+00:00",
+          "excerpt": "OpenAI brings visual ads and expanded measurement to ChatGPT Search Engine Land",
+          "fetched_at": "2026-10-05T20:43:04.909947+00:00"
+        },
+        {
+          "title": "Google Search shares data on how long crawling, indexing and serving takes",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmNvQ25udnBkelFzVTRzc3F4NU1BbDNiVmRacEdpakNlWUpheUZGSFlJQ0hJZFBiR0J5YkZrczJzNnNMQTg4Q3U3aDBUSlBVNzRqX0M2NkNZYU5JZzBYMDZiRFJ5YzA5TEN5NmpuQU5ILTFRNzJEQzdyM2Y1ZG53ZXBHVmZHeGRfcmdpcDE0blY2RWdCSW9xcTBreW5Pa1E4eDQ0RHhVd0lSdko5Snc?oc=5",
+          "published_at": "2026-10-05T15:46:14+00:00",
+          "excerpt": "Google Search shares data on how long crawling, indexing and serving takes Search Engine Land",
+          "fetched_at": "2026-10-05T20:43:04.909947+00:00"
+        },
+        {
+          "title": "How to build topic clusters for SEO and AI search",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85WFFrbkhWclM2bHNKd2pMR2xGeTVSUUNkRmNPRUtKOTYxSnllRXRpendMcjlweUVkZ1hZdjBDUVdpb25RNVR0YXozeFJ2ZmJveEtGcm1DU1UwME5hS1BPSkY4bnV4b0VLN1dyWVNmR3BYNVRfYnE5ZzV3?oc=5",
+          "published_at": "2026-10-05T13:00:00+00:00",
+          "excerpt": "How to build topic clusters for SEO and AI search Search Engine Land",
+          "fetched_at": "2026-10-05T20:43:04.909947+00:00"
+        },
+        {
+          "title": "Why Google is pushing advertisers toward demand-led budgeting",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVR0b1AtM2duTEdyLWMyNmVQVkx4VHExb3E2aUQ5THp5QV92OE14Z1c4T2Q0OFlDbTdxMms5TUJzZUtfV1hiVy1GdnluUWh0SlpKNlRiM0JQZG1rRUhxbVRnNTAzTzNBaUM5SHl0b19wZmRyOU14YUR2Q2dicmUwQw?oc=5",
+          "published_at": "2026-10-05T12:00:00+00:00",
+          "excerpt": "Why Google is pushing advertisers toward demand-led budgeting Search Engine Land",
+          "fetched_at": "2026-10-05T20:43:04.909947+00:00"
+        },
+        {
           "title": "AI usage surges 6X for local search, fragmenting the digital ecosystem",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGlzYTdpbE8yRG9TR0xxLWNJa01GT2hIbktlSEIxSmpSS0xTZzhKUVphOXJRWXg4bFJQLWVCU0xMWXpGOXVxRkwyMWpRTHByNlp1MXZBeHlab3hSNFB0NlFWaVVlQk5XV01keS1ZMEhnNmRLZS1xaXczM0ZsRERPRlZxeWVkMnN6RVpfdWZTRGtSZndKTkJTbGFkU2pFcjRwWUVfcmtXd2s?oc=5",
           "published_at": "2026-10-05T11:00:00+00:00",
@@ -4399,6 +4434,13 @@
           "published_at": "2026-10-02T15:45:59+00:00",
           "excerpt": "Google Ads will automatically pull promotions from advertisers’ websites Search Engine Land",
           "fetched_at": "2026-10-04T16:54:31.035574+00:00"
+        },
+        {
+          "title": "Google Ads adds AI-powered campaign localization for international expansion",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFBCdC1hUWNqWEtsUXhIWk9NMWxWVjJfR01aX3hLYWZ2T0ladEZybHdZZ01jQXQ4OXd3WTdDQmh4QlB4TE84alAtMWstUEZCUVE5YmxyX3FNd016N21LUTJSekFQVENTcVNCTjdUT0JxVW1EN0UxMFhabE1wM2RsYXh0V0ZNN29wYjJ1bzRCdENVazBfWERDNVhCa1ZxZGtncHphUzh2aERodmpiUXhMdFlB?oc=5",
+          "published_at": "2026-10-02T15:39:29+00:00",
+          "excerpt": "Google Ads adds AI-powered campaign localization for international expansion Search Engine Land",
+          "fetched_at": "2026-10-05T20:43:04.909947+00:00"
         },
         {
           "title": "How to decide which ecommerce categories deserve more internal links",
@@ -4476,6 +4518,13 @@
           "published_at": "2026-10-01T16:00:55+00:00",
           "excerpt": "What is visual content? 17 types that drive links, shares, and traffic Search Engine Land",
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
+          "title": "How to dominate video-driven SERPs",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WRFMzaEVEZE4wSGVxaVVfWVAwUmdjYmJfUU9BZC00VlJlcFhic2h6eVBZSUV1dlFoVGgwSHBhdnIweDFLZmVwbTlST25pTXVoVDZ5UkRGank3RXpsZ3haek1WOFVTYzA3Nmt0V1pJTHk2QQ?oc=5",
+          "published_at": "2026-10-01T16:00:54+00:00",
+          "excerpt": "How to dominate video-driven SERPs Search Engine Land",
+          "fetched_at": "2026-09-21T10:05:35.520968+00:00"
         },
         {
           "title": "The best SEO hires bring judgment, not just expertise",
@@ -5400,13 +5449,6 @@
           "published_at": "2026-09-17T07:00:00+00:00",
           "excerpt": "Google Ads’ Smart Bidding update appears to have ended bid suppression Search Engine Land",
           "fetched_at": "2026-09-18T09:05:22.698345+00:00"
-        },
-        {
-          "title": "How to dominate video-driven SERPs",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WRFMzaEVEZE4wSGVxaVVfWVAwUmdjYmJfUU9BZC00VlJlcFhic2h6eVBZSUV1dlFoVGgwSHBhdnIweDFLZmVwbTlST25pTXVoVDZ5UkRGank3RXpsZ3haek1WOFVTYzA3Nmt0V1pJTHk2QQ?oc=5",
-          "published_at": "2026-09-17T07:00:00+00:00",
-          "excerpt": "How to dominate video-driven SERPs Search Engine Land",
-          "fetched_at": "2026-09-21T10:05:35.520968+00:00"
         },
         {
           "title": "YouTube for SEO: Boost rankings with video content",
@@ -9799,6 +9841,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/",
+          "published_at": "2026-10-05T16:16:34+00:00",
+          "excerpt": "AI visibility gaps call for different fixes. Constance Tan shows how to decide between correcting information, earning mentions, creating content, and checking bot access. The post AI Cites Your Brand: How to Choose Your Next Move appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-05T20:43:16.617401+00:00"
+        },
+        {
+          "title": "Google’s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
+          "url": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/",
+          "published_at": "2026-10-05T14:30:56+00:00",
+          "excerpt": "Trace misleading sale badges and outdated product images to Google's hidden data layer, with checks that go beyond your current feed. The post Google’s Hidden Data Layer: What Is It And What To Do About It appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-05T20:43:16.617401+00:00"
+        },
+        {
+          "title": "How To Build A Content Distribution System That Compounds",
+          "url": "https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/",
+          "published_at": "2026-10-05T12:00:27+00:00",
+          "excerpt": "Keep content working long after launch with a distribution owner, a repeatable checklist, and a 90-day plan to earn backlinks and AI citations. The post How To Build A Content Distribution System That Compounds appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-05T20:43:16.617401+00:00"
+        },
+        {
           "title": "What To Expect From Google’s Next Search Ranking Update via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
           "published_at": "2026-10-05T09:42:03+00:00",
@@ -12885,6 +12948,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Local SEO: What is it & how to do it",
+          "url": "https://www.semrush.com/blog/what-is-local-seo/",
+          "published_at": "2026-10-05T12:51:00+00:00",
+          "excerpt": "Local SEO is the process of improving search visibility, traffic, and brand awareness for local businesses.",
+          "fetched_at": "2026-10-05T20:43:22.535828+00:00"
+        },
+        {
           "title": "Ultimate SEO checklist: 43 tips to optimize your website",
           "url": "https://www.semrush.com/blog/seo-checklist/",
           "published_at": "2026-10-01T08:25:00+00:00",
@@ -13048,7 +13118,7 @@
         {
           "title": "How to build your first AI SEO agent (full walk-through)",
           "url": "https://www.semrush.com/blog/seo-ai-agent/",
-          "published_at": "2026-09-09T09:38:00+00:00",
+          "published_at": "2026-09-09T00:00:00+00:00",
           "excerpt": "Learn how to build an AI SEO agent from scratch to automate important tasks like keyword research and topic clustering.",
           "fetched_at": "2026-09-09T16:47:12.480104+00:00"
         },
@@ -14321,6 +14391,13 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "Google AI Max Reporting Automation Audit: 5 Steps for Search Campaigns",
+          "url": "https://www.webfx.com/blog/ppc/google-ai-max-reporting-automation-audit/",
+          "published_at": "2026-10-02T17:02:06+00:00",
+          "excerpt": "The post Google AI Max Reporting Automation Audit: 5 Steps for Search Campaigns appeared first on WebFX .",
+          "fetched_at": "2026-10-05T20:43:24.894137+00:00"
+        },
+        {
           "title": "7 Best GEO Agencies for Manufacturing Companies (+ How to Choose One)",
           "url": "https://www.webfx.com/blog/manufacturing/best-ai-seo-agencies/",
           "published_at": "2026-09-29T10:18:13+00:00",
@@ -14354,6 +14431,13 @@
           "published_at": "2026-09-17T18:11:38+00:00",
           "excerpt": "The post SEO During a Merger or Acquisition: How to Protect Rankings and Leads appeared first on WebFX .",
           "fetched_at": "2026-09-18T09:05:40.807293+00:00"
+        },
+        {
+          "title": "SEO During a Merger or Acquisition: How to Protect Visibility and Leads",
+          "url": "https://www.webfx.com/blog/seo/merger-acquisition-seo/",
+          "published_at": "2026-09-17T18:11:38+00:00",
+          "excerpt": "The post SEO During a Merger or Acquisition: How to Protect Visibility and Leads appeared first on WebFX .",
+          "fetched_at": "2026-10-05T20:43:24.894137+00:00"
         },
         {
           "title": "How to Identify Underperforming Locations Using Marketing and Revenue Data",
@@ -15263,6 +15347,90 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "I use technology to give students a voice and become critical digital citizens.",
+          "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
+          "published_at": "2026-10-05T16:00:00+00:00",
+          "excerpt": "Empower students using Google Sites, Gemini, and Vids to build critical thinking skills. See how these tools help kids find their voice today.",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
+        {
+          "title": "Technology helps my students balance big creative ideas with tight deadlines.",
+          "url": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/",
+          "published_at": "2026-10-05T16:00:00+00:00",
+          "excerpt": "Students use Google Drive for video assets and Sheets for production timelines to meet tight deadlines. See how these tools boost classroom output.",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
+        {
+          "title": "Here’s how I use technology to bring science to life in my classroom.",
+          "url": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/",
+          "published_at": "2026-10-05T16:00:00+00:00",
+          "excerpt": "See how this teacher uses Gemini and Gemini Notebook to build digital literacy and refine lesson plans. Read the full story to improve your teaching.",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
+        {
+          "title": "World Teachers’ Day 2026",
+          "url": "https://blog.google/products-and-platforms/products/education/world-teachers-day-2026/",
+          "published_at": "2026-10-05T16:00:00+00:00",
+          "excerpt": "To celebrate World Teachers’ Day 2026, educators share their stories about how they use tech in the classroom.",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
+        {
+          "title": "I teach my students that in the AI era, critical thinking comes first.",
+          "url": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/",
+          "published_at": "2026-10-05T16:00:00+00:00",
+          "excerpt": "A California teacher uses Gemini to streamline lesson planning in Google Drive. See how she prioritizes critical thinking in the AI era.",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
+        {
+          "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
+          "url": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
+          "published_at": "2026-10-05T16:00:00+00:00",
+          "excerpt": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
+        {
+          "title": "My students use Gemini to brainstorm creative ideas.",
+          "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-gemini-creativity/",
+          "published_at": "2026-10-05T16:00:00+00:00",
+          "excerpt": "Fifth graders use Google Gemini to write songs about history and create art. See how this teacher integrates AI into the classroom.",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
+        {
+          "title": "Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
+          "url": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/",
+          "published_at": "2026-10-05T16:00:00+00:00",
+          "excerpt": "Teachers use Gemini to build custom K-6 math worksheets and save hours of prep time. See how Google AI transforms classroom instruction.",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
+        {
+          "title": "Gemini helps me bring hands-on learning into the classroom.",
+          "url": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
+          "published_at": "2026-10-05T16:00:00+00:00",
+          "excerpt": "A teacher uses Google Gemini to design interactive role-playing simulations and nutrition lessons. See how AI boosts classroom engagement.",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
+        {
+          "title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
+          "url": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
+          "published_at": "2026-10-05T16:00:00+00:00",
+          "excerpt": "Replace coding tests with AI-driven interviews using Google Gemini in Colab. See how this professor evaluates student judgment. Read the full report.",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
+        {
+          "title": "Gemini helps me give a voice to students who cannot write.",
+          "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
+          "published_at": "2026-10-05T16:00:00+00:00",
+          "excerpt": "Special education teachers use Google Gemini to generate visual guides and voice prompts, empowering non-writing students. Read the full story.",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
+        {
+          "title": "Wheels up: Trends and tips for 2026 holiday travel",
+          "url": "https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/",
+          "published_at": "2026-10-05T12:00:00+00:00",
+          "excerpt": "Illustration of family traveling",
+          "fetched_at": "2026-10-05T20:43:28.270755+00:00"
+        },
         {
           "title": "Making AI training available to UK and Ireland educators",
           "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/",
