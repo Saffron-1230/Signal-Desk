@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T16:54:47.996134+00:00",
+  "last_updated": "2026-10-05T11:41:36.565521+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4352,6 +4352,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "AI usage surges 6X for local search, fragmenting the digital ecosystem",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGlzYTdpbE8yRG9TR0xxLWNJa01GT2hIbktlSEIxSmpSS0xTZzhKUVphOXJRWXg4bFJQLWVCU0xMWXpGOXVxRkwyMWpRTHByNlp1MXZBeHlab3hSNFB0NlFWaVVlQk5XV01keS1ZMEhnNmRLZS1xaXczM0ZsRERPRlZxeWVkMnN6RVpfdWZTRGtSZndKTkJTbGFkU2pFcjRwWUVfcmtXd2s?oc=5",
+          "published_at": "2026-10-05T11:00:00+00:00",
+          "excerpt": "AI usage surges 6X for local search, fragmenting the digital ecosystem Search Engine Land",
+          "fetched_at": "2026-10-05T11:41:17.627135+00:00"
+        },
+        {
           "title": "Y Combinator Archives",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WZXVqX2s4OFNWT0lGVDhldjBQTkIteU9EV0xSNVkycWN5Y0hrcXBNVnhmWUp3bGV6dWV4WUkzMUpPemZJNWN6bWl4MWdFSmF0d0Y0bXpMb1V6djFx?oc=5",
           "published_at": "2026-10-03T03:01:24+00:00",
@@ -4364,6 +4371,13 @@
           "published_at": "2026-10-02T18:44:09+00:00",
           "excerpt": "What is web copywriting? Search Engine Land",
           "fetched_at": "2026-10-04T10:40:23.953059+00:00"
+        },
+        {
+          "title": "The latest jobs in search marketing",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+          "published_at": "2026-10-02T16:16:10+00:00",
+          "excerpt": "The latest jobs in search marketing Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "Google Ads loosens business name rules for some advertisers",
@@ -4480,7 +4494,7 @@
         {
           "title": "OpenAI expands ChatGPT Ads with bulk product campaigns and deeper reporting",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXpxaXBNaHc3YVNELUcwYWVDX3ByZHJrMTRsa1VEZGNxTDBHNHhNZnlIYzdvSmIxRm95Z0NQbGFiclZIMThmU2JjR21UbnJ0eC1HdHlJdFk0d1M5NGFWU3NIMWcwbTFjbjJ6bmpNeXJrMHdDUnAyVWxuUnZiSUU2dVBYazB2SENFbVZkUVlVOFR5Zng1b05vejREMUFuTmhfMVZlc3o2Wm51THZzT1ZtOA?oc=5",
-          "published_at": "2026-09-30T16:07:00+00:00",
+          "published_at": "2026-09-30T16:07:41+00:00",
           "excerpt": "OpenAI expands ChatGPT Ads with bulk product campaigns and deeper reporting Search Engine Land",
           "fetched_at": "2026-10-01T18:28:54.395839+00:00"
         },
@@ -4632,6 +4646,13 @@
           "fetched_at": "2026-10-03T09:57:13.504455+00:00"
         },
         {
+          "title": "Perplexity Archives",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YREhBUHMzZjN5Q2dDRW9sbDdHLWd0ckZwaTRkcTEyNmZBRDY4SmFTcWlQdGFwWXlVdlZFUHBxNTNtd1B1dVlfSkVUb1FsaWt4eVRlVDduUGM3aHJoQzlCbWRHVmFGWnc3?oc=5",
+          "published_at": "2026-09-28T16:06:00+00:00",
+          "excerpt": "Perplexity Archives Search Engine Land",
+          "fetched_at": "2026-10-05T11:41:17.627135+00:00"
+        },
+        {
           "title": "YouTube hashtags: How to use them to get more views",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BZURjU3huTHM4MkpmZnVNS2hDcUpvc1RObWE3Y3lFbGk2TE9NbDFnRDZfc3ZZZ1ZDbEQtcFQwNDFuUHVUTTVmSVI2S2dYMkYwWmlWejlHY3ZLZzFrOHVjaQ?oc=5",
           "published_at": "2026-09-28T16:03:00+00:00",
@@ -4672,13 +4693,6 @@
           "published_at": "2026-09-25T17:58:00+00:00",
           "excerpt": "Content gap analysis: The complete guide Search Engine Land",
           "fetched_at": "2026-09-26T09:26:26.421692+00:00"
-        },
-        {
-          "title": "The latest jobs in search marketing",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-          "published_at": "2026-09-25T16:31:00+00:00",
-          "excerpt": "The latest jobs in search marketing Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "11 awesome ChatGPT alternatives to try + 17 runner ups",
@@ -5498,6 +5512,13 @@
           "published_at": "2026-09-16T07:00:00+00:00",
           "excerpt": "3 GEO pillars: LLM readability, brand context, agentic commerce Search Engine Land",
           "fetched_at": "2026-09-17T08:43:16.667184+00:00"
+        },
+        {
+          "title": "Local Keyword Research: Boost Local SEO with the Right Terms",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2SmNYYU5KUzNBdkdncEZJWnRValEzblM1WlF0MWlOb2tpOGdvZnU1dUxfMzhBdk1JZEtSaF80eS1objNOdHdfVDk2OWdOR1JBTTBua3lpaVp4OFk5NThvTDV0ZHRlYnhU?oc=5",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "excerpt": "Local Keyword Research: Boost Local SEO with the Right Terms Search Engine Land",
+          "fetched_at": "2026-10-05T11:41:17.627135+00:00"
         },
         {
           "title": "Resource page link building",
@@ -6382,6 +6403,13 @@
           "fetched_at": "2026-09-08T16:45:13.960727+00:00"
         },
         {
+          "title": "Microsoft Advertising removes Max CPC from new standalone bidding campaigns",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDlybzVrUzk5RkdVU2RNQkRTYjlJeUpmMm1kcC02bWJOOWg4dERDSldIT2V6dnNJaEd4OFVzQVZBQm1SLW1VLWpJcmgtRkZRWGtaNVNRQTdXb1JmemRiVmplajc0U3VrUjdxRXY1SFpRdDBtSlpjdmstREpPQjRjbktpRmVpRlg4aU1SQ25iTUVBOXNuSmJOT200ai10Q0UtOXV1NWRFZHNxaDkwdUt1NA?oc=5",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "excerpt": "Microsoft Advertising removes Max CPC from new standalone bidding campaigns Search Engine Land",
+          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
+        },
+        {
           "title": "Inside Google Maps: 72 ranking signals and the architecture behind local search",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUZOUFRYN3dGQlc2OUVEazlkcURwMXlYbVlxR2ZfSHduaUFydUZhRmZMZ0o3cTR2bnVST180OGtpYzRLeEJaM2Q4VDIyNDdaWXl1QnU5bXJiTWtLLVZiWGQxWTBmXy13ZkpnU2NaSHdud1kyN0pjV3Q4VzhJb1BnVW9mdGxPZXZjblBIbkRxUEw4Q0JVSFEyUWRaczJ1akhNVlNLQlJNZFA5T2h4ZktkN3dDT3g?oc=5",
           "published_at": "2026-09-08T07:00:00+00:00",
@@ -7213,13 +7241,6 @@
           "published_at": "2026-08-20T17:23:00+00:00",
           "excerpt": "Word embedding Archives Search Engine Land",
           "fetched_at": "2026-08-29T11:13:26.015857+00:00"
-        },
-        {
-          "title": "Microsoft Advertising removes Max CPC from new standalone bidding campaigns",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDlybzVrUzk5RkdVU2RNQkRTYjlJeUpmMm1kcC02bWJOOWg4dERDSldIT2V6dnNJaEd4OFVzQVZBQm1SLW1VLWpJcmgtRkZRWGtaNVNRQTdXb1JmemRiVmplajc0U3VrUjdxRXY1SFpRdDBtSlpjdmstREpPQjRjbktpRmVpRlg4aU1SQ25iTUVBOXNuSmJOT200ai10Q0UtOXV1NWRFZHNxaDkwdUt1NA?oc=5",
-          "published_at": "2026-08-20T16:01:00+00:00",
-          "excerpt": "Microsoft Advertising removes Max CPC from new standalone bidding campaigns Search Engine Land",
-          "fetched_at": "2026-08-28T16:45:35.782615+00:00"
         },
         {
           "title": "Google Discover lets you customize your feed using conversational search",
@@ -8678,6 +8699,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "B2B PPC Lead Gen SMX® Master Class | Emily Wood | Oct. 8",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDJHRVNXdmJ4QjVUTldSY1hNMjduYlJLMUgzNG14NnVZUktrNVVyVEduQXJmM0FZYTB6Rk90VXo3WGVtaGV4c1JCRXgtVUNmdE55WFJLdVRlZ2VLQk1HTjh6ZUlrdlZoQ2Rha3pROFU5VHA0ZzdnS3FMeXBsNHpiQmFPNG4?oc=5",
+          "published_at": "2026-07-27T18:56:21+00:00",
+          "excerpt": "B2B PPC Lead Gen SMX® Master Class | Emily Wood | Oct. 8 Search Engine Land",
+          "fetched_at": "2026-10-05T11:41:17.627135+00:00"
+        },
+        {
           "title": "Google makes passkeys mandatory for Google Ads API users",
           "url": "https://searchengineland.com/google-makes-passkeys-mandatory-for-google-ads-api-users-483617",
           "published_at": "2026-07-27T17:32:14+05:30",
@@ -9546,6 +9574,13 @@
           "fetched_at": "2026-10-04T10:40:23.953059+00:00"
         },
         {
+          "title": "Semrush coupon & discount offers",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kVzNzQjJLRkhTa2N6UDdoMXdOMXF0RmxPMkxkLW5BYWtMelRrR3dCM09wZjFZYkI0a1pMbDZpbk1XVkwxamgxZzBaNEU4cl9oekVHQU93?oc=5",
+          "published_at": "2024-12-18T16:56:57+00:00",
+          "excerpt": "Semrush coupon & discount offers Search Engine Land",
+          "fetched_at": "2026-10-05T11:41:17.627135+00:00"
+        },
+        {
           "title": "Semrush",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WMGRjSnRLMHVPUEVDTVUzaEo3T3JlTzRqV3FzcU56TEZQX0tDRm1SWjZJTnJ3aUdvQTBwY1pvX3ZudGRGblFQLWk2ektRVVlZaDU1dnZB?oc=5",
           "published_at": "2024-11-26T14:59:02+00:00",
@@ -9665,6 +9700,13 @@
           "fetched_at": "2026-09-07T09:30:34.955138+00:00"
         },
         {
+          "title": "Intelligence Reports",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NVk1fWktTUWRGbnlaU3VyaWgxb1JPcUFSUHg5WExoRDItVXkzME5aUlMzdFBjT0FBbndIWVhLQXBEdXc1Mkc5NUEzb1NUeWNUby1uU2tJYURGemhuaEE?oc=5",
+          "published_at": "2021-08-11T16:28:34+00:00",
+          "excerpt": "Intelligence Reports Search Engine Land",
+          "fetched_at": "2026-10-05T11:41:17.627135+00:00"
+        },
+        {
           "title": "White papers",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lNm5sX0h4azAwWHZPOHpMS0ttUWtTVWttLWpCOU1iZmRXaDdZRE0zUjExemY3Vkw4TDZtV3dhVUNfeGh0Q3NOZlpQa0Jkd0pHcU84?oc=5",
           "published_at": "2021-08-11T01:29:56+00:00",
@@ -9756,6 +9798,20 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "What To Expect From Google’s Next Search Ranking Update via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
+          "published_at": "2026-10-05T09:42:03+00:00",
+          "excerpt": "Google's recent changes provide strong clues about major changes from the next core algorithm update. The post What To Expect From Google’s Next Search Ranking Update appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-05T11:41:24.188340+00:00"
+        },
+        {
+          "title": "Google Shows How Long Crawling, Indexing & Recovery Can Take via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/",
+          "published_at": "2026-10-04T20:41:36+00:00",
+          "excerpt": "Google's Gary Illyes showed timing ranges for crawling, indexing, site moves, and core update recovery at Search Central Live Deep Dive Europe in Barcelona. The post Google Shows How Long Crawling, Indexing & Recovery Can Take appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-05T11:41:24.188340+00:00"
+        },
         {
           "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/",
@@ -9890,13 +9946,6 @@
           "fetched_at": "2026-09-30T18:02:34.981285+00:00"
         },
         {
-          "title": "Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It via @sejournal, @gregjarboe",
-          "url": "https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/",
-          "published_at": "2026-09-30T14:30:05+00:00",
-          "excerpt": "Your PR team's Wikipedia, podcast, and Reddit expertise can help you build the third-party signals that support AI visibility. The post Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It appeared first on Search Engine Journal .",
-          "fetched_at": "2026-09-30T18:02:34.981285+00:00"
-        },
-        {
           "title": "Google Analytics Adds App Conversions To Cross-Channel Reports",
           "url": "https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/",
           "published_at": "2026-09-30T14:23:27+00:00",
@@ -9923,6 +9972,13 @@
           "published_at": "2026-09-30T07:45:08+00:00",
           "excerpt": "Tom Capper of STAT walks through the biggest AI search measurement challenges and a tactical solution for each one: October 14 at 2 p.m. ET. The post How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar] appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-30T10:36:17.132914+00:00"
+        },
+        {
+          "title": "Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It",
+          "url": "https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/",
+          "published_at": "2026-09-30T00:00:00+00:00",
+          "excerpt": "Your PR team's Wikipedia, podcast, and Reddit expertise can help you build the third-party signals that support AI visibility. The post Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It appeared first on Search Engine Journal .",
+          "fetched_at": "2026-09-30T18:02:34.981285+00:00"
         },
         {
           "title": "Yes, You Can Change AI’s Opinion. Here’s How.",
@@ -13892,6 +13948,13 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "Leadfeeder vs Lead Forensics: A detailed review",
+          "url": "https://www.factors.ai/blog/leadfeeder-lead-forensics-alternative-factors-delivers-better-account-intelligence",
+          "published_at": "2026-10-05T00:00:00+00:00",
+          "excerpt": "Compare Leadfeeder and Lead Forensics across identification, contact data, workflows, reporting, pricing, and ideal use cases.",
+          "fetched_at": "2026-10-05T11:41:32.790969+00:00"
+        },
+        {
           "title": "Best AI Tools for LinkedIn Advertising",
           "url": "https://www.factors.ai/blog/best-ai-tools-for-linkedin-advertising",
           "published_at": "2026-09-28T00:00:00+00:00",
@@ -15200,6 +15263,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Making AI training available to UK and Ireland educators",
+          "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/",
+          "published_at": "2026-10-05T07:00:00+00:00",
+          "excerpt": "A collage of floating Google Workspace for Education interface elements on a soft, light background.",
+          "fetched_at": "2026-10-05T11:41:36.561419+00:00"
+        },
         {
           "title": "The latest AI news we announced in September 2026",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
