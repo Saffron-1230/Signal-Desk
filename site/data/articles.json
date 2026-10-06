@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T11:23:48.620365+00:00",
+  "last_updated": "2026-10-06T18:30:34.679544+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,20 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "How to Measure AI Search Visibility When Attribution Falls Short",
+          "url": "https://ahrefs.com/blog/how-to-measure-ai-search-visibility/",
+          "published_at": "2026-10-06T16:00:29+00:00",
+          "excerpt": "That puts AI ahead of YouTube as a source of signups, and second only to Google. If we’d relied on our referral traffic alone, we’d have badly undersold it. Most AI influence happens out of sight. A buyer can read … Read more ›",
+          "fetched_at": "2026-10-06T18:30:07.428949+00:00"
+        },
+        {
+          "title": "AI Search ROI Is Messy. Here’s How to Measure It Anyway",
+          "url": "https://ahrefs.com/blog/ai-search-roi/",
+          "published_at": "2026-10-06T15:51:29+00:00",
+          "excerpt": "Forrester found 94% of business buyers now use AI search when buying, rating it above vendor websites, product experts, and sales reps. B2C isn’t far behind: NielsenIQ puts it at 42% of consumers researching products with AI. That’s why bigger … Read more ›",
+          "fetched_at": "2026-10-06T18:30:07.428949+00:00"
+        },
         {
           "title": "AI Overviews Currently Appear for 83% of Branded Searches",
           "url": "https://ahrefs.com/blog/ai-overviews-on-branded-searches/",
@@ -4352,6 +4366,27 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "How to do a website audit in five steps (+ Checklist)",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IZjhBeFdnTDA5cXNQV2lmZWtsSGlCbnhBNkpXZGx3LVIydUpoUnhmWmRrRFRQcks5R29ud2ZMb3hFWHpVZFZNYUpaVHFPaDliNjFwMEtKSXJYZ081?oc=5",
+          "published_at": "2026-10-06T17:30:18+00:00",
+          "excerpt": "How to do a website audit in five steps (+ Checklist) Search Engine Land",
+          "fetched_at": "2026-10-06T18:30:08.916560+00:00"
+        },
+        {
+          "title": "Google warns against using fake author information on your content",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEVBeGlvMmxkbVYwUWk2VWZzOVdtTkJoZ3RCbFF2cmF3N2JqTU9NMFZKeXA4cU5abks0TjVmb29wMzJRSlpJeHNWSUZoVEs1dU5aRlFWWVpwanprMV8wdFN5OWcwWl9zQi1iVDljbzBRZU5HYmpLVHlKeFZ1OG5lLTNRbjdpNlY2MENDdm1ETk5rVVVTM25aTzZZVFVVcXZMNFNRXw?oc=5",
+          "published_at": "2026-10-06T12:11:22+00:00",
+          "excerpt": "Google warns against using fake author information on your content Search Engine Land",
+          "fetched_at": "2026-10-06T18:30:08.916560+00:00"
+        },
+        {
+          "title": "Reddit for organic and AI search: 7 ways to build visibility",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSG1pZmRBbG9EYXJabzFyUVVzcW5CSUNTaW5ieG1faFB1aWFoLWVzdWhhdzkyXy1pTlZhUTh6ZDA4MWVLT3prQ04yRkxUd3lHdkhuS2FnYS0wdTdKSFpjanRjTzlnZWF4aFVQMGk1UXFpLTNoak9wYXNSdFl2SHFhMzd6aw?oc=5",
+          "published_at": "2026-10-06T12:00:00+00:00",
+          "excerpt": "Reddit for organic and AI search: 7 ways to build visibility Search Engine Land",
+          "fetched_at": "2026-10-06T18:30:08.916560+00:00"
+        },
+        {
           "title": "Zoom user stats: How Many people use Zoom?",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4OTFibU5EWVdWNjhhMjgyV0VaUEhnQ2xoZHZKeWJkSHNjNTNkZnQ1cnVIcFBibXN5Uk5KQ1VjRFZtTGR1QmpoMk10Y0dmdFh6eXRET2ZDM2s?oc=5",
           "published_at": "2026-10-05T18:30:22+00:00",
@@ -4364,6 +4399,13 @@
           "published_at": "2026-10-05T18:19:14+00:00",
           "excerpt": "What is generative AI and how does it work? Search Engine Land",
           "fetched_at": "2026-10-05T20:43:04.909947+00:00"
+        },
+        {
+          "title": "Google changes view-through conversion reporting for Demand Gen Display ads",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVN6SUV5aV9wTmpIS25ieVpXSXVWRWM0c1JRRWZtMzFhaGdKVG9rWFJESm9ZSHF0dnBKemVNa1JDNmhvNjVqTHVOeDlaWGQ2cHYxZmszWUxTSHJVZDBoWEVwRVE0SGNuXzJTcWRpWnZKLURnUGUwd0d2VXhaOUVHeENtV3NaOHNjQlpFY0QzMTBMdHJ5Q1FnaVVZODJTNVdCUm1UOTRnXzZ1dTI1Y1ZZRQ?oc=5",
+          "published_at": "2026-10-05T16:19:30+00:00",
+          "excerpt": "Google changes view-through conversion reporting for Demand Gen Display ads Search Engine Land",
+          "fetched_at": "2026-10-06T18:30:08.916560+00:00"
         },
         {
           "title": "OpenAI brings visual ads and expanded measurement to ChatGPT",
@@ -4751,17 +4793,17 @@
           "fetched_at": "2026-09-29T10:48:12.552095+00:00"
         },
         {
-          "title": "7 AI search myths, debunked: What the data says about SEO",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03ZE9EME10ZDM1WDZTQWJBLVQ0VFVudXpIdkdfb0RtOW9VQm51bXloVzJpRG9Xa1R5SldISk1FdGVBQzkzdkJfRUFUVDQ1MnBaRkdDcnpJRlFzeE9DZ2NHb0hVUlRzQTR3WV9pY2llYVhWQmk2MXM1eg?oc=5",
-          "published_at": "2026-09-28T13:00:00+00:00",
-          "excerpt": "7 AI search myths, debunked: What the data says about SEO Search Engine Land",
-          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
-        },
-        {
           "title": "Fractional SEO leadership: The case for strategic ownership",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05YUZzRzEzeDd1b1Q5YVkyWnA0WkNvZHZuTzVKakdTSlk4bGFRdDdxc0ZoV1ZCMkYzTW1nMXc5NjFKRW80VU5OekwybjZOZUZZV2hOT2Q2SjlDelBtQVZjTDViZHFtcERiN0RvY013?oc=5",
           "published_at": "2026-09-28T12:00:00+00:00",
           "excerpt": "Fractional SEO leadership: The case for strategic ownership Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "7 AI search myths, debunked: What the data says about SEO",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03ZE9EME10ZDM1WDZTQWJBLVQ0VFVudXpIdkdfb0RtOW9VQm51bXloVzJpRG9Xa1R5SldISk1FdGVBQzkzdkJfRUFUVDQ1MnBaRkdDcnpJRlFzeE9DZ2NHb0hVUlRzQTR3WV9pY2llYVhWQmk2MXM1eg?oc=5",
+          "published_at": "2026-09-28T07:00:00+00:00",
+          "excerpt": "7 AI search myths, debunked: What the data says about SEO Search Engine Land",
           "fetched_at": "2026-09-29T10:48:12.552095+00:00"
         },
         {
@@ -9869,7 +9911,49 @@
       "color": "#2458d3",
       "articles": [
         {
-          "title": "Google Explains Couldn’t Fetch Sitemap Errors via @sejournal, @martinibuster",
+          "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/",
+          "published_at": "2026-10-06T17:21:56+00:00",
+          "excerpt": "OpenAI plans a limited U.S. test of visual ads during image generation, alongside measurement updates that give advertisers more ways to assess results. The post OpenAI To Test Visual Ads In ChatGPT Image Generation appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-06T18:30:21.545046+00:00"
+        },
+        {
+          "title": "Google Opens Search Profiles In India & Canada, Brazil Next via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-search-profiles-india-canada-brazil/592092/",
+          "published_at": "2026-10-06T17:12:37+00:00",
+          "excerpt": "Google is opening Search profiles to creators and publishers in India and Canada, with Brazil to follow soon. The post Google Opens Search Profiles In India & Canada, Brazil Next appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-06T18:30:21.545046+00:00"
+        },
+        {
+          "title": "Data Shows Which Negative Search Results Can Actually Be Removed via @sejournal, @EraseDotCom",
+          "url": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
+          "published_at": "2026-10-06T17:00:45+00:00",
+          "excerpt": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post Data Shows Which Negative Search Results Can Actually Be Removed appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-06T18:30:21.545046+00:00"
+        },
+        {
+          "title": "Google Search Console Lets You Filter By Multiple Countries via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/",
+          "published_at": "2026-10-06T15:53:04+00:00",
+          "excerpt": "Google is updating Search Console's Performance report filters so you can view combined Google Search traffic for several countries in a single filtered view. The post Google Search Console Lets You Filter By Multiple Countries appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-06T18:30:21.545046+00:00"
+        },
+        {
+          "title": "Google Changed Its Helpful Content Guidelines To Emphasize Good ‘Main Content’ via @sejournal, @marie_haynes",
+          "url": "https://www.searchenginejournal.com/google-changed-its-helpful-content-guidelines-to-emphasize-good-main-content/591943/",
+          "published_at": "2026-10-06T14:30:10+00:00",
+          "excerpt": "Why don't SEOs talk more about Google's helpful content documentation? Its latest update shows exactly what the ranking systems are being trained to reward. The post Google Changed Its Helpful Content Guidelines To Emphasize Good ‘Main Content’ appeared first on Search Engine Jo…",
+          "fetched_at": "2026-10-06T18:30:21.545046+00:00"
+        },
+        {
+          "title": "How To Structure A Full-Funnel Ecommerce Account For Q4 via @sejournal, @tonyadam",
+          "url": "https://www.searchenginejournal.com/how-to-structure-a-full-funnel-ecommerce-account-for-q4/589145/",
+          "published_at": "2026-10-06T12:00:36+00:00",
+          "excerpt": "Keep Google and Meta from exhausting your ecommerce budget on existing demand by funding prospecting and rebuilding customer exclusions before Q4. The post How To Structure A Full-Funnel Ecommerce Account For Q4 appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-06T18:30:21.545046+00:00"
+        },
+        {
+          "title": "Google Explains The “Couldn’t Fetch” Sitemap Errors via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
           "published_at": "2026-10-06T09:52:43+00:00",
           "excerpt": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains Couldn’t Fetch Sitemap Errors appeared first on Search Engine Journal .",
@@ -9981,13 +10065,6 @@
           "fetched_at": "2026-10-02T10:36:41.431024+00:00"
         },
         {
-          "title": "YouTube To Cut Reach Of Channels Reposting Barely Changed Clips via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/youtube-original-shorts-reposted-clips-reach/591774/",
-          "published_at": "2026-10-01T20:44:41+00:00",
-          "excerpt": "YouTube is updating recommendations to favor original Shorts and reduce reach for channels that mainly re-upload others' clips without significant changes. The post YouTube To Cut Reach Of Channels Reposting Barely Changed Clips appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-02T10:36:41.431024+00:00"
-        },
-        {
           "title": "AI Changed Your Buyer Faster Than Your Business Can Adapt via @sejournal, @DuaneForrester",
           "url": "https://www.searchenginejournal.com/ai-changed-your-buyer-faster-than-your-business-can-adapt/591043/",
           "published_at": "2026-10-01T14:00:52+00:00",
@@ -10049,6 +10126,13 @@
           "published_at": "2026-10-01T03:05:53+00:00",
           "excerpt": "LiveRamp expands its OpenAI partnership, bringing RampID first-party audiences to ChatGPT Ads as advertisers gain more targeting and bidding options. The post LiveRamp Expands OpenAI Deal With First-Party Data Targeting appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-01T11:04:19.272306+00:00"
+        },
+        {
+          "title": "YouTube To Cut Reach Of Channels Reposting Barely Changed Clips",
+          "url": "https://www.searchenginejournal.com/youtube-original-shorts-reposted-clips-reach/591774/",
+          "published_at": "2026-10-01T00:00:00+00:00",
+          "excerpt": "YouTube is updating recommendations to favor original Shorts and reduce reach for channels that mainly re-upload others' clips without significant changes. The post YouTube To Cut Reach Of Channels Reposting Barely Changed Clips appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-02T10:36:41.431024+00:00"
         },
         {
           "title": "Using Local (AI) Compute To Reduce Reliance On Frontier Models via @sejournal, @chrisgreenseo",
@@ -15056,6 +15140,20 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+          "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
+          "published_at": "2026-10-06T00:00:00+00:00",
+          "excerpt": "EmbeddingGemma 2 is a new 740M open-weight multimodal model that maps text, images, video, and audio into a unified vector space for privacy-first, on-device retrieval. Developers can easily integrate these capabilities cross-platform using MediaPipe Tasks or optimize fine-grain…",
+          "fetched_at": "2026-10-06T18:30:33.843332+00:00"
+        },
+        {
+          "title": "EmbeddingGemma 2: The Developer Guide",
+          "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
+          "published_at": "2026-10-06T00:00:00+00:00",
+          "excerpt": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a unified 768-dimensional space. Developers can use the sentence-transformers library to selectively load modular modality encoders—ranging from 270M to 740M…",
+          "fetched_at": "2026-10-06T18:30:33.843332+00:00"
+        },
+        {
           "title": "Accelerating Spatio-Temporal Attention for Video Diffusion on TPUs",
           "url": "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
           "published_at": "2026-09-30T00:00:00+00:00",
@@ -15417,6 +15515,41 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+          "published_at": "2026-10-06T16:00:00+00:00",
+          "excerpt": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
+          "fetched_at": "2026-10-06T18:30:34.675266+00:00"
+        },
+        {
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+          "published_at": "2026-10-06T16:00:00+00:00",
+          "excerpt": "EmbeddingGemma 2",
+          "fetched_at": "2026-10-06T18:30:34.675266+00:00"
+        },
+        {
+          "title": "Making global public health more proactive with Google Earth AI",
+          "url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
+          "published_at": "2026-10-06T15:00:00+00:00",
+          "excerpt": "Collage of images of people receiving healthcare, aerial images of land, and scientific research",
+          "fetched_at": "2026-10-06T18:30:34.675266+00:00"
+        },
+        {
+          "title": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/",
+          "published_at": "2026-10-06T14:00:00+00:00",
+          "excerpt": "Four people are seated on chairs during a panel discussion on stage in front of a screen.",
+          "fetched_at": "2026-10-06T18:30:34.675266+00:00"
+        },
+        {
+          "title": "Meet the artist who built a giant spider for a virtual world",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/",
+          "published_at": "2026-10-06T13:30:00+00:00",
+          "excerpt": "Backlit with an orange light, is a 6 legged spider sculpture with human like shoes in a white gallery space",
+          "fetched_at": "2026-10-06T18:30:34.675266+00:00"
+        },
         {
           "title": "Why we're backing America's existing nuclear plants",
           "url": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/",
