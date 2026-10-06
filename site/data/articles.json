@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T20:43:28.282416+00:00",
+  "last_updated": "2026-10-06T11:23:48.620365+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4352,9 +4352,16 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Zoom user stats: How Many people use Zoom?",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4OTFibU5EWVdWNjhhMjgyV0VaUEhnQ2xoZHZKeWJkSHNjNTNkZnQ1cnVIcFBibXN5Uk5KQ1VjRFZtTGR1QmpoMk10Y0dmdFh6eXRET2ZDM2s?oc=5",
+          "published_at": "2026-10-05T18:30:22+00:00",
+          "excerpt": "Zoom user stats: How Many people use Zoom? Search Engine Land",
+          "fetched_at": "2026-10-06T11:23:25.653715+00:00"
+        },
+        {
           "title": "What is generative AI and how does it work?",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtTm93bENFbVhhNnZtQTF6c1lDakVfNEZ4S2lWTWEydm5KUThEMnFPSVhnajlyOC04Mjh2VlZnUzd6VGsyUFlIV084bTBhdllxdnp1VjhlWThaVGRh?oc=5",
-          "published_at": "2026-10-05T17:14:27+00:00",
+          "published_at": "2026-10-05T18:19:14+00:00",
           "excerpt": "What is generative AI and how does it work? Search Engine Land",
           "fetched_at": "2026-10-05T20:43:04.909947+00:00"
         },
@@ -4371,6 +4378,20 @@
           "published_at": "2026-10-05T15:46:14+00:00",
           "excerpt": "Google Search shares data on how long crawling, indexing and serving takes Search Engine Land",
           "fetched_at": "2026-10-05T20:43:04.909947+00:00"
+        },
+        {
+          "title": "- Search Engine Land",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0JTQ3h1YzY1M0JtemY3UVpPNXdPaHU3WWZ0blpuQU5HbFlLWVZORW5VZXBRWngxV3Rta09pOXFMdnhmMWVMNXU0OHVWUWZPMERaUXhCRkNYekpDdllCWW1zOHZjbHZEZ0x6YjNNcWNzOUE5QnhQaEUzZF92VUFxRWNBWQ?oc=5",
+          "published_at": "2026-10-05T14:15:29+00:00",
+          "excerpt": "Search Engine Land",
+          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
+          "title": "Want lasting AI brand visibility? Stop looking for hacks",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OQU1jLThlU3hEaF93YWxGOEc3Q2hTenVHdTlUcVlsX2g2cWdZUHR3SGlGNnMzLUQ1SVJvQ1k2TmVQOFhlclF1MVdEU2FSenRVLWo5SmM2M2lqVnRFN2N2MzZYY25ZT2RCZV9SaHJHV2RkUmF2YTlvR0thM09sUQ?oc=5",
+          "published_at": "2026-10-05T14:00:00+00:00",
+          "excerpt": "Want lasting AI brand visibility? Stop looking for hacks Search Engine Land",
+          "fetched_at": "2026-10-06T11:23:25.653715+00:00"
         },
         {
           "title": "How to build topic clusters for SEO and AI search",
@@ -4464,6 +4485,13 @@
           "fetched_at": "2026-10-02T17:55:54.006926+00:00"
         },
         {
+          "title": "Your AI search visibility keeps changing: Here’s what to do about it",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVRadkRseFFkcmozbmZqRnI1S2FBNGswREZDSTZQR2ctbXlkZ2NDei1JQ3BLaDFUQ0RIOWJ3MFRydkE0M0RfeW5IeWRTQmItZGVQeDNmWW5XenNHMEV4X1RmZzcyRDUtZ0lqc0JObjFjc1JZZ2NUWE8zZ3l3dzBIXzhB?oc=5",
+          "published_at": "2026-10-02T12:00:00+00:00",
+          "excerpt": "Your AI search visibility keeps changing: Here’s what to do about it Search Engine Land",
+          "fetched_at": "2026-10-06T11:23:25.653715+00:00"
+        },
+        {
           "title": "Google Search now says it's critical to manually factcheck and review all AI-generated content for accuracy and trustworthiness",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON18wY281TWxRYkpLV2xqMDF3T1llR1BKVEJBaC1TUFBzVVg0OHgzc3FVd2t2al9VUDgyYUdQdXBHWi1oWXg1VlRaRjVkZ0pxNTBNcEt4ZFlNUTlzbkVYeUxSNFVQX0N3UnYtU0pIb2lrdmd3enh2TXVRbFA5OTNVY3J2cGNlYjdaTTgyamwtcXE2bTlZMFlkbFQzdGgtQmx5SWVkVEY1Y0pzSTF3T3NidGQ5c2J3ZkptNS12Vi11YzdXQzFIbzEzTzhzZ0FCc19CbUZmUjA5TXhiMXdZRlFIWDRLc0FCX29YSkxuQmJYRzA3aVUt?oc=5",
           "published_at": "2026-10-02T00:27:20+00:00",
@@ -4473,7 +4501,7 @@
         {
           "title": "How to write a press release that gets results",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UOHJrYjREWnZyUkpZdmVQWDJFWjRlNmR5LVV5LVladGlUczFZUld6Ykt5TUVjYlRCYVctOWlzRGdwZk5QbkdhYlJKWGFYY1VCR19XLS1nSXh2cWlIWkJCOGtoUVJ0d0E?oc=5",
-          "published_at": "2026-10-01T17:10:00+00:00",
+          "published_at": "2026-10-01T17:10:43+00:00",
           "excerpt": "How to write a press release that gets results Search Engine Land",
           "fetched_at": "2026-10-01T18:28:54.395839+00:00"
         },
@@ -4534,6 +4562,13 @@
           "fetched_at": "2026-10-02T10:36:34.236099+00:00"
         },
         {
+          "title": "SEO and meta descriptions: Everything you need to know in 2027",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnFQbGcxTS1lN19fQmFTVXlBZFJDeUdlYjB3X2I4YURRa3d4Unh3NmpkeWltSFlTUUd6MEZHSElsNUJUMlc5RlM5dUhOYW1qYmpaWlRZRGNqWmFabG52ZjdKRk1DYjhhbEpnRzBJNnl6ejY5aXpjbk1WOUxMUERONWpR?oc=5",
+          "published_at": "2026-10-01T13:00:00+00:00",
+          "excerpt": "SEO and meta descriptions: Everything you need to know in 2027 Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
+        },
+        {
           "title": "Google location asset requirements: What you need to know",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPWkxuOVR4SnNHd3ZNbTAxWU9wZFViOXJMcDNFRE5wYjF1dXdsRkxvUjJzbnFFSlBiQnpsSDI0NEFpS21VazVmUVBrLVhQYjIzeUx2dk5WcWkzdFJ0YUw0bFcyTjR6dmQyUTZMLWtSc2tLUV93VnhrMmJn?oc=5",
           "published_at": "2026-10-01T12:00:00+00:00",
@@ -4567,13 +4602,6 @@
           "published_at": "2026-09-30T14:00:00+00:00",
           "excerpt": "What 9 million AI answers reveal about search visibility Search Engine Land",
           "fetched_at": "2026-09-30T18:02:24.881921+00:00"
-        },
-        {
-          "title": "- Search Engine Land",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0JTQ3h1YzY1M0JtemY3UVpPNXdPaHU3WWZ0blpuQU5HbFlLWVZORW5VZXBRWngxV3Rta09pOXFMdnhmMWVMNXU0OHVWUWZPMERaUXhCRkNYekpDdllCWW1zOHZjbHZEZ0x6YjNNcWNzOUE5QnhQaEUzZF92VUFxRWNBWQ?oc=5",
-          "published_at": "2026-09-30T08:33:25+00:00",
-          "excerpt": "Search Engine Land",
-          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -4744,13 +4772,6 @@
           "fetched_at": "2026-09-26T09:26:26.421692+00:00"
         },
         {
-          "title": "11 awesome ChatGPT alternatives to try + 17 runner ups",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yU05KSVNSS3hfYXhHWm5iNG5NMW1veHE1VlgwczRoMmg1aXFIZWpLUHlqcUhHdmdMdFdhNTdWNTdfUkNPMG51SXMtbnR1Q2dXRGR4R2s4NFFtMGFtUExHOUhpSUhpZw?oc=5",
-          "published_at": "2026-09-25T16:12:00+00:00",
-          "excerpt": "11 awesome ChatGPT alternatives to try + 17 runner ups Search Engine Land",
-          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
-        },
-        {
           "title": "10 ways Claude can derail your SEO if you don’t check its work",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DbWl0emJMVk5QcUhaUXF5NXhtdzlFSlV5WlFiSFJTUVhQWkNtZXFoUEd1OVk3dGJidmhKYVlfTm9LdGNJZlNpeFpfRlNZR1VuekZ2SmN1YjVrYlpoaThUYlp2Yw?oc=5",
           "published_at": "2026-09-25T15:00:00+00:00",
@@ -4805,6 +4826,13 @@
           "published_at": "2026-09-25T07:00:00+00:00",
           "excerpt": "Google tests bigger Local Services Ads Search Engine Land",
           "fetched_at": "2026-09-27T10:06:01.740157+00:00"
+        },
+        {
+          "title": "11 awesome ChatGPT alternatives to try + 17 runner ups",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yU05KSVNSS3hfYXhHWm5iNG5NMW1veHE1VlgwczRoMmg1aXFIZWpLUHlqcUhHdmdMdFdhNTdWNTdfUkNPMG51SXMtbnR1Q2dXRGR4R2s4NFFtMGFtUExHOUhpSUhpZw?oc=5",
+          "published_at": "2026-09-25T07:00:00+00:00",
+          "excerpt": "11 awesome ChatGPT alternatives to try + 17 runner ups Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
         },
         {
           "title": "Conductor CEO Seth Besmertnik steps down after 20 years",
@@ -9504,6 +9532,13 @@
           "fetched_at": "2026-08-30T10:00:45.743381+00:00"
         },
         {
+          "title": "SERP Simulator Tool: Preview your Google snippets before they go live",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZbUlpb3B1alBtY1BpQUVzOTJfWDRrQ2hFcllFWG1weXNOWmFWdWU2bmNqX0QyZDktNUZSTTRFVmViR3YzVmswZFRzUF82TU53MHFDWThhbFVmY3p0S1hXSDZCZU4?oc=5",
+          "published_at": "2026-06-10T20:54:25+00:00",
+          "excerpt": "SERP Simulator Tool: Preview your Google snippets before they go live Search Engine Land",
+          "fetched_at": "2026-10-06T11:23:25.653715+00:00"
+        },
+        {
           "title": "Sitemap Generator Tool: Build an XML sitemap for search engines and AI crawlers",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oM0xYSFlHZHVDUm1RUTdlOW5TaUNXVEJZdEgwdjI4M1kwNFk4TjBxc0xoMlBXeEpyNWV6eHdQS2RtcTY3VnAzZTlRTEs1dGhyT21tNlZHSUNBYUhRQ1JWWUNSaERHZlk?oc=5",
           "published_at": "2026-06-03T18:40:37+00:00",
@@ -9628,13 +9663,6 @@
           "published_at": "2024-11-26T14:59:02+00:00",
           "excerpt": "Semrush Search Engine Land",
           "fetched_at": "2026-09-05T08:26:53.847335+00:00"
-        },
-        {
-          "title": "SEO and meta descriptions: Everything you need to know in 2027",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnFQbGcxTS1lN19fQmFTVXlBZFJDeUdlYjB3X2I4YURRa3d4Unh3NmpkeWltSFlTUUd6MEZHSElsNUJUMlc5RlM5dUhOYW1qYmpaWlRZRGNqWmFabG52ZjdKRk1DYjhhbEpnRzBJNnl6ejY5aXpjbk1WOUxMUERONWpR?oc=5",
-          "published_at": "2024-11-01T12:00:45+00:00",
-          "excerpt": "SEO and meta descriptions: Everything you need to know in 2027 Search Engine Land",
-          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
         },
         {
           "title": "The SEO’s guide to Google Search Console",
@@ -9841,6 +9869,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Explains Couldn’t Fetch Sitemap Errors via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
+          "published_at": "2026-10-06T09:52:43+00:00",
+          "excerpt": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains Couldn’t Fetch Sitemap Errors appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-06T11:23:36.847626+00:00"
+        },
+        {
+          "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/openai-to-watermark-chatgpt-text-in-the-eu-opens-api-opt-in/592014/",
+          "published_at": "2026-10-06T01:07:32+00:00",
+          "excerpt": "OpenAI will add an invisible watermark to ChatGPT and Codex text in the EU. Its tests show editing can weaken it. The post OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-06T11:23:36.847626+00:00"
+        },
+        {
+          "title": "Google’s Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
+          "published_at": "2026-10-05T22:47:18+00:00",
+          "excerpt": "Google's John Mueller says AI training crawlers usually don't offer sitemap submission and suggests default sitemap names or RSS feeds to help them find sites. The post Google’s Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-06T11:23:36.847626+00:00"
+        },
+        {
+          "title": "Google Is Fighting SERP Tracking. AI Agents May Make It Worse via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/",
+          "published_at": "2026-10-05T21:03:08+00:00",
+          "excerpt": "Google is fighting back against SERP tracking. The explosion of AI agents may cause it to clamp down harder. The post Google Is Fighting SERP Tracking. AI Agents May Make It Worse appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-06T11:23:36.847626+00:00"
+        },
+        {
           "title": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
           "url": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/",
           "published_at": "2026-10-05T16:16:34+00:00",
@@ -9953,7 +10009,7 @@
           "fetched_at": "2026-10-01T18:29:01.359920+00:00"
         },
         {
-          "title": "What Are Common Structured Data Mistakes That Hurt AI Visibility? – Ask An SEO via @sejournal, @HelenPollitt1",
+          "title": "What Are Common Structured Data Mistakes That Hurt AI Visibility? – Ask An SEO",
           "url": "https://www.searchenginejournal.com/what-are-common-structured-data-mistakes-that-hurt-ai-visibility-ask-an-seo/589924/",
           "published_at": "2026-10-01T12:00:54+00:00",
           "excerpt": "Understand the most common structured data mistakes that hurt AI visibility and how to avoid them The post What Are Common Structured Data Mistakes That Hurt AI Visibility? – Ask An SEO appeared first on Search Engine Journal .",
@@ -12948,6 +13004,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Google AI Overviews now appear for most major brands",
+          "url": "https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/",
+          "published_at": "2026-10-06T09:06:00+00:00",
+          "excerpt": "Google AI Overviews now appear for more than 80% of the branded queries DemandSphere tracks, up from 26% on Sept. 1. Google hasn‘t explained why.",
+          "fetched_at": "2026-10-06T11:23:42.796429+00:00"
+        },
+        {
           "title": "Local SEO: What is it & how to do it",
           "url": "https://www.semrush.com/blog/what-is-local-seo/",
           "published_at": "2026-10-05T12:51:00+00:00",
@@ -12967,6 +13030,13 @@
           "published_at": "2026-09-30T08:36:00+00:00",
           "excerpt": "Discover the key differences between SEO and AEO. Learn how each works, where they overlap, and practical strategies to win visibility in both.",
           "fetched_at": "2026-09-30T10:36:22.960181+00:00"
+        },
+        {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-09-30T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "The LLM positioning lag: What it is and how to avoid it",
@@ -13004,13 +13074,6 @@
           "fetched_at": "2026-09-28T11:05:30.782328+00:00"
         },
         {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-09-28T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "How to make the most of your 7-day Semrush free trial",
           "url": "https://www.semrush.com/blog/free-7-day-semrush-one-trial/",
           "published_at": "2026-09-25T13:26:00+00:00",
@@ -13023,13 +13086,6 @@
           "published_at": "2026-09-25T09:06:00+00:00",
           "excerpt": "B2B answer engine optimization improves your odds of appearing in the AI answers buying committees see.",
           "fetched_at": "2026-09-25T17:22:13.321821+00:00"
-        },
-        {
-          "title": "Alex Lindley",
-          "url": "https://www.semrush.com/blog/user/alex-lindley/",
-          "published_at": "2026-09-25T00:00:00+00:00",
-          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "How to conduct an AI visibility audit with Semrush",
@@ -13111,7 +13167,7 @@
         {
           "title": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
           "url": "https://www.semrush.com/blog/seoquake-relaunch/",
-          "published_at": "2026-09-09T15:37:00+00:00",
+          "published_at": "2026-09-09T00:00:00+00:00",
           "excerpt": "Semrush released a rebuilt version of SEOquake, the free Chrome extension for running quick page-level SEO checks without leaving your browser.",
           "fetched_at": "2026-09-09T16:47:12.480104+00:00"
         },
@@ -13893,6 +13949,13 @@
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
         {
+          "title": "Alex Lindley",
+          "url": "https://www.semrush.com/blog/user/alex-lindley/",
+          "published_at": "2026-05-21T00:00:00+00:00",
+          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "What is PPC? A starter guide to pay-per-click advertising",
           "url": "https://www.semrush.com/blog/what-is-ppc/",
           "published_at": "2026-05-21T00:00:00+00:00",
@@ -14017,6 +14080,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "Why Companies Are Switching From 6sense, Based on Buyer Feedback",
+          "url": "https://www.factors.ai/blog/6sense-limitations-why-are-companies-switching",
+          "published_at": "2026-10-06T00:00:00+00:00",
+          "excerpt": "Explore 6sense drawbacks through feedback from 83 current and former users, covering black-box scoring, data quality, adoption, cost, and contracts.",
+          "fetched_at": "2026-10-06T11:23:44.674445+00:00"
+        },
         {
           "title": "Leadfeeder vs Lead Forensics: A detailed review",
           "url": "https://www.factors.ai/blog/leadfeeder-lead-forensics-alternative-factors-delivers-better-account-intelligence",
@@ -15347,6 +15417,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Why we're backing America's existing nuclear plants",
+          "url": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/",
+          "published_at": "2026-10-06T10:00:00+00:00",
+          "excerpt": "Video on Google’s nuclear uprate project with Constellation Energy at Braidwood Clean Energy Center in Illinois",
+          "fetched_at": "2026-10-06T11:23:48.616849+00:00"
+        },
         {
           "title": "I use technology to give students a voice and become critical digital citizens.",
           "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
