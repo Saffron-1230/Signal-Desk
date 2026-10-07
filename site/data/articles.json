@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T11:12:15.539581+00:00",
+  "last_updated": "2026-10-07T19:00:18.448805+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4366,6 +4366,20 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google opens Conversion Lift to Search and Performance Max",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb25ENEhLal81RkJKREViWjRaRmdjSUVYZUhHYzlSc2l2cUlsQWpuMXhyakx0Wml0MF9JNXZWUktnMHNNOGxhaEJRQzh2TUFKSVBaMl8wdXVzQW1KRVEteThWVXhNQ1lhU0ZGcVB5bm1BS3RhWmFMRlgyaE9pRFA1UEpJaDFXSFAwRjVZLTA3cHVrd19tSWhZUkZR?oc=5",
+          "published_at": "2026-10-07T16:28:26+00:00",
+          "excerpt": "Google opens Conversion Lift to Search and Performance Max Search Engine Land",
+          "fetched_at": "2026-10-07T18:59:51.769202+00:00"
+        },
+        {
+          "title": "Reilly Phelps",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUZFRwam0wYTFBUVV0d2l5bEdGc3VpejFoLWRCd3B3Rk5yZWV5eUM2OEI3R0V2WHE0Vk9jTnJrQzdhd0o2TldWbGh5bndOV2pSbVdJMkR0bWJkX1dDaFE?oc=5",
+          "published_at": "2026-10-07T15:00:00+00:00",
+          "excerpt": "Reilly Phelps Search Engine Land",
+          "fetched_at": "2026-10-07T18:59:51.769202+00:00"
+        },
+        {
           "title": "Information gain: How top content leaders win at SEO",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HaXpXa2lTaXd2eG1oTkJHNFNZaGFCR0lHZnE5bUhGb0Q3RWp3WjlZZERIVmxCdUZLOWxYMjRnT0hhMnlwbmRTRTRSMWhZNjEzbDdwLVFYRmlObTMxaDBDRA?oc=5",
           "published_at": "2026-10-06T19:58:06+00:00",
@@ -4385,6 +4399,13 @@
           "published_at": "2026-10-06T17:30:18+00:00",
           "excerpt": "How to do a website audit in five steps (+ Checklist) Search Engine Land",
           "fetched_at": "2026-10-06T18:30:08.916560+00:00"
+        },
+        {
+          "title": "Google shares preferred source follower data via email",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXF5dVV4R3pENnZCaFNCOWRXSXBfS0ZzUzlscC1FUFBjVTQ0WGNraEpwR2RJRVZvUndVN1Y0djk4eEVMVmUzV3Rwc01YczlJZklrWEZaUWJCWjFXdWlEVjBrVWpFcHAzUU51ZjU2bEx6VHJHa3RmLTNhQjhqaTBMMXhUOE1ZSmVaVVEtTEZlZExSUzk5?oc=5",
+          "published_at": "2026-10-06T16:28:34+00:00",
+          "excerpt": "Google shares preferred source follower data via email Search Engine Land",
+          "fetched_at": "2026-10-07T18:59:51.769202+00:00"
         },
         {
           "title": "Google Ads can now calculate Target ROAS from profit margins",
@@ -9946,6 +9967,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Prediction: The Next Massive Google Update Is Around The Corner via @sejournal, @lilyraynyc",
+          "url": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/",
+          "published_at": "2026-10-07T17:30:46+00:00",
+          "excerpt": "Is another major Google update coming? The documentation changes, spam update pace, and Google's own statements all point the same way. The post Prediction: The Next Massive Google Update Is Around The Corner appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-07T19:00:07.294579+00:00"
+        },
+        {
+          "title": "AI Search Is Changing Your Website’s Job, Here’s How To Adapt via @sejournal, @lorenbaker",
+          "url": "https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/",
+          "published_at": "2026-10-07T13:30:50+00:00",
+          "excerpt": "Sachin Puri explains why AI discovery makes accurate business information, customer trust, and measurement beyond clicks more important for small businesses. The post AI Search Is Changing Your Website’s Job, Here’s How To Adapt appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-07T19:00:07.294579+00:00"
+        },
+        {
+          "title": "The Business Case For SEO Is Changing; Budget Justifications Should Too via @sejournal, @cshel",
+          "url": "https://www.searchenginejournal.com/the-business-case-for-seo-is-changing-budget-justifications-should-too/590358/",
+          "published_at": "2026-10-07T12:00:32+00:00",
+          "excerpt": "Learn how to justify SEO budgets in the AI era by aligning investments with revenue generation, risk reduction, infrastructure, and business value. The post The Business Case For SEO Is Changing; Budget Justifications Should Too appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-07T19:00:07.294579+00:00"
+        },
+        {
           "title": "WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
           "published_at": "2026-10-07T10:48:53+00:00",
@@ -13151,6 +13193,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "How to track your AI citations and sources with Semrush",
+          "url": "https://www.semrush.com/blog/track-ai-citation-sources-semrush/",
+          "published_at": "2026-10-07T12:01:00+00:00",
+          "excerpt": "Find the sources that are cited when your brand is missing from AI answers and take action with content or outreach to get more mentions.",
+          "fetched_at": "2026-10-07T19:00:13.236079+00:00"
+        },
+        {
           "title": "Multi-location SEO: How to build a scalable strategy",
           "url": "https://www.semrush.com/blog/multi-location-seo/",
           "published_at": "2026-10-07T09:39:00+00:00",
@@ -13172,18 +13221,18 @@
           "fetched_at": "2026-10-05T20:43:22.535828+00:00"
         },
         {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-10-05T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "Ultimate SEO checklist: 43 tips to optimize your website",
           "url": "https://www.semrush.com/blog/seo-checklist/",
           "published_at": "2026-10-01T08:25:00+00:00",
           "excerpt": "Use this SEO checklist to optimize your site for both Google and AI-driven search results.",
           "fetched_at": "2026-10-01T11:04:30.051882+00:00"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-10-01T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "AEO vs SEO: core differences & how to win visibility in both",
@@ -15592,6 +15641,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "We're making it easier to identify AI-generated content globally.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+          "published_at": "2026-10-07T14:00:00+00:00",
+          "excerpt": "We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners.",
+          "fetched_at": "2026-10-07T19:00:18.446280+00:00"
+        },
+        {
+          "title": "Introducing Playground: Create and play custom games",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+          "published_at": "2026-10-07T12:00:00+00:00",
+          "excerpt": "Overview of Playground",
+          "fetched_at": "2026-10-07T19:00:18.446280+00:00"
+        },
         {
           "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
