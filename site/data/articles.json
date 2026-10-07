@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T18:30:34.679544+00:00",
+  "last_updated": "2026-10-07T11:12:15.539581+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4366,11 +4366,39 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Information gain: How top content leaders win at SEO",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HaXpXa2lTaXd2eG1oTkJHNFNZaGFCR0lHZnE5bUhGb0Q3RWp3WjlZZERIVmxCdUZLOWxYMjRnT0hhMnlwbmRTRTRSMWhZNjEzbDdwLVFYRmlObTMxaDBDRA?oc=5",
+          "published_at": "2026-10-06T19:58:06+00:00",
+          "excerpt": "Information gain: How top content leaders win at SEO Search Engine Land",
+          "fetched_at": "2026-10-07T11:11:48.929180+00:00"
+        },
+        {
+          "title": "Google Ads tests Video Campaign Groups for cross-campaign reach and frequency",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmRzVC1KWHFwSGdvN0d2YUp1ZGtiakY4YTdQdlczS3VEa1FZN09lVG4ydWdSNU9EdHBUNnI5S1FhdHRueDB0UmdDa0w0V1piaHR1azRzV0JFaXBld0R1WTZsbWlBUGpiVFJnc01HSjJOQzV0czJOU1JXdExzb1RFVzFMUlEzb0F3Q2dGcmg4Wm1wVnhxUzBXWWRhN2xaUlRZRWtJS0g4LXdZQnZNd1VxUlpWcw?oc=5",
+          "published_at": "2026-10-06T18:02:28+00:00",
+          "excerpt": "Google Ads tests Video Campaign Groups for cross-campaign reach and frequency Search Engine Land",
+          "fetched_at": "2026-10-07T11:11:48.929180+00:00"
+        },
+        {
           "title": "How to do a website audit in five steps (+ Checklist)",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IZjhBeFdnTDA5cXNQV2lmZWtsSGlCbnhBNkpXZGx3LVIydUpoUnhmWmRrRFRQcks5R29ud2ZMb3hFWHpVZFZNYUpaVHFPaDliNjFwMEtKSXJYZ081?oc=5",
           "published_at": "2026-10-06T17:30:18+00:00",
           "excerpt": "How to do a website audit in five steps (+ Checklist) Search Engine Land",
           "fetched_at": "2026-10-06T18:30:08.916560+00:00"
+        },
+        {
+          "title": "Google Ads can now calculate Target ROAS from profit margins",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDlReVBTLU5tRjIzaE5fZVNqVFVxMm44ZjhJYUxieUdOek12S2ZsUEltNVJGeDJOSWFpa3dpS3JGWlktMS1kcm1FamphSm5iOTZ5Slp4R24zSUJqSmhJLVBRdTJ3Z3NBcVVkV3ExTy1oMTcxa0w1d1BRM3kyRHV3dGVDWm03UU9jZVFQajVtclBCdDR3NWNIWDloc00?oc=5",
+          "published_at": "2026-10-06T14:45:35+00:00",
+          "excerpt": "Google Ads can now calculate Target ROAS from profit margins Search Engine Land",
+          "fetched_at": "2026-10-07T11:11:48.929180+00:00"
+        },
+        {
+          "title": "How product thinking can make you a better SEO",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByR3pqbmEtQWxERGRWMlBIY0ZkZDRhcGhaM2UtaHMyUVZ3Q2RLRmVWM1NoVWVMcXliYm55YXNpamFGb2FVdWVRdVdJWE1ka1BLMVBCVkxMQmNrWEJ5VDIxMDhkXzVvTWJBVW9hSWE1Tko?oc=5",
+          "published_at": "2026-10-06T13:00:00+00:00",
+          "excerpt": "How product thinking can make you a better SEO Search Engine Land",
+          "fetched_at": "2026-10-07T11:11:48.929180+00:00"
         },
         {
           "title": "Google warns against using fake author information on your content",
@@ -4826,13 +4854,6 @@
           "published_at": "2026-09-25T13:00:00+00:00",
           "excerpt": "When more PPC budget doesn’t equal more leads Search Engine Land",
           "fetched_at": "2026-09-28T11:05:12.335424+00:00"
-        },
-        {
-          "title": "SMX Advanced San Diego 2027 speaker pitches are now open",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUFZIVFNxa2tSaXdHVnMyMGlOZUhHRFpsWEJ0aUt1MlZ1TjRuRG1JZHFUU3dqamZNb2V5a1p6MmQ0MVZsRTE2VVU3LW04NjI3bGI4dVV3VkxjVEkxYk4zWk4ya09obnpT?oc=5",
-          "published_at": "2026-09-25T07:00:00+00:00",
-          "excerpt": "SMX Advanced San Diego 2027 speaker pitches are now open Search Engine Land",
-          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
         },
         {
           "title": "Your AI content watermark isn’t what Google is looking for",
@@ -9784,6 +9805,13 @@
           "fetched_at": "2026-09-02T08:52:52.717674+00:00"
         },
         {
+          "title": "SMX Advanced San Diego 2027 speaker pitches are now open",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUFZIVFNxa2tSaXdHVnMyMGlOZUhHRFpsWEJ0aUt1MlZ1TjRuRG1JZHFUU3dqamZNb2V5a1p6MmQ0MVZsRTE2VVU3LW04NjI3bGI4dVV3VkxjVEkxYk4zWk4ya09obnpT?oc=5",
+          "published_at": "2022-10-29T01:16:36+00:00",
+          "excerpt": "SMX Advanced San Diego 2027 speaker pitches are now open Search Engine Land",
+          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
+        },
+        {
           "title": "Google algorithm updates: the latest news and guides",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2NzdG1FaXVsenVHOFBGd0NQcElMRUxCOUhBaDFvcFZMbUNuUWN6Z0lGNGZnUlpuczVuR3dSQ2x5akZJTnp3eVpPdHgxVF91RUpHX2p2Z25KMG1FeU9xbHRoNko3ank5MW5rRmRVaUtET2RpTUlrVFBDeFo1bjQtNjlSbk8?oc=5",
           "published_at": "2022-10-19T16:53:54+00:00",
@@ -9880,6 +9908,13 @@
           "published_at": "2010-11-03T09:56:20+00:00",
           "excerpt": "About Search Engine Land Search Engine Land",
           "fetched_at": "2026-08-30T10:00:45.743381+00:00"
+        },
+        {
+          "title": "Search Engine Land | SEO, PPC & AI Search News for Marketers",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ISEVKTVo1UmdyVUdGbDlESTJMUlV6ei1rTy1JMjZTcVhqTzhUZFRyNXBfZ3RVcDdSdUxSbmpSWS1OOFU?oc=5",
+          "published_at": "2009-09-15T00:18:50+00:00",
+          "excerpt": "Search Engine Land | SEO, PPC & AI Search News for Marketers Search Engine Land",
+          "fetched_at": "2026-10-07T11:11:48.929180+00:00"
         }
       ]
     },
@@ -9910,6 +9945,34 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
+          "published_at": "2026-10-07T10:48:53+00:00",
+          "excerpt": "WordPress released a canonical MCP Adapter that connects AI with sites while maintaining compatibility across MCP versions. The post WordPress Releases Canonical MCP Adapter Plugin appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-07T11:12:03.208553+00:00"
+        },
+        {
+          "title": "Google’s Search Antitrust Ruling: What Advertisers Should Check Next",
+          "url": "https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/",
+          "published_at": "2026-10-07T05:00:12+00:00",
+          "excerpt": "Federal rulings in 2024 and 2025 examined how Google runs its advertising business. The post Google’s Search Antitrust Ruling: What Advertisers Should Check Next appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-07T11:12:03.208553+00:00"
+        },
+        {
+          "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/",
+          "published_at": "2026-10-06T20:05:17+00:00",
+          "excerpt": "WordPress 7.1.3 fixes seven security vulnerabilities and a critical bug affecting image uploads that can result in a fatal error. The post WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-07T11:12:03.208553+00:00"
+        },
+        {
+          "title": "Using AI To Assist With SEO Work, Not Replace The Worker via @sejournal, @chrisgreenseo",
+          "url": "https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/",
+          "published_at": "2026-10-06T19:00:47+00:00",
+          "excerpt": "Here's how one technical SEO splits audit work: deterministic checks for facts, a local LLM to explain them, and a human to judge. The post Using AI To Assist With SEO Work, Not Replace The Worker appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-07T11:12:03.208553+00:00"
+        },
         {
           "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson",
           "url": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/",
@@ -10044,13 +10107,6 @@
           "fetched_at": "2026-10-02T17:56:05.430580+00:00"
         },
         {
-          "title": "How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) via @sejournal, @coreydmorris",
-          "url": "https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/",
-          "published_at": "2026-10-02T14:30:46+00:00",
-          "excerpt": "A step-by-step process for building an SEO content roadmap that accounts for AI Overviews, from keyword gaps to a prioritized, citation-ready plan. The post How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-02T17:56:05.430580+00:00"
-        },
-        {
           "title": "When A Search Query Becomes A Standing Instruction via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/",
           "published_at": "2026-10-02T12:00:09+00:00",
@@ -10063,6 +10119,13 @@
           "published_at": "2026-10-02T00:03:36+00:00",
           "excerpt": "Google's guidance on AI-generated content now says to fact-check it by hand before publishing, and the review extends to titles, alt text, and other metadata. The post Google Tells Sites To Fact-Check AI Content Before Publishing appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-02T10:36:41.431024+00:00"
+        },
+        {
+          "title": "How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step)",
+          "url": "https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/",
+          "published_at": "2026-10-02T00:00:00+00:00",
+          "excerpt": "A step-by-step process for building an SEO content roadmap that accounts for AI Overviews, from keyword gaps to a prioritized, citation-ready plan. The post How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-02T17:56:05.430580+00:00"
         },
         {
           "title": "AI Changed Your Buyer Faster Than Your Business Can Adapt via @sejournal, @DuaneForrester",
@@ -13088,6 +13151,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Multi-location SEO: How to build a scalable strategy",
+          "url": "https://www.semrush.com/blog/multi-location-seo/",
+          "published_at": "2026-10-07T09:39:00+00:00",
+          "excerpt": "Multi-location SEO starts with one approved record per branch that feeds its page, Google Business Profile, schema, and listings.",
+          "fetched_at": "2026-10-07T11:12:09.446313+00:00"
+        },
+        {
           "title": "Google AI Overviews now appear for most major brands",
           "url": "https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/",
           "published_at": "2026-10-06T09:06:00+00:00",
@@ -13109,18 +13179,18 @@
           "fetched_at": "2026-10-01T11:04:30.051882+00:00"
         },
         {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-10-01T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "AEO vs SEO: core differences & how to win visibility in both",
           "url": "https://www.semrush.com/blog/aeo-vs-seo/",
           "published_at": "2026-09-30T08:36:00+00:00",
           "excerpt": "Discover the key differences between SEO and AEO. Learn how each works, where they overlap, and practical strategies to win visibility in both.",
           "fetched_at": "2026-09-30T10:36:22.960181+00:00"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-09-30T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "The LLM positioning lag: What it is and how to avoid it",
@@ -13244,7 +13314,7 @@
         {
           "title": "Internal links: ultimate guide + strategies",
           "url": "https://www.semrush.com/blog/internal-links/",
-          "published_at": "2026-09-10T10:11:00+00:00",
+          "published_at": "2026-09-10T00:00:00+00:00",
           "excerpt": "Internal links help users, search engines, and AI crawlers understand your site. Here‘s how to fix issues holding you back.",
           "fetched_at": "2026-09-10T16:33:29.306730+00:00"
         },
@@ -14167,9 +14237,16 @@
         {
           "title": "Why Companies Are Switching From 6sense, Based on Buyer Feedback",
           "url": "https://www.factors.ai/blog/6sense-limitations-why-are-companies-switching",
-          "published_at": "2026-10-06T00:00:00+00:00",
+          "published_at": "2026-10-07T00:00:00+00:00",
           "excerpt": "Explore 6sense drawbacks through feedback from 83 current and former users, covering black-box scoring, data quality, adoption, cost, and contracts.",
           "fetched_at": "2026-10-06T11:23:44.674445+00:00"
+        },
+        {
+          "title": "Website Deanonymization: B2B Website Visitor Identification In 2026",
+          "url": "https://www.factors.ai/blog/identify-anonymous-website-visitor",
+          "published_at": "2026-10-07T00:00:00+00:00",
+          "excerpt": "Website deanonymization turns anonymous B2B traffic into named accounts. Learn how it works, realistic match rates, top tools, pricing, and when to use it.",
+          "fetched_at": "2026-10-07T11:12:11.495110+00:00"
         },
         {
           "title": "Leadfeeder vs Lead Forensics: A detailed review",
@@ -15515,6 +15592,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
+          "published_at": "2026-10-06T18:00:00+00:00",
+          "excerpt": "Still from a virtual interview featuring three Googlers. Next to them is text saying: Ask a scientist about maternal health research",
+          "fetched_at": "2026-10-07T11:12:15.535538+00:00"
+        },
         {
           "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
