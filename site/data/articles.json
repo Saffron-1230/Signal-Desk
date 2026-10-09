@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T18:55:54.600660+00:00",
+  "last_updated": "2026-10-09T11:25:39.210457+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4366,6 +4366,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google Ads lets advertisers preview AI Max-generated ad copy before opting in",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDQ5c0p3dmtuREk1OG5hTms0S2ptNHF4MVFzUDl1ZWxSMU04b1laX0p5QTVRVUtZRkh2SkI0RVVicWJBYVlPMkN2QmJrbWZKbDducW9uMWNCaFZGYVdvVjdYZkZFMDJ6MFp5aHBpRTM5TzBFejQtS1E0TnZKVzNnVUhubmxZbmdwWkdZM01Rd21zUGVJTWxoOUpfTjRuWng4cDR1NlBya3l4UEJkdUd6TG9Hcw?oc=5",
+          "published_at": "2026-10-08T16:58:18+00:00",
+          "excerpt": "Google Ads lets advertisers preview AI Max-generated ad copy before opting in Search Engine Land",
+          "fetched_at": "2026-10-09T11:25:19.698848+00:00"
+        },
+        {
+          "title": "Google Ads introduces commerce audience sharing for retail media",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTThiaUtJU0ZMR09QemozdElKZmxXaDdtVlhvalNsNlVrOXBDcHppeTVHSk81aHg0UXFoV0xfdXJ1OTlhUHJ0RHZqWFM5MlFBZ01oaFpfenY1TEgwb2JhWS1ja0xBcklYRUg3dDEyQl8ybGdJeC1RTUZNQnVCSWZiUUdfeHZlRUpqSndUdDhteU9TUHBzVlJFNS1ndUpHdnhBdXc?oc=5",
+          "published_at": "2026-10-08T16:35:54+00:00",
+          "excerpt": "Google Ads introduces commerce audience sharing for retail media Search Engine Land",
+          "fetched_at": "2026-10-09T11:25:19.698848+00:00"
+        },
+        {
+          "title": "Google Ads adds video impressions and funnel reporting to Overview page",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNXB3eEFULVdRdkdEZ1BHZjRTYnE2blMyTWNhVC1URmNqWTBTSlBNY3lQX3U4YTNJLXZ3akJBZTVRVFoyeV9yaU1fdHkweU5zV24yQ0JIeTY0QlMySGxDWkpFZWxxVXRHUDRBMDl1d2lxcmRFQkw4SXhWVS1TajBkYXRxLXY1dFdPUm95aFRzd0RzNlpQaWdQRklqRnFnOW1sYzdEYW5wQjNiMUE?oc=5",
+          "published_at": "2026-10-08T16:05:23+00:00",
+          "excerpt": "Google Ads adds video impressions and funnel reporting to Overview page Search Engine Land",
+          "fetched_at": "2026-10-09T11:25:19.698848+00:00"
+        },
+        {
+          "title": "Context engineering: How to prevent AI workflows from degrading",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1RmQlIwaWZVLXdNSjNCUTJEUFFrVkRwVWpOVXFhWElNVHRaR2hSTkxjMHNKNFl1TUVWUHMzWWZiYmpocVYzUldXY1NJdlg2NjFRdXM1V1ZLQlFKd3RQSVk2eEVzYnctYnlLWVo3WUVXQ0czODUwbUx5b2VtVDlhVXdrQ3RYM2xkQUVnclloOA?oc=5",
+          "published_at": "2026-10-08T13:00:00+00:00",
+          "excerpt": "Context engineering: How to prevent AI workflows from degrading Search Engine Land",
+          "fetched_at": "2026-10-09T11:25:19.698848+00:00"
+        },
+        {
           "title": "Agentic media buying needs malware guardrails: A PropellerAds view",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGU1SlFpb0tpTjluckV5b25sbGRjSEx1VDBYTktNNldsd09HNzFkLVZrcXVUb0pFUkdhdkpHWks5UVNuckpkWjBoNjBySEMxZWVXOUc5RkctMUhiUW1YQmpJLWx4WlBDaWtsZ05HSmRhaEFPX2FUN1JJZnNjUFRaamh1VkZKM2g4T24tMGE0eGlpM2NkaVJrY0I1T1JKcVEwTHN3?oc=5",
           "published_at": "2026-10-08T11:00:00+00:00",
@@ -4795,7 +4823,7 @@
         {
           "title": "What 9 million AI answers reveal about search visibility",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUUcxdmh3NzRPRkFQT0xnLXVGYTFnb3JvMUhkX2hleWh0TUlGOGNOdjloeFR6WDZSc3duUWNmeFJERk54dkNiWGNySW9GUkFJRnM4UUY5UEc1YXpfWFZXVXdjR0ZLOGJFMHNIMXhfNDN1dVJsdGpnVjdlOFBBNFk?oc=5",
-          "published_at": "2026-09-30T14:00:00+00:00",
+          "published_at": "2026-09-30T07:00:00+00:00",
           "excerpt": "What 9 million AI answers reveal about search visibility Search Engine Land",
           "fetched_at": "2026-09-30T18:02:24.881921+00:00"
         },
@@ -4828,13 +4856,6 @@
           "fetched_at": "2026-09-29T18:09:32.043366+00:00"
         },
         {
-          "title": "Your 2027 guide to SEO reporting and tracking",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TaHBRVXRETmt3d09CNEppQkFKdmh3SnVpVlFXZVhwTnRRcVJ3MnZiODFQdllXMmdUZkduTkVTQVJmaUJKZ1J5Z3JkTElEdnRGTzhvVE1uNm5DeWUyX2owTVViVEJReHJUeGdDNXVtNktyUQ?oc=5",
-          "published_at": "2026-09-29T15:00:00+00:00",
-          "excerpt": "Your 2027 guide to SEO reporting and tracking searchengineland.com",
-          "fetched_at": "2026-09-29T18:09:32.043366+00:00"
-        },
-        {
           "title": "Amazon Ads taps Yelp to turn product purchases into local service leads",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXY3ODQyNHJmcGwyVmdnd2Vlc1BkSlRvX3BBWms0bkRDUHRXN0xMaXlqTUFhdWxWYlRoWk5TM2cxR3Y5bDZuTTRLYW53WjVuMG1fZTZxUXRqcGt6RHM4T2MyWTN3RmprWVFLZEhfbmdzOFhpR2NQcTl5b3ZOLXItcDFfN3JhNVhETUM5enFJeHpaNk81NnlOeElZejhLLUJ5REgxV25FRXRQMjQ?oc=5",
           "published_at": "2026-09-29T14:10:48+00:00",
@@ -4856,13 +4877,6 @@
           "fetched_at": "2026-09-30T18:02:24.881921+00:00"
         },
         {
-          "title": "ChatGPT shortlists: How to benchmark visibility and find room to compete",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFpyWGJpbWJ3dnl3a3BiTThYTmRGWmFfTXlOVDRaMzFoeE5PSHhGTENzTTRoQVljMXJ1X2c0T3ZnX3IxNm9lUFhzMG5RWFIyNExDVGdtc0lKWjUxQjY2VXd4YV9Cc181c215Qno5M0xqcVRLUUdoUjAtR1FKNUpSY2g1U3NyYlJ5SjRn?oc=5",
-          "published_at": "2026-09-29T13:00:00+00:00",
-          "excerpt": "ChatGPT shortlists: How to benchmark visibility and find room to compete Search Engine Land",
-          "fetched_at": "2026-09-30T10:36:00.880685+00:00"
-        },
-        {
           "title": "Google AI Mode monitoring capabilities now live for all",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeFlMamJwOE01WXloMVR1dGVpa192ZXJVWTlMazlIWVN2LWxLM0FvYW55UlJ2dmZ6Q1Y0RzVsX0FaWlh2VG9KR3ZFX2hJRl9KZTh2OTlmX3dZZ1dQMDU5RnhDSHlmUEVtYmd3bm1IR3E1YkdpU2JuOV9fbHJ4UUgtamd1U1hmZXp2RGJZNGpySmR5emh6T0E?oc=5",
           "published_at": "2026-09-29T12:35:05+00:00",
@@ -4875,6 +4889,20 @@
           "published_at": "2026-09-29T12:00:00+00:00",
           "excerpt": "Why Performance Max isn’t a YouTube ad strategy for ecommerce Search Engine Land",
           "fetched_at": "2026-10-01T11:04:10.504819+00:00"
+        },
+        {
+          "title": "Your 2027 guide to SEO reporting and tracking",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TaHBRVXRETmt3d09CNEppQkFKdmh3SnVpVlFXZVhwTnRRcVJ3MnZiODFQdllXMmdUZkduTkVTQVJmaUJKZ1J5Z3JkTElEdnRGTzhvVE1uNm5DeWUyX2owTVViVEJReHJUeGdDNXVtNktyUQ?oc=5",
+          "published_at": "2026-09-29T07:00:00+00:00",
+          "excerpt": "Your 2027 guide to SEO reporting and tracking searchengineland.com",
+          "fetched_at": "2026-09-29T18:09:32.043366+00:00"
+        },
+        {
+          "title": "ChatGPT shortlists: How to benchmark visibility and find room to compete",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFpyWGJpbWJ3dnl3a3BiTThYTmRGWmFfTXlOVDRaMzFoeE5PSHhGTENzTTRoQVljMXJ1X2c0T3ZnX3IxNm9lUFhzMG5RWFIyNExDVGdtc0lKWjUxQjY2VXd4YV9Cc181c215Qno5M0xqcVRLUUdoUjAtR1FKNUpSY2g1U3NyYlJ5SjRn?oc=5",
+          "published_at": "2026-09-29T07:00:00+00:00",
+          "excerpt": "ChatGPT shortlists: How to benchmark visibility and find room to compete Search Engine Land",
+          "fetched_at": "2026-09-30T10:36:00.880685+00:00"
         },
         {
           "title": "Report: ChatGPT Ads are growing fast, but advertisers are still figuring them out",
@@ -10086,6 +10114,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Claude’s New Rules Target Fake Sources Built To Sway AI Answers via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/claude-rules-fake-sources-ai-answers/592456/",
+          "published_at": "2026-10-09T08:00:16+00:00",
+          "excerpt": "Anthropic's updated usage policy names seeding search and AI answer sources with misleading content, and drops automated publishing from its high-risk list. The post Claude’s New Rules Target Fake Sources Built To Sway AI Answers appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-09T11:25:25.150952+00:00"
+        },
+        {
+          "title": "Jetpack 16.3 WordPress Plugin Update Is A Winner via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/jetpack-16-3-wordpress-plugin-update-is-a-winner/592452/",
+          "published_at": "2026-10-09T05:06:52+00:00",
+          "excerpt": "Jetpack announced the release of version 16.3, a major update that adds three new blocks, expands existing features, improves accessibility and security, and reorganizes settings to bring related controls together in the user interface. Three New Blocks That Add Useful Functiona…",
+          "fetched_at": "2026-10-09T11:25:25.150952+00:00"
+        },
+        {
+          "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk via @sejournal, @timothyjjensen",
+          "url": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
+          "published_at": "2026-10-08T19:00:44+00:00",
+          "excerpt": "Understand how to address both ad platform and organizational AI concerns for paid media advertisers in regulated industries The post AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-09T11:25:25.150952+00:00"
+        },
+        {
           "title": "Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It via @sejournal, @DuaneForrester",
           "url": "https://www.searchenginejournal.com/google-now-has-the-math-to-rank-without-an-index-and-the-results-page-does-not-survive-it/591945/",
           "published_at": "2026-10-08T14:30:43+00:00",
@@ -13368,6 +13417,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "4 types of keywords in SEO (+ examples)",
+          "url": "https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/",
+          "published_at": "2026-10-09T09:10:00+00:00",
+          "excerpt": "Learn the four types of keywords in SEO and how to optimize your content to rank for each type of keyword.",
+          "fetched_at": "2026-10-09T11:25:31.143809+00:00"
+        },
+        {
           "title": "How to track your AI citations and sources with Semrush",
           "url": "https://www.semrush.com/blog/track-ai-citation-sources-semrush/",
           "published_at": "2026-10-07T12:01:00+00:00",
@@ -13387,6 +13443,13 @@
           "published_at": "2026-10-06T09:06:00+00:00",
           "excerpt": "Google AI Overviews now appear for more than 80% of the branded queries DemandSphere tracks, up from 26% on Sept. 1. Google hasn‘t explained why.",
           "fetched_at": "2026-10-06T11:23:42.796429+00:00"
+        },
+        {
+          "title": "Cecilia Meis",
+          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
+          "published_at": "2026-10-06T00:00:00+00:00",
+          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Local SEO: What is it & how to do it",
@@ -13429,13 +13492,6 @@
           "published_at": "2026-09-29T08:26:00+00:00",
           "excerpt": "Google’s September 2026 spam update may take up to two weeks to roll out, making ranking drops harder to diagnose.",
           "fetched_at": "2026-09-29T10:48:31.395131+00:00"
-        },
-        {
-          "title": "Cecilia Meis",
-          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
-          "published_at": "2026-09-29T00:00:00+00:00",
-          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "What is llms.txt & should you use it?",
@@ -14459,6 +14515,13 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "Cross-Channel Marketing Attribution: How to Measure What Influences B2B Pipeline",
+          "url": "https://www.factors.ai/blog/cross-channel-marketing-attribution",
+          "published_at": "2026-10-09T00:00:00+00:00",
+          "excerpt": "Learn how cross-channel attribution connects B2B marketing touchpoints to account journeys, pipeline, and revenue. See what 633 calls and customer data reveal about channel overlap, tracking gaps, and pipeline.",
+          "fetched_at": "2026-10-09T11:25:33.273904+00:00"
+        },
+        {
           "title": "Website Deanonymization: B2B Website Visitor Identification In 2026",
           "url": "https://www.factors.ai/blog/identify-anonymous-website-visitor",
           "published_at": "2026-10-08T00:00:00+00:00",
@@ -15462,6 +15525,13 @@
           "fetched_at": "2026-10-08T18:55:53.738965+00:00"
         },
         {
+          "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+          "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+          "published_at": "2026-10-08T00:00:00+00:00",
+          "excerpt": "Google AI Edge has introduced ML Drift, a high-performance, universal GPU compute framework designed to accelerate on-device AI and machine learning inference. By abstracting the complexities of hardware and low-level APIs—including OpenGL ES, OpenCL, Metal, and WebGPU—ML Drift…",
+          "fetched_at": "2026-10-09T11:25:38.250403+00:00"
+        },
+        {
           "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
           "url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
           "published_at": "2026-10-07T00:00:00+00:00",
@@ -15844,6 +15914,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
+          "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
+          "published_at": "2026-10-08T22:30:00+00:00",
+          "excerpt": "A peer-reviewed study in The Lancet evaluates Google's AMIE medical AI in a real-world primary care clinic.",
+          "fetched_at": "2026-10-09T11:25:39.194959+00:00"
+        },
         {
           "title": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
           "url": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/",
