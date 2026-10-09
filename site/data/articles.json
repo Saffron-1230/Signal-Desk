@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T11:25:39.210457+00:00",
+  "last_updated": "2026-10-09T18:26:19.764031+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4366,6 +4366,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "YouTube expands Masthead ad eligibility to online gambling advertisers",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSW9ob1N4V0xxYzN0Q3R4UHN2U3JTZUNYOC1hNXMtd3hqMUxoeUtQQWtEQk8tQXNRZlB1dmNIQ0JxeWZzWXlmc2VwcjVuMl9EQ1NiZTJEVDBKT3lwbE0wNDUxZlZILWFXTGwtY3Y4dmVqMzF2NUNFbjdhdkRoVUxKV3FoLVQ3aTZBMncyeDVHcDdtU3lDdWxRYVNtVnVtdGZRMHd2X3lYak5jQQ?oc=5",
+          "published_at": "2026-10-08T17:23:27+00:00",
+          "excerpt": "YouTube expands Masthead ad eligibility to online gambling advertisers Search Engine Land",
+          "fetched_at": "2026-10-09T18:25:58.026359+00:00"
+        },
+        {
           "title": "Google Ads lets advertisers preview AI Max-generated ad copy before opting in",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDQ5c0p3dmtuREk1OG5hTms0S2ptNHF4MVFzUDl1ZWxSMU04b1laX0p5QTVRVUtZRkh2SkI0RVVicWJBYVlPMkN2QmJrbWZKbDducW9uMWNCaFZGYVdvVjdYZkZFMDJ6MFp5aHBpRTM5TzBFejQtS1E0TnZKVzNnVUhubmxZbmdwWkdZM01Rd21zUGVJTWxoOUpfTjRuWng4cDR1NlBya3l4UEJkdUd6TG9Hcw?oc=5",
           "published_at": "2026-10-08T16:58:18+00:00",
@@ -4380,6 +4387,13 @@
           "fetched_at": "2026-10-09T11:25:19.698848+00:00"
         },
         {
+          "title": "Google Ads adds AI-powered insights to experiment reporting",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0tVMy1JcG9SS2lpX09Vd2hjaU9jdTZoLTRReVlMYTBWNG5oamQ1SWM0QTQtUXVYeHNqS0Nva3RqTzB3RGxxWmlHY2dyd3ZCNEJScU9uNkFjUmxYWEVmM3FZWDFXdEU0dEUzX2pNM1VBUmdzUWNDaDY2S0pNYjZGU1ZoekZfd05Ja3dqblRfYnhtTElVdldwREp6OA?oc=5",
+          "published_at": "2026-10-08T16:17:40+00:00",
+          "excerpt": "Google Ads adds AI-powered insights to experiment reporting Search Engine Land",
+          "fetched_at": "2026-10-09T18:25:58.026359+00:00"
+        },
+        {
           "title": "Google Ads adds video impressions and funnel reporting to Overview page",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNXB3eEFULVdRdkdEZ1BHZjRTYnE2blMyTWNhVC1URmNqWTBTSlBNY3lQX3U4YTNJLXZ3akJBZTVRVFoyeV9yaU1fdHkweU5zV24yQ0JIeTY0QlMySGxDWkpFZWxxVXRHUDRBMDl1d2lxcmRFQkw4SXhWVS1TajBkYXRxLXY1dFdPUm95aFRzd0RzNlpQaWdQRklqRnFnOW1sYzdEYW5wQjNiMUE?oc=5",
           "published_at": "2026-10-08T16:05:23+00:00",
@@ -4387,11 +4401,25 @@
           "fetched_at": "2026-10-09T11:25:19.698848+00:00"
         },
         {
+          "title": "Google Search disclosed its UGC Fresh Data Program",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEpzb2JKVzR3dGtjZ1NUamZGNnpPc2FYUHNNOHRMMjJDNndOZmRpakRpdzRPTmZmN21BVTFtUkFjU2ppMkJMTkJCMEhEOFBwYi1zMzRSRUZkU1ZvcnJTYTQwT2xva2IycEswLWZ0MldqNlBvcXpEQWVXZTdrMjVWQlZwcndfczF1UGFSZk0tbw?oc=5",
+          "published_at": "2026-10-08T15:13:56+00:00",
+          "excerpt": "Google Search disclosed its UGC Fresh Data Program Search Engine Land",
+          "fetched_at": "2026-10-09T18:25:58.026359+00:00"
+        },
+        {
           "title": "Context engineering: How to prevent AI workflows from degrading",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1RmQlIwaWZVLXdNSjNCUTJEUFFrVkRwVWpOVXFhWElNVHRaR2hSTkxjMHNKNFl1TUVWUHMzWWZiYmpocVYzUldXY1NJdlg2NjFRdXM1V1ZLQlFKd3RQSVk2eEVzYnctYnlLWVo3WUVXQ0czODUwbUx5b2VtVDlhVXdrQ3RYM2xkQUVnclloOA?oc=5",
           "published_at": "2026-10-08T13:00:00+00:00",
           "excerpt": "Context engineering: How to prevent AI workflows from degrading Search Engine Land",
           "fetched_at": "2026-10-09T11:25:19.698848+00:00"
+        },
+        {
+          "title": "How to plan 2027 when traffic is down and AI won’t attribute",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUFJV2tJcXB1ODBjMVBuTUowaGJwX0drZnRJUV82bW5nSllkb1FUX1FRZjRDSEhtS1h3RUt4bV9ZTmZ1OXBTYmNmSkFBLUF0bU9rNmVxTFVfdm5sZEVtMTFXSlBjdUk4NFlEZlVNU3BkamRYeDN6ZHpyeWVxZUdGV1lhUHhNenByWlpDX2pLZjl0ZmNuaERGMEZxTQ?oc=5",
+          "published_at": "2026-10-08T12:00:00+00:00",
+          "excerpt": "How to plan 2027 when traffic is down and AI won’t attribute Search Engine Land",
+          "fetched_at": "2026-10-09T18:25:58.026359+00:00"
         },
         {
           "title": "Agentic media buying needs malware guardrails: A PropellerAds view",
@@ -10114,6 +10142,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "AI Overviews Have Spread To Most Big-Brand Searches via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/",
+          "published_at": "2026-10-09T12:00:00+00:00",
+          "excerpt": "Recent tracking data found AI Overviews on most brand-name searches it checked. The post AI Overviews Have Spread To Most Big-Brand Searches appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-09T18:26:07.884589+00:00"
+        },
+        {
           "title": "Claude’s New Rules Target Fake Sources Built To Sway AI Answers via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/claude-rules-fake-sources-ai-answers/592456/",
           "published_at": "2026-10-09T08:00:16+00:00",
@@ -14520,6 +14555,13 @@
           "published_at": "2026-10-09T00:00:00+00:00",
           "excerpt": "Learn how cross-channel attribution connects B2B marketing touchpoints to account journeys, pipeline, and revenue. See what 633 calls and customer data reveal about channel overlap, tracking gaps, and pipeline.",
           "fetched_at": "2026-10-09T11:25:33.273904+00:00"
+        },
+        {
+          "title": "15 Marketing Touchpoints that Will Guide Your Prospect to Book a Demo",
+          "url": "https://www.factors.ai/blog/marketing-touchpoints-to-guide-demo-bookings",
+          "published_at": "2026-10-09T00:00:00+00:00",
+          "excerpt": "Explore 15 B2B marketing touchpoints with practical examples. Learn how to map buyer journeys, measure impact, and turn engagement into qualified demos.",
+          "fetched_at": "2026-10-09T18:26:15.437981+00:00"
         },
         {
           "title": "Website Deanonymization: B2B Website Visitor Identification In 2026",
