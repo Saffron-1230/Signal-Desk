@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T18:26:19.764031+00:00",
+  "last_updated": "2026-10-10T10:43:04.241059+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4365,6 +4365,27 @@
       "title_suffix": " - Search Engine Land",
       "color": "#18a66a",
       "articles": [
+        {
+          "title": "Google Ads adds automatic text overlays to Demand Gen video ads",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0puQlhkMFBMZi1vdHVfdDR0RUQ2Q3pjU0gtUEl2Ui1DcjdOdTN3NTBmcHV2RWhsRTZmaFpMbUNHM3VNWWpxcC1GeTNXTHk2cmZBNndWRWdSMWNTYW02WEc2OG1PQTJTNVFXUmVFU0NHTW4xOGxkb0o4bDlPOWxpRWNEVm9odTg3amxJQXRDX1JTNTlQOEFwZktZNllYVno4?oc=5",
+          "published_at": "2026-10-09T18:47:30+00:00",
+          "excerpt": "Google Ads adds automatic text overlays to Demand Gen video ads Search Engine Land",
+          "fetched_at": "2026-10-10T10:42:45.289675+00:00"
+        },
+        {
+          "title": "Google launches Display & Video 360 Structured Data Files v11 with expanded targeting",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNHNiS01NeDE3RDJ3TEVyS2dVdkFmZ1Y5dEI4Vmo2algxT3h2MHRGX1F6U2M1UldUR3dFWklNa1RSS0dsTnplVy10Z0ppbk1PWXRCTlF0R19BcnFVX04tMER2d2RUQU9sTWo5R0FlNHFOS2FTMElEa0VEd3ZuYlYzMTRxYkp1b1pnTS1jX2ZSQUtmUHNPX2xWbnh2M3c4bkF0aFNLdFBwbEJSdnpKOXBkTEZhUzdXM2tkVEhr?oc=5",
+          "published_at": "2026-10-09T17:05:02+00:00",
+          "excerpt": "Google launches Display & Video 360 Structured Data Files v11 with expanded targeting Search Engine Land",
+          "fetched_at": "2026-10-10T10:42:45.289675+00:00"
+        },
+        {
+          "title": "What Google AI Mode follow-up questions reveal about your content",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbm16TjVtczkwSzA5dzljOG5ILTRGNEJ3M3IxR2JValpZMjlHeWZaNWQ5WmpMUTZoNzRUTUFfWFI5OVNLYjMwOE5oWUYtNHBqT3VVOW0xbm1mZGZaNlRSdzhzeVJlSUFVbi1nTWZ4RUM4bHNuaEhSd3JQMHI0Nk1rb3c0bHc?oc=5",
+          "published_at": "2026-10-09T14:00:00+00:00",
+          "excerpt": "What Google AI Mode follow-up questions reveal about your content Search Engine Land",
+          "fetched_at": "2026-10-10T10:42:45.289675+00:00"
+        },
         {
           "title": "YouTube expands Masthead ad eligibility to online gambling advertisers",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSW9ob1N4V0xxYzN0Q3R4UHN2U3JTZUNYOC1hNXMtd3hqMUxoeUtQQWtEQk8tQXNRZlB1dmNIQ0JxeWZzWXlmc2VwcjVuMl9EQ1NiZTJEVDBKT3lwbE0wNDUxZlZILWFXTGwtY3Y4dmVqMzF2NUNFbjdhdkRoVUxKV3FoLVQ3aTZBMncyeDVHcDdtU3lDdWxRYVNtVnVtdGZRMHd2X3lYak5jQQ?oc=5",
@@ -10142,6 +10163,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Explains How To Use HTML Sitemaps For SEO via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/",
+          "published_at": "2026-10-09T21:31:30+00:00",
+          "excerpt": "Google explains why HTML sitemaps may still be useful even though the XML standard has largely replaced it. The post Google Explains How To Use HTML Sitemaps For SEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-10T10:42:53.594601+00:00"
+        },
+        {
           "title": "AI Overviews Have Spread To Most Big-Brand Searches via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/",
           "published_at": "2026-10-09T12:00:00+00:00",
@@ -10275,13 +10303,6 @@
           "fetched_at": "2026-10-07T11:12:03.208553+00:00"
         },
         {
-          "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/",
-          "published_at": "2026-10-06T17:21:56+00:00",
-          "excerpt": "OpenAI plans a limited U.S. test of visual ads during image generation, alongside measurement updates that give advertisers more ways to assess results. The post OpenAI To Test Visual Ads In ChatGPT Image Generation appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-06T18:30:21.545046+00:00"
-        },
-        {
           "title": "Google Opens Search Profiles In India & Canada, Brazil Next via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-search-profiles-india-canada-brazil/592092/",
           "published_at": "2026-10-06T17:12:37+00:00",
@@ -10315,6 +10336,13 @@
           "published_at": "2026-10-06T00:00:00+00:00",
           "excerpt": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains Couldn’t Fetch Sitemap Errors appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-06T11:23:36.847626+00:00"
+        },
+        {
+          "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation",
+          "url": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/",
+          "published_at": "2026-10-06T00:00:00+00:00",
+          "excerpt": "OpenAI plans a limited U.S. test of visual ads during image generation, alongside measurement updates that give advertisers more ways to assess results. The post OpenAI To Test Visual Ads In ChatGPT Image Generation appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-06T18:30:21.545046+00:00"
         },
         {
           "title": "How To Structure A Full-Funnel Ecommerce Account For Q4",
