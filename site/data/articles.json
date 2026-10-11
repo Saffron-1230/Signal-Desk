@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T10:55:43.107653+00:00",
+  "last_updated": "2026-10-11T17:43:43.385340+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4380,6 +4380,13 @@
           "fetched_at": "2026-10-10T10:42:45.289675+00:00"
         },
         {
+          "title": "The latest jobs in search marketing",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+          "published_at": "2026-10-09T16:49:16+00:00",
+          "excerpt": "The latest jobs in search marketing Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
           "title": "What Google AI Mode follow-up questions reveal about your content",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbm16TjVtczkwSzA5dzljOG5ILTRGNEJ3M3IxR2JValpZMjlHeWZaNWQ5WmpMUTZoNzRUTUFfWFI5OVNLYjMwOE5oWUYtNHBqT3VVOW0xbm1mZGZaNlRSdzhzeVJlSUFVbi1nTWZ4RUM4bHNuaEhSd3JQMHI0Nk1rb3c0bHc?oc=5",
           "published_at": "2026-10-09T14:00:00+00:00",
@@ -4723,20 +4730,6 @@
           "fetched_at": "2026-10-04T10:40:23.953059+00:00"
         },
         {
-          "title": "The latest jobs in search marketing",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-          "published_at": "2026-10-02T16:16:10+00:00",
-          "excerpt": "The latest jobs in search marketing Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
-          "title": "Google Ads brings A/B testing to Performance Max asset groups",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdG8xaGZDRmtidkd0RFNLZW41WXo5SVJKQ0o0dDNpYTg4em1ORjJPODVTOUtVOHQ0SzRyRGhCbG5MMmwtZVBTWFAyYVFCZ3BwVldvV04wc19odXJIN1EyYS1EUlRSenRFOWJmNzVxY2pLM1AwWUFaRFEzaFlzT0wzWnVKUUJPLW9lRG02YktzNUhuclMzSFlYWDNmRUtMdw?oc=5",
-          "published_at": "2026-10-02T15:55:34+00:00",
-          "excerpt": "Google Ads brings A/B testing to Performance Max asset groups Search Engine Land",
-          "fetched_at": "2026-10-03T16:32:56.535793+00:00"
-        },
-        {
           "title": "Google Ads will automatically pull promotions from advertisers’ websites",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEZBTE01LXBOQmZXTTl4Q2pLdG1HVFdTS1JfZmhyR1QwSXZtczB4TzF1YUdHMjhIeG0yUmFWTjlQdE9hdl9KazRSMENiT2tPRXJOejREU2p4WHFORzEzV3RPeFIwODZXMHVWUVA2cmtQMFB6OWZsc2xQajdSR29DQXhYbTREaVI3VHBLM3pIS0Z6b0hsaEkyVjVubHBkbkNLbTFYQ3lLNWVKYUE?oc=5",
           "published_at": "2026-10-02T15:45:59+00:00",
@@ -4784,6 +4777,13 @@
           "published_at": "2026-10-02T07:00:00+00:00",
           "excerpt": "Google Ads loosens business name rules for some advertisers Search Engine Land",
           "fetched_at": "2026-10-03T09:57:13.504455+00:00"
+        },
+        {
+          "title": "Google Ads brings A/B testing to Performance Max asset groups",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdG8xaGZDRmtidkd0RFNLZW41WXo5SVJKQ0o0dDNpYTg4em1ORjJPODVTOUtVOHQ0SzRyRGhCbG5MMmwtZVBTWFAyYVFCZ3BwVldvV04wc19odXJIN1EyYS1EUlRSenRFOWJmNzVxY2pLM1AwWUFaRFEzaFlzT0wzWnVKUUJPLW9lRG02YktzNUhuclMzSFlYWDNmRUtMdw?oc=5",
+          "published_at": "2026-10-02T07:00:00+00:00",
+          "excerpt": "Google Ads brings A/B testing to Performance Max asset groups Search Engine Land",
+          "fetched_at": "2026-10-03T16:32:56.535793+00:00"
         },
         {
           "title": "Google Search now says it's critical to manually factcheck and review all AI-generated content for accuracy and trustworthiness",
@@ -9999,6 +9999,13 @@
           "published_at": "2023-07-03T13:01:29+00:00",
           "excerpt": "Amanda King searchengineland.com",
           "fetched_at": "2026-09-06T08:44:50.272924+00:00"
+        },
+        {
+          "title": "SMX® Advanced | Frequently Asked Questions",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nVkc5WkxOMlFGWVg4UmdmcjhoSWwzNDItNzdkZW5qNmtFRU5FOTBzbDNyclVIdjdnMjA4Nzd0MlhJRDRFb3k5SG5ySnhzYjZ1UUloYnU0cEQ?oc=5",
+          "published_at": "2023-03-29T23:53:35+00:00",
+          "excerpt": "SMX® Advanced | Frequently Asked Questions Search Engine Land",
+          "fetched_at": "2026-10-11T17:43:30.508663+00:00"
         },
         {
           "title": "SMX® Advanced | Mar. 17-19, 2027 - San Diego | Expert-level training",
