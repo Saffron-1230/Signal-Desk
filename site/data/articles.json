@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T12:15:06.703626+00:00",
+  "last_updated": "2026-10-12T21:20:16.292543+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4372,6 +4372,27 @@
       "title_suffix": " - Search Engine Land",
       "color": "#18a66a",
       "articles": [
+        {
+          "title": "Google Ads tests AI-powered campaign creation using natural language",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTJJb21XdlVtSXFYN2g0dEVDSkx1VVZncmxhNXF1QVE5RnRYNW1FVW80MWVRV09pYjl1cG1xV041cEgzdjlhSzJRUWxWX1V4SThpMS1Kc0JYTV96MFJNVEFWQVd0djFqXzViWE9wMWFlOUJEY0hINmZQY0dVaXdyNGRIWEZXMDcxR1g0SzFUZ1hEVDN5OWNjUTBJQXRkRzcweEltMlRySQ?oc=5",
+          "published_at": "2026-10-12T18:55:15+00:00",
+          "excerpt": "Google Ads tests AI-powered campaign creation using natural language Search Engine Land",
+          "fetched_at": "2026-10-12T21:19:53.254885+00:00"
+        },
+        {
+          "title": "Consolidate or segment? A Performance Max decision framework",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwbUhURXRmN21nS1dmWU94a3NjVmxJbHlsR1FMUXpYeHk1VTU5WV92M2FLSzN0OTJwSFcxd3EzVFMtQ1dRdE5nMWU2WFcxMmtTTDRnOWhaZG54bndfUEFYOEpHRzc1UXR4SmtRMU41TVBLQ2dvWmdTbUZR?oc=5",
+          "published_at": "2026-10-12T14:00:00+00:00",
+          "excerpt": "Consolidate or segment? A Performance Max decision framework Search Engine Land",
+          "fetched_at": "2026-10-12T21:19:53.254885+00:00"
+        },
+        {
+          "title": "How to audit off-page AI search visibility and build a 90-day plan",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0pQZUFDMDRuNkQtX3RRRlhyckpFUi1NSXF0RXhxSFBqWkhlS3FyQUhkbngtTzJRSmFNZnZ1Y2RQdzB2ZWFJT1VheE0xWWZYcFc4NEJCZmNLWUNEejlkXzN5VVFFVGZ0X1M1ck04Q3M1cGxXZFJRakJpOW9NUGJXckpVdVgybU1WSmN3?oc=5",
+          "published_at": "2026-10-12T13:00:00+00:00",
+          "excerpt": "How to audit off-page AI search visibility and build a 90-day plan Search Engine Land",
+          "fetched_at": "2026-10-12T21:19:53.254885+00:00"
+        },
         {
           "title": "Google Ads adds automatic text overlays to Demand Gen video ads",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0puQlhkMFBMZi1vdHVfdDR0RUQ2Q3pjU0gtUEl2Ui1DcjdOdTN3NTBmcHV2RWhsRTZmaFpMbUNHM3VNWWpxcC1GeTNXTHk2cmZBNndWRWdSMWNTYW02WEc2OG1PQTJTNVFXUmVFU0NHTW4xOGxkb0o4bDlPOWxpRWNEVm9odTg3amxJQXRDX1JTNTlQOEFwZktZNllYVno4?oc=5",
@@ -10198,6 +10219,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "ChatGPT’s Most-Cited Sites Tilt Toward Primary Sources, Data Shows via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/",
+          "published_at": "2026-10-12T18:41:59+00:00",
+          "excerpt": "Government health, research, and regulator sites climbed ChatGPT's U.S. citation ranks while explainers fell. The post ChatGPT’s Most-Cited Sites Tilt Toward Primary Sources, Data Shows appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-12T21:20:05.173357+00:00"
+        },
+        {
+          "title": "Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches",
+          "url": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
+          "published_at": "2026-10-12T14:30:17+00:00",
+          "excerpt": "Turn competitor complaints and cancellation searches into PPC leads with tailored offers that address customer frustrations and make switching easier. The post Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-12T21:20:05.173357+00:00"
+        },
+        {
           "title": "Your First 30 Days As A Growth Leader – The Challenge From Day One",
           "url": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
           "published_at": "2026-10-12T12:00:07+00:00",
@@ -10324,13 +10359,6 @@
           "fetched_at": "2026-10-08T11:29:46.722460+00:00"
         },
         {
-          "title": "Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy",
-          "url": "https://www.searchenginejournal.com/why-legacy-ppc-account-structures-are-sabotaging-your-smart-bidding-strategy/588832/",
-          "published_at": "2026-10-07T19:00:23+00:00",
-          "excerpt": "Consolidate redundant PPC campaigns to give Smart Bidding stronger signals without erasing the business distinctions that keep your account profitable. The post Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-08T11:29:46.722460+00:00"
-        },
-        {
           "title": "Prediction: The Next Massive Google Update Is Around The Corner via @sejournal, @lilyraynyc",
           "url": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/",
           "published_at": "2026-10-07T17:30:46+00:00",
@@ -10364,6 +10392,13 @@
           "published_at": "2026-10-07T00:00:00+00:00",
           "excerpt": "Federal rulings in 2024 and 2025 examined how Google runs its advertising business. The post Google’s Search Antitrust Ruling: What Advertisers Should Check Next appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-07T11:12:03.208553+00:00"
+        },
+        {
+          "title": "Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy",
+          "url": "https://www.searchenginejournal.com/why-legacy-ppc-account-structures-are-sabotaging-your-smart-bidding-strategy/588832/",
+          "published_at": "2026-10-07T00:00:00+00:00",
+          "excerpt": "Consolidate redundant PPC campaigns to give Smart Bidding stronger signals without erasing the business distinctions that keep your account profitable. The post Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-08T11:29:46.722460+00:00"
         },
         {
           "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw",
@@ -15070,6 +15105,13 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "6 Best GEO Agencies for Private Equity Firms (+ How to Choose One)",
+          "url": "https://www.webfx.com/blog/finance/best-ai-seo-agencies-for-private-equity-firms/",
+          "published_at": "2026-10-12T12:58:32+00:00",
+          "excerpt": "The post 6 Best GEO Agencies for Private Equity Firms (+ How to Choose One) appeared first on WebFX .",
+          "fetched_at": "2026-10-12T21:20:13.107858+00:00"
+        },
+        {
           "title": "How Much Should You Spend on Marketing: 2027 Data & Industry Benchmarks",
           "url": "https://www.webfx.com/blog/marketing/how-much-should-a-company-spend-on-marketing/",
           "published_at": "2026-10-09T16:50:16+00:00",
@@ -16082,6 +16124,48 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Applying technology to understand and treat disease",
+          "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
+          "published_at": "2026-10-12T17:30:00+00:00",
+          "excerpt": "A healthcare professional sits at a desk reviewing mammogram scans and medical diagrams on dual computer monitors.",
+          "fetched_at": "2026-10-12T21:20:16.267772+00:00"
+        },
+        {
+          "title": "Google Health: Evolving so you can focus on living better",
+          "url": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
+          "published_at": "2026-10-12T13:00:00+00:00",
+          "excerpt": "What’s new from Google Health: Explore the new Fitbit Edge, expanded workout tracking, and dedicated women's health insights.",
+          "fetched_at": "2026-10-12T21:20:16.267772+00:00"
+        },
+        {
+          "title": "From game days to daily life: The familiar faces teaming up with Google Health",
+          "url": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
+          "published_at": "2026-10-12T13:00:00+00:00",
+          "excerpt": "TBD",
+          "fetched_at": "2026-10-12T21:20:16.267772+00:00"
+        },
+        {
+          "title": "We’re partnering with Flo Health to elevate women’s health",
+          "url": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
+          "published_at": "2026-10-12T13:00:00+00:00",
+          "excerpt": "Two women laughing together",
+          "fetched_at": "2026-10-12T21:20:16.267772+00:00"
+        },
+        {
+          "title": "How we’re making Google Health and Fitbit Air smarter than ever",
+          "url": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
+          "published_at": "2026-10-12T13:00:00+00:00",
+          "excerpt": "The photo shows Fitbit Air with a Metal Mesh band.",
+          "fetched_at": "2026-10-12T21:20:16.267772+00:00"
+        },
+        {
+          "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever",
+          "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/",
+          "published_at": "2026-10-12T13:00:00+00:00",
+          "excerpt": "Fitbit Edge overview video",
+          "fetched_at": "2026-10-12T21:20:16.267772+00:00"
+        },
         {
           "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
           "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
