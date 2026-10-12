@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T17:43:43.385340+00:00",
+  "last_updated": "2026-10-12T12:15:06.703626+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)",
+          "url": "https://ahrefs.com/blog/query-fan-out-chatgpt/",
+          "published_at": "2026-10-12T08:55:12+00:00",
+          "excerpt": "We wanted to see for ourselves how ChatGPT retrieves information—and what that means for AI visibility—so we analyzed 66.6 million free, logged-out GPT-5.6 Luna responses and their 15 million fan-out queries from August and September. Only 14.4% of the 66.6 … Read more ›",
+          "fetched_at": "2026-10-12T12:14:41.965673+00:00"
+        },
         {
           "title": "How to Measure AI Search Visibility When Attribution Falls Short",
           "url": "https://ahrefs.com/blog/how-to-measure-ai-search-visibility/",
@@ -4387,6 +4394,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "Your boss is nervous about AI, too",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9POUkxbVhXbGo4aXEyTDlNQTdSUGtRZzBLZjViaU1XZENHUnowczIwTldEWElJYkhhTlpsWmJWTTg1NjhEd1h1TnRSTDAxU0RodUdwSlVzbXdCTEJVeFZMOQ?oc=5",
+          "published_at": "2026-10-09T15:00:00+00:00",
+          "excerpt": "Your boss is nervous about AI, too Search Engine Land",
+          "fetched_at": "2026-10-12T12:14:43.334141+00:00"
+        },
+        {
           "title": "What Google AI Mode follow-up questions reveal about your content",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbm16TjVtczkwSzA5dzljOG5ILTRGNEJ3M3IxR2JValpZMjlHeWZaNWQ5WmpMUTZoNzRUTUFfWFI5OVNLYjMwOE5oWUYtNHBqT3VVOW0xbm1mZGZaNlRSdzhzeVJlSUFVbi1nTWZ4RUM4bHNuaEhSd3JQMHI0Nk1rb3c0bHc?oc=5",
           "published_at": "2026-10-09T14:00:00+00:00",
@@ -4448,6 +4462,13 @@
           "published_at": "2026-10-08T15:13:56+00:00",
           "excerpt": "Google Search disclosed its UGC Fresh Data Program Search Engine Land",
           "fetched_at": "2026-10-09T18:25:58.026359+00:00"
+        },
+        {
+          "title": "Do exact match domains have value in 2027?",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lR1JLc1YweHNveWp6Z0ZIYmd0NG9iaHh2bExMOEFlbW80ck54VE5kMUpycHZmNnNDcWJ5Y2RjbnV5eElnR1V1SldrU28tWHdWbElaeW9MMHU4dHBTdFRMdFIwUnlSWlFQSVE1YUhn?oc=5",
+          "published_at": "2026-10-08T14:00:00+00:00",
+          "excerpt": "Do exact match domains have value in 2027? Search Engine Land",
+          "fetched_at": "2026-10-08T18:55:36.147153+00:00"
         },
         {
           "title": "Context engineering: How to prevent AI workflows from degrading",
@@ -4793,13 +4814,6 @@
           "fetched_at": "2026-10-02T17:55:54.006926+00:00"
         },
         {
-          "title": "How to write a press release that gets results",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UOHJrYjREWnZyUkpZdmVQWDJFWjRlNmR5LVV5LVladGlUczFZUld6Ykt5TUVjYlRCYVctOWlzRGdwZk5QbkdhYlJKWGFYY1VCR19XLS1nSXh2cWlIWkJCOGtoUVJ0d0E?oc=5",
-          "published_at": "2026-10-01T17:10:43+00:00",
-          "excerpt": "How to write a press release that gets results Search Engine Land",
-          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
-        },
-        {
           "title": "Google clarifies ‘Destination not working’ ad policy with more examples",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVJzak9hXzhCdGVvczF4bTY2aG52bFBDQ1E5aFZDVEQtSTNsU2pBSjBYWHFLTUJERWVWa2FBYmtjNERERWY5ZUFaTmhoOGRSLXMxZURTalZQYXR3MU04bzNOYk4wMGlhVl9Wc2hTcWY5TWkxbTVrTVJ5a1laQW9BU0FBRVlESUFoYUlKNXYxeVhOdEd1d3dJWE42Z2QwSGZIcURpRjVwdDU?oc=5",
           "published_at": "2026-10-01T17:07:13+00:00",
@@ -4849,13 +4863,6 @@
           "fetched_at": "2026-10-02T10:36:34.236099+00:00"
         },
         {
-          "title": "SEO and meta descriptions: Everything you need to know in 2027",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnFQbGcxTS1lN19fQmFTVXlBZFJDeUdlYjB3X2I4YURRa3d4Unh3NmpkeWltSFlTUUd6MEZHSElsNUJUMlc5RlM5dUhOYW1qYmpaWlRZRGNqWmFabG52ZjdKRk1DYjhhbEpnRzBJNnl6ejY5aXpjbk1WOUxMUERONWpR?oc=5",
-          "published_at": "2026-10-01T13:00:00+00:00",
-          "excerpt": "SEO and meta descriptions: Everything you need to know in 2027 Search Engine Land",
-          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
-        },
-        {
           "title": "Google location asset requirements: What you need to know",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPWkxuOVR4SnNHd3ZNbTAxWU9wZFViOXJMcDNFRE5wYjF1dXdsRkxvUjJzbnFFSlBiQnpsSDI0NEFpS21VazVmUVBrLVhQYjIzeUx2dk5WcWkzdFJ0YUw0bFcyTjR6dmQyUTZMLWtSc2tLUV93VnhrMmJn?oc=5",
           "published_at": "2026-10-01T12:00:00+00:00",
@@ -4868,6 +4875,20 @@
           "published_at": "2026-10-01T07:00:00+00:00",
           "excerpt": "What is visual content? 17 types that drive links, shares, and traffic Search Engine Land",
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
+        },
+        {
+          "title": "SEO and meta descriptions: Everything you need to know in 2027",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnFQbGcxTS1lN19fQmFTVXlBZFJDeUdlYjB3X2I4YURRa3d4Unh3NmpkeWltSFlTUUd6MEZHSElsNUJUMlc5RlM5dUhOYW1qYmpaWlRZRGNqWmFabG52ZjdKRk1DYjhhbEpnRzBJNnl6ejY5aXpjbk1WOUxMUERONWpR?oc=5",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "excerpt": "SEO and meta descriptions: Everything you need to know in 2027 Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
+        },
+        {
+          "title": "How to write a press release that gets results",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UOHJrYjREWnZyUkpZdmVQWDJFWjRlNmR5LVV5LVladGlUczFZUld6Ykt5TUVjYlRCYVctOWlzRGdwZk5QbkdhYlJKWGFYY1VCR19XLS1nSXh2cWlIWkJCOGtoUVJ0d0E?oc=5",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "excerpt": "How to write a press release that gets results Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
         },
         {
           "title": "Google AI Overviews jump from 26% to 80% of branded queries",
@@ -9938,13 +9959,6 @@
           "fetched_at": "2026-09-18T09:05:22.698345+00:00"
         },
         {
-          "title": "Do exact match domains have value in 2027?",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lR1JLc1YweHNveWp6Z0ZIYmd0NG9iaHh2bExMOEFlbW80ck54VE5kMUpycHZmNnNDcWJ5Y2RjbnV5eElnR1V1SldrU28tWHdWbElaeW9MMHU4dHBTdFRMdFIwUnlSWlFQSVE1YUhn?oc=5",
-          "published_at": "2025-04-03T13:01:02+00:00",
-          "excerpt": "Do exact match domains have value in 2027? Search Engine Land",
-          "fetched_at": "2026-10-08T18:55:36.147153+00:00"
-        },
-        {
           "title": "Free Competitor Analysis Tool - Get Traffic & SEO Insights",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wSWN3c2k5S2NsdzVTZFZTV1hlaFZQUjZHLV9QczdyMWRsMzA4clhoNEpVQlJHMlhGMmxGV3V6RVAxWGY0YWZBRDNZeDcxa3RBeU11YXNMcXNvQ2F1czlWdVhJSUlWb1BESHJ3?oc=5",
           "published_at": "2025-02-05T15:07:46+00:00",
@@ -10184,6 +10198,41 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Your First 30 Days As A Growth Leader – The Challenge From Day One",
+          "url": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
+          "published_at": "2026-10-12T12:00:07+00:00",
+          "excerpt": "Use your first 30 days as a growth leader to identify where B2B buyers lose trust and rethink the channels meant to engage them. The post Your First 30 Days As A Growth Leader – The Challenge From Day One appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-12T12:14:55.771677+00:00"
+        },
+        {
+          "title": "Google Discover To Undergo Dramatic Changes via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/",
+          "published_at": "2026-10-12T11:13:13+00:00",
+          "excerpt": "Google is planning to reinvent Discover to become an AI Concierge with a tighter integration with YouTube. The post Google Discover To Undergo Dramatic Changes appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-12T12:14:55.771677+00:00"
+        },
+        {
+          "title": "Anthropic’s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
+          "published_at": "2026-10-12T09:31:25+00:00",
+          "excerpt": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight. The post Anthropic’s Thariq Shihipar Recommends Using Artifacts appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-12T12:14:55.771677+00:00"
+        },
+        {
+          "title": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/",
+          "published_at": "2026-10-11T23:31:25+00:00",
+          "excerpt": "Open job listings describe teams that generate and recommend AI content for Discover, plus a design lead to turn it into a proactive concierge experience. The post Google Is Hiring To Generate AI Content For Discover appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-12T12:14:55.771677+00:00"
+        },
+        {
+          "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/",
+          "published_at": "2026-10-11T22:07:32+00:00",
+          "excerpt": "Anthropic cut live web access for internal evaluations after Claude submitted real forms and worked around website restrictions. The post Anthropic Says Claude Bypassed Site Limits During Internal Tests appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-12T12:14:55.771677+00:00"
+        },
+        {
           "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/",
           "published_at": "2026-10-10T12:00:00+00:00",
@@ -10303,7 +10352,7 @@
           "fetched_at": "2026-10-07T19:00:07.294579+00:00"
         },
         {
-          "title": "WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster",
+          "title": "WordPress Releases Canonical MCP Adapter Plugin",
           "url": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
           "published_at": "2026-10-07T10:48:53+00:00",
           "excerpt": "WordPress released a canonical MCP Adapter that connects AI with sites while maintaining compatibility across MCP versions. The post WordPress Releases Canonical MCP Adapter Plugin appeared first on Search Engine Journal .",
@@ -10312,12 +10361,12 @@
         {
           "title": "Google’s Search Antitrust Ruling: What Advertisers Should Check Next",
           "url": "https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/",
-          "published_at": "2026-10-07T05:00:12+00:00",
+          "published_at": "2026-10-07T00:00:00+00:00",
           "excerpt": "Federal rulings in 2024 and 2025 examined how Google runs its advertising business. The post Google’s Search Antitrust Ruling: What Advertisers Should Check Next appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-07T11:12:03.208553+00:00"
         },
         {
-          "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster",
+          "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw",
           "url": "https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/",
           "published_at": "2026-10-06T20:05:17+00:00",
           "excerpt": "WordPress 7.1.3 fixes seven security vulnerabilities and a critical bug affecting image uploads that can result in a fatal error. The post WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw appeared first on Search Engine Journal .",
@@ -13508,6 +13557,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "How to build an AI visibility dashboard with Semrush",
+          "url": "https://www.semrush.com/blog/how-to-build-an-ai-visibility-dashboard-semrush/",
+          "published_at": "2026-10-12T09:45:00+00:00",
+          "excerpt": "Learn how to build an AI visibility dashboard that shows whether the pages AI cites are the ones earning Google clicks.",
+          "fetched_at": "2026-10-12T12:15:01.181233+00:00"
+        },
+        {
           "title": "4 types of keywords in SEO (+ examples)",
           "url": "https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/",
           "published_at": "2026-10-09T09:10:00+00:00",
@@ -13529,6 +13585,13 @@
           "fetched_at": "2026-10-07T11:12:09.446313+00:00"
         },
         {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-10-07T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "Google AI Overviews now appear for most major brands",
           "url": "https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/",
           "published_at": "2026-10-06T09:06:00+00:00",
@@ -13548,13 +13611,6 @@
           "published_at": "2026-10-05T12:51:00+00:00",
           "excerpt": "Local SEO is the process of improving search visibility, traffic, and brand awareness for local businesses.",
           "fetched_at": "2026-10-05T20:43:22.535828+00:00"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-10-05T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Ultimate SEO checklist: 43 tips to optimize your website",
@@ -13655,18 +13711,18 @@
           "fetched_at": "2026-09-18T16:35:04.869470+00:00"
         },
         {
-          "title": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
-          "url": "https://www.semrush.com/blog/my-editing-approaches-framework/",
-          "published_at": "2026-09-17T13:34:00+00:00",
-          "excerpt": "I use 5 editing approaches for content reviews. Find out what they are and how I choose the right one.",
-          "fetched_at": "2026-09-17T17:10:28.596870+00:00"
-        },
-        {
           "title": "Christine Skopec",
           "url": "https://www.semrush.com/blog/user/christine-skopec/",
           "published_at": "2026-09-17T00:00:00+00:00",
           "excerpt": "Google‘s new Search profiles give publishers and creators a dedicated landing page in Discover. Here‘s what it means for brands.",
           "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
+          "title": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
+          "url": "https://www.semrush.com/blog/my-editing-approaches-framework/",
+          "published_at": "2026-09-17T00:00:00+00:00",
+          "excerpt": "I use 5 editing approaches for content reviews. Find out what they are and how I choose the right one.",
+          "fetched_at": "2026-09-17T17:10:28.596870+00:00"
         },
         {
           "title": "What is zero-click marketing? How to execute and measure it",
@@ -14606,6 +14662,20 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "ChatGPT Ads for B2B: What They Cost, How They Work, and How to Launch Your First Campaign",
+          "url": "https://www.factors.ai/blog/chatgpt-ads-b2b",
+          "published_at": "2026-10-12T00:00:00+00:00",
+          "excerpt": "Learn how ChatGPT Ads work for B2B, including costs, targeting limits, campaign setup, and how to measure the channel against pipeline.",
+          "fetched_at": "2026-09-23T09:24:40.603961+00:00"
+        },
+        {
+          "title": "Why Companies Are Switching From 6sense, Based on Buyer Feedback",
+          "url": "https://www.factors.ai/blog/6sense-limitations-why-are-companies-switching",
+          "published_at": "2026-10-12T00:00:00+00:00",
+          "excerpt": "Explore 6sense drawbacks through feedback from 83 current and former users, covering black-box scoring, data quality, adoption, cost, and contracts.",
+          "fetched_at": "2026-10-06T11:23:44.674445+00:00"
+        },
+        {
           "title": "Cross-Channel Marketing Attribution: How to Measure What Influences B2B Pipeline",
           "url": "https://www.factors.ai/blog/cross-channel-marketing-attribution",
           "published_at": "2026-10-09T00:00:00+00:00",
@@ -14634,13 +14704,6 @@
           "fetched_at": "2026-10-08T18:55:49.211876+00:00"
         },
         {
-          "title": "Why Companies Are Switching From 6sense, Based on Buyer Feedback",
-          "url": "https://www.factors.ai/blog/6sense-limitations-why-are-companies-switching",
-          "published_at": "2026-10-07T00:00:00+00:00",
-          "excerpt": "Explore 6sense drawbacks through feedback from 83 current and former users, covering black-box scoring, data quality, adoption, cost, and contracts.",
-          "fetched_at": "2026-10-06T11:23:44.674445+00:00"
-        },
-        {
           "title": "Leadfeeder vs Lead Forensics: A detailed review",
           "url": "https://www.factors.ai/blog/leadfeeder-lead-forensics-alternative-factors-delivers-better-account-intelligence",
           "published_at": "2026-10-05T00:00:00+00:00",
@@ -14653,13 +14716,6 @@
           "published_at": "2026-09-28T00:00:00+00:00",
           "excerpt": "Learn how top AI tools for LinkedIn ads boost B2B targeting, creative optimization & predictive audiences, and how LinkedIn AdPilot fits in.",
           "fetched_at": "2026-09-28T11:05:32.636526+00:00"
-        },
-        {
-          "title": "ChatGPT Ads for B2B: What They Cost, How They Work, and How to Launch Your First Campaign",
-          "url": "https://www.factors.ai/blog/chatgpt-ads-b2b",
-          "published_at": "2026-09-23T00:00:00+00:00",
-          "excerpt": "Learn how ChatGPT Ads work for B2B, including costs, targeting limits, campaign setup, and how to measure the channel against pipeline.",
-          "fetched_at": "2026-09-23T09:24:40.603961+00:00"
         },
         {
           "title": "Google Ads 101: Types & Benefits",
@@ -15013,6 +15069,20 @@
       "archive_titles_canonical": true,
       "color": "#178bd4",
       "articles": [
+        {
+          "title": "How Much Should You Spend on Marketing: 2027 Data & Industry Benchmarks",
+          "url": "https://www.webfx.com/blog/marketing/how-much-should-a-company-spend-on-marketing/",
+          "published_at": "2026-10-09T16:50:16+00:00",
+          "excerpt": "The post How Much Should You Spend on Marketing: 2027 Data & Industry Benchmarks appeared first on WebFX .",
+          "fetched_at": "2026-10-12T12:15:03.879234+00:00"
+        },
+        {
+          "title": "AI Mode Info Monitoring Is Rolling Out Globally. Is Your Business Data Ready?",
+          "url": "https://www.webfx.com/blog/ai/ai-mode-info-monitoring/",
+          "published_at": "2026-10-09T07:16:11+00:00",
+          "excerpt": "The post AI Mode Info Monitoring Is Rolling Out Globally. Is Your Business Data Ready? appeared first on WebFX .",
+          "fetched_at": "2026-10-12T12:15:03.879234+00:00"
+        },
         {
           "title": "Google Ads Conversion Adjustments: How to Bid Toward Better Leads",
           "url": "https://www.webfx.com/blog/ppc/google-ads-conversion-adjustments/",
