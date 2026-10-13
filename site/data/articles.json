@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T11:58:43.550245+00:00",
+  "last_updated": "2026-10-13T19:23:53.251852+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4373,6 +4373,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Gemini 4 Argon rolling out in Google AI Mode & Gemini",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ0J2ZzVJTFFETkdVN00zSXZXMEd4WVI5ZVhQbGdFYXdXMmhZYWd3Wm9MMUxNVi1icngzeXhmSXNOUFFqdXk4bVVteEFCZkl6ak03ZkhtY253b0o0MXAtUi1iLXU2YXpSbHdCS3N4WVd4UkhiY2Ytd3JTQ0RFWlJaSTVUNkQ5bmZlTWF6ZW1NeUw?oc=5",
+          "published_at": "2026-10-13T16:33:55+00:00",
+          "excerpt": "Gemini 4 Argon rolling out in Google AI Mode & Gemini Search Engine Land",
+          "fetched_at": "2026-10-13T19:23:24.508338+00:00"
+        },
+        {
+          "title": "Google Tag Manager update promises faster websites and simpler tracking",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2lJU015aHZ2dDdWcmVscjZSdkZVbXNwTzVJWURoUnhyNHplMXYwb0JQd294QU02U21vSVlRT011bFFHa2hKcUNHLS1TbTc3ZTV4OF90MEVlR0UzR0U3bG15WXFqT0NqSFJVNVFlQ3Rab3E0aXA4MnR3bjM3UnE4OEYyZWk4QS16cXpFWUxnLXFfcDZ5X05GamhUUllCV3l0TkQwaXQ2WVR2V2M?oc=5",
+          "published_at": "2026-10-13T13:43:50+00:00",
+          "excerpt": "Google Tag Manager update promises faster websites and simpler tracking Search Engine Land",
+          "fetched_at": "2026-10-13T19:23:24.508338+00:00"
+        },
+        {
+          "title": "Google Discover to become a proactive, hyper-personalized concierge experience",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTR0UzZpb3RSQWFwTVlkcGNIeThzeWlXcEJCVnZZRkxsRlFiZDBQSVQ5Q0lqOWdpdENudEZsNDZUOGlWQ19yWE9Cbks0MUl1ZDZ1WXdiU1ZmRkF1cHMxZE05Ry0tOUxLbXRacGlneXpLM2ZFbUoxUEZwSWlSU0hVOGtURm0zYTJ4QmJSNTNGWDA2LTNkdE9KSHlYSmlXN1ByOTdhdVlWT092MEdKUWhLU1RnQQ?oc=5",
+          "published_at": "2026-10-13T12:03:50+00:00",
+          "excerpt": "Google Discover to become a proactive, hyper-personalized concierge experience Search Engine Land",
+          "fetched_at": "2026-10-13T19:23:24.508338+00:00"
+        },
+        {
+          "title": "Google Search Console reporting date selector is broken",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3cwMUdsN0N0SVFQQmFNbkM0a0ZtRjF4c2dZR2tORjJQUFpRUlhibmQybTZPYS1RaTZOOFprNnVKbUVHVFBNMGNHazlNRWlxaXdNSG5wb0ZRS3lyTU9OcEN5SGRQNVJybzhwRXlKYXJ2NEgwOWxvdlJjMnc3V0dxNDQyVkF2OHNZODlQU1lYdzJJN19ONVE?oc=5",
+          "published_at": "2026-10-13T11:54:17+00:00",
+          "excerpt": "Google Search Console reporting date selector is broken Search Engine Land",
+          "fetched_at": "2026-10-13T19:23:24.508338+00:00"
+        },
+        {
           "title": "Microsoft-Decision-1 being experimented with in Copilot and Bing",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckVQM2ZqN3dCbTF1RzFscDVyNTlSTFdVdDZyNXdQRm1lSmZnYWlidW91NW1FQ3oxdm5BbEYwWHlmVVhqWExvbEs0QlhsWXRaQkFnczFVUTZOaGdLQU1peG55M0g1NmUtOEVYWVRxLVprSi1PcFdBZV9GZms4SXFqVGlaVnRINkJiMTBRaE0xRTBMZXNfN0t5ZWVvZjF5NGxqZkE?oc=5",
           "published_at": "2026-10-12T21:50:31+00:00",
@@ -4385,6 +4413,13 @@
           "published_at": "2026-10-12T18:55:15+00:00",
           "excerpt": "Google Ads tests AI-powered campaign creation using natural language Search Engine Land",
           "fetched_at": "2026-10-12T21:19:53.254885+00:00"
+        },
+        {
+          "title": "Google Ads tests automated bidding for Video Reach campaigns",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUJyeHpndHNwOWh5amVNWkEzckRUellpM0RsWGNJci1FNjg2QXFGZE5OQ0FGR2p1dHNsR3ZLb2dBTVZmaEhsWm93NU51TEJZNG1vRlljSGswRFVmT0JmeTMtaFNPeXRrYWFXQ3FRWEtTT0tWQnhFUHRWTXNOSEQ1c3c5NWhNTm9lajhPNDRjdmYyX1kxUjRYQklIdXE?oc=5",
+          "published_at": "2026-10-12T18:39:52+00:00",
+          "excerpt": "Google Ads tests automated bidding for Video Reach campaigns Search Engine Land",
+          "fetched_at": "2026-10-13T19:23:24.508338+00:00"
         },
         {
           "title": "Search engine positioning",
@@ -10261,6 +10296,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
+          "published_at": "2026-10-13T17:18:44+00:00",
+          "excerpt": "Google added Gemini 4 Argon to AI Mode for paid subscribers and opened the model to developers, enterprises, and the Gemini app. The post Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-13T19:23:39.215164+00:00"
+        },
+        {
+          "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch",
+          "url": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
+          "published_at": "2026-10-13T14:00:21+00:00",
+          "excerpt": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions. The post Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-13T19:23:39.215164+00:00"
+        },
+        {
+          "title": "Lost In Translation: How Language Changes Which Brand AI Recommends",
+          "url": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/",
+          "published_at": "2026-10-13T12:00:05+00:00",
+          "excerpt": "Your AI visibility check was probably in English. However, new research across 1,650 responses shows AI recommends different brands in different languages. The post Lost In Translation: How Language Changes Which Brand AI Recommends appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-13T19:23:39.215164+00:00"
+        },
+        {
           "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
           "published_at": "2026-10-13T11:23:58+00:00",
@@ -10380,13 +10436,6 @@
           "fetched_at": "2026-10-08T18:55:41.831405+00:00"
         },
         {
-          "title": "How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search",
-          "url": "https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/",
-          "published_at": "2026-10-08T13:49:33+00:00",
-          "excerpt": "Explore how to scale AI video ads with a single storyline for TikTok, Reels, and AI search to maximize impact. The post How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-08T18:55:41.831405+00:00"
-        },
-        {
           "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/",
           "published_at": "2026-10-08T12:58:07+00:00",
@@ -10406,6 +10455,13 @@
           "published_at": "2026-10-08T07:45:34+00:00",
           "excerpt": "Decide which link building tactics to keep or cut for 2027. Join Resolve for a free webinar on off-page SEO, rankings, and AI visibility. The post Link Building Strategies for 2027: What to Keep and Cut appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-08T11:29:46.722460+00:00"
+        },
+        {
+          "title": "How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search",
+          "url": "https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/",
+          "published_at": "2026-10-08T00:00:00+00:00",
+          "excerpt": "Explore how to scale AI video ads with a single storyline for TikTok, Reels, and AI search to maximize impact. The post How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-08T18:55:41.831405+00:00"
         },
         {
           "title": "ChatGPT Gets GPT-6 And Intelligent UI For Interactive Answers via @sejournal, @MattGSouthern",
@@ -10889,6 +10945,13 @@
           "published_at": "2026-09-26T12:00:46+00:00",
           "excerpt": "Google's September spam update may take up to two weeks, Search Console adds image-based search data, reports look at traffic from Search and AI Mode. The post Google Spam Update, Image Search Data In GSC – SEO Pulse appeared first on Search Engine Journal .",
           "fetched_at": "2026-09-26T16:32:55.733876+00:00"
+        },
+        {
+          "title": "How AI Shopping Agents Decide Which Products to Recommend",
+          "url": "https://www.searchenginejournal.com/webinar-lp-how-ai-shopping-agents-decide-which-products-to-recommend/",
+          "published_at": "2026-09-25T16:32:08+00:00",
+          "excerpt": "Learn how AI shopping agents choose products, close product-data gaps, measure recommendations across Google and ChatGPT, and make product pages readable to AI.",
+          "fetched_at": "2026-10-13T19:23:39.215164+00:00"
         },
         {
           "title": "AI Agents Won’t Fix Bad Audience Data, They’ll Amplify It",
@@ -15791,6 +15854,20 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Gemini 4 Argon for Robotics",
+          "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+          "published_at": "2026-10-13T00:00:00+00:00",
+          "excerpt": "Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning. Developers can access and integrate Argon across Google's de…",
+          "fetched_at": "2026-10-13T19:23:52.332770+00:00"
+        },
+        {
+          "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+          "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+          "published_at": "2026-10-13T00:00:00+00:00",
+          "excerpt": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source Python Agent Development Kit (ADK).",
+          "fetched_at": "2026-10-13T19:23:52.332770+00:00"
+        },
+        {
           "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
           "url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
           "published_at": "2026-10-08T00:00:00+00:00",
@@ -16187,6 +16264,55 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+          "published_at": "2026-10-13T18:00:00+00:00",
+          "excerpt": "Gemini 4 Argon logo next to a large white \"4\", all on a gradient blue background",
+          "fetched_at": "2026-10-13T19:23:53.248076+00:00"
+        },
+        {
+          "title": "New on Google Play: More ways to create, discover, and play",
+          "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/",
+          "published_at": "2026-10-13T17:00:00+00:00",
+          "excerpt": "Illustrated 3-D coin, dumbbell, trophy, arrow, and track next to the text \"Discover more of what you love with Google Play\"",
+          "fetched_at": "2026-10-13T19:23:53.248076+00:00"
+        },
+        {
+          "title": "A new app experience is coming to cars with Google built-in",
+          "url": "https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/",
+          "published_at": "2026-10-13T17:00:00+00:00",
+          "excerpt": "A car dashboard screen showing the Google Play Store interface, featuring recommended streaming apps like HBO Max and YouTube, with climate controls and system navigation icons visible along the bottom bar.",
+          "fetched_at": "2026-10-13T19:23:53.248076+00:00"
+        },
+        {
+          "title": "Gemini 4 Argon comes to the Gemini app.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+          "published_at": "2026-10-13T16:00:00+00:00",
+          "excerpt": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
+          "fetched_at": "2026-10-13T19:23:53.248076+00:00"
+        },
+        {
+          "title": "Gemini 4 Argon is now available for developers.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+          "published_at": "2026-10-13T16:00:00+00:00",
+          "excerpt": "Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…",
+          "fetched_at": "2026-10-13T19:23:53.248076+00:00"
+        },
+        {
+          "title": "We're helping Indiana communities save with clean energy investments.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/",
+          "published_at": "2026-10-13T16:00:00+00:00",
+          "excerpt": "The Monroe-Gregg School District and Morgan County Public Library will benefit from Google’s $10M clean energy investment in Indiana.",
+          "fetched_at": "2026-10-13T19:23:53.248076+00:00"
+        },
+        {
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "published_at": "2026-10-13T16:00:00+00:00",
+          "excerpt": "TBD",
+          "fetched_at": "2026-10-13T19:23:53.248076+00:00"
+        },
         {
           "title": "Applying technology to understand and treat disease",
           "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
