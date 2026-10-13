@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T21:20:16.292543+00:00",
+  "last_updated": "2026-10-13T11:58:43.550245+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4373,11 +4373,39 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Microsoft-Decision-1 being experimented with in Copilot and Bing",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckVQM2ZqN3dCbTF1RzFscDVyNTlSTFdVdDZyNXdQRm1lSmZnYWlidW91NW1FQ3oxdm5BbEYwWHlmVVhqWExvbEs0QlhsWXRaQkFnczFVUTZOaGdLQU1peG55M0g1NmUtOEVYWVRxLVprSi1PcFdBZV9GZms4SXFqVGlaVnRINkJiMTBRaE0xRTBMZXNfN0t5ZWVvZjF5NGxqZkE?oc=5",
+          "published_at": "2026-10-12T21:50:31+00:00",
+          "excerpt": "Microsoft-Decision-1 being experimented with in Copilot and Bing Search Engine Land",
+          "fetched_at": "2026-10-13T11:58:16.814260+00:00"
+        },
+        {
           "title": "Google Ads tests AI-powered campaign creation using natural language",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTJJb21XdlVtSXFYN2g0dEVDSkx1VVZncmxhNXF1QVE5RnRYNW1FVW80MWVRV09pYjl1cG1xV041cEgzdjlhSzJRUWxWX1V4SThpMS1Kc0JYTV96MFJNVEFWQVd0djFqXzViWE9wMWFlOUJEY0hINmZQY0dVaXdyNGRIWEZXMDcxR1g0SzFUZ1hEVDN5OWNjUTBJQXRkRzcweEltMlRySQ?oc=5",
           "published_at": "2026-10-12T18:55:15+00:00",
           "excerpt": "Google Ads tests AI-powered campaign creation using natural language Search Engine Land",
           "fetched_at": "2026-10-12T21:19:53.254885+00:00"
+        },
+        {
+          "title": "Search engine positioning",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DZTRkNFAwR18yS3I1bHpEUXNiV2hINzAtdzM1d0lOYk9BRHpDdlhya2lJLTFkUERwRTBwc0R2UmpxUElhTVBNdDdSejZkR2lDVy1rSjFFVnNHOE1lUl9PcFpEODJrRGNtNFRUeQ?oc=5",
+          "published_at": "2026-10-12T17:50:30+00:00",
+          "excerpt": "Search engine positioning Search Engine Land",
+          "fetched_at": "2026-10-13T11:58:16.814260+00:00"
+        },
+        {
+          "title": "Google Analytics launches User Groups Admin API for easier access management",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGliVFpNX3dzQ1RHRTFGMTRaRjFBNG4yRUJOalBkX0ZmM2VQeW5ROTFKWUtPaEZxbFpjeko3UXJ1UDNMU2xQV05ocTA3TkRzQVZfUHN3QzNBYkVHV0dFX1pGZDNKeEtPUWdnOExRcnJ1ZE1OYTJ0ay1UcHk0encweUJ6WnlnOVhGNE9qZmR0SjFiblBjdm82VmoxdzNUay1xekljU3RJX3dVTHhKZUE2enNR?oc=5",
+          "published_at": "2026-10-12T17:24:59+00:00",
+          "excerpt": "Google Analytics launches User Groups Admin API for easier access management Search Engine Land",
+          "fetched_at": "2026-10-13T11:58:16.814260+00:00"
+        },
+        {
+          "title": "Google Ads gives Demand Gen advertisers a way to keep Lookalike targeting restrictions",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVdUYTlqTnE5N3g2X3h6UVlzMkR6WWp4S1BDd1VMOXVBUVZoNC1xNE9tYzV5bUJpNTVBbjZoMlNZcTZ3Q3NiNDlCTHplRi1xdmRrbDZLV1BVaVV1djJZV2FaM20tbnBIdHZMSXpYZVd0SlNBeS10ZE4tNXdlZUg4S3JZQk8weVlwTG5tNTE1WHc1eFdSYkNiSjBFYUhXdHctN3l3NTFPNUkxUEdBSUZsZEZhLTdaY0xpZmdkSldOYw?oc=5",
+          "published_at": "2026-10-12T17:11:35+00:00",
+          "excerpt": "Google Ads gives Demand Gen advertisers a way to keep Lookalike targeting restrictions Search Engine Land",
+          "fetched_at": "2026-10-13T11:58:16.814260+00:00"
         },
         {
           "title": "Consolidate or segment? A Performance Max decision framework",
@@ -4392,6 +4420,13 @@
           "published_at": "2026-10-12T13:00:00+00:00",
           "excerpt": "How to audit off-page AI search visibility and build a 90-day plan Search Engine Land",
           "fetched_at": "2026-10-12T21:19:53.254885+00:00"
+        },
+        {
+          "title": "AI search is helping people ask bigger questions. Is your brand ready?",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHdWa09iaVRGOXhaQi0yVGF4Nnp4dmhXaFVQdll1QjBZbkVTeWk4eTQzblhORTItWmNCbkJrQW5SZmtLRE5mcU9BeE1MUGVGX0c4OGRKcHBOQnJ6eHZrYVZ6eG1iUFplTWNvRXFPQVBIUTRkUnQxeU1vSHo1U0N2RlJHV3VUQnhPQmxoWFNn?oc=5",
+          "published_at": "2026-10-12T12:00:00+00:00",
+          "excerpt": "AI search is helping people ask bigger questions. Is your brand ready? Search Engine Land",
+          "fetched_at": "2026-10-13T11:58:16.814260+00:00"
         },
         {
           "title": "Google Ads adds automatic text overlays to Demand Gen video ads",
@@ -4758,13 +4793,6 @@
           "fetched_at": "2026-10-03T09:57:13.504455+00:00"
         },
         {
-          "title": "Terms Of Service",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNVUNuOXR1X2M3dktSZk9KMC1rc2tFQ19PTGlDdmt6dW5peXpwTHUxbElDMDB0bURmX0tIX2J2TFN0VjNXeTBMek9hS253WXAz?oc=5",
-          "published_at": "2026-10-03T01:18:12+00:00",
-          "excerpt": "Terms Of Service Search Engine Land",
-          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
-        },
-        {
           "title": "What is web copywriting?",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WbkUwYlVqOXk4dnI0OFRZRVBZSnprVEVOX0dEQlFuaG9UTDExOTJnS01jR1BVcUpZeW1TcDhfNTV6eDZhanowVjFIblBjeGJSZjFjRGZuMEJtTkZ5Y1hj?oc=5",
           "published_at": "2026-10-02T18:44:09+00:00",
@@ -4826,6 +4854,13 @@
           "published_at": "2026-10-02T07:00:00+00:00",
           "excerpt": "Google Ads brings A/B testing to Performance Max asset groups Search Engine Land",
           "fetched_at": "2026-10-03T16:32:56.535793+00:00"
+        },
+        {
+          "title": "Terms Of Service",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNVUNuOXR1X2M3dktSZk9KMC1rc2tFQ19PTGlDdmt6dW5peXpwTHUxbElDMDB0bURmX0tIX2J2TFN0VjNXeTBMek9hS253WXAz?oc=5",
+          "published_at": "2026-10-02T07:00:00+00:00",
+          "excerpt": "Terms Of Service Search Engine Land",
+          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
         },
         {
           "title": "Google Search now says it's critical to manually factcheck and review all AI-generated content for accuracy and trustworthiness",
@@ -10071,6 +10106,13 @@
           "fetched_at": "2026-09-02T08:52:52.717674+00:00"
         },
         {
+          "title": "Speakers | Experts In SEO, GEO, PPC, AI | SMX® Advanced",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HdFM5Z0VXRFdXd3gxOVZqN2VfN2c1QUZ3YVQ3UThpRnlFY2d2SEtpeUN4cWo2Q2hvci1RR2lyTUY2UndwbVJyUHd6dWhITEw5NUcxa3BDTEdMM0hPQ3ZF?oc=5",
+          "published_at": "2023-03-28T03:17:38+00:00",
+          "excerpt": "Speakers | Experts In SEO, GEO, PPC, AI | SMX® Advanced Search Engine Land",
+          "fetched_at": "2026-10-13T11:58:16.814260+00:00"
+        },
+        {
           "title": "SMX® Next | SEO, GEO, PPC, and AI training | Online Nov. 18",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83aVJQbnFDN1JpVzd4TUpBSXJkVzJyX1A2NVlKNXJYR282eHBJdXlHS0pGT0pZbmRidGNrLXhGRmlTa3ROMFJNU3NSWmVVUQ?oc=5",
           "published_at": "2023-03-27T21:29:20+00:00",
@@ -10218,6 +10260,27 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
+          "published_at": "2026-10-13T11:23:58+00:00",
+          "excerpt": "Google may process a site migration for months, then blow it and rank the old URLs anyway. Mueller says what to focus on. The post Google Says Why Site Migrations Can Exceed 4 Months appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-13T11:58:31.939911+00:00"
+        },
+        {
+          "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
+          "published_at": "2026-10-12T22:16:40+00:00",
+          "excerpt": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams. The post YouTube To Test Ask YouTube Inside The Shorts Player appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-13T11:58:31.939911+00:00"
+        },
+        {
+          "title": "All In One SEO WordPress Plugin Vulnerable To Two Exploits via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/all-in-one-seo-wordpress-plugin-vulnerable-to-two-exploits/592719/",
+          "published_at": "2026-10-12T21:51:53+00:00",
+          "excerpt": "AIOSEO WordPress Plugin has two medium-severity security flaws that enable unauthenticated attackers to compromise affected websites. The post All In One SEO WordPress Plugin Vulnerable To Two Exploits appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-13T11:58:31.939911+00:00"
+        },
         {
           "title": "ChatGPT’s Most-Cited Sites Tilt Toward Primary Sources, Data Shows via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/",
