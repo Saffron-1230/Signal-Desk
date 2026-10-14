@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T09:37:46.811286+00:00",
+  "last_updated": "2026-10-14T17:23:35.421223+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4373,6 +4373,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Is real-time marketing finally real?",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zcG5yVVZyN2lEblZYUXNIdkpscXV5dy1scmM3cjlTN01uRGIzUUZkODRpRzFHZDdSdDFYVGFmSlZhQlQ5TlRENW1jVUtuZWx1MndmLVVFQ1ZZRmhnUGlKMmJ1a3NReHp3LXlfeHhwZW5qdkdMMkQ5Vm4yTQ?oc=5",
+          "published_at": "2026-10-14T11:00:00+00:00",
+          "excerpt": "Is real-time marketing finally real? Search Engine Land",
+          "fetched_at": "2026-10-14T17:23:06.129107+00:00"
+        },
+        {
           "title": "Gemini 4 Argon rolling out in Google AI Mode & Gemini",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ0J2ZzVJTFFETkdVN00zSXZXMEd4WVI5ZVhQbGdFYXdXMmhZYWd3Wm9MMUxNVi1icngzeXhmSXNOUFFqdXk4bVVteEFCZkl6ak03ZkhtY253b0o0MXAtUi1iLXU2YXpSbHdCS3N4WVd4UkhiY2Ytd3JTQ0RFWlJaSTVUNkQ5bmZlTWF6ZW1NeUw?oc=5",
           "published_at": "2026-10-13T16:33:55+00:00",
@@ -4546,6 +4553,13 @@
           "published_at": "2026-10-09T13:00:00+00:00",
           "excerpt": "Google AI Mode ads: Everything you need to know Search Engine Land",
           "fetched_at": "2026-10-11T10:55:27.898905+00:00"
+        },
+        {
+          "title": "What is video content? And why it’s super important right now",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uekJPdVhMTmJ5OENEcjNROU84VzhyYmpnbkhvZlNIa3F5VmtFd2JOTFZpeXFYb2IwUjB4X0UyWjdjSjZaYU5KZ1dTMzktN3pVV29PUm9MbFNWRF9R?oc=5",
+          "published_at": "2026-10-08T17:32:46+00:00",
+          "excerpt": "What is video content? And why it’s super important right now Search Engine Land",
+          "fetched_at": "2026-10-14T17:23:06.129107+00:00"
         },
         {
           "title": "YouTube expands Masthead ad eligibility to online gambling advertisers",
@@ -4786,13 +4800,6 @@
           "fetched_at": "2026-10-08T18:55:36.147153+00:00"
         },
         {
-          "title": "What is generative AI and how does it work?",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtTm93bENFbVhhNnZtQTF6c1lDakVfNEZ4S2lWTWEydm5KUThEMnFPSVhnajlyOC04Mjh2VlZnUzd6VGsyUFlIV084bTBhdllxdnp1VjhlWThaVGRh?oc=5",
-          "published_at": "2026-10-05T18:19:14+00:00",
-          "excerpt": "What is generative AI and how does it work? Search Engine Land",
-          "fetched_at": "2026-10-05T20:43:04.909947+00:00"
-        },
-        {
           "title": "Google changes view-through conversion reporting for Demand Gen Display ads",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVN6SUV5aV9wTmpIS25ieVpXSXVWRWM0c1JRRWZtMzFhaGdKVG9rWFJESm9ZSHF0dnBKemVNa1JDNmhvNjVqTHVOeDlaWGQ2cHYxZmszWUxTSHJVZDBoWEVwRVE0SGNuXzJTcWRpWnZKLURnUGUwd0d2VXhaOUVHeENtV3NaOHNjQlpFY0QzMTBMdHJ5Q1FnaVVZODJTNVdCUm1UOTRnXzZ1dTI1Y1ZZRQ?oc=5",
           "published_at": "2026-10-05T16:19:30+00:00",
@@ -4854,6 +4861,13 @@
           "published_at": "2026-10-05T07:00:00+00:00",
           "excerpt": "AI Brand Visibility SMX® Master Class | Jessica Bowman | Oct. 5 Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "What is generative AI and how does it work?",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtTm93bENFbVhhNnZtQTF6c1lDakVfNEZ4S2lWTWEydm5KUThEMnFPSVhnajlyOC04Mjh2VlZnUzd6VGsyUFlIV084bTBhdllxdnp1VjhlWThaVGRh?oc=5",
+          "published_at": "2026-10-05T07:00:00+00:00",
+          "excerpt": "What is generative AI and how does it work? Search Engine Land",
+          "fetched_at": "2026-10-05T20:43:04.909947+00:00"
         },
         {
           "title": "Zoom user stats: How Many people use Zoom?",
@@ -5045,18 +5059,18 @@
           "fetched_at": "2026-10-01T18:28:54.395839+00:00"
         },
         {
-          "title": "The collapse of attribution",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iaktDRDFBTDBUNF9GQl9CTGtlRDBxOUFzMmxYbndLRG9wdUQ3dTRqV250S3pOcHM0d0VBaHEtTklSblNsSkdaNl9XX3BGQnVIWFJyNDNoUExUaHpPOFdLV0N5OWYxdmM?oc=5",
-          "published_at": "2026-09-30T15:00:00+00:00",
-          "excerpt": "The collapse of attribution Search Engine Land",
-          "fetched_at": "2026-10-01T11:04:10.504819+00:00"
-        },
-        {
           "title": "What 9 million AI answers reveal about search visibility",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUUcxdmh3NzRPRkFQT0xnLXVGYTFnb3JvMUhkX2hleWh0TUlGOGNOdjloeFR6WDZSc3duUWNmeFJERk54dkNiWGNySW9GUkFJRnM4UUY5UEc1YXpfWFZXVXdjR0ZLOGJFMHNIMXhfNDN1dVJsdGpnVjdlOFBBNFk?oc=5",
           "published_at": "2026-09-30T07:00:00+00:00",
           "excerpt": "What 9 million AI answers reveal about search visibility Search Engine Land",
           "fetched_at": "2026-09-30T18:02:24.881921+00:00"
+        },
+        {
+          "title": "The collapse of attribution",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iaktDRDFBTDBUNF9GQl9CTGtlRDBxOUFzMmxYbndLRG9wdUQ3dTRqV250S3pOcHM0d0VBaHEtTklSblNsSkdaNl9XX3BGQnVIWFJyNDNoUExUaHpPOFdLV0N5OWYxdmM?oc=5",
+          "published_at": "2026-09-30T07:00:00+00:00",
+          "excerpt": "The collapse of attribution Search Engine Land",
+          "fetched_at": "2026-10-01T11:04:10.504819+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -5071,13 +5085,6 @@
           "published_at": "2026-09-29T22:17:51+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-09-30T18:02:24.881921+00:00"
-        },
-        {
-          "title": "SpyFu guide: How to get the most out of this SEO tool",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MWV82WmlTWkptWDhieEFIb3BuQ2w0QnJsX0JubkNWWDN4RDNLOTFWTzktY1NvTUE3MGp0Rl9hTnpVaGhyUEthZ2k1SGFtOExZeVJacGtzZzVTZw?oc=5",
-          "published_at": "2026-09-29T17:39:00+00:00",
-          "excerpt": "SpyFu guide: How to get the most out of this SEO tool Search Engine Land",
-          "fetched_at": "2026-09-30T10:36:00.880685+00:00"
         },
         {
           "title": "H1 tag best practices: Definition, strategy, and examples",
@@ -5140,6 +5147,13 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOW1NSXlLanlMUzV0bjlQRVV5NTBER2xtMm9zWFJOdEhwdzJPOEU1ZE41NDhFNDFCNWlSTEJJTm0zZkxuUWtkTVBNRUJVdngyTmx2Vzl1VV9WR01yOTZUbjNSRjlISDJ4dTFxS29qeFp0TXBQV2VTZFpWNDhmTlpoYnFNM0FRTU9NLTFhMDJKX0dVUUlXTmp5eDlXbExCXzB2eGVoRTRnSWFOTWdyNUlhQkhvS0k?oc=5",
           "published_at": "2026-09-29T07:00:00+00:00",
           "excerpt": "Report: ChatGPT Ads are growing fast, but advertisers are still figuring them out Search Engine Land",
+          "fetched_at": "2026-09-30T10:36:00.880685+00:00"
+        },
+        {
+          "title": "SpyFu guide: How to get the most out of this SEO tool",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MWV82WmlTWkptWDhieEFIb3BuQ2w0QnJsX0JubkNWWDN4RDNLOTFWTzktY1NvTUE3MGp0Rl9hTnpVaGhyUEthZ2k1SGFtOExZeVJacGtzZzVTZw?oc=5",
+          "published_at": "2026-09-29T07:00:00+00:00",
+          "excerpt": "SpyFu guide: How to get the most out of this SEO tool Search Engine Land",
           "fetched_at": "2026-09-30T10:36:00.880685+00:00"
         },
         {
@@ -5442,6 +5456,13 @@
           "published_at": "2026-09-23T07:00:00+00:00",
           "excerpt": "Google expands AI Brief and adds deeper AI Max reporting Search Engine Land",
           "fetched_at": "2026-09-24T17:22:59.645625+00:00"
+        },
+        {
+          "title": "SEO report template: Show results, save time, get buy-in",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRWRCaDZGckNFWUwtaDhxVE13UEtXc21NeGtIS3BySlRjWFBiVGF0clViSUxUSWxqZjFkeEVrd0lHMVh0MDNlREZIcVNNbVNiWGtUaGF4WTFIQ0VJRDlNV3pBdTk?oc=5",
+          "published_at": "2026-09-23T07:00:00+00:00",
+          "excerpt": "SEO report template: Show results, save time, get buy-in Search Engine Land",
+          "fetched_at": "2026-10-14T17:23:06.129107+00:00"
         },
         {
           "title": "CrUX ad metrics added to the page experience SEO documentation",
@@ -6046,13 +6067,6 @@
           "fetched_at": "2026-09-16T09:23:46.754469+00:00"
         },
         {
-          "title": "Gemini 3.8 Live powers Google Search Live",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkNMSzJucEdKZnNLWkdfcWVjMUNrNXRUaTNDVGdjcHZZb3RQNXhINlVScEZ1aHBZc1VuUldLSmd6X2ozX1l0eTdMNzU0T3NnU1NGTVhCdUVjX215NFRYaGh5OFd1R3ZpZzhhWmtfTnk2RXBjOG5uclp0UkVuVUR4c0FCNA?oc=5",
-          "published_at": "2026-09-15T17:45:00+00:00",
-          "excerpt": "Gemini 3.8 Live powers Google Search Live Search Engine Land",
-          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
-        },
-        {
           "title": "YouTube video views: How they work & how to get more of them",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85Y2dxNFMxdDhGOVFrMG1IdENOWVlGOXNySHBhQUdObTRad0k5LXR5QVNETEZvOENHSzFEaWowQkJJdlNxUEFmN0tzZ1NTY1AtSEE2dkRpRHVZcTg5?oc=5",
           "published_at": "2026-09-15T14:04:00+00:00",
@@ -6093,6 +6107,13 @@
           "published_at": "2026-09-15T07:00:00+00:00",
           "excerpt": "The follow-up query: Rethinking SEO for conversational search Search Engine Land",
           "fetched_at": "2026-09-15T17:09:32.622283+00:00"
+        },
+        {
+          "title": "Gemini 3.8 Live powers Google Search Live",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkNMSzJucEdKZnNLWkdfcWVjMUNrNXRUaTNDVGdjcHZZb3RQNXhINlVScEZ1aHBZc1VuUldLSmd6X2ozX1l0eTdMNzU0T3NnU1NGTVhCdUVjX215NFRYaGh5OFd1R3ZpZzhhWmtfTnk2RXBjOG5uclp0UkVuVUR4c0FCNA?oc=5",
+          "published_at": "2026-09-15T07:00:00+00:00",
+          "excerpt": "Gemini 3.8 Live powers Google Search Live Search Engine Land",
+          "fetched_at": "2026-09-16T09:23:46.754469+00:00"
         },
         {
           "title": "Claude for SEO: 5 ways to automate repetitive work",
@@ -10338,6 +10359,41 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Ads Introduces Channel Prioritization And Budget Allocation via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
+          "published_at": "2026-10-14T15:00:33+00:00",
+          "excerpt": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns. The post Google Ads Introduces Channel Prioritization And Budget Allocation appeared first on Searc…",
+          "fetched_at": "2026-10-14T17:23:19.254636+00:00"
+        },
+        {
+          "title": "Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing",
+          "url": "https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/",
+          "published_at": "2026-10-14T14:00:20+00:00",
+          "excerpt": "If search is your only presence, you’re exposed. Google has been purging SEO-first sites since the Helpful Content Update. Here’s what replaces them. The post Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-14T17:23:19.254636+00:00"
+        },
+        {
+          "title": "How To Remove Negative Search Results: What 22,620 Links Reveal via @sejournal, @EraseDotCom",
+          "url": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
+          "published_at": "2026-10-14T13:50:53+00:00",
+          "excerpt": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post Data Shows Which Negative Search Results Can Actually Be Removed appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-06T18:30:21.545046+00:00"
+        },
+        {
+          "title": "Your Store Is ‘Agent-Ready’ By Default, We Tested 122 Shopify Stores To See What That Actually Means via @sejournal, @billhunt",
+          "url": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
+          "published_at": "2026-10-14T12:00:06+00:00",
+          "excerpt": "A store can look agent-ready by default and still fail the moment a buyer asks about shipping, pickup, or cancellation. Here's what to verify. The post Your Store Is ‘Agent-Ready’ By Default, We Tested 122 Shopify Stores To See What That Actually Means appeared first on Search E…",
+          "fetched_at": "2026-10-14T17:23:19.254636+00:00"
+        },
+        {
+          "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
+          "published_at": "2026-10-14T09:50:10+00:00",
+          "excerpt": "Google explains how it ranks PDFs in Search and AI Mode and how to check if a PDF is SEO friendly. The post Google Explains How They Rank PDFs And What It Means For SEO/GEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-14T17:23:19.254636+00:00"
+        },
+        {
           "title": "Analysis: Google Is Poisoning Search Results For Rank Trackers via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/",
           "published_at": "2026-10-14T09:17:05+00:00",
@@ -10345,7 +10401,7 @@
           "fetched_at": "2026-10-14T09:37:34.881495+00:00"
         },
         {
-          "title": "How To Help AI Shopping Agents Find Your Products via @sejournal, @hethr_campbell",
+          "title": "How To Help AI Shopping Agents Find Your Products [Webinar] via @sejournal, @hethr_campbell",
           "url": "https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/",
           "published_at": "2026-10-14T07:45:07+00:00",
           "excerpt": "Join seoClarity on October 28 at 2 p.m. ET to learn how product-page language, competitor recommendations, and readable product data affect AI shopping discovery. The post How To Help AI Shopping Agents Find Your Products appeared first on Search Engine Journal .",
@@ -10608,13 +10664,6 @@
           "url": "https://www.searchenginejournal.com/google-search-profiles-india-canada-brazil/592092/",
           "published_at": "2026-10-06T17:12:37+00:00",
           "excerpt": "Google is opening Search profiles to creators and publishers in India and Canada, with Brazil to follow soon. The post Google Opens Search Profiles In India & Canada, Brazil Next appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-06T18:30:21.545046+00:00"
-        },
-        {
-          "title": "Data Shows Which Negative Search Results Can Actually Be Removed via @sejournal, @EraseDotCom",
-          "url": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
-          "published_at": "2026-10-06T17:00:45+00:00",
-          "excerpt": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post Data Shows Which Negative Search Results Can Actually Be Removed appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-06T18:30:21.545046+00:00"
         },
         {
@@ -14900,6 +14949,13 @@
           "fetched_at": "2026-10-14T09:37:42.679995+00:00"
         },
         {
+          "title": "LinkedIn ads for B2B, a performance marketer’s guide to what actually drives pipeline",
+          "url": "https://www.factors.ai/blog/linkedin-ads-b2b-guide",
+          "published_at": "2026-10-14T00:00:00+00:00",
+          "excerpt": "A performance marketer’s guide to LinkedIn ads for B2B, covering formats, targeting, bidding and attribution, with data from $150M in LinkedIn ad spend.",
+          "fetched_at": "2026-10-14T17:23:31.387391+00:00"
+        },
+        {
           "title": "ChatGPT Ads for B2B: What They Cost, How They Work, and How to Launch Your First Campaign",
           "url": "https://www.factors.ai/blog/chatgpt-ads-b2b",
           "published_at": "2026-10-12T00:00:00+00:00",
@@ -16341,6 +16397,27 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Research@ 2026: Novel capabilities and intelligence",
+          "url": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
+          "published_at": "2026-10-14T16:15:00+00:00",
+          "excerpt": "An animated collage showing research-focusing images on a black background",
+          "fetched_at": "2026-10-14T17:23:35.417659+00:00"
+        },
+        {
+          "title": "Check out this year’s buzziest Halloween trends.",
+          "url": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
+          "published_at": "2026-10-14T12:00:00+00:00",
+          "excerpt": "Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…",
+          "fetched_at": "2026-10-14T17:23:35.417659+00:00"
+        },
+        {
+          "title": "6 ways to trick-or-treat yourself to the ultimate Halloween with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/halloween-tips-2026/",
+          "published_at": "2026-10-14T12:00:00+00:00",
+          "excerpt": "An abandoned video rental store lit by a red neon sign at night.",
+          "fetched_at": "2026-10-14T17:23:35.417659+00:00"
+        },
         {
           "title": "17 organizations using AI to accelerate scientific breakthroughs",
           "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/",
