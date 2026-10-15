@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T09:15:45.304182+00:00",
+  "last_updated": "2026-10-15T17:12:38.921083+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4373,6 +4373,20 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Make every page count before publishing more for SEO",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hNE5GWlEtTjBkdUQxOXFsYzdOMmNGZFBIaW1sVFdmNmtMQ21adWlINmp4N1hhenNJajlIWjNmSHdPWU1xUENRZHd3LXBZLUtyaFlzNGVYSkhLTUhWNXJUSC12X0Y2TFFqUGlKRWZDZ1o?oc=5",
+          "published_at": "2026-10-15T13:00:00+00:00",
+          "excerpt": "Make every page count before publishing more for SEO Search Engine Land",
+          "fetched_at": "2026-10-15T17:12:11.000041+00:00"
+        },
+        {
+          "title": "SEO for roofers: Six step guide to attract more leads",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53TEt2N25zVXRhSk5RbzZJcmFpTXZWa0ZyelRIbnRyZzFxbEN6bTVZQl9Xd1RVY2g4YXpQdHlSUEcxUjZhUk1HNzlwUDJYbFM5dmJCWFZUOEZidkZBSlZn?oc=5",
+          "published_at": "2026-10-14T20:32:39+00:00",
+          "excerpt": "SEO for roofers: Six step guide to attract more leads Search Engine Land",
+          "fetched_at": "2026-10-15T17:12:11.000041+00:00"
+        },
+        {
           "title": "How to write a blog post: The definitive guide",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoVFA3VV9Pc21URXpIby1CejFteG9xdXBsMVg3Ym43cGpSSTU1M3JEWVJWOVktVU9QM2R4QUJLa2lPLTZOSEx4U3llT1VCNmZQWVN5WVdlUW5aay1aSkVxQVFn?oc=5",
           "published_at": "2026-10-14T19:08:55+00:00",
@@ -4399,6 +4413,13 @@
           "published_at": "2026-10-14T14:33:37+00:00",
           "excerpt": "Your brand can win the mention and lose the citation Search Engine Land",
           "fetched_at": "2026-10-15T09:15:19.740741+00:00"
+        },
+        {
+          "title": "What language should you track AI prompts in?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNHdlSVNOby1HcHlBS1lpV2ZjU0U4aUV3WG1jM2JhQ2Y2Qnl3N3hMUWx3a0RhTnlEakNrV0NxN1diSEZYdWFtWXFNeUNqdENUcDB0UXhnWUN6M0h6WDFtcDUwUGsyckR1NzdWdkpka2w?oc=5",
+          "published_at": "2026-10-14T14:03:08+00:00",
+          "excerpt": "What language should you track AI prompts in? Search Engine Land",
+          "fetched_at": "2026-10-15T17:12:11.000041+00:00"
         },
         {
           "title": "What the PPC agency of 2027 will look like",
@@ -4539,6 +4560,13 @@
           "published_at": "2026-10-12T17:11:35+00:00",
           "excerpt": "Google Ads gives Demand Gen advertisers a way to keep Lookalike targeting restrictions Search Engine Land",
           "fetched_at": "2026-10-13T11:58:16.814260+00:00"
+        },
+        {
+          "title": "Does your website need an llms.txt file? + How to create one",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00emREbjVwakJrOWF4WlR5QnJteGk3SEMtVE9DVF9MMm4tM0VmXzVZUlpkbWhGMXNEQy1sdGNkOTNhalkzM2ZqR3dNN2NobENrVkJDTTZn?oc=5",
+          "published_at": "2026-10-12T17:08:42+00:00",
+          "excerpt": "Does your website need an llms.txt file? + How to create one Search Engine Land",
+          "fetched_at": "2026-10-15T17:12:11.000041+00:00"
         },
         {
           "title": "Consolidate or segment? A Performance Max decision framework",
@@ -4840,6 +4868,13 @@
           "published_at": "2026-10-06T12:00:00+00:00",
           "excerpt": "Reddit for organic and AI search: 7 ways to build visibility Search Engine Land",
           "fetched_at": "2026-10-06T18:30:08.916560+00:00"
+        },
+        {
+          "title": "Optimize Content For AI | SMX® Master Class | Carolyn Shelby | Oct. 6",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMEVVQlFDaDBVOUFGempXTlZnaHlSM24wc0xjbVpLYW55bUF3QnMyVnZtYXNVTXZfbGRQMmkyUDhyM001cnp5YXE3TnhHdUNKcnBRMU40dkl4NWt2bzNvenlKSUsyX3RRM1lyY1NVdlE2MjZCdUlXMWIxSlFzSEpMdTBTM1l3SDA?oc=5",
+          "published_at": "2026-10-06T07:00:00+00:00",
+          "excerpt": "Optimize Content For AI | SMX® Master Class | Carolyn Shelby | Oct. 6 Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "Google Search Console performance report filter allows selection of multiple countries",
@@ -9280,13 +9315,6 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
-          "title": "Optimize Content For AI | SMX® Master Class | Carolyn Shelby | Oct. 6",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMEVVQlFDaDBVOUFGempXTlZnaHlSM24wc0xjbVpLYW55bUF3QnMyVnZtYXNVTXZfbGRQMmkyUDhyM001cnp5YXE3TnhHdUNKcnBRMU40dkl4NWt2bzNvenlKSUsyX3RRM1lyY1NVdlE2MjZCdUlXMWIxSlFzSEpMdTBTM1l3SDA?oc=5",
-          "published_at": "2026-07-27T23:47:27+00:00",
-          "excerpt": "Optimize Content For AI | SMX® Master Class | Carolyn Shelby | Oct. 6 Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "B2B PPC Lead Gen SMX® Master Class | Emily Wood | Oct. 8",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDJHRVNXdmJ4QjVUTldSY1hNMjduYlJLMUgzNG14NnVZUktrNVVyVEduQXJmM0FZYTB6Rk90VXo3WGVtaGV4c1JCRXgtVUNmdE55WFJLdVRlZ2VLQk1HTjh6ZUlrdlZoQ2Rha3pROFU5VHA0ZzdnS3FMeXBsNHpiQmFPNG4?oc=5",
           "published_at": "2026-07-27T18:56:21+00:00",
@@ -10415,6 +10443,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
+          "published_at": "2026-10-15T16:00:00+00:00",
+          "excerpt": "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources. The post Google Puts Inline Links Higher In More AI Search Responses appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-15T17:12:24.091071+00:00"
+        },
+        {
+          "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
+          "url": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
+          "published_at": "2026-10-15T14:00:33+00:00",
+          "excerpt": "Google flips its default from ranked results to AI answers when answer-layer ad yield matches the SERP. That crossover lands between 2028 and 2030. The post SERPs Stop Being The Default Between 2028 & 2030 appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-15T17:12:24.091071+00:00"
+        },
+        {
+          "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
+          "url": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
+          "published_at": "2026-10-15T12:00:21+00:00",
+          "excerpt": "Prepare for a potential Panda-style Google update by addressing scaled AI content and fake authors that could threaten rankings across your site. The post 96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals appeared first on Search Engine Jo…",
+          "fetched_at": "2026-10-15T17:12:24.091071+00:00"
+        },
+        {
+          "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
+          "published_at": "2026-10-15T10:32:28+00:00",
+          "excerpt": "Coywolf Pack makes EmDash-based websites absurdly fast, adds more SEO functionality, and improves WordPress to EmDash migrations. The post Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-15T17:12:24.091071+00:00"
+        },
+        {
           "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/",
           "published_at": "2026-10-14T18:51:41+00:00",
@@ -10541,13 +10597,6 @@
           "fetched_at": "2026-10-12T21:20:05.173357+00:00"
         },
         {
-          "title": "Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches",
-          "url": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
-          "published_at": "2026-10-12T14:30:17+00:00",
-          "excerpt": "Turn competitor complaints and cancellation searches into PPC leads with tailored offers that address customer frustrations and make switching easier. The post Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-12T21:20:05.173357+00:00"
-        },
-        {
           "title": "Your First 30 Days As A Growth Leader – The Challenge From Day One",
           "url": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
           "published_at": "2026-10-12T12:00:07+00:00",
@@ -10567,6 +10616,13 @@
           "published_at": "2026-10-12T09:31:25+00:00",
           "excerpt": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight. The post Anthropic’s Thariq Shihipar Recommends Using Artifacts appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-12T12:14:55.771677+00:00"
+        },
+        {
+          "title": "Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches",
+          "url": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
+          "published_at": "2026-10-12T00:00:00+00:00",
+          "excerpt": "Turn competitor complaints and cancellation searches into PPC leads with tailored offers that address customer frustrations and make switching easier. The post Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-12T21:20:05.173357+00:00"
         },
         {
           "title": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
@@ -11136,7 +11192,7 @@
           "fetched_at": "2026-09-26T16:32:55.733876+00:00"
         },
         {
-          "title": "How AI Shopping Agents Decide Which Products to Recommend",
+          "title": "AI Shopping: Get Your Products Found in Google & ChatGPT",
           "url": "https://www.searchenginejournal.com/webinar-lp-how-ai-shopping-agents-decide-which-products-to-recommend/",
           "published_at": "2026-09-25T16:32:08+00:00",
           "excerpt": "Learn how AI shopping agents choose products, close product-data gaps, measure recommendations across Google and ChatGPT, and make product pages readable to AI.",
@@ -13907,6 +13963,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "How to do an SEO audit with Claude & the Semrush MCP",
+          "url": "https://www.semrush.com/blog/semrush-seo-audit-with-claude/",
+          "published_at": "2026-10-15T12:32:00+00:00",
+          "excerpt": "Scan your website in Site Audit, connect Semrush’s MCP to Claude, and have Claude analyze the audit data.",
+          "fetched_at": "2026-10-15T17:12:30.309246+00:00"
+        },
+        {
           "title": "How to build an AI visibility dashboard with Semrush",
           "url": "https://www.semrush.com/blog/how-to-build-an-ai-visibility-dashboard-semrush/",
           "published_at": "2026-10-12T09:45:00+00:00",
@@ -14056,7 +14119,7 @@
         {
           "title": "Cloudflare's AI training block now spares Googlebot",
           "url": "https://www.semrush.com/blog/cloudfare-blocks-ai-training/",
-          "published_at": "2026-09-18T14:04:00+00:00",
+          "published_at": "2026-09-18T00:00:00+00:00",
           "excerpt": "Cloudflare‘s Disallow AI Training setting blocks AI training crawlers but not Googlebot. Bing won‘t honor it until early 2027.",
           "fetched_at": "2026-09-18T16:35:04.869470+00:00"
         },
@@ -16057,6 +16120,20 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Evaluating AI agents: moving past the vibe check",
+          "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "excerpt": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
+          "fetched_at": "2026-10-15T17:12:37.989615+00:00"
+        },
+        {
+          "title": "Three layers, one repo: a tour of google/adk-recipes",
+          "url": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "excerpt": "The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (suc…",
+          "fetched_at": "2026-10-15T17:12:37.989615+00:00"
+        },
+        {
           "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
           "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
           "published_at": "2026-10-14T00:00:00+00:00",
@@ -16474,6 +16551,62 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "How we're helping the world prepare for natural disasters",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+          "published_at": "2026-10-15T16:00:00+00:00",
+          "excerpt": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster.",
+          "fetched_at": "2026-10-15T17:12:38.916650+00:00"
+        },
+        {
+          "title": "Android earthquake alerts now available in more than 200 regions",
+          "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+          "published_at": "2026-10-15T16:00:00+00:00",
+          "excerpt": "1 billion Android earthquake alerts sent",
+          "fetched_at": "2026-10-15T17:12:38.916650+00:00"
+        },
+        {
+          "title": "400 publications are now partnering with us on our News AI pilot program.",
+          "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
+          "published_at": "2026-10-15T16:00:00+00:00",
+          "excerpt": "People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…",
+          "fetched_at": "2026-10-15T17:12:38.916650+00:00"
+        },
+        {
+          "title": "More ways to connect with the web from Search",
+          "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
+          "published_at": "2026-10-15T16:00:00+00:00",
+          "excerpt": "TBD",
+          "fetched_at": "2026-10-15T17:12:38.916650+00:00"
+        },
+        {
+          "title": "Making your Pixel devices last longer through design, repair, and reuse",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/",
+          "published_at": "2026-10-15T15:00:00+00:00",
+          "excerpt": "Pixel repair",
+          "fetched_at": "2026-10-15T17:12:38.916650+00:00"
+        },
+        {
+          "title": "An intelligent new shopping cart",
+          "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+          "published_at": "2026-10-15T13:00:00+00:00",
+          "excerpt": "Images of the global cart UI, over a collage of products",
+          "fetched_at": "2026-10-15T17:12:38.916650+00:00"
+        },
+        {
+          "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+          "published_at": "2026-10-15T13:00:00+00:00",
+          "excerpt": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
+          "fetched_at": "2026-10-15T17:12:38.916650+00:00"
+        },
+        {
+          "title": "Data-backed secrets to smarter holiday shopping",
+          "url": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
+          "published_at": "2026-10-15T13:00:00+00:00",
+          "excerpt": "A graphic containing the text \"When to Buy\" interspersed with isolated consumer products against a plain white background. The word \"When\" is written in a large black sans-serif font on the upper left, and \"to Buy\" is on the bottom right.",
+          "fetched_at": "2026-10-15T17:12:38.916650+00:00"
+        },
         {
           "title": "Research@ 2026: Novel capabilities and intelligence",
           "url": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
