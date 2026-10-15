@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T17:23:35.421223+00:00",
+  "last_updated": "2026-10-15T09:15:45.304182+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4373,6 +4373,48 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "How to write a blog post: The definitive guide",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoVFA3VV9Pc21URXpIby1CejFteG9xdXBsMVg3Ym43cGpSSTU1M3JEWVJWOVktVU9QM2R4QUJLa2lPLTZOSEx4U3llT1VCNmZQWVN5WVdlUW5aay1aSkVxQVFn?oc=5",
+          "published_at": "2026-10-14T19:08:55+00:00",
+          "excerpt": "How to write a blog post: The definitive guide Search Engine Land",
+          "fetched_at": "2026-10-15T09:15:19.740741+00:00"
+        },
+        {
+          "title": "Google Merchant Center introduces new store address attribute for local inventory",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTI3U0E1ZzRvZ2RxaHNILUd3NmVyZ29kOEN4Sk5kWS05UmNfLUpqc0JQVHhweU1IQWFOMlhnYlBzbUZKNTBOWnBZczZQRVlSdXdLdmkzTWdYMmg1RzJGRjhCMmJrRElTcWNTTExPSFBHek8tV2ZXTHV2UjdvbVd5cm1raTRmV0ZnSlQxNGtOR2lXY21tX1RsNm1qQXRwSlpuUzl2MmIxZ1ZJNFNKSmVKRzRWb3VxMk05?oc=5",
+          "published_at": "2026-10-14T16:47:39+00:00",
+          "excerpt": "Google Merchant Center introduces new store address attribute for local inventory Search Engine Land",
+          "fetched_at": "2026-10-15T09:15:19.740741+00:00"
+        },
+        {
+          "title": "Google Ads introduces channel prioritization and budget allocation controls",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDBoYWQ4TUhTX21Qek1PcjlPOXNraXp2V1cycTRMdjZOOXhRVmZ2S3dHMGxwR1RLaGJFclpFU0NyODZ3SGVDRlFfTDFIM25LU2RKY0poaGNvTVJkUVRVbTFqZUZXVkdFaDU3MkI2djUzd1kwQmJFVU42ZGRWRkJZbnVmR1dPWjdhUVVzVnpBLTgwLWtkWC1yVG9xVFRVcWljOGViMGVpdVBtSlB0cko3Xw?oc=5",
+          "published_at": "2026-10-14T15:03:40+00:00",
+          "excerpt": "Google Ads introduces channel prioritization and budget allocation controls Search Engine Land",
+          "fetched_at": "2026-10-15T09:15:19.740741+00:00"
+        },
+        {
+          "title": "Your brand can win the mention and lose the citation",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlY5c2Y4enE0a1phRFpBN3llb0ItbzFuWUlreFNmdEJTbjNIY1pYYnRFbS1KZGNiZFZrV2hUdW0wWmVaU3AzcjZtc3Y4ZDdLX185emwybVpha3dkc3pPTXRydEZXTFJoSDRoT0xXLWVjTU5JUk1WQUw1QkZadHY4OFNhRzBFSnUxWTFUN2VRZXExQQ?oc=5",
+          "published_at": "2026-10-14T14:33:37+00:00",
+          "excerpt": "Your brand can win the mention and lose the citation Search Engine Land",
+          "fetched_at": "2026-10-15T09:15:19.740741+00:00"
+        },
+        {
+          "title": "What the PPC agency of 2027 will look like",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uXzB1aUd5WGFZczZRcFczWXc1TDBOV3g0cTFKZ1p6QUVDcUR6RjNIRXF5VXhobldFa1lGdV82Q05ScDcxemF2bVU3LVJTdFQ5R180QV94a3cweGd4T0l5QjQ0RmZEUQ?oc=5",
+          "published_at": "2026-10-14T13:00:00+00:00",
+          "excerpt": "What the PPC agency of 2027 will look like Search Engine Land",
+          "fetched_at": "2026-10-15T09:15:19.740741+00:00"
+        },
+        {
+          "title": "Organic growth in ecommerce in 2027",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JcjdIUWQtaEdyaXRQR0drS0Q2NDdnVXJDWkFlbkQ3bkZ3a0JySlBnOGY3akVkV2ZxQkdVZ0xsV2xOdVpnRFJvc1pXY0lqaFhaQlMwXzhWNENId0drb1hwWk9vUm9BRndUdVRCZkNqQkZsTk0?oc=5",
+          "published_at": "2026-10-14T12:00:00+00:00",
+          "excerpt": "Organic growth in ecommerce in 2027 Search Engine Land",
+          "fetched_at": "2026-10-15T09:15:19.740741+00:00"
+        },
+        {
           "title": "Is real-time marketing finally real?",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zcG5yVVZyN2lEblZYUXNIdkpscXV5dy1scmM3cjlTN01uRGIzUUZkODRpRzFHZDdSdDFYVGFmSlZhQlQ5TlRENW1jVUtuZWx1MndmLVVFQ1ZZRmhnUGlKMmJ1a3NReHp3LXlfeHhwZW5qdkdMMkQ5Vm4yTQ?oc=5",
           "published_at": "2026-10-14T11:00:00+00:00",
@@ -4455,6 +4497,13 @@
           "published_at": "2026-10-12T21:50:31+00:00",
           "excerpt": "Microsoft-Decision-1 being experimented with in Copilot and Bing Search Engine Land",
           "fetched_at": "2026-10-13T11:58:16.814260+00:00"
+        },
+        {
+          "title": "Impact of bad responses in Google Reviews",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eUxqUWhDWFdhX1VsbHpfaER1TXVaRjFDeEllekpYVEx0YmpUaUx5MzRPU0l5X1hSV0dRZkRHNFltN0FPZi1iTkZISGp4cEx0RFJwNVBYNU9iVTNqd014NWN0emJ5VkN2LU9oREltbVlZMWpSNDUxUlFmamljM0U?oc=5",
+          "published_at": "2026-10-12T20:51:43+00:00",
+          "excerpt": "Impact of bad responses in Google Reviews Search Engine Land",
+          "fetched_at": "2026-10-15T09:15:19.740741+00:00"
         },
         {
           "title": "Google Ads tests AI-powered campaign creation using natural language",
@@ -4795,7 +4844,7 @@
         {
           "title": "Google Search Console performance report filter allows selection of multiple countries",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlNyVDZ0cEc5SXdiTHNzb0xCckNiQ1cycW5TUlBnamJIWEVmZmVkeUkzMVpnNEZpanJtT0VocXFZZnotRGVWenhyRldxVDdubkJUSXVSSGx2WXFqbkpXcHlZckVEMVpXbUdsSFMxTXctVVR4QkNmbUhZN1FmRzJsVHMxaWZvSWZ2VVBpamdWeGstRGVNQ21fREY2aXZvUndxbUQ3bHdrRFNfUjNjalJsZTNwNlRkTXcyejN1UzRzcw?oc=5",
-          "published_at": "2026-10-06T11:40:28+00:00",
+          "published_at": "2026-10-06T07:00:00+00:00",
           "excerpt": "Google Search Console performance report filter allows selection of multiple countries Search Engine Land",
           "fetched_at": "2026-10-08T18:55:36.147153+00:00"
         },
@@ -4849,18 +4898,18 @@
           "fetched_at": "2026-10-05T20:43:04.909947+00:00"
         },
         {
-          "title": "AI usage surges 6X for local search, fragmenting the digital ecosystem",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGlzYTdpbE8yRG9TR0xxLWNJa01GT2hIbktlSEIxSmpSS0xTZzhKUVphOXJRWXg4bFJQLWVCU0xMWXpGOXVxRkwyMWpRTHByNlp1MXZBeHlab3hSNFB0NlFWaVVlQk5XV01keS1ZMEhnNmRLZS1xaXczM0ZsRERPRlZxeWVkMnN6RVpfdWZTRGtSZndKTkJTbGFkU2pFcjRwWUVfcmtXd2s?oc=5",
-          "published_at": "2026-10-05T11:00:00+00:00",
-          "excerpt": "AI usage surges 6X for local search, fragmenting the digital ecosystem Search Engine Land",
-          "fetched_at": "2026-10-05T11:41:17.627135+00:00"
-        },
-        {
           "title": "AI Brand Visibility SMX® Master Class | Jessica Bowman | Oct. 5",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83Vy1tdHBxTnBJcndBYUJzNEJxVG1hZEtPX2lTYjNEc1Nwb29EdEluWTJXTGpWcHlIdTBLNVpoaHh2UXdXbjNDT0xwWG9mNVJDQkdCd0EzRS1GeUE2MWlMM3MzV0NaZW5zMVFyTjQ3dTl4WFRjTC1GYmJYdkpLeGs?oc=5",
           "published_at": "2026-10-05T07:00:00+00:00",
           "excerpt": "AI Brand Visibility SMX® Master Class | Jessica Bowman | Oct. 5 Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "AI usage surges 6X for local search, fragmenting the digital ecosystem",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGlzYTdpbE8yRG9TR0xxLWNJa01GT2hIbktlSEIxSmpSS0xTZzhKUVphOXJRWXg4bFJQLWVCU0xMWXpGOXVxRkwyMWpRTHByNlp1MXZBeHlab3hSNFB0NlFWaVVlQk5XV01keS1ZMEhnNmRLZS1xaXczM0ZsRERPRlZxeWVkMnN6RVpfdWZTRGtSZndKTkJTbGFkU2pFcjRwWUVfcmtXd2s?oc=5",
+          "published_at": "2026-10-05T07:00:00+00:00",
+          "excerpt": "AI usage surges 6X for local search, fragmenting the digital ecosystem Search Engine Land",
+          "fetched_at": "2026-10-05T11:41:17.627135+00:00"
         },
         {
           "title": "What is generative AI and how does it work?",
@@ -5899,17 +5948,17 @@
           "fetched_at": "2026-09-17T17:10:09.774979+00:00"
         },
         {
-          "title": "The SEO career playbook is dead. Good!",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOME9lUlVTN1RxN21LUTNvRy1JeTNJZEJuSERUZzAxMkNjSm1fRmJ5bVVsSVNEYml0LUpkN2lNdG42VUZ3VV9OdEtPdzNqQVN1aDkxZUdVUGY0ZHR6a0k0QVhXaWdEcmxfdTR3NQ?oc=5",
-          "published_at": "2026-09-17T12:00:00+00:00",
-          "excerpt": "The SEO career playbook is dead. Good! Search Engine Land",
-          "fetched_at": "2026-09-17T17:10:09.774979+00:00"
-        },
-        {
           "title": "Ranking is only half the job: SEO for task completion",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03bU52M1NIWkpWVTRzVXBFUFZXU3lmcXNNSUEtZ21TbHR4RHlpZWRKV0Z0YVRFaFZneHNrTk1NLS1rZWE1UE1acW5zZl9pZUJhMFlfM1d2WUM3S3dTWTZIY3lUMV9ycGZqSS1nQ3NpdWotRmo2ZFZpcVpHSWw?oc=5",
           "published_at": "2026-09-17T07:00:00+00:00",
           "excerpt": "Ranking is only half the job: SEO for task completion Search Engine Land",
+          "fetched_at": "2026-09-17T17:10:09.774979+00:00"
+        },
+        {
+          "title": "The SEO career playbook is dead. Good!",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOME9lUlVTN1RxN21LUTNvRy1JeTNJZEJuSERUZzAxMkNjSm1fRmJ5bVVsSVNEYml0LUpkN2lNdG42VUZ3VV9OdEtPdzNqQVN1aDkxZUdVUGY0ZHR6a0k0QVhXaWdEcmxfdTR3NQ?oc=5",
+          "published_at": "2026-09-17T07:00:00+00:00",
+          "excerpt": "The SEO career playbook is dead. Good! Search Engine Land",
           "fetched_at": "2026-09-17T17:10:09.774979+00:00"
         },
         {
@@ -10211,6 +10260,13 @@
           "fetched_at": "2026-10-13T11:58:16.814260+00:00"
         },
         {
+          "title": "SEO, GEO, PPC, AI Agenda | SMX® Next | Online Nov. 18, 2026",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2T0xrSVFCMHYtckxEYzBZbUJ4MGhEWU00OVlBTG1SZ1BTRTlacnpZR2hoSmFVdjM1aEFtUTVqRkV4QlgxbkN5RTUyXzhuc0hoOWlFcGVlNA?oc=5",
+          "published_at": "2023-03-27T23:41:59+00:00",
+          "excerpt": "SEO, GEO, PPC, AI Agenda | SMX® Next | Online Nov. 18, 2026 Search Engine Land",
+          "fetched_at": "2026-10-15T09:15:19.740741+00:00"
+        },
+        {
           "title": "SMX® Next | SEO, GEO, PPC, and AI training | Online Nov. 18",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83aVJQbnFDN1JpVzd4TUpBSXJkVzJyX1A2NVlKNXJYR282eHBJdXlHS0pGT0pZbmRidGNrLXhGRmlTa3ROMFJNU3NSWmVVUQ?oc=5",
           "published_at": "2023-03-27T21:29:20+00:00",
@@ -10359,11 +10415,25 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/",
+          "published_at": "2026-10-14T18:51:41+00:00",
+          "excerpt": "Google's new Search Central video series tackles unusual technical SEO questions, starting with emoji, non-English characters, and keywords in your URLs. The post Google Launches A Video Series For Odd Technical SEO Questions appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-15T09:15:32.138786+00:00"
+        },
+        {
           "title": "Google Ads Introduces Channel Prioritization And Budget Allocation via @sejournal, @brookeosmundson",
           "url": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
           "published_at": "2026-10-14T15:00:33+00:00",
           "excerpt": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns. The post Google Ads Introduces Channel Prioritization And Budget Allocation appeared first on Searc…",
           "fetched_at": "2026-10-14T17:23:19.254636+00:00"
+        },
+        {
+          "title": "How To Create Demand You Can Actually Convert (And Prove)",
+          "url": "https://www.searchenginejournal.com/webinar-lp-how-to-create-demand-you-can-actually-convert-and-prove/",
+          "published_at": "2026-10-14T14:22:24+00:00",
+          "excerpt": "Choose B2B marketing channels, plan lead generation and measure results with CallRail and Matter Made. Register for the webinar October 29 at 2 p.m. ET.",
+          "fetched_at": "2026-10-15T09:15:32.138786+00:00"
         },
         {
           "title": "Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing",
@@ -14942,18 +15012,18 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "LinkedIn ads for B2B, a performance marketer’s guide to what actually drives pipeline",
+          "url": "https://www.factors.ai/blog/linkedin-ads-b2b-guide",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "excerpt": "A performance marketer’s guide to LinkedIn ads for B2B, covering formats, targeting, bidding and attribution, with data from $150M in LinkedIn ad spend.",
+          "fetched_at": "2026-10-14T17:23:31.387391+00:00"
+        },
+        {
           "title": "The LinkedIn B2B Marketing Strategy We’d Build After Studying 50,000+ Closed Deals and $150M+ in Ad Spend.",
           "url": "https://www.factors.ai/blog/linkedin-b2b-marketing-strategy",
           "published_at": "2026-10-14T00:00:00+00:00",
           "excerpt": "A 5-step framework to build a LinkedIn B2B marketing strategy that reaches active buying committees, protects deal velocity, and drives influenced pipeline.",
           "fetched_at": "2026-10-14T09:37:42.679995+00:00"
-        },
-        {
-          "title": "LinkedIn ads for B2B, a performance marketer’s guide to what actually drives pipeline",
-          "url": "https://www.factors.ai/blog/linkedin-ads-b2b-guide",
-          "published_at": "2026-10-14T00:00:00+00:00",
-          "excerpt": "A performance marketer’s guide to LinkedIn ads for B2B, covering formats, targeting, bidding and attribution, with data from $150M in LinkedIn ad spend.",
-          "fetched_at": "2026-10-14T17:23:31.387391+00:00"
         },
         {
           "title": "ChatGPT Ads for B2B: What They Cost, How They Work, and How to Launch Your First Campaign",
@@ -15986,6 +16056,13 @@
       ],
       "color": "#34a853",
       "articles": [
+        {
+          "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
+          "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
+          "published_at": "2026-10-14T00:00:00+00:00",
+          "excerpt": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and tool execution remain entirely inside your infrastructure whil…",
+          "fetched_at": "2026-10-15T09:15:44.421609+00:00"
+        },
         {
           "title": "Gemini 4 Argon for Robotics",
           "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
