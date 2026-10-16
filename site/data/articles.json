@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T17:12:38.921083+00:00",
+  "last_updated": "2026-10-16T09:08:35.973724+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4373,11 +4373,60 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXBSeFFvZEdEZ2M3WXJKODJEN3pVWU4tR1NiaWFLMDVTNVRBaU1jS2tGR0JmcDRCOU9uWHhBakJDUzdsUmRzMFd0a1FiTWNNcDVlUDNCdWhhRFhocUdjQmh4ZXVLX0VTdkp2NzRyVXRtQUNvQ2RKajc3cDhxb2R0WlJMbWxTbkx6ZmpHSnFMWkZ4YUgxRUdqQWR0Z0QtbEFranlTbHBYTmJKbFVmYmc1Z2o3WXZHTk1sS0F5NU1Wc0g3M2xLczdBTGx2MjBtaVpIb2c?oc=5",
+          "published_at": "2026-10-15T16:00:00+00:00",
+          "excerpt": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "Meta introduces new brand advertising formats across Facebook and Instagram",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5",
+          "published_at": "2026-10-15T15:33:52+00:00",
+          "excerpt": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "Google launches Universal Cart across Search and Gemini for easier shopping",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXQ4QzZaSmlqLUxFUjNycUFOekxHblhPRVo2allKZ1VPU3ZPSzRkVFY4RXdYLXVFc3duOGxjRmtNYmREVTZEVzJBdkRWTWpmRnpjM0J2UHVDM1lzRnlPZWl2VWhjYjhMUDBFcmpCTmFVbE5kM3pUeWVTYmQyakRVTG1YZmtpbFFOLXBIRFlYbHQ4Sm56QlRac3B1OHNYNldnSHlBR01WNXFaYVloUGcwaA?oc=5",
+          "published_at": "2026-10-15T14:53:10+00:00",
+          "excerpt": "Google launches Universal Cart across Search and Gemini for easier shopping Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5",
+          "published_at": "2026-10-15T14:30:52+00:00",
+          "excerpt": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "How entity confusion can hurt your brand’s AI visibility",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DRVl2NmNqTk9JUWUta0s5SDhRQXFxOXMzNWI0VURtZmc0bjFsZkdwT1FMSmgwT2JpeW5WcWo3Uy1RWXIzWVZOc1YtM25SVE5hZnV2amp5LW00YWdfbDV3dDIxQ3hUZnczVnNPVmZjMXhtX09IQ1doVGoyNA?oc=5",
+          "published_at": "2026-10-15T14:00:00+00:00",
+          "excerpt": "How entity confusion can hurt your brand’s AI visibility Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5",
+          "published_at": "2026-10-15T13:09:40+00:00",
+          "excerpt": "Google Ads API v26 launches with Search Lift measurement and new campaign controls Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
           "title": "Make every page count before publishing more for SEO",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hNE5GWlEtTjBkdUQxOXFsYzdOMmNGZFBIaW1sVFdmNmtMQ21adWlINmp4N1hhenNJajlIWjNmSHdPWU1xUENRZHd3LXBZLUtyaFlzNGVYSkhLTUhWNXJUSC12X0Y2TFFqUGlKRWZDZ1o?oc=5",
           "published_at": "2026-10-15T13:00:00+00:00",
           "excerpt": "Make every page count before publishing more for SEO Search Engine Land",
           "fetched_at": "2026-10-15T17:12:11.000041+00:00"
+        },
+        {
+          "title": "Why every SEO needs to become a Challenger",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fQ0JHeExvaC1qdlhEdDlHcG5lVm8za1ZZU0RtMDdRMktyLWhDNHlaOVFvb3NwcDFJLWRNV2locWVoMW14d0RXakpJaF82eFN2dUhrNE5ncVNyTFctRjRV?oc=5",
+          "published_at": "2026-10-15T12:00:00+00:00",
+          "excerpt": "Why every SEO needs to become a Challenger Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
         },
         {
           "title": "SEO for roofers: Six step guide to attract more leads",
@@ -4399,6 +4448,13 @@
           "published_at": "2026-10-14T16:47:39+00:00",
           "excerpt": "Google Merchant Center introduces new store address attribute for local inventory Search Engine Land",
           "fetched_at": "2026-10-15T09:15:19.740741+00:00"
+        },
+        {
+          "title": "Google Ads introduces automotive model feeds for vehicle manufacturers",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObTJXQzI3TG1fVTdTeXd1MWFqcTFmMVh3X2psTjFMR012czJJQzB2QTczVVNkSlFxSE42Ql9NYk10ZXFORGtlQTdLQ0NfQlJKVmhqNzVJWTVzVm1RRHB5cGlBWWxRa1NFQzZyTmwtQnlwWXpOWFZuUVBNdE11VkhydGNBTFVqeS1wR1F6VkFEdlpqQTNDQ3JIcmFxdFZ3dlo5YUJXQlRZOEhlZw?oc=5",
+          "published_at": "2026-10-14T16:39:58+00:00",
+          "excerpt": "Google Ads introduces automotive model feeds for vehicle manufacturers Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
         },
         {
           "title": "Google Ads introduces channel prioritization and budget allocation controls",
@@ -5136,13 +5192,6 @@
           "fetched_at": "2026-10-01T18:28:54.395839+00:00"
         },
         {
-          "title": "Google AI contribution pilot earns publishers one-tenth of 1% of ad revenues",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNem51dFExWl9fSVRxYmhteDhXRlJ1SUN5bWpZeTQ1UHNOenFFRnBfdnpyeHphbGpzQVRzeGtIb1R4b3VHTUR0TEpmZzVQU0hfcHZOWlhzcUZXZnhJV2F3ZTJSalp6Q29xeTZ6cWFZRzFJeWM3bXZSODNCUEZSV2E2Z1RqdjY0Y3l2M2MwRzhzb1JLNE1mVHNIdlh1NTJiWjFERTVXWEswak1GNmppMW83MA?oc=5",
-          "published_at": "2026-09-30T15:50:43+00:00",
-          "excerpt": "Google AI contribution pilot earns publishers one-tenth of 1% of ad revenues Search Engine Land",
-          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
-        },
-        {
           "title": "What 9 million AI answers reveal about search visibility",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUUcxdmh3NzRPRkFQT0xnLXVGYTFnb3JvMUhkX2hleWh0TUlGOGNOdjloeFR6WDZSc3duUWNmeFJERk54dkNiWGNySW9GUkFJRnM4UUY5UEc1YXpfWFZXVXdjR0ZLOGJFMHNIMXhfNDN1dVJsdGpnVjdlOFBBNFk?oc=5",
           "published_at": "2026-09-30T07:00:00+00:00",
@@ -5155,6 +5204,13 @@
           "published_at": "2026-09-30T07:00:00+00:00",
           "excerpt": "The collapse of attribution Search Engine Land",
           "fetched_at": "2026-10-01T11:04:10.504819+00:00"
+        },
+        {
+          "title": "Google AI contribution pilot earns publishers one-tenth of 1% of ad revenues",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNem51dFExWl9fSVRxYmhteDhXRlJ1SUN5bWpZeTQ1UHNOenFFRnBfdnpyeHphbGpzQVRzeGtIb1R4b3VHTUR0TEpmZzVQU0hfcHZOWlhzcUZXZnhJV2F3ZTJSalp6Q29xeTZ6cWFZRzFJeWM3bXZSODNCUEZSV2E2Z1RqdjY0Y3l2M2MwRzhzb1JLNE1mVHNIdlh1NTJiWjFERTVXWEswak1GNmppMW83MA?oc=5",
+          "published_at": "2026-09-30T07:00:00+00:00",
+          "excerpt": "Google AI contribution pilot earns publishers one-tenth of 1% of ad revenues Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -5199,18 +5255,18 @@
           "fetched_at": "2026-09-30T18:02:24.881921+00:00"
         },
         {
-          "title": "Google AI Mode monitoring capabilities now live for all",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeFlMamJwOE01WXloMVR1dGVpa192ZXJVWTlMazlIWVN2LWxLM0FvYW55UlJ2dmZ6Q1Y0RzVsX0FaWlh2VG9KR3ZFX2hJRl9KZTh2OTlmX3dZZ1dQMDU5RnhDSHlmUEVtYmd3bm1IR3E1YkdpU2JuOV9fbHJ4UUgtamd1U1hmZXp2RGJZNGpySmR5emh6T0E?oc=5",
-          "published_at": "2026-09-29T12:35:05+00:00",
-          "excerpt": "Google AI Mode monitoring capabilities now live for all searchengineland.com",
-          "fetched_at": "2026-09-29T18:09:32.043366+00:00"
-        },
-        {
           "title": "Why Performance Max isn’t a YouTube ad strategy for ecommerce",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHJEYnExTzlMbFNDUWw5dUs5dzdscVhCelMtU1V5ODJYRW9fUzVJaEVwSjM1eUpiQzZTRU9uMWRGQ2E3R2pFazZWZjdwWUtIMUhzRXZmOHRLam9sSExvMTBNMHU0d2g2ZjlLVkRSeEMzYnd0Y2RRSFlScVZWdFRaemt6RWlOTkIz?oc=5",
           "published_at": "2026-09-29T12:00:00+00:00",
           "excerpt": "Why Performance Max isn’t a YouTube ad strategy for ecommerce Search Engine Land",
           "fetched_at": "2026-10-01T11:04:10.504819+00:00"
+        },
+        {
+          "title": "Google AI Mode monitoring capabilities now live for all",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeFlMamJwOE01WXloMVR1dGVpa192ZXJVWTlMazlIWVN2LWxLM0FvYW55UlJ2dmZ6Q1Y0RzVsX0FaWlh2VG9KR3ZFX2hJRl9KZTh2OTlmX3dZZ1dQMDU5RnhDSHlmUEVtYmd3bm1IR3E1YkdpU2JuOV9fbHJ4UUgtamd1U1hmZXp2RGJZNGpySmR5emh6T0E?oc=5",
+          "published_at": "2026-09-29T07:00:00+00:00",
+          "excerpt": "Google AI Mode monitoring capabilities now live for all searchengineland.com",
+          "fetched_at": "2026-09-29T18:09:32.043366+00:00"
         },
         {
           "title": "Your 2027 guide to SEO reporting and tracking",
@@ -5325,13 +5381,6 @@
           "fetched_at": "2026-09-26T09:26:26.421692+00:00"
         },
         {
-          "title": "10 ways Claude can derail your SEO if you don’t check its work",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DbWl0emJMVk5QcUhaUXF5NXhtdzlFSlV5WlFiSFJTUVhQWkNtZXFoUEd1OVk3dGJidmhKYVlfTm9LdGNJZlNpeFpfRlNZR1VuekZ2SmN1YjVrYlpoaThUYlp2Yw?oc=5",
-          "published_at": "2026-09-25T15:00:00+00:00",
-          "excerpt": "10 ways Claude can derail your SEO if you don’t check its work Search Engine Land",
-          "fetched_at": "2026-09-27T17:05:28.878590+00:00"
-        },
-        {
           "title": "When more PPC budget doesn’t equal more leads",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1za19JYjNtbnFrNWhrVWhaYU5qV2RQdkRuMG9wNFBZc0xrWkczN1Y5amlxRUlQSzQ0VnF1X2tXQjZLamJqb2tNS0QydUFmazJWZXQyUEluTzVvT2Z6dXRLLUdnSEdaNjMzOTBUenlvQU1zZjRq?oc=5",
           "published_at": "2026-09-25T13:00:00+00:00",
@@ -5372,6 +5421,13 @@
           "published_at": "2026-09-25T07:00:00+00:00",
           "excerpt": "Google tests bigger Local Services Ads Search Engine Land",
           "fetched_at": "2026-09-27T10:06:01.740157+00:00"
+        },
+        {
+          "title": "10 ways Claude can derail your SEO if you don’t check its work",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DbWl0emJMVk5QcUhaUXF5NXhtdzlFSlV5WlFiSFJTUVhQWkNtZXFoUEd1OVk3dGJidmhKYVlfTm9LdGNJZlNpeFpfRlNZR1VuekZ2SmN1YjVrYlpoaThUYlp2Yw?oc=5",
+          "published_at": "2026-09-25T07:00:00+00:00",
+          "excerpt": "10 ways Claude can derail your SEO if you don’t check its work Search Engine Land",
+          "fetched_at": "2026-09-27T17:05:28.878590+00:00"
         },
         {
           "title": "11 awesome ChatGPT alternatives to try + 17 runner ups",
@@ -10443,6 +10499,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
+          "published_at": "2026-10-15T21:48:30+00:00",
+          "excerpt": "ChatGPT-attributed traffic fell sharply in several analytics datasets this month, and analysts tie the drop to ChatGPT links that open without tracking tags. The post ChatGPT Traffic Drop Appears To Be A Tracking Problem appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-16T09:08:23.829239+00:00"
+        },
+        {
+          "title": "Google’s Universal Cart Is Live: How Carts Get To Your Store via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
+          "published_at": "2026-10-15T20:43:38+00:00",
+          "excerpt": "Universal Cart is rolling out across Search and the Gemini app, with checkout inside the cart or a one-way handoff to the store's own site. The post Google’s Universal Cart Is Live: How Carts Get To Your Store appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-16T09:08:23.829239+00:00"
+        },
+        {
+          "title": "How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC via @sejournal, @navahf",
+          "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/",
+          "published_at": "2026-10-15T19:00:58+00:00",
+          "excerpt": "Measure PPC value beyond clicks with conversion tracking, impression signals, and business records that help validate attribution as buying journeys move into AI. The post How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC appeared first on Searc…",
+          "fetched_at": "2026-10-16T09:08:23.829239+00:00"
+        },
+        {
           "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
           "published_at": "2026-10-15T16:00:00+00:00",
@@ -10576,14 +10653,7 @@
           "fetched_at": "2026-10-13T11:58:31.939911+00:00"
         },
         {
-          "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
-          "published_at": "2026-10-12T22:16:40+00:00",
-          "excerpt": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams. The post YouTube To Test Ask YouTube Inside The Shorts Player appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-13T11:58:31.939911+00:00"
-        },
-        {
-          "title": "All In One SEO WordPress Plugin Vulnerable To Two Exploits via @sejournal, @martinibuster",
+          "title": "All In One SEO WordPress Plugin Vulnerable To Two Exploits",
           "url": "https://www.searchenginejournal.com/all-in-one-seo-wordpress-plugin-vulnerable-to-two-exploits/592719/",
           "published_at": "2026-10-12T21:51:53+00:00",
           "excerpt": "AIOSEO WordPress Plugin has two medium-severity security flaws that enable unauthenticated attackers to compromise affected websites. The post All In One SEO WordPress Plugin Vulnerable To Two Exploits appeared first on Search Engine Journal .",
@@ -10623,6 +10693,13 @@
           "published_at": "2026-10-12T00:00:00+00:00",
           "excerpt": "Turn competitor complaints and cancellation searches into PPC leads with tailored offers that address customer frustrations and make switching easier. The post Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-12T21:20:05.173357+00:00"
+        },
+        {
+          "title": "YouTube To Test Ask YouTube Inside The Shorts Player",
+          "url": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
+          "published_at": "2026-10-12T00:00:00+00:00",
+          "excerpt": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams. The post YouTube To Test Ask YouTube Inside The Shorts Player appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-13T11:58:31.939911+00:00"
         },
         {
           "title": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
@@ -15075,25 +15152,32 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "ABM Content Strategy: How B2B & SaaS Teams Drive Revenue",
+          "url": "https://www.factors.ai/blog/abm-content-strategy-guide",
+          "published_at": "2026-10-16T00:00:00+00:00",
+          "excerpt": "A practical guide to ABM content strategy for B2B and SaaS teams. Learn what content works, how to activate it, and how to measure real pipeline impact.",
+          "fetched_at": "2026-10-16T09:08:30.377512+00:00"
+        },
+        {
+          "title": "ChatGPT Ads for B2B: What They Cost, How They Work, and How to Launch Your First Campaign",
+          "url": "https://www.factors.ai/blog/chatgpt-ads-b2b",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "excerpt": "Learn how ChatGPT Ads work for B2B, including costs, targeting limits, campaign setup, and how to measure the channel against pipeline.",
+          "fetched_at": "2026-09-23T09:24:40.603961+00:00"
+        },
+        {
+          "title": "The LinkedIn B2B Marketing Strategy We’d Build After Studying 50,000+ Closed Deals and $150M+ in Ad Spend.",
+          "url": "https://www.factors.ai/blog/linkedin-b2b-marketing-strategy",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "excerpt": "A 5-step framework to build a LinkedIn B2B marketing strategy that reaches active buying committees, protects deal velocity, and drives influenced pipeline.",
+          "fetched_at": "2026-10-14T09:37:42.679995+00:00"
+        },
+        {
           "title": "LinkedIn ads for B2B, a performance marketer’s guide to what actually drives pipeline",
           "url": "https://www.factors.ai/blog/linkedin-ads-b2b-guide",
           "published_at": "2026-10-15T00:00:00+00:00",
           "excerpt": "A performance marketer’s guide to LinkedIn ads for B2B, covering formats, targeting, bidding and attribution, with data from $150M in LinkedIn ad spend.",
           "fetched_at": "2026-10-14T17:23:31.387391+00:00"
-        },
-        {
-          "title": "The LinkedIn B2B Marketing Strategy We’d Build After Studying 50,000+ Closed Deals and $150M+ in Ad Spend.",
-          "url": "https://www.factors.ai/blog/linkedin-b2b-marketing-strategy",
-          "published_at": "2026-10-14T00:00:00+00:00",
-          "excerpt": "A 5-step framework to build a LinkedIn B2B marketing strategy that reaches active buying committees, protects deal velocity, and drives influenced pipeline.",
-          "fetched_at": "2026-10-14T09:37:42.679995+00:00"
-        },
-        {
-          "title": "ChatGPT Ads for B2B: What They Cost, How They Work, and How to Launch Your First Campaign",
-          "url": "https://www.factors.ai/blog/chatgpt-ads-b2b",
-          "published_at": "2026-10-12T00:00:00+00:00",
-          "excerpt": "Learn how ChatGPT Ads work for B2B, including costs, targeting limits, campaign setup, and how to measure the channel against pipeline.",
-          "fetched_at": "2026-09-23T09:24:40.603961+00:00"
         },
         {
           "title": "Why Companies Are Switching From 6sense, Based on Buyer Feedback",
@@ -16134,6 +16218,13 @@
           "fetched_at": "2026-10-15T17:12:37.989615+00:00"
         },
         {
+          "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+          "url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "excerpt": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding long-lived refresh tokens while maintaining short-lived access token…",
+          "fetched_at": "2026-10-16T09:08:35.140751+00:00"
+        },
+        {
           "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
           "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
           "published_at": "2026-10-14T00:00:00+00:00",
@@ -16551,6 +16642,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+          "published_at": "2026-10-15T18:00:00+00:00",
+          "excerpt": "Magic State video",
+          "fetched_at": "2026-10-16T09:08:35.970289+00:00"
+        },
+        {
+          "title": "Check if a text message is a scam using Circle to Search.",
+          "url": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+          "published_at": "2026-10-15T17:30:00+00:00",
+          "excerpt": "Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.",
+          "fetched_at": "2026-10-16T09:08:35.970289+00:00"
+        },
         {
           "title": "How we're helping the world prepare for natural disasters",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
