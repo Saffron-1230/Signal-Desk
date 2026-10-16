@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T09:08:35.973724+00:00",
+  "last_updated": "2026-10-16T16:48:53.326406+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "How to Automate Content Creation: A Follow-Along Guide",
+          "url": "https://ahrefs.com/blog/automated-content-creation/",
+          "published_at": "2026-10-16T09:21:11+00:00",
+          "excerpt": "When people hear “automated content creation”, I imagine they picture something like this: Enter a keyword, click a button, and poof! An article is made. From there, they’ll generate 500 articles before the day ends and publish all of them. … Read more ›",
+          "fetched_at": "2026-10-16T16:48:30.678739+00:00"
+        },
         {
           "title": "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)",
           "url": "https://ahrefs.com/blog/query-fan-out-chatgpt/",
@@ -4774,7 +4781,7 @@
         {
           "title": "Google September 2026 spam update done rolling out",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5",
-          "published_at": "2026-10-08T09:33:03+00:00",
+          "published_at": "2026-10-08T07:00:00+00:00",
           "excerpt": "Google September 2026 spam update done rolling out Search Engine Land",
           "fetched_at": "2026-10-08T18:55:36.147153+00:00"
         },
@@ -5612,13 +5619,6 @@
           "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
-          "title": "Google opens native AI checkout to eligible Shopify merchants",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOamZuZDMtcmoyVUx6SklLNlQ4UUV0X3JMcFdJQzJ6NEdPR0luNVluVkdfYzJuUWY3blA4VWkwRzBFM1lwSWJFRER3azVwbWpDYUJsa3RJdjhnaGM5cDU3VGlBNWlyR0RrRHM4ZjN1a3hoOTJ0ZGgtZUhtV0RUdzRCckpnd0poeFI1aHdTNlRNLVl1a1p1b3A2UE01NHJjZw?oc=5",
-          "published_at": "2026-09-22T17:23:00+00:00",
-          "excerpt": "Google opens native AI checkout to eligible Shopify merchants Search Engine Land",
-          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
-        },
-        {
           "title": "Google Analytics adds hostname allowlists to fight spam traffic",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQnVwd1luQ2lpY0lsaDRmLTlWMVRSZmhoa0FCYm44dG9KMUpqTVBUdXNxXzVCeUs5RThVUzI1WnRZTGJOcUpwdkZkc3JuN1pFNTFvSDlYSnBWRzI0aFFFWHZSTWt2OWN6Yi1sT1hscFZKb2FER2ZJWTZ5TFNSd2c3TWJyM3U4YlZiX1hZWUl4dERFZE84RU1BdXhFZ3lHeUQ1?oc=5",
           "published_at": "2026-09-22T16:38:00+00:00",
@@ -5680,6 +5680,13 @@
           "published_at": "2026-09-22T07:00:00+00:00",
           "excerpt": "What is repurposing content? Search Engine Land",
           "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
+          "title": "Google opens native AI checkout to eligible Shopify merchants",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOamZuZDMtcmoyVUx6SklLNlQ4UUV0X3JMcFdJQzJ6NEdPR0luNVluVkdfYzJuUWY3blA4VWkwRzBFM1lwSWJFRER3azVwbWpDYUJsa3RJdjhnaGM5cDU3VGlBNWlyR0RrRHM4ZjN1a3hoOTJ0ZGgtZUhtV0RUdzRCckpnd0poeFI1aHdTNlRNLVl1a1p1b3A2UE01NHJjZw?oc=5",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "excerpt": "Google opens native AI checkout to eligible Shopify merchants Search Engine Land",
+          "fetched_at": "2026-09-23T17:17:32.801196+00:00"
         },
         {
           "title": "Google AI Overviews now appear in 39% of U.S. desktop searches",
@@ -10267,6 +10274,13 @@
           "fetched_at": "2026-09-05T08:26:53.847335+00:00"
         },
         {
+          "title": "Canonicalization and SEO: A guide for 2027",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWDdRclJPeTJuNnk1bzJSdVdraC1jZVdBYmE0cXQyMnZ3YnlWYmNOS3BuX2M2MGJxOHkyYzdTdE5Pb3dvMkU0M2JETlRMcDBGZWg1a3BpdWU0dnhmUTRkeFAxcE5rM1k?oc=5",
+          "published_at": "2024-11-12T15:01:20+00:00",
+          "excerpt": "Canonicalization and SEO: A guide for 2027 Search Engine Land",
+          "fetched_at": "2026-10-16T16:48:32.060148+00:00"
+        },
+        {
           "title": "The SEO’s guide to Google Search Console",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93amk2MWFUWnUzSjJ4WjVnd3B0OWpZN2NfZ0x1dFpBSkE4aU1EQ0FoWkRFZGN1NktuOWxwS1BkSXk5ZzdNQmY4VW0xb3ptYi1jYjZsRmJnR2JER3ZSMmRneDNSTGZoc21rbzY4N3NfeUt0dm9TYlE?oc=5",
           "published_at": "2024-07-08T13:01:02+00:00",
@@ -10499,6 +10513,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
+          "url": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
+          "published_at": "2026-10-16T14:00:20+00:00",
+          "excerpt": "If your new domain won’t index and there’s no technical fix, the problem may be originality. Read Marie Haynes’ theory and what to do next. The post It’s Possible Your Migration Issues May Be Due To Site Quality appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-16T16:48:41.955140+00:00"
+        },
+        {
+          "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
+          "published_at": "2026-10-16T12:00:00+00:00",
+          "excerpt": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling. The post Google Takes Applications For A UGC Pipeline Separate From Crawling appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-16T16:48:41.955140+00:00"
+        },
+        {
           "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
           "published_at": "2026-10-15T21:48:30+00:00",
@@ -10632,7 +10660,7 @@
           "fetched_at": "2026-10-13T19:23:39.215164+00:00"
         },
         {
-          "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch",
+          "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments",
           "url": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
           "published_at": "2026-10-13T14:00:21+00:00",
           "excerpt": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions. The post Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments appeared first on Search Engine Journal .",
@@ -15152,6 +15180,13 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "7 Best Unify GTM Alternatives for Data, Outbound, and Account Intelligence",
+          "url": "https://www.factors.ai/blog/unify-alternatives",
+          "published_at": "2026-10-16T00:00:00+00:00",
+          "excerpt": "UnifyGTM costs $1,460–$1,740/mo and takes 1+ week to onboard. Compare 8 cheaper, faster UnifyGTM alternatives — Clay, Apollo, Warmly, 6sense, SyncGTM, Factors AI, ZoomInfo, Common Room — by features, pricing, and best fit.",
+          "fetched_at": "2026-09-22T09:23:37.927436+00:00"
+        },
+        {
           "title": "ABM Content Strategy: How B2B & SaaS Teams Drive Revenue",
           "url": "https://www.factors.ai/blog/abm-content-strategy-guide",
           "published_at": "2026-10-16T00:00:00+00:00",
@@ -15234,13 +15269,6 @@
           "published_at": "2026-09-23T00:00:00+00:00",
           "excerpt": "Learn the 9 types of Google Ads — Search, Display, Shopping, Video, Performance Max & more. Discover key benefits, how Google Ads works, and beginner tips to maximize your ROI.",
           "fetched_at": "2026-09-23T17:17:55.252444+00:00"
-        },
-        {
-          "title": "Top 8 UnifyGTM Alternatives & Competitors for 2026",
-          "url": "https://www.factors.ai/blog/unify-alternatives",
-          "published_at": "2026-09-22T00:00:00+00:00",
-          "excerpt": "UnifyGTM costs $1,460–$1,740/mo and takes 1+ week to onboard. Compare 8 cheaper, faster UnifyGTM alternatives — Clay, Apollo, Warmly, 6sense, SyncGTM, Factors AI, ZoomInfo, Common Room — by features, pricing, and best fit.",
-          "fetched_at": "2026-09-22T09:23:37.927436+00:00"
         },
         {
           "title": "10 Best Leadlander Alternatives and Competitors for 2026",
@@ -16642,6 +16670,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+          "published_at": "2026-10-16T16:00:00+00:00",
+          "excerpt": "Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.",
+          "fetched_at": "2026-10-16T16:48:53.322879+00:00"
+        },
         {
           "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
           "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
