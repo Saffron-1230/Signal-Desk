@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T16:48:53.326406+00:00",
+  "last_updated": "2026-10-17T08:40:56.000054+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4380,6 +4380,27 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5",
+          "published_at": "2026-10-16T16:11:59+00:00",
+          "excerpt": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled Search Engine Land",
+          "fetched_at": "2026-10-17T08:40:35.760290+00:00"
+        },
+        {
+          "title": "How to create SEO-friendly URLs",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZU09kVmszMXJGenE0R2thQ0ZRdWF6dmVQTmpUTW0yc1F6bVJkdlNDN1kwSW1VcTAzZGkySlpRcjg4ZkxnSEtOTjRCVHdEUW1jRFRiTnBBMWhTTmhsOFpEUGdR?oc=5",
+          "published_at": "2026-10-16T14:18:33+00:00",
+          "excerpt": "How to create SEO-friendly URLs Search Engine Land",
+          "fetched_at": "2026-10-17T08:40:35.760290+00:00"
+        },
+        {
+          "title": "Human experience is your content’s biggest differentiator",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlOdUIwZXdiRThXZDNuV2N0bWFYekUwMEpQZEhHQjZwX2ZEWm1Sa09Pd3NCYTFSSUthUmNld2ZTNldnRVpRWGo1N1BJcjJFRDR3UHhuQlBkM0FCR29tQ2t3aFR5QUtWS1FjOFRfRVUtNmpjNV95YnBUc0VFdFltSA?oc=5",
+          "published_at": "2026-10-16T12:00:00+00:00",
+          "excerpt": "Human experience is your content’s biggest differentiator Search Engine Land",
+          "fetched_at": "2026-10-17T08:40:35.760290+00:00"
+        },
+        {
           "title": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXBSeFFvZEdEZ2M3WXJKODJEN3pVWU4tR1NiaWFLMDVTNVRBaU1jS2tGR0JmcDRCOU9uWHhBakJDUzdsUmRzMFd0a1FiTWNNcDVlUDNCdWhhRFhocUdjQmh4ZXVLX0VTdkp2NzRyVXRtQUNvQ2RKajc3cDhxb2R0WlJMbWxTbkx6ZmpHSnFMWkZ4YUgxRUdqQWR0Z0QtbEFranlTbHBYTmJKbFVmYmc1Z2o3WXZHTk1sS0F5NU1Wc0g3M2xLczdBTGx2MjBtaVpIb2c?oc=5",
           "published_at": "2026-10-15T16:00:00+00:00",
@@ -4709,13 +4730,6 @@
           "fetched_at": "2026-10-09T18:25:58.026359+00:00"
         },
         {
-          "title": "Google Ads lets advertisers preview AI Max-generated ad copy before opting in",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDQ5c0p3dmtuREk1OG5hTms0S2ptNHF4MVFzUDl1ZWxSMU04b1laX0p5QTVRVUtZRkh2SkI0RVVicWJBYVlPMkN2QmJrbWZKbDducW9uMWNCaFZGYVdvVjdYZkZFMDJ6MFp5aHBpRTM5TzBFejQtS1E0TnZKVzNnVUhubmxZbmdwWkdZM01Rd21zUGVJTWxoOUpfTjRuWng4cDR1NlBya3l4UEJkdUd6TG9Hcw?oc=5",
-          "published_at": "2026-10-08T16:58:18+00:00",
-          "excerpt": "Google Ads lets advertisers preview AI Max-generated ad copy before opting in Search Engine Land",
-          "fetched_at": "2026-10-09T11:25:19.698848+00:00"
-        },
-        {
           "title": "How to write SEO-friendly meta descriptions",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wUlhlYTlWbDlKcDllLWJsY2dFMkFWRDBTQlB4bTVjek1QTDZ2UEdXOWlQUW5Kdk1nb0I0V0lxdjBxNlBxRkgzMjVVclBIbzJzbE12elRFeUtma2hGaHZoUFNR?oc=5",
           "published_at": "2026-10-08T16:40:41+00:00",
@@ -4786,18 +4800,18 @@
           "fetched_at": "2026-10-08T18:55:36.147153+00:00"
         },
         {
+          "title": "Google Ads lets advertisers preview AI Max-generated ad copy before opting in",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDQ5c0p3dmtuREk1OG5hTms0S2ptNHF4MVFzUDl1ZWxSMU04b1laX0p5QTVRVUtZRkh2SkI0RVVicWJBYVlPMkN2QmJrbWZKbDducW9uMWNCaFZGYVdvVjdYZkZFMDJ6MFp5aHBpRTM5TzBFejQtS1E0TnZKVzNnVUhubmxZbmdwWkdZM01Rd21zUGVJTWxoOUpfTjRuWng4cDR1NlBya3l4UEJkdUd6TG9Hcw?oc=5",
+          "published_at": "2026-10-08T07:00:00+00:00",
+          "excerpt": "Google Ads lets advertisers preview AI Max-generated ad copy before opting in Search Engine Land",
+          "fetched_at": "2026-10-09T11:25:19.698848+00:00"
+        },
+        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWFCV2hVcVdkTzFRUHN3ZHl4ZnJEQjBNYTkwR2w5N0x5aU9lTmM5T1FEWUluSXpqZzBmUXRONzA4T3ljcF9CZDMwSHV2YlVkNkxPWXZodmViVVk2VnNhU3cxajJtajZyQ3BZTlduQm9oNjY3OTNmWXB4djVlTmlvLXNKc09va2RfZTJjNg?oc=5",
           "published_at": "2026-10-08T06:49:28+00:00",
           "excerpt": "Search Engine Land",
           "fetched_at": "2026-10-08T11:29:40.289065+00:00"
-        },
-        {
-          "title": "Google opens Conversion Lift to Search and Performance Max",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb25ENEhLal81RkJKREViWjRaRmdjSUVYZUhHYzlSc2l2cUlsQWpuMXhyakx0Wml0MF9JNXZWUktnMHNNOGxhaEJRQzh2TUFKSVBaMl8wdXVzQW1KRVEteThWVXhNQ1lhU0ZGcVB5bm1BS3RhWmFMRlgyaE9pRFA1UEpJaDFXSFAwRjVZLTA3cHVrd19tSWhZUkZR?oc=5",
-          "published_at": "2026-10-07T16:28:26+00:00",
-          "excerpt": "Google opens Conversion Lift to Search and Performance Max Search Engine Land",
-          "fetched_at": "2026-10-07T18:59:51.769202+00:00"
         },
         {
           "title": "Google Ads adds new AI Max columns for deeper campaign analysis",
@@ -4861,6 +4875,13 @@
           "published_at": "2026-10-07T11:00:00+00:00",
           "excerpt": "Stop letting AI make your marketing decisions Search Engine Land",
           "fetched_at": "2026-10-08T11:29:40.289065+00:00"
+        },
+        {
+          "title": "Google opens Conversion Lift to Search and Performance Max",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb25ENEhLal81RkJKREViWjRaRmdjSUVYZUhHYzlSc2l2cUlsQWpuMXhyakx0Wml0MF9JNXZWUktnMHNNOGxhaEJRQzh2TUFKSVBaMl8wdXVzQW1KRVEteThWVXhNQ1lhU0ZGcVB5bm1BS3RhWmFMRlgyaE9pRFA1UEpJaDFXSFAwRjVZLTA3cHVrd19tSWhZUkZR?oc=5",
+          "published_at": "2026-10-07T07:00:00+00:00",
+          "excerpt": "Google opens Conversion Lift to Search and Performance Max Search Engine Land",
+          "fetched_at": "2026-10-07T18:59:51.769202+00:00"
         },
         {
           "title": "Information gain: How top content leaders win at SEO",
@@ -5052,18 +5073,18 @@
           "fetched_at": "2026-10-03T09:57:13.504455+00:00"
         },
         {
-          "title": "What effective SEO client onboarding looks like: The first 90 days",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNl9SblZwRnpOU0ZrOEgyNzQtYk9jYnFIaTJYZUxZY0pkWVYwaEpQQ3BHS1hGa19JcjJsVHJ0Sk5MeTE4VklEd2FoeVp0amo1bXB6V1BfQ3RoOTNIb0M4cXpWeC15ZjNSLW1jRV9VbTFKODJaTmFjb0wtel9EVUE1eTFaVXowMjRM?oc=5",
-          "published_at": "2026-10-02T13:00:00+00:00",
-          "excerpt": "What effective SEO client onboarding looks like: The first 90 days Search Engine Land",
-          "fetched_at": "2026-10-02T17:55:54.006926+00:00"
-        },
-        {
           "title": "Your AI search visibility keeps changing: Here’s what to do about it",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVRadkRseFFkcmozbmZqRnI1S2FBNGswREZDSTZQR2ctbXlkZ2NDei1JQ3BLaDFUQ0RIOWJ3MFRydkE0M0RfeW5IeWRTQmItZGVQeDNmWW5XenNHMEV4X1RmZzcyRDUtZ0lqc0JObjFjc1JZZ2NUWE8zZ3l3dzBIXzhB?oc=5",
           "published_at": "2026-10-02T12:00:00+00:00",
           "excerpt": "Your AI search visibility keeps changing: Here’s what to do about it Search Engine Land",
           "fetched_at": "2026-10-06T11:23:25.653715+00:00"
+        },
+        {
+          "title": "What effective SEO client onboarding looks like: The first 90 days",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNl9SblZwRnpOU0ZrOEgyNzQtYk9jYnFIaTJYZUxZY0pkWVYwaEpQQ3BHS1hGa19JcjJsVHJ0Sk5MeTE4VklEd2FoeVp0amo1bXB6V1BfQ3RoOTNIb0M4cXpWeC15ZjNSLW1jRV9VbTFKODJaTmFjb0wtel9EVUE1eTFaVXowMjRM?oc=5",
+          "published_at": "2026-10-02T07:00:00+00:00",
+          "excerpt": "What effective SEO client onboarding looks like: The first 90 days Search Engine Land",
+          "fetched_at": "2026-10-02T17:55:54.006926+00:00"
         },
         {
           "title": "Google says main content is critical and describes how search quality raters evaluate it",
@@ -5388,11 +5409,11 @@
           "fetched_at": "2026-09-26T09:26:26.421692+00:00"
         },
         {
-          "title": "When more PPC budget doesn’t equal more leads",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1za19JYjNtbnFrNWhrVWhaYU5qV2RQdkRuMG9wNFBZc0xrWkczN1Y5amlxRUlQSzQ0VnF1X2tXQjZLamJqb2tNS0QydUFmazJWZXQyUEluTzVvT2Z6dXRLLUdnSEdaNjMzOTBUenlvQU1zZjRq?oc=5",
-          "published_at": "2026-09-25T13:00:00+00:00",
-          "excerpt": "When more PPC budget doesn’t equal more leads Search Engine Land",
-          "fetched_at": "2026-09-28T11:05:12.335424+00:00"
+          "title": "Secure Your Spot At SMX Advanced | March 17-19, 2027 | San Diego",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96QnluNHNLLTBwUmExMlpKeW5xcDZYUlR1OVBsdTZ0VzJ6WThTb3lqdGx4LVVqOUxwMDdOb0RPRllqQnJGdWJGNWdXYjVnNmV3cVNUY2Jid2xRaVhpVk9ZS1o5VlVHam9CUGc3REJoVVY?oc=5",
+          "published_at": "2026-09-25T17:08:57+00:00",
+          "excerpt": "Secure Your Spot At SMX Advanced | March 17-19, 2027 | San Diego Search Engine Land",
+          "fetched_at": "2026-10-17T08:40:35.760290+00:00"
         },
         {
           "title": "Your AI content watermark isn’t what Google is looking for",
@@ -5437,6 +5458,13 @@
           "fetched_at": "2026-09-27T17:05:28.878590+00:00"
         },
         {
+          "title": "When more PPC budget doesn’t equal more leads",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1za19JYjNtbnFrNWhrVWhaYU5qV2RQdkRuMG9wNFBZc0xrWkczN1Y5amlxRUlQSzQ0VnF1X2tXQjZLamJqb2tNS0QydUFmazJWZXQyUEluTzVvT2Z6dXRLLUdnSEdaNjMzOTBUenlvQU1zZjRq?oc=5",
+          "published_at": "2026-09-25T07:00:00+00:00",
+          "excerpt": "When more PPC budget doesn’t equal more leads Search Engine Land",
+          "fetched_at": "2026-09-28T11:05:12.335424+00:00"
+        },
+        {
           "title": "11 awesome ChatGPT alternatives to try + 17 runner ups",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yU05KSVNSS3hfYXhHWm5iNG5NMW1veHE1VlgwczRoMmg1aXFIZWpLUHlqcUhHdmdMdFdhNTdWNTdfUkNPMG51SXMtbnR1Q2dXRGR4R2s4NFFtMGFtUExHOUhpSUhpZw?oc=5",
           "published_at": "2026-09-25T07:00:00+00:00",
@@ -5456,13 +5484,6 @@
           "published_at": "2026-09-24T15:11:00+00:00",
           "excerpt": "How to use SimilarWeb for SEO and content marketing Search Engine Land",
           "fetched_at": "2026-09-27T17:05:28.878590+00:00"
-        },
-        {
-          "title": "15 lessons from 15+ years in search",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sS1ZHd1g4elRfMjZNUjRPdnpRUzNrcFhLQzh4TWcwNGhzUDlGb1NFbGRQOXQxanVhRzRBc2h3YURzeUFJY3hQUHdwZnNHd0otM1ZYQnNqWldKTDEtc1VLcW5RRzFFZXdyZmt5cmJvZ0FWWTdIaFJZa3hR?oc=5",
-          "published_at": "2026-09-24T14:00:00+00:00",
-          "excerpt": "15 lessons from 15+ years in search Search Engine Land",
-          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
         },
         {
           "title": "- Search Engine Land",
@@ -5490,6 +5511,13 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQampqQW1mT1FYc1REYlo4alZYek5Ja2dvS1BXZlV1WW9GR25GZnUxT3FxLTJ3RnpDOHgwWXdrSG40SEFEYXVGdkJ5bU1kUVBxaV9DMDd1bTVuU0lVSVg4LUNzNTRqdlZYR2FiSUJ2QWFCczRMakRaam1QQXVOUVlMMjJGbzk?oc=5",
           "published_at": "2026-09-24T07:00:00+00:00",
           "excerpt": "Google releases September 2026 spam update Search Engine Land",
+          "fetched_at": "2026-09-24T17:22:59.645625+00:00"
+        },
+        {
+          "title": "15 lessons from 15+ years in search",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sS1ZHd1g4elRfMjZNUjRPdnpRUzNrcFhLQzh4TWcwNGhzUDlGb1NFbGRQOXQxanVhRzRBc2h3YURzeUFJY3hQUHdwZnNHd0otM1ZYQnNqWldKTDEtc1VLcW5RRzFFZXdyZmt5cmJvZ0FWWTdIaFJZa3hR?oc=5",
+          "published_at": "2026-09-24T07:00:00+00:00",
+          "excerpt": "15 lessons from 15+ years in search Search Engine Land",
           "fetched_at": "2026-09-24T17:22:59.645625+00:00"
         },
         {
@@ -5640,13 +5668,6 @@
           "fetched_at": "2026-09-22T17:05:16.257811+00:00"
         },
         {
-          "title": "How to use kill criteria to make better SEO decisions",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVVHJxUHR0N19yenMwa1hlLWp0M19iR3ZwVHZfUHpKZmFOaXA4ZENWTnRtM2tjeXVVSGN3a0RTcDF2aVN2RVdzWkhralVGQ2dGVHRQSktob0JhdFpBQ3kwMERucw?oc=5",
-          "published_at": "2026-09-22T15:00:00+00:00",
-          "excerpt": "How to use kill criteria to make better SEO decisions Search Engine Land",
-          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
-        },
-        {
           "title": "Opportunity cost Archives",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tWTlTNmdBVkczc0laRVB6bGlPLVNZc29QRWZQQ2FrX2wxRzR6V1hiOXowNHBmbXBZemxBdVQ2TWd3b0FzZDZWQXh2Z0t4V0pNOGdGai1wM1ZibmlmRWE1c3RB?oc=5",
           "published_at": "2026-09-22T15:00:00+00:00",
@@ -5672,6 +5693,13 @@
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1paENnTEVMYWlTOW1laUppNmtxWkY2NE9ObGtfd3RIc1BFVGNjc25FOHU3ZkV4dDJucUlESE1zN2I2XzRyV1JQaThkV3pnemhqZDNhUXBDMWlvcUdEUFh0NExiMTdfWnNjaWZ1WlZ0WHpEYVdGS2lPcnFB?oc=5",
           "published_at": "2026-09-22T07:00:00+00:00",
           "excerpt": "Crawl budget: What you need to know in 2027 Search Engine Land",
+          "fetched_at": "2026-09-22T17:05:16.257811+00:00"
+        },
+        {
+          "title": "How to use kill criteria to make better SEO decisions",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVVHJxUHR0N19yenMwa1hlLWp0M19iR3ZwVHZfUHpKZmFOaXA4ZENWTnRtM2tjeXVVSGN3a0RTcDF2aVN2RVdzWkhralVGQ2dGVHRQSktob0JhdFpBQ3kwMERucw?oc=5",
+          "published_at": "2026-09-22T07:00:00+00:00",
+          "excerpt": "How to use kill criteria to make better SEO decisions Search Engine Land",
           "fetched_at": "2026-09-22T17:05:16.257811+00:00"
         },
         {
@@ -5752,13 +5780,6 @@
           "fetched_at": "2026-09-22T09:23:19.921346+00:00"
         },
         {
-          "title": "Measuring AEO: A 3-layer attribution framework",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkJDS1NyVWtCalRnSkRYeGpkekoxV3ZpVHdLQjF5TVdRMVJELXRJVldhRUtxcjZoMUt5NDBpTmtkd090WWV5UFdiU3FxSEJrcVhhT3R4c0ZFN3d1VGFhX3FxSHRhWEpyTkJLU1VKcFFVWXdMc1V2ZTBVc0txRG05S1hKMGRpX25o?oc=5",
-          "published_at": "2026-09-21T14:00:00+00:00",
-          "excerpt": "Measuring AEO: A 3-layer attribution framework Search Engine Land",
-          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
-        },
-        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeXowRVNZYW1KaXJ5WmlGN2RXUm5xcnRrLVQyaWkwT0Jxc0VfcmZ3TFlSbnFLU3QzVk45YnFDcTI1Qi13cFN2REFETVdrWkp3RXJ0VU95MkNwSDdJdU00ZnZHdXg0alFsZnFPUzBHZGlxbE5IZ0t2dWpia0J0NXVBU09MaUNHWVRjTEVhX3p3?oc=5",
           "published_at": "2026-09-21T11:10:06+00:00",
@@ -5778,6 +5799,13 @@
           "published_at": "2026-09-21T07:00:00+00:00",
           "excerpt": "Chris Hanna Search Engine Land",
           "fetched_at": "2026-09-19T08:52:35.808000+00:00"
+        },
+        {
+          "title": "Measuring AEO: A 3-layer attribution framework",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkJDS1NyVWtCalRnSkRYeGpkekoxV3ZpVHdLQjF5TVdRMVJELXRJVldhRUtxcjZoMUt5NDBpTmtkd090WWV5UFdiU3FxSEJrcVhhT3R4c0ZFN3d1VGFhX3FxSHRhWEpyTkJLU1VKcFFVWXdMc1V2ZTBVc0txRG05S1hKMGRpX25o?oc=5",
+          "published_at": "2026-09-21T07:00:00+00:00",
+          "excerpt": "Measuring AEO: A 3-layer attribution framework Search Engine Land",
+          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
         },
         {
           "title": "How to become the answer in AI search: The ASC framework",
@@ -5943,7 +5971,7 @@
         {
           "title": "Google testing “Dive deeper” for Google Discover – it’s not good for publishers",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFlWT3AzRjV3WjhPM2pGSnhMUmFhai1pb3ktX0dPb1FrMEZCYzBLRkVhMEc0N1NTZ3VaLXV4a2xyU01pQVJTZDJVVE1lTUFLV19UeGI0ak1FWnFZU0IwUmxYUFk5V1JsZXlPblZQUmtUSU1MbWpTTEQwN0Ywci15b2x3dUVlWjNVdWlIVDgtVXplTXBEdlZEQ19MNml1TUpaZGVWMGFsUFhuOVB2aDFr?oc=5",
-          "published_at": "2026-09-20T12:18:00+00:00",
+          "published_at": "2026-09-20T07:00:00+00:00",
           "excerpt": "Google testing “Dive deeper” for Google Discover – it’s not good for publishers Search Engine Land",
           "fetched_at": "2026-09-20T16:18:48.134025+00:00"
         },
@@ -10512,6 +10540,20 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Meta’s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
+          "published_at": "2026-10-16T21:38:49+00:00",
+          "excerpt": "New terms let Meta crawl sites tied to business users and use the content to train its products, widening rights ad buyers had already granted. The post Meta’s New Terms Expand Crawling Rights Beyond Advertisers appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-17T08:40:44.029342+00:00"
+        },
+        {
+          "title": "Why The New York Times Puts Free Content First",
+          "url": "https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/",
+          "published_at": "2026-10-16T19:00:23+00:00",
+          "excerpt": "The New York Times gives prime homepage space to free articles and tells readers they’re free. Here’s why that works. The post Why The New York Times Puts Free Content First appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-17T08:40:44.029342+00:00"
+        },
         {
           "title": "It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
           "url": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
