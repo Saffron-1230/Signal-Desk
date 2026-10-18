@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T15:45:25.279169+00:00",
+  "last_updated": "2026-10-18T08:57:31.691987+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4380,6 +4380,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "ChatGPT Ads introduces new measurement tools and visual ad formats",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5",
+          "published_at": "2026-10-16T16:30:09+00:00",
+          "excerpt": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land",
+          "fetched_at": "2026-10-18T08:57:10.973907+00:00"
+        },
+        {
           "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5",
           "published_at": "2026-10-16T16:11:59+00:00",
@@ -4399,6 +4406,13 @@
           "published_at": "2026-10-16T14:18:33+00:00",
           "excerpt": "How to create SEO-friendly URLs Search Engine Land",
           "fetched_at": "2026-10-17T08:40:35.760290+00:00"
+        },
+        {
+          "title": "Google Ask Maps: How to make your business easier to recommend",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUm9rUm1TclRlV2I5d2ExcTFtaTVTY0lkUnZZMDRWTHdrMXV6YUY3dnd1cG9FbHE2WUNONVl4VjJjUk9RYnplXzdoUjNSOEV5OVdacUxTYWYzY2d5U1FWMlpEay1Oa0NrQTIwclBSSGQtc0FWQkVrMDhhM21kRVV4VGh1RXhvbkxsOHNKQldrR0JuaE1C?oc=5",
+          "published_at": "2026-10-16T14:00:00+00:00",
+          "excerpt": "Google Ask Maps: How to make your business easier to recommend Search Engine Land",
+          "fetched_at": "2026-10-18T08:57:10.973907+00:00"
         },
         {
           "title": "Human experience is your content’s biggest differentiator",
@@ -4462,6 +4476,13 @@
           "published_at": "2026-10-15T12:00:00+00:00",
           "excerpt": "Why every SEO needs to become a Challenger Search Engine Land",
           "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "We analyzed 5,000+ Google Ads accounts: Seasonality adjustments backfire on Black Friday",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclRlU3hncVBOOGctMkVPendFWkR5RklwbktkdVd3MEZOWDlyUjRGRDlqQUowZng0Skk3Y1REQzB5bGwtREdPWms3U3VkUTc5YjcwRGs4Z3R5QmNfZ0JXRlUwWFRUYVN2bHd1NWhzaTBYcE9XUXdZYTF2NHpwWWhMOU9kazNpZkszbjV1TG9jYVJLR2J4RXNMMnNsdmNmTXFTbGNTUGNPMEFBUDBrODBwY2pnRmpDdUFkOTY2dFNB?oc=5",
+          "published_at": "2026-10-15T11:00:00+00:00",
+          "excerpt": "We analyzed 5,000+ Google Ads accounts: Seasonality adjustments backfire on Black Friday Search Engine Land",
+          "fetched_at": "2026-10-18T08:57:10.973907+00:00"
         },
         {
           "title": "SEO for roofers: Six step guide to attract more leads",
@@ -4718,7 +4739,7 @@
         {
           "title": "Google AI Mode ads: Everything you need to know",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeU9HRjNyZW9HM0UwUENJbmVWbERqbEZsWGJnT1JzME9OZUJZY0g3dW85YUZlOFY1WTJKSzR5dll3Vk15WER2MGF3Y01IOFNyTWxDb2c3Y0tYNkJ4RmlYMDBzcG9OemRLLW5oYjlmb2FOU2ppdzJRZDdrMlJVN0l2S3ZPQTBZV0ltaGc?oc=5",
-          "published_at": "2026-10-09T13:00:00+00:00",
+          "published_at": "2026-10-09T07:00:00+00:00",
           "excerpt": "Google AI Mode ads: Everything you need to know Search Engine Land",
           "fetched_at": "2026-10-11T10:55:27.898905+00:00"
         },
@@ -5178,13 +5199,6 @@
           "fetched_at": "2026-10-02T10:36:34.236099+00:00"
         },
         {
-          "title": "Google location asset requirements: What you need to know",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPWkxuOVR4SnNHd3ZNbTAxWU9wZFViOXJMcDNFRE5wYjF1dXdsRkxvUjJzbnFFSlBiQnpsSDI0NEFpS21VazVmUVBrLVhQYjIzeUx2dk5WcWkzdFJ0YUw0bFcyTjR6dmQyUTZMLWtSc2tLUV93VnhrMmJn?oc=5",
-          "published_at": "2026-10-01T12:00:00+00:00",
-          "excerpt": "Google location asset requirements: What you need to know Search Engine Land",
-          "fetched_at": "2026-10-03T09:57:13.504455+00:00"
-        },
-        {
           "title": "What is visual content? 17 types that drive links, shares, and traffic",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14T21uQl9iQWNTX3ptLWgwUDZNOW9vTjN1YVpaVVp3eEFnWEstbFdNb0VvVFVwMEctT1FwTG1tSk8yZ25YSHJpNjM5M1htcThoeFg1T1NGNWdMTzF1ZlE?oc=5",
           "published_at": "2026-10-01T07:00:00+00:00",
@@ -5220,11 +5234,25 @@
           "fetched_at": "2026-10-02T17:55:54.006926+00:00"
         },
         {
+          "title": "Google location asset requirements: What you need to know",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPWkxuOVR4SnNHd3ZNbTAxWU9wZFViOXJMcDNFRE5wYjF1dXdsRkxvUjJzbnFFSlBiQnpsSDI0NEFpS21VazVmUVBrLVhQYjIzeUx2dk5WcWkzdFJ0YUw0bFcyTjR6dmQyUTZMLWtSc2tLUV93VnhrMmJn?oc=5",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "excerpt": "Google location asset requirements: What you need to know Search Engine Land",
+          "fetched_at": "2026-10-03T09:57:13.504455+00:00"
+        },
+        {
           "title": "OpenAI expands ChatGPT Ads with bulk product campaigns and deeper reporting",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXpxaXBNaHc3YVNELUcwYWVDX3ByZHJrMTRsa1VEZGNxTDBHNHhNZnlIYzdvSmIxRm95Z0NQbGFiclZIMThmU2JjR21UbnJ0eC1HdHlJdFk0d1M5NGFWU3NIMWcwbTFjbjJ6bmpNeXJrMHdDUnAyVWxuUnZiSUU2dVBYazB2SENFbVZkUVlVOFR5Zng1b05vejREMUFuTmhfMVZlc3o2Wm51THZzT1ZtOA?oc=5",
           "published_at": "2026-09-30T16:07:41+00:00",
           "excerpt": "OpenAI expands ChatGPT Ads with bulk product campaigns and deeper reporting Search Engine Land",
           "fetched_at": "2026-10-01T18:28:54.395839+00:00"
+        },
+        {
+          "title": "Google Ads Circumventing Systems: How to diagnose and fix a vague suspension",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbklONmRhcHVuR1h4SmpKOWNTbjdNMUJfWDRNQWwxU3pBSEx6cDVpaU9Fb1JmQ21nYnVuekJEb242Q3lLV242QkFNeElDdnNqR3NTSm1MY2hNczBBaVRPTjVnei1ZU2RqUkNTOHRnRW5FbXU4NDdTMGwxMjBSRGs3RG5sX2s0QQ?oc=5",
+          "published_at": "2026-09-30T13:00:00+00:00",
+          "excerpt": "Google Ads Circumventing Systems: How to diagnose and fix a vague suspension Search Engine Land",
+          "fetched_at": "2026-10-18T08:57:10.973907+00:00"
         },
         {
           "title": "What 9 million AI answers reveal about search visibility",
@@ -5290,13 +5318,6 @@
           "fetched_at": "2026-09-30T18:02:24.881921+00:00"
         },
         {
-          "title": "Why Performance Max isn’t a YouTube ad strategy for ecommerce",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHJEYnExTzlMbFNDUWw5dUs5dzdscVhCelMtU1V5ODJYRW9fUzVJaEVwSjM1eUpiQzZTRU9uMWRGQ2E3R2pFazZWZjdwWUtIMUhzRXZmOHRLam9sSExvMTBNMHU0d2g2ZjlLVkRSeEMzYnd0Y2RRSFlScVZWdFRaemt6RWlOTkIz?oc=5",
-          "published_at": "2026-09-29T12:00:00+00:00",
-          "excerpt": "Why Performance Max isn’t a YouTube ad strategy for ecommerce Search Engine Land",
-          "fetched_at": "2026-10-01T11:04:10.504819+00:00"
-        },
-        {
           "title": "Google AI Mode monitoring capabilities now live for all",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeFlMamJwOE01WXloMVR1dGVpa192ZXJVWTlMazlIWVN2LWxLM0FvYW55UlJ2dmZ6Q1Y0RzVsX0FaWlh2VG9KR3ZFX2hJRl9KZTh2OTlmX3dZZ1dQMDU5RnhDSHlmUEVtYmd3bm1IR3E1YkdpU2JuOV9fbHJ4UUgtamd1U1hmZXp2RGJZNGpySmR5emh6T0E?oc=5",
           "published_at": "2026-09-29T07:00:00+00:00",
@@ -5330,6 +5351,13 @@
           "published_at": "2026-09-29T07:00:00+00:00",
           "excerpt": "SpyFu guide: How to get the most out of this SEO tool Search Engine Land",
           "fetched_at": "2026-09-30T10:36:00.880685+00:00"
+        },
+        {
+          "title": "Why Performance Max isn’t a YouTube ad strategy for ecommerce",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHJEYnExTzlMbFNDUWw5dUs5dzdscVhCelMtU1V5ODJYRW9fUzVJaEVwSjM1eUpiQzZTRU9uMWRGQ2E3R2pFazZWZjdwWUtIMUhzRXZmOHRLam9sSExvMTBNMHU0d2g2ZjlLVkRSeEMzYnd0Y2RRSFlScVZWdFRaemt6RWlOTkIz?oc=5",
+          "published_at": "2026-09-29T07:00:00+00:00",
+          "excerpt": "Why Performance Max isn’t a YouTube ad strategy for ecommerce Search Engine Land",
+          "fetched_at": "2026-10-01T11:04:10.504819+00:00"
         },
         {
           "title": "Microsoft opens Excluded Content Terms to all advertisers",
@@ -10547,6 +10575,20 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
+          "published_at": "2026-10-18T08:00:00+00:00",
+          "excerpt": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-18T08:57:20.288232+00:00"
+        },
+        {
+          "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
+          "published_at": "2026-10-17T18:15:44+00:00",
+          "excerpt": "Google removed the Indexing API approval form and steps from its docs. Default quotas are listed, but the pages don't say how to request more. The post Google’s Indexing API Docs No Longer Explain How To Get Approval appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-18T08:57:20.288232+00:00"
+        },
         {
           "title": "Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/",
