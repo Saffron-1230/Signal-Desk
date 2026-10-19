@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T10:06:07.622542+00:00",
+  "last_updated": "2026-10-19T18:46:32.387186+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4379,6 +4379,20 @@
       "title_suffix": " - Search Engine Land",
       "color": "#18a66a",
       "articles": [
+        {
+          "title": "How to measure Google Demand Gen against the right goals",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS1FBX05McDFWaUd6LTk3Mlkzd2IxaUlSeExBN0JVd2pQeUpaQWRZdzc1LVdzZVMwNE5aMHRYT1BWaUtoMk5mUWtINU9zT0RxSEIxQ1JUYWRrcFFSdVlwS2J5MXNvUkJ2NGhiS041N3ZIV1hFVjFhUWdqZUJ6QQ?oc=5",
+          "published_at": "2026-10-19T14:00:00+00:00",
+          "excerpt": "How to measure Google Demand Gen against the right goals Search Engine Land",
+          "fetched_at": "2026-10-19T18:46:04.022735+00:00"
+        },
+        {
+          "title": "Why the For You Page deserves SEO attention",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIS0NmOVk2YUN0MUQwNV9aZmE3enBwbGEtZFJrWTZGamFLOVVsZFFBUzNOOFJ2NGUyaURONGdSd3E4c0xXZWF4clBua3VDLUxpbmhod0ZmWFp1VmFhTzB0eFRybFN2SmJIRE9jQjFMbEdGTjNuc2Vtc0tHdw?oc=5",
+          "published_at": "2026-10-19T13:00:00+00:00",
+          "excerpt": "Why the For You Page deserves SEO attention Search Engine Land",
+          "fetched_at": "2026-10-19T18:46:04.022735+00:00"
+        },
         {
           "title": "The latest jobs in search marketing",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
@@ -10583,6 +10597,48 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Meta Drops Training From Its Crawl Clause And Keeps The Crawl via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/meta-removes-training-crawl-clause-commercial-terms/593584/",
+          "published_at": "2026-10-19T18:30:50+00:00",
+          "excerpt": "Meta removed training from the crawling clause in its upcoming Commercial Terms. The permission to crawl sites tied to business users is still in place. The post Meta Drops Training From Its Crawl Clause And Keeps The Crawl appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-19T18:46:16.231316+00:00"
+        },
+        {
+          "title": "B2B Lead Generation: How To Choose Your 2027 Marketing Channels [Webinar] via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/b2b-lead-generation-how-to-choose-your-2027-marketing-channels-webinar/593589/",
+          "published_at": "2026-10-19T18:28:32+00:00",
+          "excerpt": "Learn how to choose B2B marketing channels, fund a trial campaign and measure results with CallRail and Matter Made on October 29. The post B2B Lead Generation: How To Choose Your 2027 Marketing Channels [Webinar] appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-19T18:46:16.231316+00:00"
+        },
+        {
+          "title": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
+          "published_at": "2026-10-19T15:02:15+00:00",
+          "excerpt": "A Chinese AI lab opened its search engine to developers. Each result carries a page-level authority tier, and DeepSeek says it filters GEO manipulation. The post DeepSeek Opens Its In-House Search Engine To Developers appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-19T18:46:16.231316+00:00"
+        },
+        {
+          "title": "It Knew Every Word via @sejournal, @pedrodias",
+          "url": "https://www.searchenginejournal.com/it-knew-every-word/592680/",
+          "published_at": "2026-10-19T14:00:20+00:00",
+          "excerpt": "A model can recite your brand’s description and still fail the buyer’s question. Research on training data shows why “knowing” is the hard part. The post It Knew Every Word appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-19T18:46:16.231316+00:00"
+        },
+        {
+          "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
+          "published_at": "2026-10-19T13:34:28+00:00",
+          "excerpt": "Researchers posted about a made-up concept on sites AI search tools cite. Four English-web tools cited it within a week. Other topics mostly didn't land. The post AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-19T18:46:16.231316+00:00"
+        },
+        {
+          "title": "The New Rules Of Journalist Outreach, Based On Millions Of Emails",
+          "url": "https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/",
+          "published_at": "2026-10-19T12:00:45+00:00",
+          "excerpt": "Get journalist outreach pitches seen and understood with relevant targeting, authenticated domains, concrete subject lines, and clear openings that shape AI inbox summaries. The post The New Rules Of Journalist Outreach, Based On Millions Of Emails appeared first on Search Engin…",
+          "fetched_at": "2026-10-19T18:46:16.231316+00:00"
+        },
+        {
           "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
           "published_at": "2026-10-18T08:00:00+00:00",
@@ -10688,13 +10744,6 @@
           "fetched_at": "2026-10-15T09:15:32.138786+00:00"
         },
         {
-          "title": "Google Ads Introduces Channel Prioritization And Budget Allocation via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
-          "published_at": "2026-10-14T15:00:33+00:00",
-          "excerpt": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns. The post Google Ads Introduces Channel Prioritization And Budget Allocation appeared first on Searc…",
-          "fetched_at": "2026-10-14T17:23:19.254636+00:00"
-        },
-        {
           "title": "How To Create Demand You Can Actually Convert (And Prove)",
           "url": "https://www.searchenginejournal.com/webinar-lp-how-to-create-demand-you-can-actually-convert-and-prove/",
           "published_at": "2026-10-14T14:22:24+00:00",
@@ -10749,6 +10798,13 @@
           "published_at": "2026-10-14T00:19:30+00:00",
           "excerpt": "Bing's AI Performance report adds a view that sorts cited queries into topics and lists queries where other sites are cited but your site isn't. The post Bing Webmaster Tools Sorts AI Search Queries Into Topics appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-14T09:37:34.881495+00:00"
+        },
+        {
+          "title": "Google Ads Introduces Channel Prioritization And Budget Allocation",
+          "url": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
+          "published_at": "2026-10-14T00:00:00+00:00",
+          "excerpt": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns. The post Google Ads Introduces Channel Prioritization And Budget Allocation appeared first on Searc…",
+          "fetched_at": "2026-10-14T17:23:19.254636+00:00"
         },
         {
           "title": "Google Adds Experimental Soft Navigation Metrics To CrUX via @sejournal, @MattGSouthern",
@@ -16344,6 +16400,20 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
+          "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+          "published_at": "2026-10-19T00:00:00+00:00",
+          "excerpt": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execution patterns to keep conversations fl…",
+          "fetched_at": "2026-10-19T18:46:31.501741+00:00"
+        },
+        {
+          "title": "Native Model Authoring for Edge with LiteRT Tensor API",
+          "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+          "published_at": "2026-10-19T00:00:00+00:00",
+          "excerpt": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
+          "fetched_at": "2026-10-19T18:46:31.501741+00:00"
+        },
+        {
           "title": "Evaluating AI agents: moving past the vibe check",
           "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
           "published_at": "2026-10-15T00:00:00+00:00",
@@ -16782,6 +16852,34 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "How to shape your slides and videos with Gemini Notebook",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+          "published_at": "2026-10-19T17:00:00+00:00",
+          "excerpt": "Illustration showing new review slide deck capabilities",
+          "fetched_at": "2026-10-19T18:46:32.383262+00:00"
+        },
+        {
+          "title": "4 tips for styling outfits with Gemini",
+          "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
+          "published_at": "2026-10-19T16:00:00+00:00",
+          "excerpt": "UI showing a user asking Gemini to put a person into various outfit items",
+          "fetched_at": "2026-10-19T18:46:32.383262+00:00"
+        },
+        {
+          "title": "See the top style searches from people in big fashion capitals.",
+          "url": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
+          "published_at": "2026-10-19T16:00:00+00:00",
+          "excerpt": "We took a look at Google Trends to see what people in seven major fashion capitals are searching for to give them that je ne sais quoi when it comes to their sartorial s…",
+          "fetched_at": "2026-10-19T18:46:32.383262+00:00"
+        },
+        {
+          "title": "We’re supporting nature restoration through sustainable farming in Brazil.",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
+          "published_at": "2026-10-19T12:00:00+00:00",
+          "excerpt": "Google is partnering with Working Trees to remove 270,000 tons of CO2 via silvopasture in Brazil. See how this project restores land and ranching.",
+          "fetched_at": "2026-10-19T18:46:32.383262+00:00"
+        },
         {
           "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
           "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
