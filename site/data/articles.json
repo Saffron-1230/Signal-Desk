@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T18:46:32.387186+00:00",
+  "last_updated": "2026-10-20T09:32:05.821638+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4380,6 +4380,20 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGp3NGxqX0VrUng2czBQbjBmRWplY2JZUWRBSVBYV2hoRnFfUTBiLXNnUWl2N1c1VWdNdTNvZlJIRWREcVpEcnpYcVRjWWVmNnFYTXBlTFRISWNLeDFneHZveGVZYTZuaHlTLW9LVjZmbTFJMEptX011LUdxbUp6ZHUycmJ4RVpoWlpTaU5Ja2VrcDJQRFpkUkF2bkRjVEtubGtldkZiTUw1VlhfeF9n?oc=5",
+          "published_at": "2026-10-19T18:52:28+00:00",
+          "excerpt": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts Search Engine Land",
+          "fetched_at": "2026-10-20T09:31:48.499639+00:00"
+        },
+        {
+          "title": "Content pruning case study: Cutting 33% of pages that drove just 3% of clicks",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kQ1hneFFJYklZYUNvdnF6X3VyX3E2SGttLVhtaGxDYUhIbjBSeTNPWmR3Zk95bkNnUjBuRFcyTjUwOFhkaTRrWDVER2JiNFg1S1dITTZwcDNHdGJVMXd0SmNHRjZFQnpqUVVBdGw2UQ?oc=5",
+          "published_at": "2026-10-19T15:00:00+00:00",
+          "excerpt": "Content pruning case study: Cutting 33% of pages that drove just 3% of clicks Search Engine Land",
+          "fetched_at": "2026-10-20T09:31:48.499639+00:00"
+        },
+        {
           "title": "How to measure Google Demand Gen against the right goals",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS1FBX05McDFWaUd6LTk3Mlkzd2IxaUlSeExBN0JVd2pQeUpaQWRZdzc1LVdzZVMwNE5aMHRYT1BWaUtoMk5mUWtINU9zT0RxSEIxQ1JUYWRrcFFSdVlwS2J5MXNvUkJ2NGhiS041N3ZIV1hFVjFhUWdqZUJ6QQ?oc=5",
           "published_at": "2026-10-19T14:00:00+00:00",
@@ -4658,6 +4672,13 @@
           "published_at": "2026-10-13T11:54:17+00:00",
           "excerpt": "Google Search Console reporting date selector is broken Search Engine Land",
           "fetched_at": "2026-10-13T19:23:24.508338+00:00"
+        },
+        {
+          "title": "Advanced Google Ads SMX® Master Class | Brad Geddes | Oct. 13",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLUpsSXJVOEtkLW9kdkRmdkNRUkhZdUc5OFBpUlNlbC1PWGFpenQ2emFnZVVVSjg4NVBFek9ITXFoYTB2eWRxbEs0bW5PUldPbFJDN3VnaWJZdXZ3RHMxR0F1dy1vVnhLMFhLMGZhUk1ZX3F6V0VzZkw4S0JWQjQ?oc=5",
+          "published_at": "2026-10-13T07:00:00+00:00",
+          "excerpt": "Advanced Google Ads SMX® Master Class | Brad Geddes | Oct. 13 Search Engine Land",
+          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
         },
         {
           "title": "Microsoft-Decision-1 being experimented with in Copilot and Bing",
@@ -5206,18 +5227,18 @@
           "fetched_at": "2026-10-02T10:36:34.236099+00:00"
         },
         {
-          "title": "YouTube for SEO: Boost rankings with video content",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UTZ4ZkFYMWRNUzFtdm1QYlVhc0lTakFfY0hTbWREX1FxRkhheEtXTUc4MVlLWFBGSVdqM3pqWmxIQlJuX2JmVk5UeW52SmwwN2ZUMjdPXzVEZw?oc=5",
-          "published_at": "2026-10-01T16:00:57+00:00",
-          "excerpt": "YouTube for SEO: Boost rankings with video content Search Engine Land",
-          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
-        },
-        {
           "title": "How to dominate video-driven SERPs",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WRFMzaEVEZE4wSGVxaVVfWVAwUmdjYmJfUU9BZC00VlJlcFhic2h6eVBZSUV1dlFoVGgwSHBhdnIweDFLZmVwbTlST25pTXVoVDZ5UkRGank3RXpsZ3haek1WOFVTYzA3Nmt0V1pJTHk2QQ?oc=5",
-          "published_at": "2026-10-01T16:00:54+00:00",
+          "published_at": "2026-10-01T07:00:00+00:00",
           "excerpt": "How to dominate video-driven SERPs Search Engine Land",
           "fetched_at": "2026-09-21T10:05:35.520968+00:00"
+        },
+        {
+          "title": "YouTube for SEO: Boost rankings with video content",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UTZ4ZkFYMWRNUzFtdm1QYlVhc0lTakFfY0hTbWREX1FxRkhheEtXTUc4MVlLWFBGSVdqM3pqWmxIQlJuX2JmVk5UeW52SmwwN2ZUMjdPXzVEZw?oc=5",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "excerpt": "YouTube for SEO: Boost rankings with video content Search Engine Land",
+          "fetched_at": "2026-09-22T09:23:19.921346+00:00"
         },
         {
           "title": "What is visual content? 17 types that drive links, shares, and traffic",
@@ -5332,18 +5353,18 @@
           "fetched_at": "2026-09-30T10:36:00.880685+00:00"
         },
         {
-          "title": "Is your Google Ads account ready for Q4?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EbUFuTHAybFRCRVJjd3I5Tjl5ZHplcU1LT25sbzV6eWV6eW1VUGJrXzNnRExNME1pQlFqU3pOSnl2VWVkdVdKSGtjR0VsNS1qajN3UTN5Z0s5S2VJRFNrbXhfUzJaSlZYUGRwbHRDRGY?oc=5",
-          "published_at": "2026-09-29T14:00:00+00:00",
-          "excerpt": "Is your Google Ads account ready for Q4? searchengineland.com",
-          "fetched_at": "2026-09-29T18:09:32.043366+00:00"
-        },
-        {
           "title": "Google appeals the European Commission’s DMA mandate to share search data",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTVdvWmJBbWlVcmlodzhhV2g0dmZYaVhXcm5wZ2xsS2pCZFNCdWpscWZrTVYxYTNfd0gtbDBmRmh1M0hIMDI2bVE1c1hUMFZ6Rl92LWF2MHZxUVcwUTFCcnZtekxIcEl6NDhJeFVTb2szQTlZRWpUNHFhTnYwZTlFeFNZMzByWG5QT3pzSVlkMW1BM2dfd2dic0NtajBhamEyUktPNDEtNVVZejlU?oc=5",
           "published_at": "2026-09-29T13:43:00+00:00",
           "excerpt": "Google appeals the European Commission’s DMA mandate to share search data Search Engine Land",
           "fetched_at": "2026-09-30T18:02:24.881921+00:00"
+        },
+        {
+          "title": "Is your Google Ads account ready for Q4?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EbUFuTHAybFRCRVJjd3I5Tjl5ZHplcU1LT25sbzV6eWV6eW1VUGJrXzNnRExNME1pQlFqU3pOSnl2VWVkdVdKSGtjR0VsNS1qajN3UTN5Z0s5S2VJRFNrbXhfUzJaSlZYUGRwbHRDRGY?oc=5",
+          "published_at": "2026-09-29T07:00:00+00:00",
+          "excerpt": "Is your Google Ads account ready for Q4? searchengineland.com",
+          "fetched_at": "2026-09-29T18:09:32.043366+00:00"
         },
         {
           "title": "Google AI Mode monitoring capabilities now live for all",
@@ -10414,13 +10435,6 @@
           "fetched_at": "2026-09-03T09:02:15.336548+00:00"
         },
         {
-          "title": "Advanced Google Ads SMX® Master Class | Brad Geddes | Oct. 13",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLUpsSXJVOEtkLW9kdkRmdkNRUkhZdUc5OFBpUlNlbC1PWGFpenQ2emFnZVVVSjg4NVBFek9ITXFoYTB2eWRxbEs0bW5PUldPbFJDN3VnaWJZdXZ3RHMxR0F1dy1vVnhLMFhLMGZhUk1ZX3F6V0VzZkw4S0JWQjQ?oc=5",
-          "published_at": "2023-03-28T17:57:09+00:00",
-          "excerpt": "Advanced Google Ads SMX® Master Class | Brad Geddes | Oct. 13 Search Engine Land",
-          "fetched_at": "2026-10-01T18:28:54.395839+00:00"
-        },
-        {
           "title": "Search Marketing Workshops from SMX | Online October 2026",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhSGdweGdKd3MxckRQUUFVZE1NYVBuc3Y0cW9FNkhkS09IWWRlLWVwSjVvbEN1czBodnBWN1I1dWdSdkZobFVHTUREcWFaSUtkXzQweWU5WDQ1VFU?oc=5",
           "published_at": "2023-03-28T14:06:29+00:00",
@@ -10597,6 +10611,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
+          "published_at": "2026-10-20T08:00:00+00:00",
+          "excerpt": "Search's share of North American publisher pageviews fell to 12%, but a lower share alone doesn't show fewer search pageviews. The post Search Share Fell To 12% For North American Publishers: Chartbeat appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-20T09:31:54.218334+00:00"
+        },
+        {
+          "title": "A New Place To Look: Where Your Next AI Citations & Clicks Come From via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/sej-webinar-recap-c252a32e4209/592892/",
+          "published_at": "2026-10-20T07:45:18+00:00",
+          "excerpt": "CTM’s Lisa Salvatore and Brian Barranger show how to mine customer conversations for useful content, qualified-lead criteria, conversion feedback, and product-demand signals. The post A New Place To Look: Where Your Next AI Citations & Clicks Come From appeared first on Search E…",
+          "fetched_at": "2026-10-20T09:31:54.218334+00:00"
+        },
+        {
           "title": "Meta Drops Training From Its Crawl Clause And Keeps The Crawl via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/meta-removes-training-crawl-clause-commercial-terms/593584/",
           "published_at": "2026-10-19T18:30:50+00:00",
@@ -10723,17 +10751,17 @@
           "fetched_at": "2026-10-15T17:12:24.091071+00:00"
         },
         {
-          "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
-          "url": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
-          "published_at": "2026-10-15T12:00:21+00:00",
-          "excerpt": "Prepare for a potential Panda-style Google update by addressing scaled AI content and fake authors that could threaten rankings across your site. The post 96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals appeared first on Search Engine Jo…",
-          "fetched_at": "2026-10-15T17:12:24.091071+00:00"
-        },
-        {
           "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
           "published_at": "2026-10-15T10:32:28+00:00",
           "excerpt": "Coywolf Pack makes EmDash-based websites absurdly fast, adds more SEO functionality, and improves WordPress to EmDash migrations. The post Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-15T17:12:24.091071+00:00"
+        },
+        {
+          "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals",
+          "url": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "excerpt": "Prepare for a potential Panda-style Google update by addressing scaled AI content and fake authors that could threaten rankings across your site. The post 96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals appeared first on Search Engine Jo…",
           "fetched_at": "2026-10-15T17:12:24.091071+00:00"
         },
         {
@@ -16852,6 +16880,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Partnering to strengthen the grid and support local communities in Arkansas",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/",
+          "published_at": "2026-10-19T20:15:00+00:00",
+          "excerpt": "Arkansas with Google logo inside",
+          "fetched_at": "2026-10-20T09:32:05.818562+00:00"
+        },
         {
           "title": "How to shape your slides and videos with Gemini Notebook",
           "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
