@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T09:32:05.821638+00:00",
+  "last_updated": "2026-10-20T17:23:13.721526+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4380,11 +4380,25 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Search Engine Land Awards 2026: Complete finalists list",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVnZDUjhEU1hmTzVIX1JLanJrdk84VXVDNjNDc1p1OHdCOGZhOFVhUWU3X3NTM2luNG5XdGkwbUUwTTJyYXhNRlkydjhXZWttUWVUZzM5NUNZa0xqdnlieVFQM3MwTVgxYzJJOTRpVk41OV92YjZQWnhLRDhwMmJoSmJCRGI2YnZDWkFIQnhyNDRHcmtj?oc=5",
+          "published_at": "2026-10-19T19:41:10+00:00",
+          "excerpt": "Search Engine Land Awards 2026: Complete finalists list Search Engine Land",
+          "fetched_at": "2026-10-20T17:22:51.544894+00:00"
+        },
+        {
           "title": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGp3NGxqX0VrUng2czBQbjBmRWplY2JZUWRBSVBYV2hoRnFfUTBiLXNnUWl2N1c1VWdNdTNvZlJIRWREcVpEcnpYcVRjWWVmNnFYTXBlTFRISWNLeDFneHZveGVZYTZuaHlTLW9LVjZmbTFJMEptX011LUdxbUp6ZHUycmJ4RVpoWlpTaU5Ja2VrcDJQRFpkUkF2bkRjVEtubGtldkZiTUw1VlhfeF9n?oc=5",
           "published_at": "2026-10-19T18:52:28+00:00",
           "excerpt": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts Search Engine Land",
           "fetched_at": "2026-10-20T09:31:48.499639+00:00"
+        },
+        {
+          "title": "Google Local Services Ads removes featured professionals",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXNZQkVONXgwYkxuT2cxUEI0VDQwek1HVGoyRHVSaTU5dE1fSWRzUy1fMjNqdG5tazQyZU9kRmI2clJUdU11NnF1N2tDeEc0aXIzTEwtWDgxcEV4Q0NTS0FyOHlJemhnZGs2dENGbFdjTnBvTzhEOUNhOHNBS3BXZVhlcnhoaFlOOGZCdWsteXllVFdTLS1V?oc=5",
+          "published_at": "2026-10-19T15:07:09+00:00",
+          "excerpt": "Google Local Services Ads removes featured professionals Search Engine Land",
+          "fetched_at": "2026-10-20T17:22:51.544894+00:00"
         },
         {
           "title": "Content pruning case study: Cutting 33% of pages that drove just 3% of clicks",
@@ -4730,20 +4744,6 @@
           "fetched_at": "2026-10-13T11:58:16.814260+00:00"
         },
         {
-          "title": "Does your website need an llms.txt file? + How to create one",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00emREbjVwakJrOWF4WlR5QnJteGk3SEMtVE9DVF9MMm4tM0VmXzVZUlpkbWhGMXNEQy1sdGNkOTNhalkzM2ZqR3dNN2NobENrVkJDTTZn?oc=5",
-          "published_at": "2026-10-12T17:08:42+00:00",
-          "excerpt": "Does your website need an llms.txt file? + How to create one Search Engine Land",
-          "fetched_at": "2026-10-15T17:12:11.000041+00:00"
-        },
-        {
-          "title": "Consolidate or segment? A Performance Max decision framework",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwbUhURXRmN21nS1dmWU94a3NjVmxJbHlsR1FMUXpYeHk1VTU5WV92M2FLSzN0OTJwSFcxd3EzVFMtQ1dRdE5nMWU2WFcxMmtTTDRnOWhaZG54bndfUEFYOEpHRzc1UXR4SmtRMU41TVBLQ2dvWmdTbUZR?oc=5",
-          "published_at": "2026-10-12T14:00:00+00:00",
-          "excerpt": "Consolidate or segment? A Performance Max decision framework Search Engine Land",
-          "fetched_at": "2026-10-12T21:19:53.254885+00:00"
-        },
-        {
           "title": "How to audit off-page AI search visibility and build a 90-day plan",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0pQZUFDMDRuNkQtX3RRRlhyckpFUi1NSXF0RXhxSFBqWkhlS3FyQUhkbngtTzJRSmFNZnZ1Y2RQdzB2ZWFJT1VheE0xWWZYcFc4NEJCZmNLWUNEejlkXzN5VVFFVGZ0X1M1ck04Q3M1cGxXZFJRakJpOW9NUGJXckpVdVgybU1WSmN3?oc=5",
           "published_at": "2026-10-12T13:00:00+00:00",
@@ -4756,6 +4756,20 @@
           "published_at": "2026-10-12T12:00:00+00:00",
           "excerpt": "AI search is helping people ask bigger questions. Is your brand ready? Search Engine Land",
           "fetched_at": "2026-10-13T11:58:16.814260+00:00"
+        },
+        {
+          "title": "Consolidate or segment? A Performance Max decision framework",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwbUhURXRmN21nS1dmWU94a3NjVmxJbHlsR1FMUXpYeHk1VTU5WV92M2FLSzN0OTJwSFcxd3EzVFMtQ1dRdE5nMWU2WFcxMmtTTDRnOWhaZG54bndfUEFYOEpHRzc1UXR4SmtRMU41TVBLQ2dvWmdTbUZR?oc=5",
+          "published_at": "2026-10-12T07:00:00+00:00",
+          "excerpt": "Consolidate or segment? A Performance Max decision framework Search Engine Land",
+          "fetched_at": "2026-10-12T21:19:53.254885+00:00"
+        },
+        {
+          "title": "Does your website need an llms.txt file? + How to create one",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00emREbjVwakJrOWF4WlR5QnJteGk3SEMtVE9DVF9MMm4tM0VmXzVZUlpkbWhGMXNEQy1sdGNkOTNhalkzM2ZqR3dNN2NobENrVkJDTTZn?oc=5",
+          "published_at": "2026-10-12T07:00:00+00:00",
+          "excerpt": "Does your website need an llms.txt file? + How to create one Search Engine Land",
+          "fetched_at": "2026-10-15T17:12:11.000041+00:00"
         },
         {
           "title": "Google Ads adds automatic text overlays to Demand Gen video ads",
@@ -4961,13 +4975,6 @@
           "fetched_at": "2026-10-07T18:59:51.769202+00:00"
         },
         {
-          "title": "Information gain: How top content leaders win at SEO",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HaXpXa2lTaXd2eG1oTkJHNFNZaGFCR0lHZnE5bUhGb0Q3RWp3WjlZZERIVmxCdUZLOWxYMjRnT0hhMnlwbmRTRTRSMWhZNjEzbDdwLVFYRmlObTMxaDBDRA?oc=5",
-          "published_at": "2026-10-06T19:58:06+00:00",
-          "excerpt": "Information gain: How top content leaders win at SEO Search Engine Land",
-          "fetched_at": "2026-10-07T11:11:48.929180+00:00"
-        },
-        {
           "title": "Google Ads tests Video Campaign Groups for cross-campaign reach and frequency",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmRzVC1KWHFwSGdvN0d2YUp1ZGtiakY4YTdQdlczS3VEa1FZN09lVG4ydWdSNU9EdHBUNnI5S1FhdHRueDB0UmdDa0w0V1piaHR1azRzV0JFaXBld0R1WTZsbWlBUGpiVFJnc01HSjJOQzV0czJOU1JXdExzb1RFVzFMUlEzb0F3Q2dGcmg4Wm1wVnhxUzBXWWRhN2xaUlRZRWtJS0g4LXdZQnZNd1VxUlpWcw?oc=5",
           "published_at": "2026-10-06T18:02:28+00:00",
@@ -5035,6 +5042,13 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDlReVBTLU5tRjIzaE5fZVNqVFVxMm44ZjhJYUxieUdOek12S2ZsUEltNVJGeDJOSWFpa3dpS3JGWlktMS1kcm1FamphSm5iOTZ5Slp4R24zSUJqSmhJLVBRdTJ3Z3NBcVVkV3ExTy1oMTcxa0w1d1BRM3kyRHV3dGVDWm03UU9jZVFQajVtclBCdDR3NWNIWDloc00?oc=5",
           "published_at": "2026-10-06T07:00:00+00:00",
           "excerpt": "Google Ads can now calculate Target ROAS from profit margins Search Engine Land",
+          "fetched_at": "2026-10-07T11:11:48.929180+00:00"
+        },
+        {
+          "title": "Information gain: How top content leaders win at SEO",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HaXpXa2lTaXd2eG1oTkJHNFNZaGFCR0lHZnE5bUhGb0Q3RWp3WjlZZERIVmxCdUZLOWxYMjRnT0hhMnlwbmRTRTRSMWhZNjEzbDdwLVFYRmlObTMxaDBDRA?oc=5",
+          "published_at": "2026-10-06T07:00:00+00:00",
+          "excerpt": "Information gain: How top content leaders win at SEO Search Engine Land",
           "fetched_at": "2026-10-07T11:11:48.929180+00:00"
         },
         {
@@ -10611,6 +10625,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/",
+          "published_at": "2026-10-20T15:00:36+00:00",
+          "excerpt": "Cloudflare says its network signals helped OpenAI index hundreds of millions of new pages for ChatGPT search. The post ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-20T17:22:56.396134+00:00"
+        },
+        {
+          "title": "Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI via @sejournal, @CallRail",
+          "url": "https://www.searchenginejournal.com/rundowns/regain-control-of-google-ads-better-tracking-clearer-proof-of-roi/",
+          "published_at": "2026-10-20T14:17:07+00:00",
+          "excerpt": "Regain control of Google Ads with a curated article stack on lead quality, Local Services Ads migration, Smart Bidding goals, and proving PPC business value. The post Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-20T17:22:56.396134+00:00"
+        },
+        {
+          "title": "I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites via @sejournal, @suganthan",
+          "url": "https://www.searchenginejournal.com/i-tested-deepseeks-new-search-api-heres-how-it-ranks-and-scores-websites/593408/",
+          "published_at": "2026-10-20T14:00:13+00:00",
+          "excerpt": "DeepSeek’s date filters dropped every undated page, 11% of results. Six practical checks for SEOs testing the new Search API, from localization to logs. The post I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-20T17:22:56.396134+00:00"
+        },
+        {
+          "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
+          "published_at": "2026-10-20T12:00:04+00:00",
+          "excerpt": "Meta's Muse and OpenAI's dots reach websites through connectors or cloud browsers, changing what robots.txt, on-page SEO, and analytics can tell you. The post What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-20T17:22:56.396134+00:00"
+        },
+        {
           "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
           "published_at": "2026-10-20T08:00:00+00:00",
@@ -10723,38 +10765,24 @@
           "fetched_at": "2026-10-16T09:08:23.829239+00:00"
         },
         {
-          "title": "Google’s Universal Cart Is Live: How Carts Get To Your Store via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
-          "published_at": "2026-10-15T20:43:38+00:00",
-          "excerpt": "Universal Cart is rolling out across Search and the Gemini app, with checkout inside the cart or a one-way handoff to the store's own site. The post Google’s Universal Cart Is Live: How Carts Get To Your Store appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-16T09:08:23.829239+00:00"
-        },
-        {
-          "title": "How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC via @sejournal, @navahf",
-          "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/",
-          "published_at": "2026-10-15T19:00:58+00:00",
-          "excerpt": "Measure PPC value beyond clicks with conversion tracking, impression signals, and business records that help validate attribution as buying journeys move into AI. The post How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC appeared first on Searc…",
-          "fetched_at": "2026-10-16T09:08:23.829239+00:00"
-        },
-        {
-          "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
-          "published_at": "2026-10-15T16:00:00+00:00",
-          "excerpt": "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources. The post Google Puts Inline Links Higher In More AI Search Responses appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-15T17:12:24.091071+00:00"
-        },
-        {
-          "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
-          "url": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
-          "published_at": "2026-10-15T14:00:33+00:00",
-          "excerpt": "Google flips its default from ranked results to AI answers when answer-layer ad yield matches the SERP. That crossover lands between 2028 and 2030. The post SERPs Stop Being The Default Between 2028 & 2030 appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-15T17:12:24.091071+00:00"
-        },
-        {
           "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
           "published_at": "2026-10-15T10:32:28+00:00",
           "excerpt": "Coywolf Pack makes EmDash-based websites absurdly fast, adds more SEO functionality, and improves WordPress to EmDash migrations. The post Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-15T17:12:24.091071+00:00"
+        },
+        {
+          "title": "Google Puts Inline Links Higher In More AI Search Responses",
+          "url": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "excerpt": "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources. The post Google Puts Inline Links Higher In More AI Search Responses appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-15T17:12:24.091071+00:00"
+        },
+        {
+          "title": "SERPs Stop Being The Default Between 2028 & 2030",
+          "url": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "excerpt": "Google flips its default from ranked results to AI answers when answer-layer ad yield matches the SERP. That crossover lands between 2028 and 2030. The post SERPs Stop Being The Default Between 2028 & 2030 appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-15T17:12:24.091071+00:00"
         },
         {
@@ -10763,6 +10791,20 @@
           "published_at": "2026-10-15T00:00:00+00:00",
           "excerpt": "Prepare for a potential Panda-style Google update by addressing scaled AI content and fake authors that could threaten rankings across your site. The post 96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals appeared first on Search Engine Jo…",
           "fetched_at": "2026-10-15T17:12:24.091071+00:00"
+        },
+        {
+          "title": "Google’s Universal Cart Is Live: How Carts Get To Your Store",
+          "url": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "excerpt": "Universal Cart is rolling out across Search and the Gemini app, with checkout inside the cart or a one-way handoff to the store's own site. The post Google’s Universal Cart Is Live: How Carts Get To Your Store appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-16T09:08:23.829239+00:00"
+        },
+        {
+          "title": "How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC",
+          "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "excerpt": "Measure PPC value beyond clicks with conversion tracking, impression signals, and business records that help validate attribution as buying journeys move into AI. The post How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC appeared first on Searc…",
+          "fetched_at": "2026-10-16T09:08:23.829239+00:00"
         },
         {
           "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
@@ -16428,6 +16470,34 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
+          "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+          "published_at": "2026-10-20T00:00:00+00:00",
+          "excerpt": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TOPS while targeting 10 mW average power for edge inference. Alongside this architecture, the release of the v1.0 open-so…",
+          "fetched_at": "2026-10-20T17:23:12.867953+00:00"
+        },
+        {
+          "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
+          "url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+          "published_at": "2026-10-20T00:00:00+00:00",
+          "excerpt": "This post announces native PyTorch backends for vLLM and SGLang powered by TorchTPU, enabling developers to run and optimize serving workloads using familiar PyTorch tools. Built in collaboration with open-source project maintainers, these engines include optimized TPU kernel im…",
+          "fetched_at": "2026-10-20T17:23:12.867953+00:00"
+        },
+        {
+          "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
+          "url": "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
+          "published_at": "2026-10-20T00:00:00+00:00",
+          "excerpt": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph visualization, split-pane views, and per-node trace overlays to cat…",
+          "fetched_at": "2026-10-20T17:23:12.867953+00:00"
+        },
+        {
+          "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+          "url": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
+          "published_at": "2026-10-20T00:00:00+00:00",
+          "excerpt": "TorchTPU integrates a native torch.device(\"tpu\") backend directly into PyTorch, allowing developers to train large-scale models on Google Cloud TPUs without rewriting code in JAX. The TorchTitan TPU fork enhances this with production-grade scaling primitives like SimpleFSDP, Gra…",
+          "fetched_at": "2026-10-20T17:23:12.867953+00:00"
+        },
+        {
           "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
           "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
           "published_at": "2026-10-19T00:00:00+00:00",
@@ -16880,6 +16950,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
+          "published_at": "2026-10-20T16:00:00+00:00",
+          "excerpt": "Two Googlers in a virtual interview with text to the left of them that says 'Ask a scientist about patient care research'",
+          "fetched_at": "2026-10-20T17:23:13.718950+00:00"
+        },
+        {
+          "title": "New Gemini tools for small business owners",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+          "published_at": "2026-10-20T16:00:00+00:00",
+          "excerpt": "\"Your brand, your tools, all in one place\" banner featuring three feature highlights: \"Create image styles for your brand,\" \"Customize Gemini with apps and skills,\" and \"Create content with templates.\"",
+          "fetched_at": "2026-10-20T17:23:13.718950+00:00"
+        },
         {
           "title": "Partnering to strengthen the grid and support local communities in Arkansas",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/",
