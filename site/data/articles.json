@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T17:23:13.721526+00:00",
+  "last_updated": "2026-10-21T09:27:59.140838+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4380,6 +4380,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google Ads asset group A/B testing toggle spotted in Performance Max",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX00xS0NBLWM4R1lJN2ZkYk9adEU5M0FTQmZqRFhvZUluU09ialZlVHRxUzdETGhseFF2eFZqQVdGbWVsN1ZLbFJpb3hWLVVHQ3FzR1NlYTZ4dnJSbUl0NmFtUnRxYWR2Tk9nTXVKbXNUYjl3c1V3TDZwSVVMNHI1OUxYNnV5U05JTVdNcWVCNXhqenpyYWRGNmpINnJLVVZDTDNOZndhTQ?oc=5",
+          "published_at": "2026-10-20T16:48:22+00:00",
+          "excerpt": "Google Ads asset group A/B testing toggle spotted in Performance Max Search Engine Land",
+          "fetched_at": "2026-10-21T09:27:40.684886+00:00"
+        },
+        {
+          "title": "ChatGPT drop in UTM tracking was a bug",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5",
+          "published_at": "2026-10-20T15:22:36+00:00",
+          "excerpt": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "Google’s clutterScore: The hidden SEO risk bloggers can’t afford to ignore",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVFMwQ3paQkJCX3RQUmFqZTJuMFdiQWhPVnZFeTc4LWgxTUp2QkNONmt1dGlEQ3dJajczOUJLUGROOXEtcl9OdmZIZEhYLVRDLTA0WVVqSlp5OG1zZnN6eFQ0aFJlUUZjWTlR?oc=5",
+          "published_at": "2026-10-20T15:00:00+00:00",
+          "excerpt": "Google’s clutterScore: The hidden SEO risk bloggers can’t afford to ignore Search Engine Land",
+          "fetched_at": "2026-10-21T09:27:40.684886+00:00"
+        },
+        {
+          "title": "Google review-related appeals delayed",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FX3dLZFlqakI2T2VIcElFY214SzBpVnpQS3JHZWktYUhBRnVPNEdtNndUX3pTbm55OWlxNGZHcXJmQXNvWVVGbU5hRWo3d0llMUJnQy10YXUtWnM4X085WXROcUFlbFMzV2hBOWE2UEstekM3c1YwOWotUUlMdw?oc=5",
+          "published_at": "2026-10-20T11:36:27+00:00",
+          "excerpt": "Google review-related appeals delayed Search Engine Land",
+          "fetched_at": "2026-10-21T09:27:40.684886+00:00"
+        },
+        {
           "title": "Search Engine Land Awards 2026: Complete finalists list",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVnZDUjhEU1hmTzVIX1JLanJrdk84VXVDNjNDc1p1OHdCOGZhOFVhUWU3X3NTM2luNG5XdGkwbUUwTTJyYXhNRlkydjhXZWttUWVUZzM5NUNZa0xqdnlieVFQM3MwTVgxYzJJOTRpVk41OV92YjZQWnhLRDhwMmJoSmJCRGI2YnZDWkFIQnhyNDRHcmtj?oc=5",
           "published_at": "2026-10-19T19:41:10+00:00",
@@ -4503,13 +4531,6 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXQ4QzZaSmlqLUxFUjNycUFOekxHblhPRVo2allKZ1VPU3ZPSzRkVFY4RXdYLXVFc3duOGxjRmtNYmREVTZEVzJBdkRWTWpmRnpjM0J2UHVDM1lzRnlPZWl2VWhjYjhMUDBFcmpCTmFVbE5kM3pUeWVTYmQyakRVTG1YZmtpbFFOLXBIRFlYbHQ4Sm56QlRac3B1OHNYNldnSHlBR01WNXFaYVloUGcwaA?oc=5",
           "published_at": "2026-10-15T14:53:10+00:00",
           "excerpt": "Google launches Universal Cart across Search and Gemini for easier shopping Search Engine Land",
-          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
-        },
-        {
-          "title": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5",
-          "published_at": "2026-10-15T14:30:52+00:00",
-          "excerpt": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
           "fetched_at": "2026-10-16T09:08:11.790465+00:00"
         },
         {
@@ -4798,6 +4819,13 @@
           "published_at": "2026-10-09T14:00:00+00:00",
           "excerpt": "What Google AI Mode follow-up questions reveal about your content Search Engine Land",
           "fetched_at": "2026-10-10T10:42:45.289675+00:00"
+        },
+        {
+          "title": "The PPC marketer’s guide to Google’s Meridian",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjOXl3OGJHUlZyQWE3S1RfTWUwMGNfQUpLUUxSYnNjd0hHUHZIbVIwSFJkMzJuR0ZYVkFlVndfMXJwY2lMV05ENFhWRy1TQ0FiVExUamFlVDZqOVdzeFZJYnJzYWRxUWlVeDI3dXF3?oc=5",
+          "published_at": "2026-10-09T12:00:00+00:00",
+          "excerpt": "The PPC marketer’s guide to Google’s Meridian Search Engine Land",
+          "fetched_at": "2026-10-21T09:27:40.684886+00:00"
         },
         {
           "title": "Google AI Mode ads: Everything you need to know",
@@ -10625,6 +10653,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
+          "published_at": "2026-10-20T19:00:30+00:00",
+          "excerpt": "Build an SEO and content strategy for audiences who use AI but distrust it, with clearer sourcing, audience segmentation, and honest product limits. The post Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-21T09:27:49.681313+00:00"
+        },
+        {
           "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/",
           "published_at": "2026-10-20T15:00:36+00:00",
@@ -10665,6 +10700,13 @@
           "published_at": "2026-10-20T07:45:18+00:00",
           "excerpt": "CTM’s Lisa Salvatore and Brian Barranger show how to mine customer conversations for useful content, qualified-lead criteria, conversion feedback, and product-demand signals. The post A New Place To Look: Where Your Next AI Citations & Clicks Come From appeared first on Search E…",
           "fetched_at": "2026-10-20T09:31:54.218334+00:00"
+        },
+        {
+          "title": "A New Place To Look: Where Your Next AI Citations & Clicks Come From via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/where-your-next-ai-citations-clicks-come-from/592892/",
+          "published_at": "2026-10-20T07:45:18+00:00",
+          "excerpt": "CTM’s Lisa Salvatore and Brian Barranger show how to mine customer conversations for useful content, qualified-lead criteria, conversion feedback, and product-demand signals. The post A New Place To Look: Where Your Next AI Citations & Clicks Come From appeared first on Search E…",
+          "fetched_at": "2026-10-21T09:27:49.681313+00:00"
         },
         {
           "title": "Meta Drops Training From Its Crawl Clause And Keeps The Crawl via @sejournal, @MattGSouthern",
@@ -15847,6 +15889,76 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "What Is an SEO Specialist? Experts Answer Your Burning Questions!",
+          "url": "https://www.webfx.com/blog/seo/what-is-an-seo-specialist/",
+          "published_at": "2026-10-20T18:45:00+00:00",
+          "excerpt": "The post What Is an SEO Specialist? Experts Answer Your Burning Questions! appeared first on WebFX .",
+          "fetched_at": "2026-10-21T09:27:56.374563+00:00"
+        },
+        {
+          "title": "12 SEO Success Stories That Prove SEO Works",
+          "url": "https://www.webfx.com/blog/seo/seo-success-stories/",
+          "published_at": "2026-10-20T18:41:00+00:00",
+          "excerpt": "The post 12 SEO Success Stories That Prove SEO Works appeared first on WebFX .",
+          "fetched_at": "2026-10-21T09:27:56.374563+00:00"
+        },
+        {
+          "title": "What Is an SEO Statement of Work, and What Does It Include?",
+          "url": "https://www.webfx.com/blog/seo/seo-statement-of-work/",
+          "published_at": "2026-10-20T18:35:00+00:00",
+          "excerpt": "The post What Is an SEO Statement of Work, and What Does It Include? appeared first on WebFX .",
+          "fetched_at": "2026-10-21T09:27:56.374563+00:00"
+        },
+        {
+          "title": "Why Is SEO So Expensive? 7 Reasons Behind SEO’s Cost",
+          "url": "https://www.webfx.com/blog/seo/why-is-seo-so-expensive/",
+          "published_at": "2026-10-20T18:03:15+00:00",
+          "excerpt": "The post Why Is SEO So Expensive? 7 Reasons Behind SEO’s Cost appeared first on WebFX .",
+          "fetched_at": "2026-10-21T09:27:56.374563+00:00"
+        },
+        {
+          "title": "26 Industrial Website Design Examples To Inspire",
+          "url": "https://www.webfx.com/blog/industrial/website-design-examples/",
+          "published_at": "2026-10-20T17:34:19+00:00",
+          "excerpt": "The post 26 Industrial Website Design Examples To Inspire appeared first on WebFX .",
+          "fetched_at": "2026-10-21T09:27:56.374563+00:00"
+        },
+        {
+          "title": "SEO for Medical Equipment Companies: Everything You Need to Know",
+          "url": "https://www.webfx.com/blog/manufacturing/medical-equipment-seo-guide/",
+          "published_at": "2026-10-20T17:27:26+00:00",
+          "excerpt": "The post SEO for Medical Equipment Companies: Everything You Need to Know appeared first on WebFX .",
+          "fetched_at": "2026-10-21T09:27:56.374563+00:00"
+        },
+        {
+          "title": "SEO Pricing Models: Which One Is the Right Fit for Your Business?",
+          "url": "https://www.webfx.com/blog/seo/seo-pricing-models/",
+          "published_at": "2026-10-20T17:27:00+00:00",
+          "excerpt": "The post SEO Pricing Models: Which One Is the Right Fit for Your Business? appeared first on WebFX .",
+          "fetched_at": "2026-10-21T09:27:56.374563+00:00"
+        },
+        {
+          "title": "SEO KPIs: The 6 Best Metrics for Your Business to Track",
+          "url": "https://www.webfx.com/blog/seo/seo-kpis/",
+          "published_at": "2026-10-20T17:12:00+00:00",
+          "excerpt": "The post SEO KPIs: The 6 Best Metrics for Your Business to Track appeared first on WebFX .",
+          "fetched_at": "2026-10-21T09:27:56.374563+00:00"
+        },
+        {
+          "title": "How to Make a Strategic SEO Investment for Your Company",
+          "url": "https://www.webfx.com/blog/seo/seo-investment/",
+          "published_at": "2026-10-20T17:00:00+00:00",
+          "excerpt": "The post How to Make a Strategic SEO Investment for Your Company appeared first on WebFX .",
+          "fetched_at": "2026-10-21T09:27:56.374563+00:00"
+        },
+        {
+          "title": "SEO Forecasting: What Is It and Why Does It Matter?",
+          "url": "https://www.webfx.com/blog/seo/seo-forecasting/",
+          "published_at": "2026-10-20T16:58:00+00:00",
+          "excerpt": "The post SEO Forecasting: What Is It and Why Does It Matter? appeared first on WebFX .",
+          "fetched_at": "2026-10-21T09:27:56.374563+00:00"
+        },
+        {
           "title": "6 Best GEO Agencies for Private Equity Firms (+ How to Choose One)",
           "url": "https://www.webfx.com/blog/finance/best-ai-seo-agencies-for-private-equity-firms/",
           "published_at": "2026-10-12T12:58:32+00:00",
@@ -16950,6 +17062,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Southeast Asia’s digital economy to hit $368 billion",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+          "published_at": "2026-10-21T04:00:00+00:00",
+          "excerpt": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
+          "fetched_at": "2026-10-21T09:27:59.137498+00:00"
+        },
+        {
+          "title": "Get hands-free personalized help on the road with Gemini",
+          "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
+          "published_at": "2026-10-20T20:00:00+00:00",
+          "excerpt": "Center of image is a photo of a 1st-person point of view of driving a car. On the circumference of the circle are the Gemini logo and various prompts. The bottom of the image has the text \"Personal Intelligence hits the road\".",
+          "fetched_at": "2026-10-21T09:27:59.137498+00:00"
+        },
         {
           "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
