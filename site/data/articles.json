@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T08:58:36.735922+00:00",
+  "last_updated": "2026-10-24T16:07:08.212851+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4751,18 +4751,18 @@
           "fetched_at": "2026-10-18T08:57:10.973907+00:00"
         },
         {
-          "title": "Canonicalization and SEO: A guide for 2027",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWDdRclJPeTJuNnk1bzJSdVdraC1jZVdBYmE0cXQyMnZ3YnlWYmNOS3BuX2M2MGJxOHkyYzdTdE5Pb3dvMkU0M2JETlRMcDBGZWg1a3BpdWU0dnhmUTRkeFAxcE5rM1k?oc=5",
-          "published_at": "2026-10-16T13:00:00+00:00",
-          "excerpt": "Canonicalization and SEO: A guide for 2027 Search Engine Land",
-          "fetched_at": "2026-10-16T16:48:32.060148+00:00"
-        },
-        {
           "title": "Human experience is your content’s biggest differentiator",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlOdUIwZXdiRThXZDNuV2N0bWFYekUwMEpQZEhHQjZwX2ZEWm1Sa09Pd3NCYTFSSUthUmNld2ZTNldnRVpRWGo1N1BJcjJFRDR3UHhuQlBkM0FCR29tQ2t3aFR5QUtWS1FjOFRfRVUtNmpjNV95YnBUc0VFdFltSA?oc=5",
           "published_at": "2026-10-16T12:00:00+00:00",
           "excerpt": "Human experience is your content’s biggest differentiator Search Engine Land",
           "fetched_at": "2026-10-17T08:40:35.760290+00:00"
+        },
+        {
+          "title": "Canonicalization and SEO: A guide for 2027",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWDdRclJPeTJuNnk1bzJSdVdraC1jZVdBYmE0cXQyMnZ3YnlWYmNOS3BuX2M2MGJxOHkyYzdTdE5Pb3dvMkU0M2JETlRMcDBGZWg1a3BpdWU0dnhmUTRkeFAxcE5rM1k?oc=5",
+          "published_at": "2026-10-16T07:00:00+00:00",
+          "excerpt": "Canonicalization and SEO: A guide for 2027 Search Engine Land",
+          "fetched_at": "2026-10-16T16:48:32.060148+00:00"
         },
         {
           "title": "Google launches Universal Cart across Search and Gemini for easier shopping",
@@ -4968,13 +4968,6 @@
           "fetched_at": "2026-10-14T09:37:22.720613+00:00"
         },
         {
-          "title": "Microsoft-Decision-1 being experimented with in Copilot and Bing",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckVQM2ZqN3dCbTF1RzFscDVyNTlSTFdVdDZyNXdQRm1lSmZnYWlidW91NW1FQ3oxdm5BbEYwWHlmVVhqWExvbEs0QlhsWXRaQkFnczFVUTZOaGdLQU1peG55M0g1NmUtOEVYWVRxLVprSi1PcFdBZV9GZms4SXFqVGlaVnRINkJiMTBRaE0xRTBMZXNfN0t5ZWVvZjF5NGxqZkE?oc=5",
-          "published_at": "2026-10-12T21:50:31+00:00",
-          "excerpt": "Microsoft-Decision-1 being experimented with in Copilot and Bing Search Engine Land",
-          "fetched_at": "2026-10-13T11:58:16.814260+00:00"
-        },
-        {
           "title": "Search engine positioning",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DZTRkNFAwR18yS3I1bHpEUXNiV2hINzAtdzM1d0lOYk9BRHpDdlhya2lJLTFkUERwRTBwc0R2UmpxUElhTVBNdDdSejZkR2lDVy1rSjFFVnNHOE1lUl9PcFpEODJrRGNtNFRUeQ?oc=5",
           "published_at": "2026-10-12T17:50:30+00:00",
@@ -5015,6 +5008,13 @@
           "published_at": "2026-10-12T07:00:00+00:00",
           "excerpt": "Google Ads tests AI-powered campaign creation using natural language Search Engine Land",
           "fetched_at": "2026-10-12T21:19:53.254885+00:00"
+        },
+        {
+          "title": "Microsoft-Decision-1 being experimented with in Copilot and Bing",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckVQM2ZqN3dCbTF1RzFscDVyNTlSTFdVdDZyNXdQRm1lSmZnYWlidW91NW1FQ3oxdm5BbEYwWHlmVVhqWExvbEs0QlhsWXRaQkFnczFVUTZOaGdLQU1peG55M0g1NmUtOEVYWVRxLVprSi1PcFdBZV9GZms4SXFqVGlaVnRINkJiMTBRaE0xRTBMZXNfN0t5ZWVvZjF5NGxqZkE?oc=5",
+          "published_at": "2026-10-12T07:00:00+00:00",
+          "excerpt": "Microsoft-Decision-1 being experimented with in Copilot and Bing Search Engine Land",
+          "fetched_at": "2026-10-13T11:58:16.814260+00:00"
         },
         {
           "title": "Google Analytics launches User Groups Admin API for easier access management",
@@ -10919,6 +10919,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
+          "published_at": "2026-10-24T12:00:00+00:00",
+          "excerpt": "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover. The post Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-24T16:06:56.406419+00:00"
+        },
+        {
           "title": "Live Website Audit: SEO Fixes for AI Search Visibility in 2027",
           "url": "https://www.searchenginejournal.com/webinar-lp-live-website-audit-seo-fixes-for-ai-search-visibility-in-2027/",
           "published_at": "2026-10-23T20:11:54+00:00",
@@ -11059,13 +11066,6 @@
           "fetched_at": "2026-10-21T17:25:17.099615+00:00"
         },
         {
-          "title": "Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap via @sejournal, @gregjarboe",
-          "url": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
-          "published_at": "2026-10-20T19:00:30+00:00",
-          "excerpt": "Build an SEO and content strategy for audiences who use AI but distrust it, with clearer sourcing, audience segmentation, and honest product limits. The post Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-21T09:27:49.681313+00:00"
-        },
-        {
           "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/",
           "published_at": "2026-10-20T15:00:36+00:00",
@@ -11106,6 +11106,13 @@
           "published_at": "2026-10-20T00:00:00+00:00",
           "excerpt": "Regain control of Google Ads with a curated article stack on lead quality, Local Services Ads migration, Smart Bidding goals, and proving PPC business value. The post Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-20T17:22:56.396134+00:00"
+        },
+        {
+          "title": "Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap",
+          "url": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
+          "published_at": "2026-10-20T00:00:00+00:00",
+          "excerpt": "Build an SEO and content strategy for audiences who use AI but distrust it, with clearer sourcing, audience segmentation, and honest product limits. The post Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-21T09:27:49.681313+00:00"
         },
         {
           "title": "A New Place To Look: Where Your Next AI Citations & Clicks Come From",
