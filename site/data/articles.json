@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T17:19:25.357737+00:00",
+  "last_updated": "2026-10-24T08:58:36.735922+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4394,6 +4394,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Category vs. product pages: Which does Google favor?",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkRyTW9mRVA2djZoN2Fudko0M1RmQUNxTUlkNE5ZT1h3dGxXUXZjSE9tS0g4VG8xYTV5aXFVUTd6QjE4Mzl0QnRJTUJSQncwellPMVV0MnhvZ3E0ODNPeWVmODhfaVc4bi1WM1g4SUtPM0lzeDY3ei0xMERoSU51YzkzVDVFZGMzYlVkdjdR?oc=5",
+          "published_at": "2026-10-23T14:00:00+00:00",
+          "excerpt": "Category vs. product pages: Which does Google favor? Search Engine Land",
+          "fetched_at": "2026-10-24T08:58:11.504700+00:00"
+        },
+        {
           "title": "Google Ads adds new image and video sourcing options to Performance Max",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1htdUN3WFoxUm8wVUJfcEY5NUw4VDVBSXJOTXo5M1dGUG1UYll2S0tvLU1ZeHJLcm83ZV9MUlhQbnE1RVYzN0xtOVBfTUVTc04yakZ3S0ZzTV9MOVVpRTJCclc2VkdiWkREWXcycnFNaUVtSlFDVnZFSHlCMVE3cDhKUnB6LWoydEFWaHhheFJGcWF3ZUNLQ25WQWZmT0ZlUUE1WEdReTNjQlE?oc=5",
           "published_at": "2026-10-22T19:42:40+00:00",
@@ -4518,6 +4525,13 @@
           "published_at": "2026-10-21T13:26:52+00:00",
           "excerpt": "Google has updated its document on how to block Google Search Search Engine Land",
           "fetched_at": "2026-10-22T09:30:52.075485+00:00"
+        },
+        {
+          "title": "Google AI Overviews: Everything you need to know",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRldjSV9OUXdLUWFEcnVoM2pCZE9HMTRGNUoteS1FbFZzaWlYblNpREg1ZUhCSlNuUUlpR3llaFpwWHdEMll1N1NQU2ZxVlRNa05kTm05YV9vQkhUdUR5NkxQMUU1bmVWVjd4cmJ5UWNtLWRvaE1qXzJRR3pmaUVtTU9RMVBzdlczUnJV?oc=5",
+          "published_at": "2026-10-21T13:00:00+00:00",
+          "excerpt": "Google AI Overviews: Everything you need to know Search Engine Land",
+          "fetched_at": "2026-10-21T17:25:06.456722+00:00"
         },
         {
           "title": "Does AI drive more direct traffic?",
@@ -4751,13 +4765,6 @@
           "fetched_at": "2026-10-17T08:40:35.760290+00:00"
         },
         {
-          "title": "Meta introduces new brand advertising formats across Facebook and Instagram",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5",
-          "published_at": "2026-10-15T15:33:52+00:00",
-          "excerpt": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land",
-          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
-        },
-        {
           "title": "Google launches Universal Cart across Search and Gemini for easier shopping",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXQ4QzZaSmlqLUxFUjNycUFOekxHblhPRVo2allKZ1VPU3ZPSzRkVFY4RXdYLXVFc3duOGxjRmtNYmREVTZEVzJBdkRWTWpmRnpjM0J2UHVDM1lzRnlPZWl2VWhjYjhMUDBFcmpCTmFVbE5kM3pUeWVTYmQyakRVTG1YZmtpbFFOLXBIRFlYbHQ4Sm56QlRac3B1OHNYNldnSHlBR01WNXFaYVloUGcwaA?oc=5",
           "published_at": "2026-10-15T14:53:10+00:00",
@@ -4804,6 +4811,13 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXBSeFFvZEdEZ2M3WXJKODJEN3pVWU4tR1NiaWFLMDVTNVRBaU1jS2tGR0JmcDRCOU9uWHhBakJDUzdsUmRzMFd0a1FiTWNNcDVlUDNCdWhhRFhocUdjQmh4ZXVLX0VTdkp2NzRyVXRtQUNvQ2RKajc3cDhxb2R0WlJMbWxTbkx6ZmpHSnFMWkZ4YUgxRUdqQWR0Z0QtbEFranlTbHBYTmJKbFVmYmc1Z2o3WXZHTk1sS0F5NU1Wc0g3M2xLczdBTGx2MjBtaVpIb2c?oc=5",
           "published_at": "2026-10-15T07:00:00+00:00",
           "excerpt": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "Meta introduces new brand advertising formats across Facebook and Instagram",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5",
+          "published_at": "2026-10-15T07:00:00+00:00",
+          "excerpt": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land",
           "fetched_at": "2026-10-16T09:08:11.790465+00:00"
         },
         {
@@ -4905,13 +4919,6 @@
           "fetched_at": "2026-10-13T19:23:24.508338+00:00"
         },
         {
-          "title": "The global consistency paradox: Building local E-E-A-T for AI search",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWpiaklCV1U1NGtaUlM2cE1oNm9ZeFRPcG44TWlOQ0cxTVZxZzZTblQteW5ubGY1bjZXY1lDUG5hWXRTU1dBTWw4UzNMa09CZTJrMU5jbm9manhPclBpRV9RZ2VVUWJSMlN0TEJfZ1NfcHZEa1paaHg2VlhfbWtoX2l5azVBUmI1SWFJT3V6UQ?oc=5",
-          "published_at": "2026-10-13T12:00:00+00:00",
-          "excerpt": "The global consistency paradox: Building local E-E-A-T for AI search Search Engine Land",
-          "fetched_at": "2026-10-14T09:37:22.720613+00:00"
-        },
-        {
           "title": "Google Search Console reporting date selector is broken",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3cwMUdsN0N0SVFQQmFNbkM0a0ZtRjF4c2dZR2tORjJQUFpRUlhibmQybTZPYS1RaTZOOFprNnVKbUVHVFBNMGNHazlNRWlxaXdNSG5wb0ZRS3lyTU9OcEN5SGRQNVJybzhwRXlKYXJ2NEgwOWxvdlJjMnc3V0dxNDQyVkF2OHNZODlQU1lYdzJJN19ONVE?oc=5",
           "published_at": "2026-10-13T11:54:17+00:00",
@@ -4951,6 +4958,13 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2pSRmZHQXEzRWx1VUFwTnQ2NEJQX3lsVEJxcHBHTXlSck83SllnZnh1RkdjLVNXQWRWWXJXbm9nZXN2ZjVtME9Ec0o4dFplRU5LRmhQRGlJQUduZDlvZ0R4WUR2XzlTVVRqQ3E4c2FyRTN1aFJyN2dMaVZaMGJROW1WMUg1Qk5HbDBQVXFrSUw3NnYtYlBVMDlFNjhMbzJHZGZ1ZA?oc=5",
           "published_at": "2026-10-13T07:00:00+00:00",
           "excerpt": "Google Ads adds Search terms and ad combinations report for AI Max Search Engine Land",
+          "fetched_at": "2026-10-14T09:37:22.720613+00:00"
+        },
+        {
+          "title": "The global consistency paradox: Building local E-E-A-T for AI search",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWpiaklCV1U1NGtaUlM2cE1oNm9ZeFRPcG44TWlOQ0cxTVZxZzZTblQteW5ubGY1bjZXY1lDUG5hWXRTU1dBTWw4UzNMa09CZTJrMU5jbm9manhPclBpRV9RZ2VVUWJSMlN0TEJfZ1NfcHZEa1paaHg2VlhfbWtoX2l5azVBUmI1SWFJT3V6UQ?oc=5",
+          "published_at": "2026-10-13T07:00:00+00:00",
+          "excerpt": "The global consistency paradox: Building local E-E-A-T for AI search Search Engine Land",
           "fetched_at": "2026-10-14T09:37:22.720613+00:00"
         },
         {
@@ -10666,13 +10680,6 @@
           "fetched_at": "2026-10-05T11:41:17.627135+00:00"
         },
         {
-          "title": "Google AI Overviews: Everything you need to know",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRldjSV9OUXdLUWFEcnVoM2pCZE9HMTRGNUoteS1FbFZzaWlYblNpREg1ZUhCSlNuUUlpR3llaFpwWHdEMll1N1NQU2ZxVlRNa05kTm05YV9vQkhUdUR5NkxQMUU1bmVWVjd4cmJ5UWNtLWRvaE1qXzJRR3pmaUVtTU9RMVBzdlczUnJV?oc=5",
-          "published_at": "2024-12-18T14:01:23+00:00",
-          "excerpt": "Google AI Overviews: Everything you need to know Search Engine Land",
-          "fetched_at": "2026-10-21T17:25:06.456722+00:00"
-        },
-        {
           "title": "Semrush",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WMGRjSnRLMHVPUEVDTVUzaEo3T3JlTzRqV3FzcU56TEZQX0tDRm1SWjZJTnJ3aUdvQTBwY1pvX3ZudGRGblFQLWk2ektRVVlZaDU1dnZB?oc=5",
           "published_at": "2024-11-26T14:59:02+00:00",
@@ -10912,6 +10919,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Live Website Audit: SEO Fixes for AI Search Visibility in 2027",
+          "url": "https://www.searchenginejournal.com/webinar-lp-live-website-audit-seo-fixes-for-ai-search-visibility-in-2027/",
+          "published_at": "2026-10-23T20:11:54+00:00",
+          "excerpt": "Watch Loren Baker audit a real website live on November 4. Learn which technical SEO and AI search fixes deserve your 2027 budget and development time first.",
+          "fetched_at": "2026-10-24T08:58:26.166803+00:00"
+        },
+        {
+          "title": "GEO Is A Distraction: Here’s Where The Real Opportunity Is via @sejournal, @marie_haynes",
+          "url": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/",
+          "published_at": "2026-10-23T19:00:43+00:00",
+          "excerpt": "Universal Cart, UCP, WebMCP, intelligent eyewear: the agentic web is arriving. Marie Haynes maps the opportunities most businesses are ignoring. The post GEO Is A Distraction: Here’s Where The Real Opportunity Is appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-24T08:58:26.166803+00:00"
+        },
+        {
           "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
           "url": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/",
           "published_at": "2026-10-23T14:00:53+00:00",
@@ -11003,7 +11024,7 @@
           "fetched_at": "2026-10-21T17:25:17.099615+00:00"
         },
         {
-          "title": "Critical PHP Core Security Flaws Affect Websites, Including WordPress via @sejournal, @vahandev",
+          "title": "Critical PHP Core Vulnerabilities Affect Websites, Including WordPress via @sejournal, @vahandev",
           "url": "https://www.searchenginejournal.com/critical-php-core-security-flaws-affect-websites-including-wordpress/593812/",
           "published_at": "2026-10-21T13:46:10+00:00",
           "excerpt": "PHP's emergency security fixes are available today, October 21, and website owners should ask their hosts to install them immediately. The post Critical PHP Core Security Flaws Affect Websites, Including WordPress appeared first on Search Engine Journal .",
@@ -16330,6 +16351,20 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "Claude AI Review 2026: A MarTech Pro’s Firsthand Take",
+          "url": "https://www.webfx.com/blog/ai/claude-review/",
+          "published_at": "2026-10-23T15:34:58+00:00",
+          "excerpt": "The post Claude AI Review 2026: A MarTech Pro’s Firsthand Take appeared first on WebFX .",
+          "fetched_at": "2026-10-24T08:58:33.966253+00:00"
+        },
+        {
+          "title": "Google Ads Channel Prioritization: What It Is and How To Test Your Caps",
+          "url": "https://www.webfx.com/blog/ppc/google-ads-channel-prioritization/",
+          "published_at": "2026-10-23T09:51:28+00:00",
+          "excerpt": "The post Google Ads Channel Prioritization: What It Is and How To Test Your Caps appeared first on WebFX .",
+          "fetched_at": "2026-10-24T08:58:33.966253+00:00"
+        },
+        {
           "title": "4 Fundamentals of Doing SEO for Private Equity Firms Successfully",
           "url": "https://www.webfx.com/blog/finance/private-equity-seo-guide/",
           "published_at": "2026-10-20T19:43:00+00:00",
@@ -17538,6 +17573,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "See what 5 builders are making with Gemini 4 Argon",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+          "published_at": "2026-10-23T16:00:00+00:00",
+          "excerpt": "Collage showing five builds with Gemini 4 Argon",
+          "fetched_at": "2026-10-24T08:58:36.733522+00:00"
+        },
         {
           "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
           "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
