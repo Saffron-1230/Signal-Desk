@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T16:07:08.212851+00:00",
+  "last_updated": "2026-10-25T09:15:09.772717+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4394,11 +4394,32 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "How to launch an awesome SEO campaign",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2RHZTU5dFpJQ2hXXzdTLWxCem95UGpVYXZ5ODhEeF9jSk5VeWY1bGM4U3BkdlM0azRISGRXbFFuaS1SZW9VN3lkSmtCSmNiUnExWUF6ck5IMDQ?oc=5",
+          "published_at": "2026-10-23T17:08:17+00:00",
+          "excerpt": "How to launch an awesome SEO campaign Search Engine Land",
+          "fetched_at": "2026-10-25T09:14:56.398393+00:00"
+        },
+        {
+          "title": "When should ecommerce filters become indexable pages?",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02SkVwQTNCU25rX3ROUG9BVVZ6Znlfa2pnaS1rZHBBSGlYUU5UZVc3UmUtcmR6RDFOZWdFT2J6bjZYWFFLaWxJWm02RUxIcW9MMWxpcWhHWWNvTmpiS1VZcjJfdzFhRjFoZFFraEpGa3lIbVNrVnRqYg?oc=5",
+          "published_at": "2026-10-23T15:00:00+00:00",
+          "excerpt": "When should ecommerce filters become indexable pages? Search Engine Land",
+          "fetched_at": "2026-10-25T09:14:56.398393+00:00"
+        },
+        {
           "title": "Category vs. product pages: Which does Google favor?",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkRyTW9mRVA2djZoN2Fudko0M1RmQUNxTUlkNE5ZT1h3dGxXUXZjSE9tS0g4VG8xYTV5aXFVUTd6QjE4Mzl0QnRJTUJSQncwellPMVV0MnhvZ3E0ODNPeWVmODhfaVc4bi1WM1g4SUtPM0lzeDY3ei0xMERoSU51YzkzVDVFZGMzYlVkdjdR?oc=5",
           "published_at": "2026-10-23T14:00:00+00:00",
           "excerpt": "Category vs. product pages: Which does Google favor? Search Engine Land",
           "fetched_at": "2026-10-24T08:58:11.504700+00:00"
+        },
+        {
+          "title": "How to write listicles that earn trust and help readers decide",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2FyTGFOZnZOSDNYRlBLUjFUdVdEVzJscmZ3MG85NUtFNmNlTEpfazVEZ1hVX3NpMmpRZGUwdjRkYjVxYkxYMUJ0WDZhSm5UZUQxOTliaVIyeUE4VmlBS3RocEkxUDBUVWE2T1BGTVlLdmQzcXhRRnBVREJWd3Zsbg?oc=5",
+          "published_at": "2026-10-23T12:00:00+00:00",
+          "excerpt": "How to write listicles that earn trust and help readers decide Search Engine Land",
+          "fetched_at": "2026-10-25T09:14:56.398393+00:00"
         },
         {
           "title": "Google Ads adds new image and video sourcing options to Performance Max",
@@ -4723,13 +4744,6 @@
           "fetched_at": "2026-10-18T08:57:10.973907+00:00"
         },
         {
-          "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5",
-          "published_at": "2026-10-16T16:11:59+00:00",
-          "excerpt": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled Search Engine Land",
-          "fetched_at": "2026-10-17T08:40:35.760290+00:00"
-        },
-        {
           "title": "10 ways to create helpful content + examples and checklist",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GeUctZnJ3TVpGa1lNMHRfdHpUQ1RMbklXdUFoajUwTzMtMFl5REpjMGpLU0hmS0VNRFhCYm9PS0JsMTc3R2R4TFUzX1hEaGJPR19IUWVUMWM3Uko1c0hr?oc=5",
           "published_at": "2026-10-16T15:52:47+00:00",
@@ -4751,18 +4765,25 @@
           "fetched_at": "2026-10-18T08:57:10.973907+00:00"
         },
         {
-          "title": "Human experience is your content’s biggest differentiator",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlOdUIwZXdiRThXZDNuV2N0bWFYekUwMEpQZEhHQjZwX2ZEWm1Sa09Pd3NCYTFSSUthUmNld2ZTNldnRVpRWGo1N1BJcjJFRDR3UHhuQlBkM0FCR29tQ2t3aFR5QUtWS1FjOFRfRVUtNmpjNV95YnBUc0VFdFltSA?oc=5",
-          "published_at": "2026-10-16T12:00:00+00:00",
-          "excerpt": "Human experience is your content’s biggest differentiator Search Engine Land",
-          "fetched_at": "2026-10-17T08:40:35.760290+00:00"
-        },
-        {
           "title": "Canonicalization and SEO: A guide for 2027",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWDdRclJPeTJuNnk1bzJSdVdraC1jZVdBYmE0cXQyMnZ3YnlWYmNOS3BuX2M2MGJxOHkyYzdTdE5Pb3dvMkU0M2JETlRMcDBGZWg1a3BpdWU0dnhmUTRkeFAxcE5rM1k?oc=5",
           "published_at": "2026-10-16T07:00:00+00:00",
           "excerpt": "Canonicalization and SEO: A guide for 2027 Search Engine Land",
           "fetched_at": "2026-10-16T16:48:32.060148+00:00"
+        },
+        {
+          "title": "Human experience is your content’s biggest differentiator",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlOdUIwZXdiRThXZDNuV2N0bWFYekUwMEpQZEhHQjZwX2ZEWm1Sa09Pd3NCYTFSSUthUmNld2ZTNldnRVpRWGo1N1BJcjJFRDR3UHhuQlBkM0FCR29tQ2t3aFR5QUtWS1FjOFRfRVUtNmpjNV95YnBUc0VFdFltSA?oc=5",
+          "published_at": "2026-10-16T07:00:00+00:00",
+          "excerpt": "Human experience is your content’s biggest differentiator Search Engine Land",
+          "fetched_at": "2026-10-17T08:40:35.760290+00:00"
+        },
+        {
+          "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5",
+          "published_at": "2026-10-16T07:00:00+00:00",
+          "excerpt": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled Search Engine Land",
+          "fetched_at": "2026-10-17T08:40:35.760290+00:00"
         },
         {
           "title": "Google launches Universal Cart across Search and Gemini for easier shopping",
@@ -5129,13 +5150,6 @@
           "fetched_at": "2026-10-09T11:25:19.698848+00:00"
         },
         {
-          "title": "Google Search disclosed its UGC Fresh Data Program",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEpzb2JKVzR3dGtjZ1NUamZGNnpPc2FYUHNNOHRMMjJDNndOZmRpakRpdzRPTmZmN21BVTFtUkFjU2ppMkJMTkJCMEhEOFBwYi1zMzRSRUZkU1ZvcnJTYTQwT2xva2IycEswLWZ0MldqNlBvcXpEQWVXZTdrMjVWQlZwcndfczF1UGFSZk0tbw?oc=5",
-          "published_at": "2026-10-08T15:13:56+00:00",
-          "excerpt": "Google Search disclosed its UGC Fresh Data Program Search Engine Land",
-          "fetched_at": "2026-10-09T18:25:58.026359+00:00"
-        },
-        {
           "title": "How to plan 2027 when traffic is down and AI won’t attribute",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUFJV2tJcXB1ODBjMVBuTUowaGJwX0drZnRJUV82bW5nSllkb1FUX1FRZjRDSEhtS1h3RUt4bV9ZTmZ1OXBTYmNmSkFBLUF0bU9rNmVxTFVfdm5sZEVtMTFXSlBjdUk4NFlEZlVNU3BkamRYeDN6ZHpyeWVxZUdGV1lhUHhNenByWlpDX2pLZjl0ZmNuaERGMEZxTQ?oc=5",
           "published_at": "2026-10-08T12:00:00+00:00",
@@ -5178,6 +5192,13 @@
           "fetched_at": "2026-10-09T11:25:19.698848+00:00"
         },
         {
+          "title": "Google Search disclosed its UGC Fresh Data Program",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEpzb2JKVzR3dGtjZ1NUamZGNnpPc2FYUHNNOHRMMjJDNndOZmRpakRpdzRPTmZmN21BVTFtUkFjU2ppMkJMTkJCMEhEOFBwYi1zMzRSRUZkU1ZvcnJTYTQwT2xva2IycEswLWZ0MldqNlBvcXpEQWVXZTdrMjVWQlZwcndfczF1UGFSZk0tbw?oc=5",
+          "published_at": "2026-10-08T07:00:00+00:00",
+          "excerpt": "Google Search disclosed its UGC Fresh Data Program Search Engine Land",
+          "fetched_at": "2026-10-09T18:25:58.026359+00:00"
+        },
+        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWFCV2hVcVdkTzFRUHN3ZHl4ZnJEQjBNYTkwR2w5N0x5aU9lTmM5T1FEWUluSXpqZzBmUXRONzA4T3ljcF9CZDMwSHV2YlVkNkxPWXZodmViVVk2VnNhU3cxajJtajZyQ3BZTlduQm9oNjY3OTNmWXB4djVlTmlvLXNKc09va2RfZTJjNg?oc=5",
           "published_at": "2026-10-08T06:49:28+00:00",
@@ -5213,13 +5234,6 @@
           "fetched_at": "2026-10-07T18:59:51.769202+00:00"
         },
         {
-          "title": "57% of beauty consumers don’t start with Google Search",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sUnA5ZkUwOXZQM0QwZDlqd1UwYURyd0NuUU05b3RVUksydVQ0RUhWWC00cm5NMjdVTmxTWkNyb3dBLWFzaTV3X0NOcmlqb3VCdWRwRnhfM3BXRk1PRXdRREZRWUpDbUY5UFowU25KcklCd2M4?oc=5",
-          "published_at": "2026-10-07T15:00:00+00:00",
-          "excerpt": "57% of beauty consumers don’t start with Google Search Search Engine Land",
-          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
-        },
-        {
           "title": "The top 10 tools for PPC management in 2027",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ib1NodUc5dnJvTWk3VzRaLUg3TmM4YVNVSng3NGNxRlE3WFZEeWtuaG9xMXlYUU5jYWN3UWhqalhiSWw5cGpTdWY1b1JKdWxIakVNblhSNVZIY2xZemRYV2RIOE5RLVItV1JOVmNqNlI?oc=5",
           "published_at": "2026-10-07T14:00:00+00:00",
@@ -5253,6 +5267,13 @@
           "published_at": "2026-10-07T07:00:00+00:00",
           "excerpt": "Google opens Conversion Lift to Search and Performance Max Search Engine Land",
           "fetched_at": "2026-10-07T18:59:51.769202+00:00"
+        },
+        {
+          "title": "57% of beauty consumers don’t start with Google Search",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sUnA5ZkUwOXZQM0QwZDlqd1UwYURyd0NuUU05b3RVUksydVQ0RUhWWC00cm5NMjdVTmxTWkNyb3dBLWFzaTV3X0NOcmlqb3VCdWRwRnhfM3BXRk1PRXdRREZRWUpDbUY5UFowU25KcklCd2M4?oc=5",
+          "published_at": "2026-10-07T07:00:00+00:00",
+          "excerpt": "57% of beauty consumers don’t start with Google Search Search Engine Land",
+          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
         },
         {
           "title": "Google Ads tests Video Campaign Groups for cross-campaign reach and frequency",
@@ -5731,13 +5752,6 @@
           "fetched_at": "2026-09-29T18:09:32.043366+00:00"
         },
         {
-          "title": "Google tests a new look for mobile ad sitelinks",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalpYZUs5VS1LTnAxV1NHa2VsX0RzamVwcmR1OFlFOEJHR2FaeHhldzdJNHFWN2ZIY3V3NjdGLU1kVzNSMHVYc25MSkROM2ZIVURwNWFJbjI2TWdITVcyT3BSYXp4Y3F6c2FpTXM5bVhIWjU5Y2RidmhQazFsYzVGaU1zUlk4UkhETzBr?oc=5",
-          "published_at": "2026-09-28T17:17:41+00:00",
-          "excerpt": "Google tests a new look for mobile ad sitelinks Search Engine Land",
-          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
-        },
-        {
           "title": "24 key user-generated content (UGC) Statistics for 2026",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OYklVdnR6cUNJWTZtTnBzME9weW5SV0tfWGFoVVVFVy1fSUJNZXBUMkpEd2xHOHkzbURpVF90bnJqbTJvMFZzVGlTUS1JR1B5aTdjSkl1TWh5S3ZXRVE?oc=5",
           "published_at": "2026-09-28T17:06:36+00:00",
@@ -5766,13 +5780,6 @@
           "fetched_at": "2026-09-29T10:48:12.552095+00:00"
         },
         {
-          "title": "PPC monitoring: What to check between audits",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jZ24yYzEzb1NveGs0M1VnU3I0LTZOV0NEdzJHb1NHU0hEMWVYUWo3VkRtNmt3OFEzMndCVVhkLVRBMTNZcThsMmZSOEQ4NnQ4R0pVYXpjVHAtcVhNMENJRXBqUDFyLXl5OG00aXB0azgxNklHM0o1eWJJaw?oc=5",
-          "published_at": "2026-09-28T15:00:00+00:00",
-          "excerpt": "PPC monitoring: What to check between audits Search Engine Land",
-          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
-        },
-        {
           "title": "You can outsource marketing. You can’t outsource accountability.",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wWE5iTUtlODRwSFM2ZXlpeDhJekRMOE5oWHNtS1h2VzNncGJ1bGFzakRBQVhubFRmUVUyX3RuQmZCRDFFb1VvWkgyTGw3NmdRcmZLYXhXbmVYM18ya2hwY3M2V0tfZ21COC01dmNINmdROXV6dnlJTjJCZHFWczg?oc=5",
           "published_at": "2026-09-28T14:00:00+00:00",
@@ -5791,6 +5798,20 @@
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03ZE9EME10ZDM1WDZTQWJBLVQ0VFVudXpIdkdfb0RtOW9VQm51bXloVzJpRG9Xa1R5SldISk1FdGVBQzkzdkJfRUFUVDQ1MnBaRkdDcnpJRlFzeE9DZ2NHb0hVUlRzQTR3WV9pY2llYVhWQmk2MXM1eg?oc=5",
           "published_at": "2026-09-28T07:00:00+00:00",
           "excerpt": "7 AI search myths, debunked: What the data says about SEO Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "PPC monitoring: What to check between audits",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jZ24yYzEzb1NveGs0M1VnU3I0LTZOV0NEdzJHb1NHU0hEMWVYUWo3VkRtNmt3OFEzMndCVVhkLVRBMTNZcThsMmZSOEQ4NnQ4R0pVYXpjVHAtcVhNMENJRXBqUDFyLXl5OG00aXB0azgxNklHM0o1eWJJaw?oc=5",
+          "published_at": "2026-09-28T07:00:00+00:00",
+          "excerpt": "PPC monitoring: What to check between audits Search Engine Land",
+          "fetched_at": "2026-09-29T10:48:12.552095+00:00"
+        },
+        {
+          "title": "Google tests a new look for mobile ad sitelinks",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalpYZUs5VS1LTnAxV1NHa2VsX0RzamVwcmR1OFlFOEJHR2FaeHhldzdJNHFWN2ZIY3V3NjdGLU1kVzNSMHVYc25MSkROM2ZIVURwNWFJbjI2TWdITVcyT3BSYXp4Y3F6c2FpTXM5bVhIWjU5Y2RidmhQazFsYzVGaU1zUlk4UkhETzBr?oc=5",
+          "published_at": "2026-09-28T07:00:00+00:00",
+          "excerpt": "Google tests a new look for mobile ad sitelinks Search Engine Land",
           "fetched_at": "2026-09-29T10:48:12.552095+00:00"
         },
         {
