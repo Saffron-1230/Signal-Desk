@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T16:37:45.415959+00:00",
+  "last_updated": "2026-10-26T10:20:17.141420+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4394,6 +4394,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Rémi Kerhoas’ shares how a PPC mistake went unnoticed for three months",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMC0wX1lkN2xGb1Bob25WV0xyLThyclc5bl9ZRWtGVEsxQ05iUWhYNlBjUERaT0xmYlByTFVkeGFMQlBXYlBjajE0cFZXd3lRd0RoZktEY183UF9UZm5oclBseDg3OFRxQ2RfMVVjbXo2WkNuaXdDS01abzk2dElXTXc5cEsyMElZMk95UThnOFppcmdiY0dOMEF6LTZlR1hGVmhEdmFxa0o?oc=5",
+          "published_at": "2026-10-24T16:19:34+00:00",
+          "excerpt": "Rémi Kerhoas’ shares how a PPC mistake went unnoticed for three months Search Engine Land",
+          "fetched_at": "2026-10-26T10:19:56.918075+00:00"
+        },
+        {
+          "title": "Google Ads expands Smart Bidding Exploration to Performance Max and Shopping campaigns",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUVCQlJjX1FQaTdWaHFsOW1tVE5URG1qRS0xU3NwaFl4eGtEcXlPOFUyZmdna2pNY18zaTVuTVJEYXEyS2h2Nk5aa3Z4a1ZjTkZjX1NOWi1NRUJBQTYyXzFTUkVmVDZhZ3NvRWRGbUtYX3Jja0FxTXhxRkp5MkI2ZG5PRm8yLUFqZGljOWY0X29lOFNaVllIQ2RGWHR1NEFhMUtkYk1MaE85QkIzUHZVNGkxNEVqNGk4TS1NNGJyVQ?oc=5",
+          "published_at": "2026-10-23T18:25:26+00:00",
+          "excerpt": "Google Ads expands Smart Bidding Exploration to Performance Max and Shopping campaigns Search Engine Land",
+          "fetched_at": "2026-10-26T10:19:56.918075+00:00"
+        },
+        {
+          "title": "Six steps to win at real estate SEO",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwNHhuWWVMWExpZm9lOS1NTzQ0RDZGa1hmb1NlVkRRQXQyTFVnaU5mT1UzS280QUF6aUJTeEN5bUlUVVZHVVMxT2tFU1pSeW1XQXByal92cDZnQnJqLVdZ?oc=5",
+          "published_at": "2026-10-23T17:26:17+00:00",
+          "excerpt": "Six steps to win at real estate SEO Search Engine Land",
+          "fetched_at": "2026-10-26T10:19:56.918075+00:00"
+        },
+        {
+          "title": "Google launches Display & Video 360 API v5 in public beta",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ2tMU1JWSUZFZHNlbVJUaGtnbGwxdTRQUlNiVVdlTVRFTnc2LWlyQUt5OGh0cWtvNXpPbmMxVjI0TS1aZG92cHRvTk5NZXlrdnp3OS11Zk9VV282VExsUnlNT29henhCOTV6V2hneGNLREtLdkFNUjFwbk9ycWpRYm0xaEh3SmxKeWRPaFJCZmdNc0IzVUE?oc=5",
+          "published_at": "2026-10-23T17:10:41+00:00",
+          "excerpt": "Google launches Display & Video 360 API v5 in public beta Search Engine Land",
+          "fetched_at": "2026-10-26T10:19:56.918075+00:00"
+        },
+        {
           "title": "How to launch an awesome SEO campaign",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2RHZTU5dFpJQ2hXXzdTLWxCem95UGpVYXZ5ODhEeF9jSk5VeWY1bGM4U3BkdlM0azRISGRXbFFuaS1SZW9VN3lkSmtCSmNiUnExWUF6ck5IMDQ?oc=5",
           "published_at": "2026-10-23T17:08:17+00:00",
@@ -4422,6 +4450,13 @@
           "fetched_at": "2026-10-24T08:58:11.504700+00:00"
         },
         {
+          "title": "Your CRM might be your most underrated keyword research tool",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkJVa3hKMjFzTTFQWFBwVThvZml0amh1cXVNZk90bHZocU9pbXJ1alBrQXVGODI4WGxaRGZpX1lKRi16Tm5UdVpBTFR0QWFfbEUyWGJncktkcUw5TmllY25TUk1vbEhDZlZqUmVn?oc=5",
+          "published_at": "2026-10-23T13:00:00+00:00",
+          "excerpt": "Your CRM might be your most underrated keyword research tool Search Engine Land",
+          "fetched_at": "2026-10-26T10:19:56.918075+00:00"
+        },
+        {
           "title": "How to write listicles that earn trust and help readers decide",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2FyTGFOZnZOSDNYRlBLUjFUdVdEVzJscmZ3MG85NUtFNmNlTEpfazVEZ1hVX3NpMmpRZGUwdjRkYjVxYkxYMUJ0WDZhSm5UZUQxOTliaVIyeUE4VmlBS3RocEkxUDBUVWE2T1BGTVlLdmQzcXhRRnBVREJWd3Zsbg?oc=5",
           "published_at": "2026-10-23T12:00:00+00:00",
@@ -4441,6 +4476,20 @@
           "published_at": "2026-10-22T19:04:21+00:00",
           "excerpt": "SMX Advanced San Diego 2027 speaker pitches are now open Search Engine Land",
           "fetched_at": "2026-09-25T17:21:55.849226+00:00"
+        },
+        {
+          "title": "How to conduct an AI + SEO competitor analysis in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkM5R1lGcnJDZ2pvVlNsZEF5aWVvRE95YzQ2VXdYLU1sRllMSTFScnJWR0p1SjBFbGxKX3RrSVJ0X3pHRUE4MXdQYUdMX2NlS0tDUW5TM0k2MlNEZjJwYm5vTGx5M0RmczJLVnlTb1VEQ2phWm5CS2x2NlY5eHZXVm1n?oc=5",
+          "published_at": "2026-10-22T18:52:30+00:00",
+          "excerpt": "How to conduct an AI + SEO competitor analysis in 2026 Search Engine Land",
+          "fetched_at": "2026-10-26T10:19:56.918075+00:00"
+        },
+        {
+          "title": "How to become an SEO expert",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uOWpBZ1R4VHhhNlRGeE9FQm0zV09Rd0Z2S05xWHowMVhkdHVheG03VkhEZU1VeWI0SU9MY2lIaUQ1Q053Y29OMXM4YnJ0cnlaR1JCMThIWkg?oc=5",
+          "published_at": "2026-10-22T18:31:18+00:00",
+          "excerpt": "How to become an SEO expert Search Engine Land",
+          "fetched_at": "2026-10-26T10:19:56.918075+00:00"
         },
         {
           "title": "Step-by-step SEO marketing plan template",
@@ -4730,20 +4779,6 @@
           "fetched_at": "2026-10-22T17:23:13.328698+00:00"
         },
         {
-          "title": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2tKMVhKN3B3dTc3SDJUUWVSekVwaVBoZGxzbE1KTlpnY0FqZG9pelJ4QnJMZVZEamFMbUJUcGZ2TjN1UHlORXg2VGxaaEstZGF4NkE4NHZfdllDN0phZS1fb0FhUUdtSW5Ldld0NXE2blpvam9meGhZZWRPWjNheFZCWDhUYkxJM0pKcjRaNlRUQnJiWGFnX0tLQUtRR084bXBNNUJaM3NNUQ?oc=5",
-          "published_at": "2026-10-16T17:10:58+00:00",
-          "excerpt": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days Search Engine Land",
-          "fetched_at": "2026-10-22T09:30:52.075485+00:00"
-        },
-        {
-          "title": "ChatGPT Ads introduces new measurement tools and visual ad formats",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5",
-          "published_at": "2026-10-16T16:30:09+00:00",
-          "excerpt": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land",
-          "fetched_at": "2026-10-18T08:57:10.973907+00:00"
-        },
-        {
           "title": "10 ways to create helpful content + examples and checklist",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GeUctZnJ3TVpGa1lNMHRfdHpUQ1RMbklXdUFoajUwTzMtMFl5REpjMGpLU0hmS0VNRFhCYm9PS0JsMTc3R2R4TFUzX1hEaGJPR19IUWVUMWM3Uko1c0hr?oc=5",
           "published_at": "2026-10-16T15:52:47+00:00",
@@ -4786,6 +4821,13 @@
           "fetched_at": "2026-10-17T08:40:35.760290+00:00"
         },
         {
+          "title": "ChatGPT Ads introduces new measurement tools and visual ad formats",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5",
+          "published_at": "2026-10-16T07:00:00+00:00",
+          "excerpt": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land",
+          "fetched_at": "2026-10-18T08:57:10.973907+00:00"
+        },
+        {
           "title": "Google Merchant Center adds warranty attribute for product listings",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWwxRjZMU01PSDhBdnU0SU43VGZFNzNkWnk4WGUxSDRVRi1ITng4MW4tMXJBTFJvMHlCRXR5ZEpsejJWWG0zYVdCUEtyUVdwZGwwaEtpMUNFdDBsLW9DbDBjekFsMkNjejRwczJselpaNTd1d201SFZFVW5xazlNQ3ctWGhaWTlZTWRRX2VnUXBJaUp6SWVLMXNpWGJPcEtrRXJ0UVVB?oc=5",
           "published_at": "2026-10-16T07:00:00+00:00",
@@ -4793,11 +4835,11 @@
           "fetched_at": "2026-10-19T10:05:44.737833+00:00"
         },
         {
-          "title": "Google launches Universal Cart across Search and Gemini for easier shopping",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXQ4QzZaSmlqLUxFUjNycUFOekxHblhPRVo2allKZ1VPU3ZPSzRkVFY4RXdYLXVFc3duOGxjRmtNYmREVTZEVzJBdkRWTWpmRnpjM0J2UHVDM1lzRnlPZWl2VWhjYjhMUDBFcmpCTmFVbE5kM3pUeWVTYmQyakRVTG1YZmtpbFFOLXBIRFlYbHQ4Sm56QlRac3B1OHNYNldnSHlBR01WNXFaYVloUGcwaA?oc=5",
-          "published_at": "2026-10-15T14:53:10+00:00",
-          "excerpt": "Google launches Universal Cart across Search and Gemini for easier shopping Search Engine Land",
-          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+          "title": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2tKMVhKN3B3dTc3SDJUUWVSekVwaVBoZGxzbE1KTlpnY0FqZG9pelJ4QnJMZVZEamFMbUJUcGZ2TjN1UHlORXg2VGxaaEstZGF4NkE4NHZfdllDN0phZS1fb0FhUUdtSW5Ldld0NXE2blpvam9meGhZZWRPWjNheFZCWDhUYkxJM0pKcjRaNlRUQnJiWGFnX0tLQUtRR084bXBNNUJaM3NNUQ?oc=5",
+          "published_at": "2026-10-16T07:00:00+00:00",
+          "excerpt": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days Search Engine Land",
+          "fetched_at": "2026-10-22T09:30:52.075485+00:00"
         },
         {
           "title": "How entity confusion can hurt your brand’s AI visibility",
@@ -4839,6 +4881,13 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXBSeFFvZEdEZ2M3WXJKODJEN3pVWU4tR1NiaWFLMDVTNVRBaU1jS2tGR0JmcDRCOU9uWHhBakJDUzdsUmRzMFd0a1FiTWNNcDVlUDNCdWhhRFhocUdjQmh4ZXVLX0VTdkp2NzRyVXRtQUNvQ2RKajc3cDhxb2R0WlJMbWxTbkx6ZmpHSnFMWkZ4YUgxRUdqQWR0Z0QtbEFranlTbHBYTmJKbFVmYmc1Z2o3WXZHTk1sS0F5NU1Wc0g3M2xLczdBTGx2MjBtaVpIb2c?oc=5",
           "published_at": "2026-10-15T07:00:00+00:00",
           "excerpt": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "Google launches Universal Cart across Search and Gemini for easier shopping",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXQ4QzZaSmlqLUxFUjNycUFOekxHblhPRVo2allKZ1VPU3ZPSzRkVFY4RXdYLXVFc3duOGxjRmtNYmREVTZEVzJBdkRWTWpmRnpjM0J2UHVDM1lzRnlPZWl2VWhjYjhMUDBFcmpCTmFVbE5kM3pUeWVTYmQyakRVTG1YZmtpbFFOLXBIRFlYbHQ4Sm56QlRac3B1OHNYNldnSHlBR01WNXFaYVloUGcwaA?oc=5",
+          "published_at": "2026-10-15T07:00:00+00:00",
+          "excerpt": "Google launches Universal Cart across Search and Gemini for easier shopping Search Engine Land",
           "fetched_at": "2026-10-16T09:08:11.790465+00:00"
         },
         {
@@ -4940,13 +4989,6 @@
           "fetched_at": "2026-10-14T09:37:22.720613+00:00"
         },
         {
-          "title": "Google Discover to become a proactive, hyper-personalized concierge experience",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTR0UzZpb3RSQWFwTVlkcGNIeThzeWlXcEJCVnZZRkxsRlFiZDBQSVQ5Q0lqOWdpdENudEZsNDZUOGlWQ19yWE9Cbks0MUl1ZDZ1WXdiU1ZmRkF1cHMxZE05Ry0tOUxLbXRacGlneXpLM2ZFbUoxUEZwSWlSU0hVOGtURm0zYTJ4QmJSNTNGWDA2LTNkdE9KSHlYSmlXN1ByOTdhdVlWT092MEdKUWhLU1RnQQ?oc=5",
-          "published_at": "2026-10-13T12:03:50+00:00",
-          "excerpt": "Google Discover to become a proactive, hyper-personalized concierge experience Search Engine Land",
-          "fetched_at": "2026-10-13T19:23:24.508338+00:00"
-        },
-        {
           "title": "Google Search Console reporting date selector is broken",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3cwMUdsN0N0SVFQQmFNbkM0a0ZtRjF4c2dZR2tORjJQUFpRUlhibmQybTZPYS1RaTZOOFprNnVKbUVHVFBNMGNHazlNRWlxaXdNSG5wb0ZRS3lyTU9OcEN5SGRQNVJybzhwRXlKYXJ2NEgwOWxvdlJjMnc3V0dxNDQyVkF2OHNZODlQU1lYdzJJN19ONVE?oc=5",
           "published_at": "2026-10-13T11:54:17+00:00",
@@ -4959,6 +5001,13 @@
           "published_at": "2026-10-13T07:00:00+00:00",
           "excerpt": "Advanced Google Ads SMX® Master Class | Brad Geddes | Oct. 13 Search Engine Land",
           "fetched_at": "2026-10-01T18:28:54.395839+00:00"
+        },
+        {
+          "title": "Google Discover to become a proactive, hyper-personalized concierge experience",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTR0UzZpb3RSQWFwTVlkcGNIeThzeWlXcEJCVnZZRkxsRlFiZDBQSVQ5Q0lqOWdpdENudEZsNDZUOGlWQ19yWE9Cbks0MUl1ZDZ1WXdiU1ZmRkF1cHMxZE05Ry0tOUxLbXRacGlneXpLM2ZFbUoxUEZwSWlSU0hVOGtURm0zYTJ4QmJSNTNGWDA2LTNkdE9KSHlYSmlXN1ByOTdhdVlWT092MEdKUWhLU1RnQQ?oc=5",
+          "published_at": "2026-10-13T07:00:00+00:00",
+          "excerpt": "Google Discover to become a proactive, hyper-personalized concierge experience Search Engine Land",
+          "fetched_at": "2026-10-13T19:23:24.508338+00:00"
         },
         {
           "title": "Google Tag Manager update promises faster websites and simpler tracking",
@@ -5220,13 +5269,6 @@
           "fetched_at": "2026-10-08T11:29:40.289065+00:00"
         },
         {
-          "title": "10 types of keywords with examples (+ How to find them)",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZlkwcVFJa0Z1WExkUUVyNG04YlhCcVV1REVoeXRLU01DaGdmdFVlWm9VU1phSUZtRHQtbVB0R05yZWltcm5kelc0S3k2RGZ6NjV2R1pKYks5MVJBYjM3Vlln?oc=5",
-          "published_at": "2026-10-07T15:52:09+00:00",
-          "excerpt": "10 types of keywords with examples (+ How to find them) Search Engine Land",
-          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
-        },
-        {
           "title": "Google Ads tests new Direct Offer asset for AI Mode promotions",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRThNMHphcE42a3pKcmN6b2NwVHcxektmZWhsYUVlY3NqZ1hQVUZlNzBiZV9PS3huR2VFMkhQWU1kanBfSTFyb1B2VDVHeVgtNnpTdGNHdnZaUkRVLXhtc1NRLUdxTVpiQXpmQXdSSjREaFYzX1ZXTC1IcEpZRWNRdS0wcWdfOWpZYkgzXzR3Sm1sNEpydzRRZE85LTN1UHM?oc=5",
           "published_at": "2026-10-07T15:28:55+00:00",
@@ -5280,6 +5322,13 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sUnA5ZkUwOXZQM0QwZDlqd1UwYURyd0NuUU05b3RVUksydVQ0RUhWWC00cm5NMjdVTmxTWkNyb3dBLWFzaTV3X0NOcmlqb3VCdWRwRnhfM3BXRk1PRXdRREZRWUpDbUY5UFowU25KcklCd2M4?oc=5",
           "published_at": "2026-10-07T07:00:00+00:00",
           "excerpt": "57% of beauty consumers don’t start with Google Search Search Engine Land",
+          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
+        },
+        {
+          "title": "10 types of keywords with examples (+ How to find them)",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZlkwcVFJa0Z1WExkUUVyNG04YlhCcVV1REVoeXRLU01DaGdmdFVlWm9VU1phSUZtRHQtbVB0R05yZWltcm5kelc0S3k2RGZ6NjV2R1pKYks5MVJBYjM3Vlln?oc=5",
+          "published_at": "2026-10-07T07:00:00+00:00",
+          "excerpt": "10 types of keywords with examples (+ How to find them) Search Engine Land",
           "fetched_at": "2026-10-08T11:29:40.289065+00:00"
         },
         {
@@ -5675,13 +5724,6 @@
           "fetched_at": "2026-09-29T18:09:32.043366+00:00"
         },
         {
-          "title": "Amazon Ads taps Yelp to turn product purchases into local service leads",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXY3ODQyNHJmcGwyVmdnd2Vlc1BkSlRvX3BBWms0bkRDUHRXN0xMaXlqTUFhdWxWYlRoWk5TM2cxR3Y5bDZuTTRLYW53WjVuMG1fZTZxUXRqcGt6RHM4T2MyWTN3RmprWVFLZEhfbmdzOFhpR2NQcTl5b3ZOLXItcDFfN3JhNVhETUM5enFJeHpaNk81NnlOeElZejhLLUJ5REgxV25FRXRQMjQ?oc=5",
-          "published_at": "2026-09-29T14:10:48+00:00",
-          "excerpt": "Amazon Ads taps Yelp to turn product purchases into local service leads Search Engine Land",
-          "fetched_at": "2026-09-30T10:36:00.880685+00:00"
-        },
-        {
           "title": "Google appeals the European Commission’s DMA mandate to share search data",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTVdvWmJBbWlVcmlodzhhV2g0dmZYaVhXcm5wZ2xsS2pCZFNCdWpscWZrTVYxYTNfd0gtbDBmRmh1M0hIMDI2bVE1c1hUMFZ6Rl92LWF2MHZxUVcwUTFCcnZtekxIcEl6NDhJeFVTb2szQTlZRWpUNHFhTnYwZTlFeFNZMzByWG5QT3pzSVlkMW1BM2dfd2dic0NtajBhamEyUktPNDEtNVVZejlU?oc=5",
           "published_at": "2026-09-29T13:43:00+00:00",
@@ -5714,6 +5756,13 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFpyWGJpbWJ3dnl3a3BiTThYTmRGWmFfTXlOVDRaMzFoeE5PSHhGTENzTTRoQVljMXJ1X2c0T3ZnX3IxNm9lUFhzMG5RWFIyNExDVGdtc0lKWjUxQjY2VXd4YV9Cc181c215Qno5M0xqcVRLUUdoUjAtR1FKNUpSY2g1U3NyYlJ5SjRn?oc=5",
           "published_at": "2026-09-29T07:00:00+00:00",
           "excerpt": "ChatGPT shortlists: How to benchmark visibility and find room to compete Search Engine Land",
+          "fetched_at": "2026-09-30T10:36:00.880685+00:00"
+        },
+        {
+          "title": "Amazon Ads taps Yelp to turn product purchases into local service leads",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXY3ODQyNHJmcGwyVmdnd2Vlc1BkSlRvX3BBWms0bkRDUHRXN0xMaXlqTUFhdWxWYlRoWk5TM2cxR3Y5bDZuTTRLYW53WjVuMG1fZTZxUXRqcGt6RHM4T2MyWTN3RmprWVFLZEhfbmdzOFhpR2NQcTl5b3ZOLXItcDFfN3JhNVhETUM5enFJeHpaNk81NnlOeElZejhLLUJ5REgxV25FRXRQMjQ?oc=5",
+          "published_at": "2026-09-29T07:00:00+00:00",
+          "excerpt": "Amazon Ads taps Yelp to turn product purchases into local service leads Search Engine Land",
           "fetched_at": "2026-09-30T10:36:00.880685+00:00"
         },
         {
@@ -10940,6 +10989,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
+          "url": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
+          "published_at": "2026-10-26T07:45:18+00:00",
+          "excerpt": "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-26T10:20:05.605319+00:00"
+        },
+        {
           "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
           "published_at": "2026-10-24T12:00:00+00:00",
@@ -15945,9 +16001,16 @@
         {
           "title": "AI search marketing: how B2B brands get cited in 2026",
           "url": "https://www.factors.ai/blog/ai-search-visibility-for-b2b-saas",
-          "published_at": "2026-10-25T00:00:00+00:00",
+          "published_at": "2026-10-26T00:00:00+00:00",
           "excerpt": "AI search marketing means getting cited by ChatGPT and Perplexity, not just ranked on Google. Here's how B2B SaaS teams build real AI search visibility.",
           "fetched_at": "2026-08-07T08:33:42.491071+00:00"
+        },
+        {
+          "title": "The LinkedIn B2B Marketing Strategy We’d Build After Studying 50,000+ Closed Deals and $150M+ in Ad Spend.",
+          "url": "https://www.factors.ai/blog/linkedin-b2b-marketing-strategy",
+          "published_at": "2026-10-26T00:00:00+00:00",
+          "excerpt": "A 5-step framework to build a LinkedIn B2B marketing strategy that reaches active buying committees, protects deal velocity, and drives influenced pipeline.",
+          "fetched_at": "2026-10-14T09:37:42.679995+00:00"
         },
         {
           "title": "AI digital marketing examples worth stealing",
@@ -16004,13 +16067,6 @@
           "published_at": "2026-10-15T00:00:00+00:00",
           "excerpt": "Learn how ChatGPT Ads work for B2B, including costs, targeting limits, campaign setup, and how to measure the channel against pipeline.",
           "fetched_at": "2026-09-23T09:24:40.603961+00:00"
-        },
-        {
-          "title": "The LinkedIn B2B Marketing Strategy We’d Build After Studying 50,000+ Closed Deals and $150M+ in Ad Spend.",
-          "url": "https://www.factors.ai/blog/linkedin-b2b-marketing-strategy",
-          "published_at": "2026-10-15T00:00:00+00:00",
-          "excerpt": "A 5-step framework to build a LinkedIn B2B marketing strategy that reaches active buying committees, protects deal velocity, and drives influenced pipeline.",
-          "fetched_at": "2026-10-14T09:37:42.679995+00:00"
         },
         {
           "title": "LinkedIn ads for B2B, a performance marketer’s guide to what actually drives pipeline",
