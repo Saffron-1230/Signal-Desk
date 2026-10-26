@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T10:20:17.141420+00:00",
+  "last_updated": "2026-10-26T18:44:58.902692+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4394,6 +4394,27 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "7 B2B marketing shifts that will define 2027",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenFMUTJ3cGVpNDBIUEltdFlTZ0lYNm15SnREM21jVUltdTN6LWlKcXN0VzFCTDFBdV9sU2NrSWM4UWRiM1hsTzRQc2YzUHZJd0lKNmVHVG1UTXZvOFdXOXNFOW91eVhaT2dJUFhLZElHWVpYZC1CUjlob1ctaVI1VkFHTXRCb28?oc=5",
+          "published_at": "2026-10-26T14:00:00+00:00",
+          "excerpt": "7 B2B marketing shifts that will define 2027 Search Engine Land",
+          "fetched_at": "2026-10-26T18:44:33.131556+00:00"
+        },
+        {
+          "title": "6 steps to map local search intent beyond keyword data",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHVhTjFQOVEwWVhmazFNc2tpQ01IalZVR2tZemVwekpQVEd6T2VFWG9iRE9PS2tPME5NQ3RKakRaTnlpN3RFNzBZM3NKOHJfLWFRUjR3Z1BHRVpEeFhPYlJPbE1rVW40cHJyaEh4U3dlX0pYWjBIRWVPS09oOVJubVk2UWRTUQ?oc=5",
+          "published_at": "2026-10-26T12:15:00+00:00",
+          "excerpt": "6 steps to map local search intent beyond keyword data Search Engine Land",
+          "fetched_at": "2026-10-26T18:44:33.131556+00:00"
+        },
+        {
+          "title": "Search Engine Land Awards 2026: And the winners are…",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3YwT3NMLUtnWFNlTk1WejJFMy1oWTR1MGhfVWh0RllPQmI5YktTRDVJeldPTFkxWFQxU2I4RlZUQmduNWxsYUhLMUN5b3hWVTAzWjZrSzlOZEx2Xy0zLW53bmJkaGY5NGZTcjdmTC1abVl0M1pzWDNDT3hJRHNVdnFYMFEtb2J1ajZnZ1lKTQ?oc=5",
+          "published_at": "2026-10-26T12:00:00+00:00",
+          "excerpt": "Search Engine Land Awards 2026: And the winners are… Search Engine Land",
+          "fetched_at": "2026-10-26T18:44:33.131556+00:00"
+        },
+        {
           "title": "Rémi Kerhoas’ shares how a PPC mistake went unnoticed for three months",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMC0wX1lkN2xGb1Bob25WV0xyLThyclc5bl9ZRWtGVEsxQ05iUWhYNlBjUERaT0xmYlByTFVkeGFMQlBXYlBjajE0cFZXd3lRd0RoZktEY183UF9UZm5oclBseDg3OFRxQ2RfMVVjbXo2WkNuaXdDS01abzk2dElXTXc5cEsyMElZMk95UThnOFppcmdiY0dOMEF6LTZlR1hGVmhEdmFxa0o?oc=5",
           "published_at": "2026-10-24T16:19:34+00:00",
@@ -4604,6 +4625,13 @@
           "fetched_at": "2026-10-22T09:30:52.075485+00:00"
         },
         {
+          "title": "Why Google reviews will power up your local SEO in 2027",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzltbmNKV252RWVSM082M0htZ0toMDdsdktCUmJyVEk2S1F0VUJRcS1FOG5YelVWYnZ6aG0xM1V0ZERONjhtRUg4U2xtS1pBVnhncFRBZHRoQ2t3empRemY2UXltakhmS29UNnhtT055bzV0UzQ0Xy1QdlBRaHRhNWFuZjE?oc=5",
+          "published_at": "2026-10-21T14:00:00+00:00",
+          "excerpt": "Why Google reviews will power up your local SEO in 2027 Search Engine Land",
+          "fetched_at": "2026-10-21T17:25:06.456722+00:00"
+        },
+        {
           "title": "Google has updated its document on how to block Google Search",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWZESlhUZUNJNE04d1VJcEdXOXNiMmVkMTJ0WVE5S0xSOU5la3NiSFNxeFZ5LWVWallEaWxXeElWT0JhajZSSHUyMHFKMnA0WGJ1UWFROGExQ0RQZjNoeHFPM3pwZzkySUU1SWJVbXNReHh3TVJiNG1nSngzaUE0OVVZRkgxd3RISlA5S0FlNTF5U3B4VDFxRVlmb2tHdw?oc=5",
           "published_at": "2026-10-21T13:26:52+00:00",
@@ -4793,13 +4821,6 @@
           "fetched_at": "2026-10-17T08:40:35.760290+00:00"
         },
         {
-          "title": "Google Ask Maps: How to make your business easier to recommend",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUm9rUm1TclRlV2I5d2ExcTFtaTVTY0lkUnZZMDRWTHdrMXV6YUY3dnd1cG9FbHE2WUNONVl4VjJjUk9RYnplXzdoUjNSOEV5OVdacUxTYWYzY2d5U1FWMlpEay1Oa0NrQTIwclBSSGQtc0FWQkVrMDhhM21kRVV4VGh1RXhvbkxsOHNKQldrR0JuaE1C?oc=5",
-          "published_at": "2026-10-16T14:00:00+00:00",
-          "excerpt": "Google Ask Maps: How to make your business easier to recommend Search Engine Land",
-          "fetched_at": "2026-10-18T08:57:10.973907+00:00"
-        },
-        {
           "title": "Canonicalization and SEO: A guide for 2027",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWDdRclJPeTJuNnk1bzJSdVdraC1jZVdBYmE0cXQyMnZ3YnlWYmNOS3BuX2M2MGJxOHkyYzdTdE5Pb3dvMkU0M2JETlRMcDBGZWg1a3BpdWU0dnhmUTRkeFAxcE5rM1k?oc=5",
           "published_at": "2026-10-16T07:00:00+00:00",
@@ -4825,6 +4846,13 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5",
           "published_at": "2026-10-16T07:00:00+00:00",
           "excerpt": "ChatGPT Ads introduces new measurement tools and visual ad formats Search Engine Land",
+          "fetched_at": "2026-10-18T08:57:10.973907+00:00"
+        },
+        {
+          "title": "Google Ask Maps: How to make your business easier to recommend",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUm9rUm1TclRlV2I5d2ExcTFtaTVTY0lkUnZZMDRWTHdrMXV6YUY3dnd1cG9FbHE2WUNONVl4VjJjUk9RYnplXzdoUjNSOEV5OVdacUxTYWYzY2d5U1FWMlpEay1Oa0NrQTIwclBSSGQtc0FWQkVrMDhhM21kRVV4VGh1RXhvbkxsOHNKQldrR0JuaE1C?oc=5",
+          "published_at": "2026-10-16T07:00:00+00:00",
+          "excerpt": "Google Ask Maps: How to make your business easier to recommend Search Engine Land",
           "fetched_at": "2026-10-18T08:57:10.973907+00:00"
         },
         {
@@ -5416,13 +5444,6 @@
           "fetched_at": "2026-10-06T18:30:08.916560+00:00"
         },
         {
-          "title": "OpenAI brings visual ads and expanded measurement to ChatGPT",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanBDUWtlSTFvYkRIdm1nRk9uY05uVnRNeGZLZ2pUWEdLM0VZbExkTVVLUjRhOXRiQmxJd2QzNzdTYzhYWmZZYTVKRGRiUDNoYmFMQWExMmN6UE1VRTBXdUR5ODJ4d3VIYmlMYktPRnVyYzR1NmoxYktMLUQxN1g1NzhlbElRdDJRdTdwZ2FlNWY4d09DeXM3bzBXalQ?oc=5",
-          "published_at": "2026-10-05T16:05:17+00:00",
-          "excerpt": "OpenAI brings visual ads and expanded measurement to ChatGPT Search Engine Land",
-          "fetched_at": "2026-10-05T20:43:04.909947+00:00"
-        },
-        {
           "title": "- Search Engine Land",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0JTQ3h1YzY1M0JtemY3UVpPNXdPaHU3WWZ0blpuQU5HbFlLWVZORW5VZXBRWngxV3Rta09pOXFMdnhmMWVMNXU0OHVWUWZPMERaUXhCRkNYekpDdllCWW1zOHZjbHZEZ0x6YjNNcWNzOUE5QnhQaEUzZF92VUFxRWNBWQ?oc=5",
           "published_at": "2026-10-05T14:15:29+00:00",
@@ -5455,6 +5476,13 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVR0b1AtM2duTEdyLWMyNmVQVkx4VHExb3E2aUQ5THp5QV92OE14Z1c4T2Q0OFlDbTdxMms5TUJzZUtfV1hiVy1GdnluUWh0SlpKNlRiM0JQZG1rRUhxbVRnNTAzTzNBaUM5SHl0b19wZmRyOU14YUR2Q2dicmUwQw?oc=5",
           "published_at": "2026-10-05T07:00:00+00:00",
           "excerpt": "Why Google is pushing advertisers toward demand-led budgeting Search Engine Land",
+          "fetched_at": "2026-10-05T20:43:04.909947+00:00"
+        },
+        {
+          "title": "OpenAI brings visual ads and expanded measurement to ChatGPT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanBDUWtlSTFvYkRIdm1nRk9uY05uVnRNeGZLZ2pUWEdLM0VZbExkTVVLUjRhOXRiQmxJd2QzNzdTYzhYWmZZYTVKRGRiUDNoYmFMQWExMmN6UE1VRTBXdUR5ODJ4d3VIYmlMYktPRnVyYzR1NmoxYktMLUQxN1g1NzhlbElRdDJRdTdwZ2FlNWY4d09DeXM3bzBXalQ?oc=5",
+          "published_at": "2026-10-05T07:00:00+00:00",
+          "excerpt": "OpenAI brings visual ads and expanded measurement to ChatGPT Search Engine Land",
           "fetched_at": "2026-10-05T20:43:04.909947+00:00"
         },
         {
@@ -5507,13 +5535,6 @@
           "fetched_at": "2026-10-05T20:43:04.909947+00:00"
         },
         {
-          "title": "Your AI search visibility keeps changing: Here’s what to do about it",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVRadkRseFFkcmozbmZqRnI1S2FBNGswREZDSTZQR2ctbXlkZ2NDei1JQ3BLaDFUQ0RIOWJ3MFRydkE0M0RfeW5IeWRTQmItZGVQeDNmWW5XenNHMEV4X1RmZzcyRDUtZ0lqc0JObjFjc1JZZ2NUWE8zZ3l3dzBIXzhB?oc=5",
-          "published_at": "2026-10-02T12:00:00+00:00",
-          "excerpt": "Your AI search visibility keeps changing: Here’s what to do about it Search Engine Land",
-          "fetched_at": "2026-10-06T11:23:25.653715+00:00"
-        },
-        {
           "title": "What effective SEO client onboarding looks like: The first 90 days",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNl9SblZwRnpOU0ZrOEgyNzQtYk9jYnFIaTJYZUxZY0pkWVYwaEpQQ3BHS1hGa19JcjJsVHJ0Sk5MeTE4VklEd2FoeVp0amo1bXB6V1BfQ3RoOTNIb0M4cXpWeC15ZjNSLW1jRV9VbTFKODJaTmFjb0wtel9EVUE1eTFaVXowMjRM?oc=5",
           "published_at": "2026-10-02T07:00:00+00:00",
@@ -5554,6 +5575,13 @@
           "published_at": "2026-10-02T07:00:00+00:00",
           "excerpt": "Google Ads will automatically pull promotions from advertisers’ websites Search Engine Land",
           "fetched_at": "2026-10-04T16:54:31.035574+00:00"
+        },
+        {
+          "title": "Your AI search visibility keeps changing: Here’s what to do about it",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVRadkRseFFkcmozbmZqRnI1S2FBNGswREZDSTZQR2ctbXlkZ2NDei1JQ3BLaDFUQ0RIOWJ3MFRydkE0M0RfeW5IeWRTQmItZGVQeDNmWW5XenNHMEV4X1RmZzcyRDUtZ0lqc0JObjFjc1JZZ2NUWE8zZ3l3dzBIXzhB?oc=5",
+          "published_at": "2026-10-02T07:00:00+00:00",
+          "excerpt": "Your AI search visibility keeps changing: Here’s what to do about it Search Engine Land",
+          "fetched_at": "2026-10-06T11:23:25.653715+00:00"
         },
         {
           "title": "Terms Of Service",
@@ -10771,13 +10799,6 @@
           "fetched_at": "2026-08-30T10:00:45.743381+00:00"
         },
         {
-          "title": "Why Google reviews will power up your local SEO in 2027",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzltbmNKV252RWVSM082M0htZ0toMDdsdktCUmJyVEk2S1F0VUJRcS1FOG5YelVWYnZ6aG0xM1V0ZERONjhtRUg4U2xtS1pBVnhncFRBZHRoQ2t3empRemY2UXltakhmS29UNnhtT055bzV0UzQ0Xy1QdlBRaHRhNWFuZjE?oc=5",
-          "published_at": "2023-07-27T14:01:47+00:00",
-          "excerpt": "Why Google reviews will power up your local SEO in 2027 Search Engine Land",
-          "fetched_at": "2026-10-21T17:25:06.456722+00:00"
-        },
-        {
           "title": "Rémi Kerhoas",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wa2JWNkxaVlZ5NFZRcy1BWG9mZndyUzIxY3YtZ1dIS3g3clpwclZuN1MyengwT2tiekx1aHlpNkZiRjVhdEViZk1uVUJWT01xTkFDbnpaRWVWNVRV?oc=5",
           "published_at": "2023-07-19T13:01:58+00:00",
@@ -10989,6 +11010,41 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing?",
+          "url": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
+          "published_at": "2026-10-26T15:30:04+00:00",
+          "excerpt": "Spot the gaps between Google Ads targets and business growth, from outdated margins and repeat buyers to weak leads and capped reach. The post Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing? appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-26T18:44:44.909391+00:00"
+        },
+        {
+          "title": "Google Gets The Thank-You via @sejournal, @pedrodias",
+          "url": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
+          "published_at": "2026-10-26T14:00:54+00:00",
+          "excerpt": "Referral reports show who sent the visit, not who shaped the decision. Why GEO’s real job is what a model learns, not what it retrieves. The post Google Gets The Thank-You appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-26T18:44:44.909391+00:00"
+        },
+        {
+          "title": "Meta Delays The Terms That Let It Crawl Business Sites via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
+          "published_at": "2026-10-26T13:00:00+00:00",
+          "excerpt": "Meta delayed its updated business terms amid complaints to EU and UK regulators. The permission to crawl sites tied to its business users hasn't changed. The post Meta Delays The Terms That Let It Crawl Business Sites appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-26T18:44:44.909391+00:00"
+        },
+        {
+          "title": "Some Brands On ChatGPT’s Cited Pages Still Got Few Mentions via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
+          "published_at": "2026-10-26T12:24:23+00:00",
+          "excerpt": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data. The post Some Brands On ChatGPT’s Cited Pages Still Got Few Mentions appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-26T18:44:44.909391+00:00"
+        },
+        {
+          "title": "At Mod World, Reddit’s CEO Just Gave Brands More Reasons To Build Their Own Communities via @sejournal, @brentcsutoras",
+          "url": "https://www.searchenginejournal.com/at-mod-world-reddits-ceo-gave-brands-more-reasons-to-build-communities/594247/",
+          "published_at": "2026-10-26T12:00:17+00:00",
+          "excerpt": "Reddit's community-first plans strengthen the case for brand subreddits built around useful answers and relationships that bring people back. The post At Mod World, Reddit’s CEO Just Gave Brands More Reasons To Build Their Own Communities appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-26T18:44:44.909391+00:00"
+        },
+        {
           "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
           "url": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
           "published_at": "2026-10-26T07:45:18+00:00",
@@ -11129,7 +11185,7 @@
           "fetched_at": "2026-10-21T17:25:17.099615+00:00"
         },
         {
-          "title": "China Wrote The First GEO Rulebook After A TV Scandal – Western SEOs Should Take Notes via @sejournal, @MPentzek",
+          "title": "China Wrote The First GEO Rulebook After A TV Scandal – Western SEOs Should Take Notes",
           "url": "https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593199/",
           "published_at": "2026-10-21T12:00:37+00:00",
           "excerpt": "China's five-part GEO standard offers Western SEOs a practical framework for measuring AI visibility, evaluating vendors, and separating optimization from manipulation. The post China Wrote The First GEO Rulebook After A TV Scandal – Western SEOs Should Take Notes appeared first…",
@@ -14831,6 +14887,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "Google My Business: A guide to Google Business Profile",
+          "url": "https://www.semrush.com/blog/google-my-business/",
+          "published_at": "2026-10-26T11:37:00+00:00",
+          "excerpt": "Google Business Profile (formerly Google My Business) is a free business listing that supports reviews, Q&As, posts, and more.",
+          "fetched_at": "2026-10-26T18:44:50.781309+00:00"
+        },
+        {
           "title": "AI search strategy: 4 layers of brand visibility",
           "url": "https://www.semrush.com/blog/ai-search-strategy/",
           "published_at": "2026-10-23T10:58:00+00:00",
@@ -14850,6 +14913,13 @@
           "published_at": "2026-10-22T10:11:00+00:00",
           "excerpt": "SEO at scale starts with revenue, not traffic. A page type with 3,000 visits that drives sales can be worth more than one with 40,000 that doesn‘t.",
           "fetched_at": "2026-10-22T17:23:30.281696+00:00"
+        },
+        {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-10-22T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Semrush Starter vs. Pro+: Which plan is right for you?",
@@ -14936,13 +15006,6 @@
           "fetched_at": "2026-10-05T20:43:22.535828+00:00"
         },
         {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-10-05T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "Ultimate SEO checklist: 43 tips to optimize your website",
           "url": "https://www.semrush.com/blog/seo-checklist/",
           "published_at": "2026-10-01T08:25:00+00:00",
@@ -14980,7 +15043,7 @@
         {
           "title": "10 SEO best practices for Google and AI search",
           "url": "https://www.semrush.com/blog/seo-best-practices/",
-          "published_at": "2026-09-28T09:18:00+00:00",
+          "published_at": "2026-09-28T00:00:00+00:00",
           "excerpt": "SEO best practices that hold up in AI search, where Semrush found the average visitor is worth 4.4x an organic one.",
           "fetched_at": "2026-09-28T11:05:30.782328+00:00"
         },
@@ -16011,6 +16074,13 @@
           "published_at": "2026-10-26T00:00:00+00:00",
           "excerpt": "A 5-step framework to build a LinkedIn B2B marketing strategy that reaches active buying committees, protects deal velocity, and drives influenced pipeline.",
           "fetched_at": "2026-10-14T09:37:42.679995+00:00"
+        },
+        {
+          "title": "10 Best LinkedIn Revenue Attribution Tools to Prove Your ROI",
+          "url": "https://www.factors.ai/blog/best-linkedin-revenue-attribution-tools",
+          "published_at": "2026-10-26T00:00:00+00:00",
+          "excerpt": "Compare the 10 best LinkedIn revenue attribution tools (2026) featuring Factors.ai, Dreamdata, and HockeyStack. Learn to track view-through conversions, sync LinkedIn CAPI, and bridge the gap between ad impressions and CRM-closed revenue using server-side tracking.",
+          "fetched_at": "2026-10-26T18:44:52.960778+00:00"
         },
         {
           "title": "AI digital marketing examples worth stealing",
@@ -17163,6 +17233,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive",
+          "url": "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
+          "published_at": "2026-10-26T00:00:00+00:00",
+          "excerpt": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions. This integration preserves native file fidelity for use with Git repositorie…",
+          "fetched_at": "2026-10-26T18:44:58.027186+00:00"
+        },
+        {
           "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
           "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
           "published_at": "2026-10-22T00:00:00+00:00",
@@ -17664,6 +17741,41 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Our newest AI Quest: Mapping the human brain",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+          "published_at": "2026-10-26T16:00:00+00:00",
+          "excerpt": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+          "fetched_at": "2026-10-26T18:44:58.899025+00:00"
+        },
+        {
+          "title": "15 college students share their favorite Gemini features",
+          "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+          "published_at": "2026-10-26T16:00:00+00:00",
+          "excerpt": "Three young adults gathered around a laptop looking at its screen",
+          "fetched_at": "2026-10-26T18:44:58.899025+00:00"
+        },
+        {
+          "title": "Powering sub-Saharan Africa beyond the grid",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/",
+          "published_at": "2026-10-26T15:00:00+00:00",
+          "excerpt": "A person holding up a solar panel",
+          "fetched_at": "2026-10-26T18:44:58.899025+00:00"
+        },
+        {
+          "title": "We’re helping farmers around the world connect to essential services online.",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/digital-public-infrastructure-farmers/",
+          "published_at": "2026-10-26T14:00:00+00:00",
+          "excerpt": "Google.org is investing $2.5M to help 1 million farmers access AI-powered agricultural services via the World Bank's ONA. See how it works.",
+          "fetched_at": "2026-10-26T18:44:58.899025+00:00"
+        },
+        {
+          "title": "How Google Beam connects military families globally",
+          "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members/",
+          "published_at": "2026-10-26T13:00:00+00:00",
+          "excerpt": "Several military families communicating with Google Beam",
+          "fetched_at": "2026-10-26T18:44:58.899025+00:00"
+        },
         {
           "title": "See what 5 builders are making with Gemini 4 Argon",
           "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
