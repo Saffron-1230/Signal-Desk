@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T18:44:58.902692+00:00",
+  "last_updated": "2026-10-27T09:55:23.663950+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4394,11 +4394,53 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google Search says you should block indexing of link-shared content",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0tDMlV2b1p1SERtMWJ4dUZPWTVuZEZQQ0MyWG5CUGloM3VJenFtSFNtam1SWnFlWFV4VDA1ZTczTllkSk5EUWFuajlCcXljZndhSHZJalN4NjZSUDUyVXF2c29TUWxwSWN4anlOOTRjQmtMQURpSERJZWp3cThUWkM3MmJJSFFjS0F1Z0h0Mk54NGEtcWJqdjI5azMtREwwc2RhVnBn?oc=5",
+          "published_at": "2026-10-26T19:32:23+00:00",
+          "excerpt": "Google Search says you should block indexing of link-shared content Search Engine Land",
+          "fetched_at": "2026-10-27T09:55:00.577694+00:00"
+        },
+        {
+          "title": "Google Ads introduces centralized dashboard for tracking policy issues",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWldfRGZyczExclplYkNpMFdaQ25RcFdTV205cFcxYURaa2ZrZ1hvSmdGQ012RXBVeDdYQTBkUXNtUm1LOUp0cXhIYUdOcmFENEw1LVJiMVUzdWg0OGpDY2gxa3dUNElmaUh1bFM1R1hLU1lrR1V5TGJxOG45TGxKWXZTV3k3NGFYVjF2bkVaWlRXOTFUZkhLVDNOU2hnWldrVUFlZlZvY0hlUQ?oc=5",
+          "published_at": "2026-10-26T18:39:32+00:00",
+          "excerpt": "Google Ads introduces centralized dashboard for tracking policy issues Search Engine Land",
+          "fetched_at": "2026-10-27T09:55:00.577694+00:00"
+        },
+        {
+          "title": "Google confirms AI-generated review summaries in Search ads",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQW0tTnp5UkRkYnJ1WXlVZHBhR0JkMEFfbElzQ2JLV2YzRER6Q3g5bEV2bUpYZnJLX01sdUNQOXN6bkl3MVFMcWhRTUZ2LTlaSGl4YVFfazZJUGlsR05LNDhfNHZVT1VqM2NDYndqRWFDd1AzQ0JYTzF3cEhpblI3UE80TFZDNzZ2dVpPT1FTZ2FUMmV5eDZQT09jNA?oc=5",
+          "published_at": "2026-10-26T16:51:15+00:00",
+          "excerpt": "Google confirms AI-generated review summaries in Search ads Search Engine Land",
+          "fetched_at": "2026-10-27T09:55:00.577694+00:00"
+        },
+        {
+          "title": "Cloudflare will upend the AI visibility space",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8taDVONXhEYmxMMFZJSUxtSmQxYkdLMXg4WmZQMUNfcUtiZFFYeVVVbERqMDNHeGMyQk9Ob2FaeGR5UEdiWFBvTTBVRE5ROTRlTEVwOXJYX294TWNSU0ZHTjBUc1pHVUpqaEJKbDhKaThXNE9EMFdCV1pHNWw?oc=5",
+          "published_at": "2026-10-26T16:00:00+00:00",
+          "excerpt": "Cloudflare will upend the AI visibility space Search Engine Land",
+          "fetched_at": "2026-10-27T09:55:00.577694+00:00"
+        },
+        {
+          "title": "How to build a Google Ads dashboard with Claude that ties spend to outcomes",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzh3TEk1TS1yTzd2MUZwa2h4U3A1NjA0OF92MXZ3V3lOTW81THdNcmQwc1R1OWdrVVd0NkNtcFgxbXh6Z3BrREMxX0psOVNxNjd6TjZuZzI1NFVYMWVDR0JhQndkTkJ2UWNWMUxXbXBXaFVfVDVLS0RHT19EdldIQW1aaXhnYS1ZRDN4VXBLaWN6d0d5dFhiWDJxcHpvaDB5ZzNjZmNFSDBkeGxnREhuNQ?oc=5",
+          "published_at": "2026-10-26T15:00:00+00:00",
+          "excerpt": "How to build a Google Ads dashboard with Claude that ties spend to outcomes Search Engine Land",
+          "fetched_at": "2026-10-27T09:55:00.577694+00:00"
+        },
+        {
           "title": "7 B2B marketing shifts that will define 2027",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenFMUTJ3cGVpNDBIUEltdFlTZ0lYNm15SnREM21jVUltdTN6LWlKcXN0VzFCTDFBdV9sU2NrSWM4UWRiM1hsTzRQc2YzUHZJd0lKNmVHVG1UTXZvOFdXOXNFOW91eVhaT2dJUFhLZElHWVpYZC1CUjlob1ctaVI1VkFHTXRCb28?oc=5",
           "published_at": "2026-10-26T14:00:00+00:00",
           "excerpt": "7 B2B marketing shifts that will define 2027 Search Engine Land",
           "fetched_at": "2026-10-26T18:44:33.131556+00:00"
+        },
+        {
+          "title": "Pop-ups and SEO: What’s safe, what’s risky, and what to fix",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYTkx1WnE1dkVrM2Q0RmNNNlMwRUMzaDlscE5QNm1sOVdXc29VV1pkS2RCQ2pjeTA1U2d2OWNzNVAtMWhLakRGQzNXLUFpcGlCUzRSR1pKX1Jabm0yd0JBa0oxdnQtaVN5Q21rUVhhVQ?oc=5",
+          "published_at": "2026-10-26T13:00:00+00:00",
+          "excerpt": "Pop-ups and SEO: What’s safe, what’s risky, and what to fix Search Engine Land",
+          "fetched_at": "2026-10-27T09:55:00.577694+00:00"
         },
         {
           "title": "6 steps to map local search intent beyond keyword data",
@@ -11010,6 +11052,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
+          "published_at": "2026-10-26T21:24:39+00:00",
+          "excerpt": "Google Ads expands customer lifecycle goals with High Value acquisition for Shopping and retention modes across Search, Shopping, and Performance Max. The post Google Ads Expands Customer Lifecycle Goals In Search And Shopping appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-27T09:55:12.771367+00:00"
+        },
+        {
+          "title": "Google Adds Indexing Advice For Shareable Pages To Spam Guide via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
+          "published_at": "2026-10-26T20:57:22+00:00",
+          "excerpt": "New spam guidance says to noindex or block crawling on pages made for sharing. Google's docs say a URL blocked in robots.txt can be indexed. The post Google Adds Indexing Advice For Shareable Pages To Spam Guide appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-27T09:55:12.771367+00:00"
+        },
+        {
+          "title": "Generative UI Could Turn Google Into Your Booking.com via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/",
+          "published_at": "2026-10-26T19:00:54+00:00",
+          "excerpt": "Wait for Google to send the booking, or build channels you own. That choice does not need to wait for generative UI. The post Generative UI Could Turn Google Into Your Booking.com appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-27T09:55:12.771367+00:00"
+        },
+        {
           "title": "Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing?",
           "url": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
           "published_at": "2026-10-26T15:30:04+00:00",
@@ -11024,14 +11087,14 @@
           "fetched_at": "2026-10-26T18:44:44.909391+00:00"
         },
         {
-          "title": "Meta Delays The Terms That Let It Crawl Business Sites via @sejournal, @MattGSouthern",
+          "title": "Meta Pushes Its Updated Business Terms Back To Nov. 20 via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
           "published_at": "2026-10-26T13:00:00+00:00",
           "excerpt": "Meta delayed its updated business terms amid complaints to EU and UK regulators. The permission to crawl sites tied to its business users hasn't changed. The post Meta Delays The Terms That Let It Crawl Business Sites appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-26T18:44:44.909391+00:00"
         },
         {
-          "title": "Some Brands On ChatGPT’s Cited Pages Still Got Few Mentions via @sejournal, @MattGSouthern",
+          "title": "ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
           "published_at": "2026-10-26T12:24:23+00:00",
           "excerpt": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data. The post Some Brands On ChatGPT’s Cited Pages Still Got Few Mentions appeared first on Search Engine Journal .",
@@ -11136,7 +11199,7 @@
           "fetched_at": "2026-10-22T09:31:04.951469+00:00"
         },
         {
-          "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks via @sejournal, @martinibuster",
+          "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks",
           "url": "https://www.searchenginejournal.com/updraftplus-wordpress-plugin-security-breach-enables-backdoor-attacks/593909/",
           "published_at": "2026-10-21T22:03:33+00:00",
           "excerpt": "Hackers installed backdoors on WordPress sites using UpdraftPlus, putting over 3 million active installations at risk. The post UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks appeared first on Search Engine Journal .",
@@ -14887,6 +14950,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "7 free SEO tools to boost visibility & traffic",
+          "url": "https://www.semrush.com/blog/free-seo-tools/",
+          "published_at": "2026-10-27T00:00:00+00:00",
+          "excerpt": "The best free SEO tools include Keyword Magic Tool, Position Tracking, and Ubersuggest.",
+          "fetched_at": "2026-07-22T11:51:12.570259+05:30"
+        },
+        {
           "title": "Google My Business: A guide to Google Business Profile",
           "url": "https://www.semrush.com/blog/google-my-business/",
           "published_at": "2026-10-26T11:37:00+00:00",
@@ -14906,6 +14976,13 @@
           "published_at": "2026-10-23T10:35:00+00:00",
           "excerpt": "Google‘s information agents and Universal Cart stand to change how users discover and buy products online.",
           "fetched_at": "2026-10-23T17:19:19.174250+00:00"
+        },
+        {
+          "title": "Alex Lindley",
+          "url": "https://www.semrush.com/blog/user/alex-lindley/",
+          "published_at": "2026-10-23T00:00:00+00:00",
+          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "SEO at scale: How to manage SEO on a large website",
@@ -15930,13 +16007,6 @@
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
         {
-          "title": "Alex Lindley",
-          "url": "https://www.semrush.com/blog/user/alex-lindley/",
-          "published_at": "2026-05-21T00:00:00+00:00",
-          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "What is PPC? A starter guide to pay-per-click advertising",
           "url": "https://www.semrush.com/blog/what-is-ppc/",
           "published_at": "2026-05-21T00:00:00+00:00",
@@ -15969,13 +16039,6 @@
           "url": "https://www.semrush.com/blog/on-page-seo/",
           "published_at": "2026-03-20T00:00:00+00:00",
           "excerpt": "On-page SEO involves improving webpage content to boost performance in traditional and AI search.",
-          "fetched_at": "2026-07-22T11:51:12.570259+05:30"
-        },
-        {
-          "title": "7 Free SEO Tools to Boost Rankings & Traffic",
-          "url": "https://www.semrush.com/blog/free-seo-tools/",
-          "published_at": "2026-01-13T00:00:00+00:00",
-          "excerpt": "The best free SEO tools include Keyword Magic Tool, Position Tracking, and Ubersuggest.",
           "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
         {
@@ -16061,6 +16124,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "What Is ABM Intent Data & How Does It Contribute To Account Based Marketing In 2027",
+          "url": "https://www.factors.ai/blog/buyer-intent-for-abm",
+          "published_at": "2026-10-27T00:00:00+00:00",
+          "excerpt": "Learn how to leverage buyer intent data to supercharge your Account-Based Marketing (ABM) in 2027. Learn practical strategies, real examples, and best practices.",
+          "fetched_at": "2026-10-27T09:55:19.629001+00:00"
+        },
         {
           "title": "AI search marketing: how B2B brands get cited in 2026",
           "url": "https://www.factors.ai/blog/ai-search-visibility-for-b2b-saas",
