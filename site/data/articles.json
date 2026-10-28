@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T10:42:16.050408+00:00",
+  "last_updated": "2026-10-28T18:24:42.787738+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "Google AI Mode: All You Need to Know",
+          "url": "https://ahrefs.com/blog/google-ai-mode/",
+          "published_at": "2026-10-28T10:41:46+00:00",
+          "excerpt": "Then, at Google I/O in May 2026, Sundar Pichai called AI Mode “our biggest upgrade to Search ever” and said it had passed 1 billion monthly active users. It’s no longer just an experiment. AI Mode now has its own … Read more ›",
+          "fetched_at": "2026-08-05T13:29:51.131863+05:30"
+        },
         {
           "title": "AI Discoverability, Page types, and more (September 2026)",
           "url": "https://ahrefs.com/blog/new-features-september-2026/",
@@ -1191,13 +1198,6 @@
         {
           "title": "90+ AI SEO Statistics for 2025 (Fresh and Original Data)",
           "url": "https://ahrefs.com/blog/ai-seo-statistics/",
-          "published_at": "2025-09-01T00:00:00+00:00",
-          "excerpt": "",
-          "fetched_at": "2026-08-05T13:29:51.131863+05:30"
-        },
-        {
-          "title": "Google AI Mode: All You Need to Know",
-          "url": "https://ahrefs.com/blog/google-ai-mode/",
           "published_at": "2025-09-01T00:00:00+00:00",
           "excerpt": "",
           "fetched_at": "2026-08-05T13:29:51.131863+05:30"
@@ -4401,6 +4401,20 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "SEOs, we need to talk about E-E-A-T",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlN2c4Tjd5ZVZDV1FaR2lXTV9JOFJJVHRIbHlES1lhdndlQ2xEQVZXbUhPYm8yQm9wUE5tWWtCUldXTGxrY3RpY0xfOFFzTHhvNkh6Z255eEcwb1Jyal9UcQ?oc=5",
+          "published_at": "2026-10-28T15:00:00+00:00",
+          "excerpt": "SEOs, we need to talk about E-E-A-T Search Engine Land",
+          "fetched_at": "2026-10-28T18:24:15.607744+00:00"
+        },
+        {
+          "title": "How much does Google Ads cost? (2026 data + insights)",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iaVYxV0RyRDgtMnZiUC1ON25scm1YcGI4SDNUN3d4TGx2dkkzMUN4UHBmRm9XQl9EbG1aUDlTd1B3MzJRYm50UzhPVG1KdTI4RHJFcExrQ1RrTmxueFV5dEhETG1iUUh2eUlQREhNemEzZw?oc=5",
+          "published_at": "2026-10-27T18:37:26+00:00",
+          "excerpt": "How much does Google Ads cost? (2026 data + insights) Search Engine Land",
+          "fetched_at": "2026-10-28T18:24:15.607744+00:00"
+        },
+        {
           "title": "Google Ads tests ad group-level seasonal adjustments for App campaigns",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWElIQjlvRnpRWmVmcUw4R3R3NTVLNW9jN2I3YTZyWk1faWVibUgxSE9DUW1mN2tySXVGOFBqbk9qN2sxbzJCc2ota3lwcVF3ZVRjVUlRQlg1eDU3M3IydHNaem1BVTI4c0tmX1ZoazZ4andUMVNKTWttcm00ekc1Vm1mZDlQejFFSUwyN25GVEV5QWhNbGRYWlpiajItelZCZHY2NnlsMkgyZw?oc=5",
           "published_at": "2026-10-27T18:31:36+00:00",
@@ -4821,13 +4835,6 @@
           "fetched_at": "2026-10-21T17:25:06.456722+00:00"
         },
         {
-          "title": "ChatGPT drop in UTM tracking was a bug",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5",
-          "published_at": "2026-10-20T15:22:36+00:00",
-          "excerpt": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
-          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
-        },
-        {
           "title": "I tested 11 AI search engines: Only these four made the cut",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4YjA5UTBSSG9pQ3lJb1VUMG9kZVl1UlJOY0FpWFVvS2JiSm9wTmZ3OVZxaFltX0FKUkxDSnVPd0lXVmplSlp3QVp3M0hYWnJXTUxzbVh5S2dEbldfLV9LUm5n?oc=5",
           "published_at": "2026-10-20T15:17:45+00:00",
@@ -4889,6 +4896,13 @@
           "published_at": "2026-10-20T11:36:27+00:00",
           "excerpt": "Google review-related appeals delayed Search Engine Land",
           "fetched_at": "2026-10-21T09:27:40.684886+00:00"
+        },
+        {
+          "title": "ChatGPT drop in UTM tracking was a bug",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5",
+          "published_at": "2026-10-20T07:00:00+00:00",
+          "excerpt": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
         },
         {
           "title": "Search Engine Land Awards 2026: Complete finalists list",
@@ -11150,6 +11164,34 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
+          "url": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
+          "published_at": "2026-10-28T14:00:59+00:00",
+          "excerpt": "Understand why Google can serve unindexed hreflang URLs and why market pages need unique local value to stand out in AI search. The post The Hreflang Magic Trick – It Routes, It Doesn’t Rank appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-28T18:24:26.509851+00:00"
+        },
+        {
+          "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
+          "url": "https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/",
+          "published_at": "2026-10-28T13:00:00+00:00",
+          "excerpt": "Decodo has introduced Web Data API, combining scraping, searching, mapping, and crawling under one key for AI agents and retrieval pipelines. The post Decodo Launches Web Data API To Give AI Agents Web Access appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-28T18:24:26.509851+00:00"
+        },
+        {
+          "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
+          "url": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-saeson/593007/",
+          "published_at": "2026-10-28T12:00:45+00:00",
+          "excerpt": "GA4 missed two-thirds of one retailer's holiday orders. What an audit of eight ecommerce brands found, and the check to run before peak season. The post GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-28T18:24:26.509851+00:00"
+        },
+        {
+          "title": "Google Signals A Wider Crackdown On UGC SEO Spam via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/",
+          "published_at": "2026-10-28T11:04:02+00:00",
+          "excerpt": "Google signals that its fight against SEO spam is expanding to new kinds of platforms, tools, and services. The post Google Signals A Wider Crackdown On UGC SEO Spam appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-28T18:24:26.509851+00:00"
+        },
+        {
           "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
           "published_at": "2026-10-27T20:06:27+00:00",
@@ -11178,7 +11220,7 @@
           "fetched_at": "2026-10-27T18:08:00.927166+00:00"
         },
         {
-          "title": "ChatGPT Data: 1 In 5 Consumer Messages Now Seek Information via @sejournal, @MattGSouthern",
+          "title": "Looking Things Up Now Rivals Writing In ChatGPT, OpenAI Data Shows via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/chatgpt-signals-consumer-messages-information-seeking/594527/",
           "published_at": "2026-10-27T14:13:30+00:00",
           "excerpt": "Looking things up now makes up about as large a share of consumer ChatGPT messages as writing, though the increase is smaller than earlier data. The post ChatGPT Data: 1 In 5 Consumer Messages Now Seek Information appeared first on Search Engine Journal .",
@@ -11262,16 +11304,16 @@
           "fetched_at": "2026-10-26T18:44:44.909391+00:00"
         },
         {
-          "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
+          "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges",
           "url": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
           "published_at": "2026-10-26T07:45:18+00:00",
           "excerpt": "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-26T10:20:05.605319+00:00"
         },
         {
-          "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
+          "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse",
           "url": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
-          "published_at": "2026-10-24T12:00:00+00:00",
+          "published_at": "2026-10-24T00:00:00+00:00",
           "excerpt": "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover. The post Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-24T16:06:56.406419+00:00"
         },
@@ -16293,6 +16335,13 @@
           "fetched_at": "2026-10-28T10:42:12.184854+00:00"
         },
         {
+          "title": "Top 10 Dealfront (Now Leadfeeder) Competitors & Alternatives In 2026",
+          "url": "https://www.factors.ai/blog/top-10-dealfront-competitors-alternatives",
+          "published_at": "2026-10-28T00:00:00+00:00",
+          "excerpt": "Looking for Dealfront (Now Leadfeeder) competitors? Discover the top 10 alternatives, such as to improve your lead generation efforts.",
+          "fetched_at": "2026-10-28T18:24:37.237638+00:00"
+        },
+        {
           "title": "AI search marketing: how B2B brands get cited in 2026",
           "url": "https://www.factors.ai/blog/ai-search-visibility-for-b2b-saas",
           "published_at": "2026-10-27T00:00:00+00:00",
@@ -17471,6 +17520,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+          "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+          "published_at": "2026-10-28T00:00:00+00:00",
+          "excerpt": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side trace comparisons, and automate evaluati…",
+          "fetched_at": "2026-10-28T18:24:41.905043+00:00"
+        },
+        {
           "title": "Fast, reliable A2UI, with swappable inference formats",
           "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
           "published_at": "2026-10-27T00:00:00+00:00",
@@ -17993,6 +18049,48 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Dive into new topics with immersive explorations in the Gemini app.",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+          "published_at": "2026-10-28T18:00:00+00:00",
+          "excerpt": "Today, we are rolling out immersive explorations in the new Gemini student hub.",
+          "fetched_at": "2026-10-28T18:24:42.784734+00:00"
+        },
+        {
+          "title": "Gemini 4 Carbon: our next frontier model",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "published_at": "2026-10-28T17:00:00+00:00",
+          "excerpt": "Faceted iridescent crystal surrounded by floating white number 4s.",
+          "fetched_at": "2026-10-28T18:24:42.784734+00:00"
+        },
+        {
+          "title": "XREAL AURA: Wired XR glasses to watch, work, and play",
+          "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+          "published_at": "2026-10-28T17:00:00+00:00",
+          "excerpt": "XREAL AURA",
+          "fetched_at": "2026-10-28T18:24:42.784734+00:00"
+        },
+        {
+          "title": "Build and manage Connected Apps in one place",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+          "published_at": "2026-10-28T17:00:00+00:00",
+          "excerpt": "A split-screen graphic showing a Google search interface connecting to Gemini to confirm a dinner reservation.",
+          "fetched_at": "2026-10-28T18:24:42.784734+00:00"
+        },
+        {
+          "title": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.",
+          "url": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
+          "published_at": "2026-10-28T17:00:00+00:00",
+          "excerpt": "Chrome enhanced autofill",
+          "fetched_at": "2026-10-28T18:24:42.784734+00:00"
+        },
+        {
+          "title": "Indie Games Fund in Africa: Meet the selected studios",
+          "url": "https://blog.google/products-and-platforms/platforms/google-pay/indie-games-fund-africa-selected-studios/",
+          "published_at": "2026-10-28T14:00:00+00:00",
+          "excerpt": "Header graphic for Indie Games Fund Africa featuring a blue cartoon character celebrating next to a large yellow ring and two sparkling stars against a teal background, with the Google Play logo in the bottom right corner.",
+          "fetched_at": "2026-10-28T18:24:42.784734+00:00"
+        },
         {
           "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
