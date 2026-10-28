@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T18:08:17.166480+00:00",
+  "last_updated": "2026-10-28T10:42:16.050408+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "AI Discoverability, Page types, and more (September 2026)",
+          "url": "https://ahrefs.com/blog/new-features-september-2026/",
+          "published_at": "2026-10-28T08:34:28+00:00",
+          "excerpt": "We’ve got 5 updates this month, from a brand-new AI Discoverability category in Site Audit to Page types in Site Explorer, and more. Let’s dive in. AI Discoverability issues AI Discoverability is a new issue category in Site Audit. It … Read more ›",
+          "fetched_at": "2026-10-28T10:41:48.815880+00:00"
+        },
         {
           "title": "Affiliate Marketing: What It Is & How to Start in 2026",
           "url": "https://ahrefs.com/blog/affiliate-marketing/",
@@ -4394,6 +4401,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google Ads tests ad group-level seasonal adjustments for App campaigns",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWElIQjlvRnpRWmVmcUw4R3R3NTVLNW9jN2I3YTZyWk1faWVibUgxSE9DUW1mN2tySXVGOFBqbk9qN2sxbzJCc2ota3lwcVF3ZVRjVUlRQlg1eDU3M3IydHNaem1BVTI4c0tmX1ZoazZ4andUMVNKTWttcm00ekc1Vm1mZDlQejFFSUwyN25GVEV5QWhNbGRYWlpiajItelZCZHY2NnlsMkgyZw?oc=5",
+          "published_at": "2026-10-27T18:31:36+00:00",
+          "excerpt": "Google Ads tests ad group-level seasonal adjustments for App campaigns Search Engine Land",
+          "fetched_at": "2026-10-28T10:41:50.168213+00:00"
+        },
+        {
           "title": "44% of SEOs are more worried about AI than a year ago: Survey",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2Y2cUc2WVIySGpsU0prMWtoQTFIWThIaVFybFlfek94NDRlcmRtNXNKSUdNTjV3UnoyMHQxZDF3ZU5pN3FwT211a3V6YXZpLW4yMk0xbTNIRDY4Qm12aWUyaTJNaXI5bUVvWE5Xa3h1TUtNZTFVOEJ6aFZlamM4NFlyVjBGdw?oc=5",
           "published_at": "2026-10-27T16:00:32+00:00",
@@ -4905,13 +4919,6 @@
           "fetched_at": "2026-10-20T17:22:51.544894+00:00"
         },
         {
-          "title": "Content pruning case study: Cutting 33% of pages that drove just 3% of clicks",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kQ1hneFFJYklZYUNvdnF6X3VyX3E2SGttLVhtaGxDYUhIbjBSeTNPWmR3Zk95bkNnUjBuRFcyTjUwOFhkaTRrWDVER2JiNFg1S1dITTZwcDNHdGJVMXd0SmNHRjZFQnpqUVVBdGw2UQ?oc=5",
-          "published_at": "2026-10-19T15:00:00+00:00",
-          "excerpt": "Content pruning case study: Cutting 33% of pages that drove just 3% of clicks Search Engine Land",
-          "fetched_at": "2026-10-20T09:31:48.499639+00:00"
-        },
-        {
           "title": "10 B2B SEO statistics",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0S0o5TmdYWS1nRDJCaU4tanRkTDFOWDNDc1dLdG1QVS1Sbkc4aEtZUjNBbnk3eG5EVkhGWnQwNWl2OGdSSVJhU2t1NjRpeTdkRThTZUQ4Q1pkWjVodHRjNi10Zw?oc=5",
           "published_at": "2026-10-19T14:26:30+00:00",
@@ -4938,6 +4945,13 @@
           "published_at": "2026-10-19T12:00:00+00:00",
           "excerpt": "AI and local search: The new rules of visibility in 2027 Search Engine Land",
           "fetched_at": "2026-10-22T17:23:13.328698+00:00"
+        },
+        {
+          "title": "Content pruning case study: Cutting 33% of pages that drove just 3% of clicks",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kQ1hneFFJYklZYUNvdnF6X3VyX3E2SGttLVhtaGxDYUhIbjBSeTNPWmR3Zk95bkNnUjBuRFcyTjUwOFhkaTRrWDVER2JiNFg1S1dITTZwcDNHdGJVMXd0SmNHRjZFQnpqUVVBdGw2UQ?oc=5",
+          "published_at": "2026-10-19T07:00:00+00:00",
+          "excerpt": "Content pruning case study: Cutting 33% of pages that drove just 3% of clicks Search Engine Land",
+          "fetched_at": "2026-10-20T09:31:48.499639+00:00"
         },
         {
           "title": "10 ways to create helpful content + examples and checklist",
@@ -5003,13 +5017,6 @@
           "fetched_at": "2026-10-22T09:30:52.075485+00:00"
         },
         {
-          "title": "How entity confusion can hurt your brand’s AI visibility",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DRVl2NmNqTk9JUWUta0s5SDhRQXFxOXMzNWI0VURtZmc0bjFsZkdwT1FMSmgwT2JpeW5WcWo3Uy1RWXIzWVZOc1YtM25SVE5hZnV2amp5LW00YWdfbDV3dDIxQ3hUZnczVnNPVmZjMXhtX09IQ1doVGoyNA?oc=5",
-          "published_at": "2026-10-15T14:00:00+00:00",
-          "excerpt": "How entity confusion can hurt your brand’s AI visibility Search Engine Land",
-          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
-        },
-        {
           "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5",
           "published_at": "2026-10-15T13:09:40+00:00",
@@ -5056,6 +5063,13 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5",
           "published_at": "2026-10-15T07:00:00+00:00",
           "excerpt": "Meta introduces new brand advertising formats across Facebook and Instagram Search Engine Land",
+          "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "How entity confusion can hurt your brand’s AI visibility",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DRVl2NmNqTk9JUWUta0s5SDhRQXFxOXMzNWI0VURtZmc0bjFsZkdwT1FMSmgwT2JpeW5WcWo3Uy1RWXIzWVZOc1YtM25SVE5hZnV2amp5LW00YWdfbDV3dDIxQ3hUZnczVnNPVmZjMXhtX09IQ1doVGoyNA?oc=5",
+          "published_at": "2026-10-15T07:00:00+00:00",
+          "excerpt": "How entity confusion can hurt your brand’s AI visibility Search Engine Land",
           "fetched_at": "2026-10-16T09:08:11.790465+00:00"
         },
         {
@@ -11136,6 +11150,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
+          "published_at": "2026-10-27T20:06:27+00:00",
+          "excerpt": "Rajan Patel wrote on X that disabled source clicks on Google Discover AI summaries were a bug in an experiment that has been turned off. The post Google: Disabled Discover Clicks Were A Bug In An Experiment appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-28T10:42:01.581214+00:00"
+        },
+        {
+          "title": "Why We Should Fear The Shadow Web We’re Building For AI via @sejournal, @chrisgreenseo",
+          "url": "https://www.searchenginejournal.com/why-we-should-fear-the-shadow-web-were-building-for-ai/593930/",
+          "published_at": "2026-10-27T19:00:25+00:00",
+          "excerpt": "Why would an AI search provider keep trusting information a brand hides from its own website? The parallels with cloaking are too close to ignore. The post Why We Should Fear The Shadow Web We’re Building For AI appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-28T10:42:01.581214+00:00"
+        },
+        {
           "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads via @sejournal, @brookeosmundson",
           "url": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
           "published_at": "2026-10-27T17:11:52+00:00",
@@ -11143,7 +11171,7 @@
           "fetched_at": "2026-10-27T18:08:00.927166+00:00"
         },
         {
-          "title": "Shopify Moves AI Agent Knowledge Base Into Merchant Admin via @sejournal, @MattGSouthern",
+          "title": "Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
           "published_at": "2026-10-27T15:39:22+00:00",
           "excerpt": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts. The post Shopify Moves AI Agent Knowledge Base Into Merchant Admin appeared first on Search Engine Journal .",
@@ -11276,13 +11304,6 @@
           "fetched_at": "2026-10-23T17:19:13.723187+00:00"
         },
         {
-          "title": "Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO via @sejournal, @rollerblader",
-          "url": "https://www.searchenginejournal.com/ask-an-seo-do-comparison-posts-roundups-listicles-still-have-any-value/585084/",
-          "published_at": "2026-10-22T19:00:47+00:00",
-          "excerpt": "Roundups and comparison posts can still win customers, build trust, and grow audiences when you create them for readers instead of rankings. The post Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-23T09:27:01.929158+00:00"
-        },
-        {
           "title": "Google CEO Says Agents Will Hit Sites Two Ways, Pages And APIs via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/pichai-ai-agents-browsing-protocols/593986/",
           "published_at": "2026-10-22T15:36:05+00:00",
@@ -11323,6 +11344,13 @@
           "published_at": "2026-10-22T00:00:00+00:00",
           "excerpt": "Reddit conversations can become news stories. Brands that listen and respond gain a chance to address problems before coverage follows. The post Why Reddit Belongs In Your PR Strategy appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-22T17:23:24.526552+00:00"
+        },
+        {
+          "title": "Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO",
+          "url": "https://www.searchenginejournal.com/ask-an-seo-do-comparison-posts-roundups-listicles-still-have-any-value/585084/",
+          "published_at": "2026-10-22T00:00:00+00:00",
+          "excerpt": "Roundups and comparison posts can still win customers, build trust, and grow audiences when you create them for readers instead of rankings. The post Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-23T09:27:01.929158+00:00"
         },
         {
           "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks",
@@ -16257,6 +16285,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "LinkedIn ABM: How to Run Account-Based Marketing Campaigns",
+          "url": "https://www.factors.ai/blog/linkedin-abm",
+          "published_at": "2026-10-28T00:00:00+00:00",
+          "excerpt": "Learn how to run LinkedIn ABM campaigns, build target account lists, personalize ads, and measure account engagement, pipeline, and revenue impact.",
+          "fetched_at": "2026-10-28T10:42:12.184854+00:00"
+        },
         {
           "title": "AI search marketing: how B2B brands get cited in 2026",
           "url": "https://www.factors.ai/blog/ai-search-visibility-for-b2b-saas",
