@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T18:24:42.787738+00:00",
+  "last_updated": "2026-10-29T10:59:22.370479+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4401,11 +4401,46 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google expands ads in AI Mode to 10 new markets, with UK and Brazil next",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVc3WUtNb3d2eTFBekp6a2I5LW9vc3dEUW92MFdMVUlialh3SW9SMlhvdThkNy1GWk51R1N0MW83SzczYjJFd042TmVxWTNuR2NWUUg2VTJWRmRNUWNOY1I0b2RZTnozUDBqbmotU215dTRKeDBjc1RiM2JTTGRQenpiYy1uWUlOVVF3VDdteWZpMGcwN21uNzhJd29PSnRrdEdnOTZiNXpGbFk?oc=5",
+          "published_at": "2026-10-29T03:05:26+00:00",
+          "excerpt": "Google expands ads in AI Mode to 10 new markets, with UK and Brazil next Search Engine Land",
+          "fetched_at": "2026-10-29T10:58:55.831192+00:00"
+        },
+        {
+          "title": "Google Ads adds ‘All Conversions’ tab to simplify conversion tracking and audits",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDh4eHJvVm01OVR0UnU2dDkyVEtYS3ZJZlBRYjVPVXVaN3FELVJyZUN3dW1TWExKU2NNOHQ1T2RsNHMtMW1UMzZ2SFRHbWI5MElJNlFqTzkwU1pDQV9MamZCYmMxV09jQkwxRjJzcTExY25feGFjaXQyUEQtblNHNEZWVnNZakk4WGk1cGUyVTZfeGIzVUw5bS1wdGxPSlktRmFwYVdrV0lOOGhQV25NVWstTDU?oc=5",
+          "published_at": "2026-10-28T16:25:24+00:00",
+          "excerpt": "Google Ads adds ‘All Conversions’ tab to simplify conversion tracking and audits Search Engine Land",
+          "fetched_at": "2026-10-29T10:58:55.831192+00:00"
+        },
+        {
           "title": "SEOs, we need to talk about E-E-A-T",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlN2c4Tjd5ZVZDV1FaR2lXTV9JOFJJVHRIbHlES1lhdndlQ2xEQVZXbUhPYm8yQm9wUE5tWWtCUldXTGxrY3RpY0xfOFFzTHhvNkh6Z255eEcwb1Jyal9UcQ?oc=5",
           "published_at": "2026-10-28T15:00:00+00:00",
           "excerpt": "SEOs, we need to talk about E-E-A-T Search Engine Land",
           "fetched_at": "2026-10-28T18:24:15.607744+00:00"
+        },
+        {
+          "title": "Human-first SEO: The risks of optimizing for AI over users",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEtBTnBMYkdwc1g0X1ZtS3RGZWNUNENOLXVuMUxGVXlKemZHcTR6SDdBelVFZGFBeXBsUnE2VllTbGtldWNXUTVwNWZXN29nNHhtNnF1TXB6c3dSWXhUbEFFSDRBVm1BaHQzOWgwcV9keWl4OTZ5QmdNTk14dGNrWmtIM19XUUs5TFloeHRjdHJJTzNVU2t0Tg?oc=5",
+          "published_at": "2026-10-28T13:00:00+00:00",
+          "excerpt": "Human-first SEO: The risks of optimizing for AI over users Search Engine Land",
+          "fetched_at": "2026-10-29T10:58:55.831192+00:00"
+        },
+        {
+          "title": "Organic traffic is down, but it’s not all AI",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reW5yN1FfM3FmRFB3ZktvbHRMMDRBVW9ZUGo3bERZZkxUQ0Y0Y3hXT0wyRzJSTi1ZamY2MFRDbjZ0djZoT2hRYjYxeGhnZ2FoZ1Y0QmMtOHQ1ZHpnTlp2eDZnU0ltdF8tOFcxWDVhMkRCREJ0b0E?oc=5",
+          "published_at": "2026-10-28T12:00:00+00:00",
+          "excerpt": "Organic traffic is down, but it’s not all AI Search Engine Land",
+          "fetched_at": "2026-10-29T10:58:55.831192+00:00"
+        },
+        {
+          "title": "Affiliate marketing: Tips, tricks, and best practices for 2026",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhc1ZKUUdzbFEyQURmZ05ySzBKZUVUOUUxZEJMbmtmTi1DR19QQU1pOHhzMFkxV3dWTWdpQlV3YTBtTTBORTVhTERBVVh0Y0pLN3NpMUZqZDMzTmQ2RGtIUjNQbENXbWF2TTEwaTkwcUE?oc=5",
+          "published_at": "2026-10-27T19:20:14+00:00",
+          "excerpt": "Affiliate marketing: Tips, tricks, and best practices for 2026 Search Engine Land",
+          "fetched_at": "2026-10-29T10:58:55.831192+00:00"
         },
         {
           "title": "How much does Google Ads cost? (2026 data + insights)",
@@ -4877,13 +4912,6 @@
           "fetched_at": "2026-10-21T17:25:06.456722+00:00"
         },
         {
-          "title": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
-          "published_at": "2026-10-20T12:30:00+00:00",
-          "excerpt": "Generative engine optimization (GEO): How to win AI mentions Search Engine Land",
-          "fetched_at": "2026-09-25T09:41:59.840113+00:00"
-        },
-        {
           "title": "5 underrated tools to boost your B2B PPC performance in 2027",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS1M3anRrRVh2N3hQY011MmNXTFZaTTV6aV9ocmtFS2RIVVlUekg5X2xzS25HMkRRM3laNzE3V2JqaWt4NVNPaTBNWmRlRWVVR0k0SUY3a3dpclJrMmxMVWdkeExLRkZFMVF0dWNRRzNpYm1yeTJOVTZoeFU4OVhyUW94eVg?oc=5",
           "published_at": "2026-10-20T12:00:00+00:00",
@@ -4896,6 +4924,13 @@
           "published_at": "2026-10-20T11:36:27+00:00",
           "excerpt": "Google review-related appeals delayed Search Engine Land",
           "fetched_at": "2026-10-21T09:27:40.684886+00:00"
+        },
+        {
+          "title": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
+          "published_at": "2026-10-20T07:00:00+00:00",
+          "excerpt": "Generative engine optimization (GEO): How to win AI mentions Search Engine Land",
+          "fetched_at": "2026-09-25T09:41:59.840113+00:00"
         },
         {
           "title": "ChatGPT drop in UTM tracking was a bug",
@@ -5138,7 +5173,7 @@
         {
           "title": "Is real-time marketing finally real?",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zcG5yVVZyN2lEblZYUXNIdkpscXV5dy1scmM3cjlTN01uRGIzUUZkODRpRzFHZDdSdDFYVGFmSlZhQlQ5TlRENW1jVUtuZWx1MndmLVVFQ1ZZRmhnUGlKMmJ1a3NReHp3LXlfeHhwZW5qdkdMMkQ5Vm4yTQ?oc=5",
-          "published_at": "2026-10-14T11:00:00+00:00",
+          "published_at": "2026-10-14T07:00:00+00:00",
           "excerpt": "Is real-time marketing finally real? Search Engine Land",
           "fetched_at": "2026-10-14T17:23:06.129107+00:00"
         },
@@ -11164,6 +11199,48 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/",
+          "published_at": "2026-10-29T07:45:03+00:00",
+          "excerpt": "Watch our team audit a real website live with Loren Baker and Vahan Petrosyan, and learn which technical SEO & AI-readiness checks your audit needs. The post Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-29T10:59:07.414409+00:00"
+        },
+        {
+          "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-search-growth-slows-again-ai-mode/594862/",
+          "published_at": "2026-10-28T23:12:24+00:00",
+          "excerpt": "Google Search revenue growth slowed for a second straight quarter, and lower AI Mode monetization was one reason given. The post Google Says Lower AI Mode Monetization Weighed On Search Growth appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-29T10:59:07.414409+00:00"
+        },
+        {
+          "title": "WordPress Announces Another Security Release: Version 7.1.4 via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/",
+          "published_at": "2026-10-28T22:14:34+00:00",
+          "excerpt": "WordPress announced security release version 7.1.4 that fixes 22 vulnerabilities, including one that affects its updater. The post WordPress Announces Another Security Release: Version 7.1.4 appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-29T10:59:07.414409+00:00"
+        },
+        {
+          "title": "Google Lets Restaurants Directly Opt Out Of Ordering Providers via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
+          "published_at": "2026-10-28T22:11:43+00:00",
+          "excerpt": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Lets Restaurants Directly Opt Out Of Ordering Providers appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-29T10:59:07.414409+00:00"
+        },
+        {
+          "title": "AI-Cited Pages More Often Got Straight To The Answer via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
+          "published_at": "2026-10-28T20:42:47+00:00",
+          "excerpt": "Pages cited by AI often answered a question in their first lines, though the gap was smaller against pages AI pulled up but didn’t cite. The post AI-Cited Pages More Often Got Straight To The Answer appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-29T10:59:07.414409+00:00"
+        },
+        {
+          "title": "Bitly’s New Data Says SEOs Are Half Right About Short Links via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
+          "published_at": "2026-10-28T19:00:59+00:00",
+          "excerpt": "Bitly's survey shows why SEOs should look beyond short links to fix mismatched landing pages and rethink what click-through rates reveal. The post Bitly’s New Data Says SEOs Are Half Right About Short Links appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-29T10:59:07.414409+00:00"
+        },
+        {
           "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
           "url": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
           "published_at": "2026-10-28T14:00:59+00:00",
@@ -11185,14 +11262,21 @@
           "fetched_at": "2026-10-28T18:24:26.509851+00:00"
         },
         {
-          "title": "Google Signals A Wider Crackdown On UGC SEO Spam via @sejournal, @martinibuster",
+          "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
+          "url": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-season/593007/",
+          "published_at": "2026-10-28T12:00:45+00:00",
+          "excerpt": "GA4 missed two-thirds of one retailer's holiday orders. What an audit of eight ecommerce brands found, and the check to run before peak season. The post GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-29T10:59:07.414409+00:00"
+        },
+        {
+          "title": "Google Signals A Wider Crackdown On SEO Spam via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/",
           "published_at": "2026-10-28T11:04:02+00:00",
           "excerpt": "Google signals that its fight against SEO spam is expanding to new kinds of platforms, tools, and services. The post Google Signals A Wider Crackdown On UGC SEO Spam appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-28T18:24:26.509851+00:00"
         },
         {
-          "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
+          "title": "Google Turns Off Discover Experiment After AI Summary Source Bug via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
           "published_at": "2026-10-27T20:06:27+00:00",
           "excerpt": "Rajan Patel wrote on X that disabled source clicks on Google Discover AI summaries were a bug in an experiment that has been turned off. The post Google: Disabled Discover Clicks Were A Bug In An Experiment appeared first on Search Engine Journal .",
@@ -11269,24 +11353,10 @@
           "fetched_at": "2026-10-27T09:55:12.771367+00:00"
         },
         {
-          "title": "Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing?",
-          "url": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
-          "published_at": "2026-10-26T15:30:04+00:00",
-          "excerpt": "Spot the gaps between Google Ads targets and business growth, from outdated margins and repeat buyers to weak leads and capped reach. The post Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing? appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-26T18:44:44.909391+00:00"
-        },
-        {
           "title": "Google Gets The Thank-You via @sejournal, @pedrodias",
           "url": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
           "published_at": "2026-10-26T14:00:54+00:00",
           "excerpt": "Referral reports show who sent the visit, not who shaped the decision. Why GEO’s real job is what a model learns, not what it retrieves. The post Google Gets The Thank-You appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-26T18:44:44.909391+00:00"
-        },
-        {
-          "title": "Meta Pushes Its Updated Business Terms Back To Nov. 20 via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
-          "published_at": "2026-10-26T13:00:00+00:00",
-          "excerpt": "Meta delayed its updated business terms amid complaints to EU and UK regulators. The permission to crawl sites tied to its business users hasn't changed. The post Meta Delays The Terms That Let It Crawl Business Sites appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-26T18:44:44.909391+00:00"
         },
         {
@@ -11297,18 +11367,32 @@
           "fetched_at": "2026-10-26T18:44:44.909391+00:00"
         },
         {
-          "title": "At Mod World, Reddit’s CEO Just Gave Brands More Reasons To Build Their Own Communities via @sejournal, @brentcsutoras",
-          "url": "https://www.searchenginejournal.com/at-mod-world-reddits-ceo-gave-brands-more-reasons-to-build-communities/594247/",
-          "published_at": "2026-10-26T12:00:17+00:00",
-          "excerpt": "Reddit's community-first plans strengthen the case for brand subreddits built around useful answers and relationships that bring people back. The post At Mod World, Reddit’s CEO Just Gave Brands More Reasons To Build Their Own Communities appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-26T18:44:44.909391+00:00"
-        },
-        {
           "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges",
           "url": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
           "published_at": "2026-10-26T07:45:18+00:00",
           "excerpt": "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-26T10:20:05.605319+00:00"
+        },
+        {
+          "title": "Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing?",
+          "url": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
+          "published_at": "2026-10-26T00:00:00+00:00",
+          "excerpt": "Spot the gaps between Google Ads targets and business growth, from outdated margins and repeat buyers to weak leads and capped reach. The post Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing? appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-26T18:44:44.909391+00:00"
+        },
+        {
+          "title": "Meta Pushes Its Updated Business Terms Back To Nov. 20",
+          "url": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
+          "published_at": "2026-10-26T00:00:00+00:00",
+          "excerpt": "Meta delayed its updated business terms amid complaints to EU and UK regulators. The permission to crawl sites tied to its business users hasn't changed. The post Meta Delays The Terms That Let It Crawl Business Sites appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-26T18:44:44.909391+00:00"
+        },
+        {
+          "title": "At Mod World, Reddit’s CEO Just Gave Brands More Reasons To Build Their Own Communities",
+          "url": "https://www.searchenginejournal.com/at-mod-world-reddits-ceo-gave-brands-more-reasons-to-build-communities/594247/",
+          "published_at": "2026-10-26T00:00:00+00:00",
+          "excerpt": "Reddit's community-first plans strengthen the case for brand subreddits built around useful answers and relationships that bring people back. The post At Mod World, Reddit’s CEO Just Gave Brands More Reasons To Build Their Own Communities appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-26T18:44:44.909391+00:00"
         },
         {
           "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse",
@@ -17527,6 +17611,13 @@
           "fetched_at": "2026-10-28T18:24:41.905043+00:00"
         },
         {
+          "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+          "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+          "published_at": "2026-10-28T00:00:00+00:00",
+          "excerpt": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by approximately 8 MB while enabling seamless, automatic runtime updates ac…",
+          "fetched_at": "2026-10-29T10:59:21.482715+00:00"
+        },
+        {
           "title": "Fast, reliable A2UI, with swappable inference formats",
           "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
           "published_at": "2026-10-27T00:00:00+00:00",
@@ -18049,6 +18140,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Partnering with Singapore to bring frontier AI to public health",
+          "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+          "published_at": "2026-10-29T03:30:00+00:00",
+          "excerpt": "Speakers on stage at the Google for Health Singapore Summit.",
+          "fetched_at": "2026-10-29T10:59:22.367039+00:00"
+        },
+        {
+          "title": "Q3 2026 earnings call: Remarks from our CEO",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
+          "published_at": "2026-10-28T21:05:00+00:00",
+          "excerpt": "Read Sundar Pichai’s remarks during Alphabet’s Q3 2026 earnings call.",
+          "fetched_at": "2026-10-29T10:59:22.367039+00:00"
+        },
         {
           "title": "Dive into new topics with immersive explorations in the Gemini app.",
           "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
