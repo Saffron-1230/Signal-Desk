@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T10:57:04.999552+00:00",
+  "last_updated": "2026-10-30T18:06:50.591933+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "What Is BLUF? How to Write Bottom Line Up Front (+ Free Rewriter Tool)",
+          "url": "https://ahrefs.com/blog/bluf/",
+          "published_at": "2026-10-30T16:27:18+00:00",
+          "excerpt": "BLUF means bottom line up front: put your main point in the first sentence. Here's how to write it, with examples and a free BLUF rewriter. Read more ›",
+          "fetched_at": "2026-10-30T18:06:24.364061+00:00"
+        },
         {
           "title": "How Stable Are AI Citations? 10 Things We Learned Tracking 37,500 Citations",
           "url": "https://ahrefs.com/blog/how-stable-are-ai-citations/",
@@ -4408,6 +4415,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google AI opt-out test finds unexpected drop in organic clicks",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0tON3Nid0pOWFpadlVDa1FwOFYwUzI2T1BlNHNJZGQ3NnFxZ3doQVBLb0F2SW5EbkFzLW5xUlRjNXpOZEJlZm9NbnNXRlg1MlExdGI4N3ZLU3FWWWNfVkR4eWctdTJ5eUduMGRiMXFQVTB6UF81c3h4eHFITUp1QmQzZ2Y?oc=5",
+          "published_at": "2026-10-29T18:57:48+00:00",
+          "excerpt": "Google AI opt-out test finds unexpected drop in organic clicks Search Engine Land",
+          "fetched_at": "2026-10-30T18:06:25.764751+00:00"
+        },
+        {
           "title": "Google AI Mode sends 57% of product links to Google Shopping: Study",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZzNnB6QnRGMmE4bVZ0MlZrSVd6eU9tTmxaOXVMNTlTT0FZVzM2b2pyNEtlUFR4Q3dmSFM2MVV1VmUyQ1lmVy1DZUtGM29NWTFUU1pkSjhsLVJXU1VzTFRnZmRFRk16bVFUSVpuWUV0eFlmS3U5bTAtSWg1NHRtekJpUy1WZlRLaXVkSzJjOA?oc=5",
           "published_at": "2026-10-29T17:21:33+00:00",
@@ -4996,13 +5010,6 @@
           "fetched_at": "2026-10-22T09:30:52.075485+00:00"
         },
         {
-          "title": "Google’s clutterScore: The hidden SEO risk bloggers can’t afford to ignore",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVFMwQ3paQkJCX3RQUmFqZTJuMFdiQWhPVnZFeTc4LWgxTUp2QkNONmt1dGlEQ3dJajczOUJLUGROOXEtcl9OdmZIZEhYLVRDLTA0WVVqSlp5OG1zZnN6eFQ0aFJlUUZjWTlR?oc=5",
-          "published_at": "2026-10-20T15:00:00+00:00",
-          "excerpt": "Google’s clutterScore: The hidden SEO risk bloggers can’t afford to ignore Search Engine Land",
-          "fetched_at": "2026-10-21T09:27:40.684886+00:00"
-        },
-        {
           "title": "How to build an AI-powered SEO outreach workflow",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmo5dFp3VG8zcEUzTlV4X19CWUtNYW1Rc1RkYVJoQlhSNGszN0pMWXRpU1NLSl8zUC1lNmg5VFBxT19RTktKM1Ruemc2dC0xX1NrcDVZSTBrTmNTYmVNLWNZcDRIaEVWRGw2US1FX2tPdTVuUnROU0VlZEF0SVNDb3duR1hFZHRIcmZiWA?oc=5",
           "published_at": "2026-10-20T14:00:00+00:00",
@@ -5050,6 +5057,13 @@
           "published_at": "2026-10-20T07:00:00+00:00",
           "excerpt": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure Search Engine Land",
           "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "Google’s clutterScore: The hidden SEO risk bloggers can’t afford to ignore",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVFMwQ3paQkJCX3RQUmFqZTJuMFdiQWhPVnZFeTc4LWgxTUp2QkNONmt1dGlEQ3dJajczOUJLUGROOXEtcl9OdmZIZEhYLVRDLTA0WVVqSlp5OG1zZnN6eFQ0aFJlUUZjWTlR?oc=5",
+          "published_at": "2026-10-20T07:00:00+00:00",
+          "excerpt": "Google’s clutterScore: The hidden SEO risk bloggers can’t afford to ignore Search Engine Land",
+          "fetched_at": "2026-10-21T09:27:40.684886+00:00"
         },
         {
           "title": "Google Ads asset group A/B testing toggle spotted in Performance Max",
@@ -11318,14 +11332,63 @@
       "color": "#2458d3",
       "articles": [
         {
-          "title": "AI Mode Queries Are 3x Longer – Your Landing Pages May Not Answer Them via @sejournal, @brookeosmundson",
+          "title": "Discord To Put Public Chats On Pages Search Engines Can Show via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
+          "published_at": "2026-10-30T16:38:30+00:00",
+          "excerpt": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord To Put Public Chats On Pages Search Engines Can Show appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
+        },
+        {
+          "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
+          "published_at": "2026-10-30T15:30:24+00:00",
+          "excerpt": "Shopify’s catalog returns a commission next to each promoted product’s price and reviews. What an AI agent does with that number depends on its developer. The post Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
+        },
+        {
+          "title": "The Link Building Graveyard: What To Bury & What Still Wins via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/",
+          "published_at": "2026-10-30T15:11:43+00:00",
+          "excerpt": "Resolve's Michael Johnson outlined a keep-or-cut approach to link building, from qualifying publishers and earning roundup placements to creating linkable assets and a 90-day execution plan. The post The Link Building Graveyard: What To Bury & What Still Wins appeared first on S…",
+          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
+        },
+        {
+          "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
+          "published_at": "2026-10-30T14:17:57+00:00",
+          "excerpt": "Creative enhancements are now on by default in ChatGPT Ads. Here's what they can change, how to opt out, and the tracking questions still open. The post ChatGPT Ads Turns On Automatic Ad Changes By Default appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
+        },
+        {
+          "title": "What Search Console Can Still Tell You When Indexing Data Lags via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/what-search-console-can-still-tell-you-when-indexing-data-lags/595016/",
+          "published_at": "2026-10-30T14:00:00+00:00",
+          "excerpt": "Search Console's Page indexing report has fallen behind before. Here's what Google has said and what each remaining check can show while the data lags. The post What Search Console Can Still Tell You When Indexing Data Lags appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
+        },
+        {
+          "title": "Google’s Q3 Earnings Call Casts Shadow Over Classic Search via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/googles-q3-earnings-call-casts-shadow-over-classic-search/595082/",
+          "published_at": "2026-10-30T13:02:09+00:00",
+          "excerpt": "Google's Q3 earnings call outlined a vision in which traditional Search may no longer be the central experience. The post Google’s Q3 Earnings Call Casts Shadow Over Classic Search appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
+        },
+        {
+          "title": "Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM via @sejournal, @siliconvallaeys",
+          "url": "https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/",
+          "published_at": "2026-10-30T12:02:22+00:00",
+          "excerpt": "Six Google Ads details on Smart Bidding, seasonality adjustments, channel controls and budgeting that PPC teams should check before BFCM. The post Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
+        },
+        {
+          "title": "Google Reveals How AI Search Is Reshaping What Users Query via @sejournal, @brookeosmundson",
           "url": "https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/",
           "published_at": "2026-10-29T20:24:25+00:00",
           "excerpt": "Google’s Ads Decoded explores longer AI Mode queries, earlier discovery, and demand for human perspectives. Here’s what advertisers can consider for 2027. The post AI Mode Queries Are 3x Longer – Your Landing Pages May Not Answer Them appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-30T10:56:53.387317+00:00"
         },
         {
-          "title": "Google Search Revenue Growth Slowed To 12% – AI Mode Ads Are A Reporting Blind Spot via @sejournal, @brookeosmundson",
+          "title": "What Google’s Search Ad Revenue Numbers Signal For AI Search Spend via @sejournal, @brookeosmundson",
           "url": "https://www.searchenginejournal.com/googles-q3-selloff-raises-advertiser-concerns-about-ai-search/595005/",
           "published_at": "2026-10-29T19:47:55+00:00",
           "excerpt": "Google’s Q3 stock plunge puts AI spending and Search ad revenue under scrutiny. Here’s what the earnings reveal for PPC advertisers. The post Google Search Revenue Growth Slowed To 12% – AI Mode Ads Are A Reporting Blind Spot appeared first on Search Engine Journal .",
@@ -11465,13 +11528,6 @@
           "fetched_at": "2026-10-28T10:42:01.581214+00:00"
         },
         {
-          "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
-          "published_at": "2026-10-27T17:11:52+00:00",
-          "excerpt": "Google is testing AI Mode ads informed by connected Gmail and Photos data, as its privacy policy adds an exception for ad personalization. The post Google Privacy Update Lets Connected Apps Shape AI Mode Ads appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-27T18:08:00.927166+00:00"
-        },
-        {
           "title": "Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
           "published_at": "2026-10-27T15:39:22+00:00",
@@ -11497,6 +11553,13 @@
           "url": "https://www.searchenginejournal.com/google-responds-to-concern-over-search-console-indexing-reports/594494/",
           "published_at": "2026-10-27T11:17:59+00:00",
           "excerpt": "John Mueller's responded to a stalled indexing report and explained why SEOs may need to relax about indexing report freshness. The post Google Responds To Concern Over Search Console Indexing Reports appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-27T18:08:00.927166+00:00"
+        },
+        {
+          "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads",
+          "url": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
+          "published_at": "2026-10-27T00:00:00+00:00",
+          "excerpt": "Google is testing AI Mode ads informed by connected Gmail and Photos data, as its privacy policy adds an exception for ad personalization. The post Google Privacy Update Lets Connected Apps Shape AI Mode Ads appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-27T18:08:00.927166+00:00"
         },
         {
@@ -17849,6 +17912,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "DevFest is back!",
+          "url": "https://developers.googleblog.com/devfest-is-back/",
+          "published_at": "2026-10-30T00:00:00+00:00",
+          "excerpt": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain hands-on experience with Google’s developer stack—including…",
+          "fetched_at": "2026-10-30T18:06:49.726962+00:00"
+        },
+        {
           "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
           "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
           "published_at": "2026-10-29T00:00:00+00:00",
@@ -18392,6 +18462,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+          "published_at": "2026-10-30T17:00:00+00:00",
+          "excerpt": "Video showing the Project Suncatcher team explaining the project and reacting to the TPU-generated haiku",
+          "fetched_at": "2026-10-30T18:06:50.588412+00:00"
+        },
+        {
+          "title": "See who has access to your Gmail inbox in 2 minutes.",
+          "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
+          "published_at": "2026-10-30T16:00:00+00:00",
+          "excerpt": "Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
+          "fetched_at": "2026-10-30T18:06:50.588412+00:00"
+        },
         {
           "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
           "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
