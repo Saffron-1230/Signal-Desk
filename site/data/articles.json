@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T18:06:50.591933+00:00",
+  "last_updated": "2026-10-31T10:29:28.858985+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4415,6 +4415,34 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google also gives publishers more control over how AI uses their content",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakxxWFdVaVdCbkNOTndlN2I1OFRMRHNJdGFIVXQxNjdURHN3VXpkaFA4Y0RpMlhua1A3VnR3WWwyWnFqLTAxQTM4WWJ1YkFBWkwyOTJ0Y0ViQldoelhpTzhCOGdyTC1MR2dBdXBTdlhyb3Bab0R4RHVSOWZQbjZwc1p6UlhBaGo4N2lZdkdibl9MQk55ZU1XSjllZkJJQ3IzR1p1eTdnRnhlcHR6?oc=5",
+          "published_at": "2026-10-30T17:02:13+00:00",
+          "excerpt": "Google also gives publishers more control over how AI uses their content Search Engine Land",
+          "fetched_at": "2026-10-31T10:29:05.669274+00:00"
+        },
+        {
+          "title": "Microsoft Bing gives publishers more control over how AI uses their content",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEJPS2laRjZiQTJzWGstczFtVUg2VENMa3VDYUlJdWJlSWVCaWNCYkZ4M1pOY0loRVlFNVVyUV9RYTZuVG5xMzNORi0tUmhYU2JFTEoycVlwYnhsd2hpcjBaMU5idlNSRGg0amF4Z29LaFZSSkdsRGJOOHlXYjR4cGJrWnJhcHV0Rm1nY2QyRWhDZzJ4SlpjSjdjZHU4eFVIbjBiWEYxWUxGNUNjR3F5Qg?oc=5",
+          "published_at": "2026-10-30T16:27:40+00:00",
+          "excerpt": "Microsoft Bing gives publishers more control over how AI uses their content Search Engine Land",
+          "fetched_at": "2026-10-31T10:29:05.669274+00:00"
+        },
+        {
+          "title": "Core Web Vitals optimization can be a waste of time",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYktXcjgwY05lbkJ6Y0FZcDBKU3VFdFdHaUc3NnNuQ3RVRG5YUGFsRlhyM0VSMWtGZHFSS2NHTVJDLTYxbmFXWU1sd3IyQkpsYnpleFVZRjdUYk9QYlg2WGR1ajg0ck53R2lGSjRtVDZheHZHQlhaUU40WHdzbmJyYw?oc=5",
+          "published_at": "2026-10-30T14:00:00+00:00",
+          "excerpt": "Core Web Vitals optimization can be a waste of time Search Engine Land",
+          "fetched_at": "2026-10-31T10:29:05.669274+00:00"
+        },
+        {
+          "title": "Google AI Overviews are pushing News Boxes out of search results: Study",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjRZcU5rU1VjMm01ZkYyN2ZWanUyV1NQZDJUZlU3cnJkd3pRY3dVeTNycUgyRWVhQnRsVW02czJvWDFzczVOTW9IbW43em9mMVFuWE5lNHhBdnhiVmpMcnB4M01MUmlMbERpM3JGWTc3MkJGdzA3MWdfMXYxdFY5emRfdXNFWmNoZTZ1MHdPMWJLeHdzdUlUNlZPNzlVTFdqam5wTHIwUFVhUQ?oc=5",
+          "published_at": "2026-10-30T13:00:00+00:00",
+          "excerpt": "Google AI Overviews are pushing News Boxes out of search results: Study Search Engine Land",
+          "fetched_at": "2026-10-31T10:29:05.669274+00:00"
+        },
+        {
           "title": "Google AI opt-out test finds unexpected drop in organic clicks",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0tON3Nid0pOWFpadlVDa1FwOFYwUzI2T1BlNHNJZGQ3NnFxZ3doQVBLb0F2SW5EbkFzLW5xUlRjNXpOZEJlZm9NbnNXRlg1MlExdGI4N3ZLU3FWWWNfVkR4eWctdTJ5eUduMGRiMXFQVTB6UF81c3h4eHFITUp1QmQzZ2Y?oc=5",
           "published_at": "2026-10-29T18:57:48+00:00",
@@ -4434,6 +4462,13 @@
           "published_at": "2026-10-29T16:51:26+00:00",
           "excerpt": "Step-by-step content marketing plan template Search Engine Land",
           "fetched_at": "2026-10-29T18:34:18.898391+00:00"
+        },
+        {
+          "title": "The latest jobs in search marketing",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+          "published_at": "2026-10-29T16:44:51+00:00",
+          "excerpt": "The latest jobs in search marketing Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "AI traffic drives 83% more revenue per visit for retailers: Adobe",
@@ -4504,6 +4539,13 @@
           "published_at": "2026-10-28T19:59:26+00:00",
           "excerpt": "Redirects 101: A beginner’s guide to setup and best practices Search Engine Land",
           "fetched_at": "2026-10-29T18:34:18.898391+00:00"
+        },
+        {
+          "title": "Squeeze page: Step-by-step tutorial (+ Eemplate)",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oaXBfRDZwOVY5bVYtOUZIdDdNWWNGOTNOUk5NVzhPQU1STC13WjZTSWJUY3htOFVwTTV0N21kLVZrWGZxYzhQTzR1X0VhbnFBTzdKNV9rcTJCNUU?oc=5",
+          "published_at": "2026-10-28T19:19:05+00:00",
+          "excerpt": "Squeeze page: Step-by-step tutorial (+ Eemplate) Search Engine Land",
+          "fetched_at": "2026-10-31T10:29:05.669274+00:00"
         },
         {
           "title": "26 fascinating influencer marketing statistics",
@@ -4751,13 +4793,6 @@
           "fetched_at": "2026-10-25T09:14:56.398393+00:00"
         },
         {
-          "title": "The latest jobs in search marketing",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-          "published_at": "2026-10-23T16:32:18+00:00",
-          "excerpt": "The latest jobs in search marketing Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "When should ecommerce filters become indexable pages?",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02SkVwQTNCU25rX3ROUG9BVVZ6Znlfa2pnaS1rZHBBSGlYUU5UZVc3UmUtcmR6RDFOZWdFT2J6bjZYWFFLaWxJWm02RUxIcW9MMWxpcWhHWWNvTmpiS1VZcjJfdzFhRjFoZFFraEpGa3lIbVNrVnRqYg?oc=5",
           "published_at": "2026-10-23T15:00:00+00:00",
@@ -4856,17 +4891,17 @@
           "fetched_at": "2026-10-23T09:26:51.218958+00:00"
         },
         {
-          "title": "Google Ads expands customer acquisition and retention controls",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0ZSeGNlaXYwLThDWURpMThyekZEeUNBaGhtUkswRWtHVkY5eEJ2OXJnYWhZR0VaU01IYjBOcktsVlAyWUs5MG5SU3JLeUh4bGc2aERwZVZZR1Q5Q1Z4czNPejRJa0RheklkN2dmNjM1blZ2LUNKLTc2QXhUc01nSk1DQk9vWjlCNm5kTTJKNmo4bGdJZlFGaWMzMmF5RWs?oc=5",
-          "published_at": "2026-10-22T12:25:10+00:00",
-          "excerpt": "Google Ads expands customer acquisition and retention controls Search Engine Land",
-          "fetched_at": "2026-10-23T09:26:51.218958+00:00"
-        },
-        {
           "title": "Build something so valuable that Google looks stupid for not ranking it",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVp6RF8tSFpObG00QTl6UExXbmwyQmxXRmxsME5uVW9zaFNxY0ZCZF9rd2w5bkcxejhkT3dJNUIzSWFja252VUpuVUlZaGdYN1N4TDhMTjNNRWdESjNacmRGUW85N3pHakkwNmlVdHI0czZvUzBoNi0zNWU0WWtmTQ?oc=5",
           "published_at": "2026-10-22T12:00:00+00:00",
           "excerpt": "Build something so valuable that Google looks stupid for not ranking it Search Engine Land",
+          "fetched_at": "2026-10-23T09:26:51.218958+00:00"
+        },
+        {
+          "title": "Google Ads expands customer acquisition and retention controls",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0ZSeGNlaXYwLThDWURpMThyekZEeUNBaGhtUkswRWtHVkY5eEJ2OXJnYWhZR0VaU01IYjBOcktsVlAyWUs5MG5SU3JLeUh4bGc2aERwZVZZR1Q5Q1Z4czNPejRJa0RheklkN2dmNjM1blZ2LUNKLTc2QXhUc01nSk1DQk9vWjlCNm5kTTJKNmo4bGdJZlFGaWMzMmF5RWs?oc=5",
+          "published_at": "2026-10-22T07:00:00+00:00",
+          "excerpt": "Google Ads expands customer acquisition and retention controls Search Engine Land",
           "fetched_at": "2026-10-23T09:26:51.218958+00:00"
         },
         {
@@ -4940,13 +4975,6 @@
           "fetched_at": "2026-10-21T17:25:06.456722+00:00"
         },
         {
-          "title": "Google has updated its document on how to block Google Search",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWZESlhUZUNJNE04d1VJcEdXOXNiMmVkMTJ0WVE5S0xSOU5la3NiSFNxeFZ5LWVWallEaWxXeElWT0JhajZSSHUyMHFKMnA0WGJ1UWFROGExQ0RQZjNoeHFPM3pwZzkySUU1SWJVbXNReHh3TVJiNG1nSngzaUE0OVVZRkgxd3RISlA5S0FlNTF5U3B4VDFxRVlmb2tHdw?oc=5",
-          "published_at": "2026-10-21T13:26:52+00:00",
-          "excerpt": "Google has updated its document on how to block Google Search Search Engine Land",
-          "fetched_at": "2026-10-22T09:30:52.075485+00:00"
-        },
-        {
           "title": "Google AI Overviews: Everything you need to know",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRldjSV9OUXdLUWFEcnVoM2pCZE9HMTRGNUoteS1FbFZzaWlYblNpREg1ZUhCSlNuUUlpR3llaFpwWHdEMll1N1NQU2ZxVlRNa05kTm05YV9vQkhUdUR5NkxQMUU1bmVWVjd4cmJ5UWNtLWRvaE1qXzJRR3pmaUVtTU9RMVBzdlczUnJV?oc=5",
           "published_at": "2026-10-21T13:00:00+00:00",
@@ -4954,9 +4982,16 @@
           "fetched_at": "2026-10-21T17:25:06.456722+00:00"
         },
         {
+          "title": "Google has updated its document on how to block Google Search",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWZESlhUZUNJNE04d1VJcEdXOXNiMmVkMTJ0WVE5S0xSOU5la3NiSFNxeFZ5LWVWallEaWxXeElWT0JhajZSSHUyMHFKMnA0WGJ1UWFROGExQ0RQZjNoeHFPM3pwZzkySUU1SWJVbXNReHh3TVJiNG1nSngzaUE0OVVZRkgxd3RISlA5S0FlNTF5U3B4VDFxRVlmb2tHdw?oc=5",
+          "published_at": "2026-10-21T07:00:00+00:00",
+          "excerpt": "Google has updated its document on how to block Google Search Search Engine Land",
+          "fetched_at": "2026-10-22T09:30:52.075485+00:00"
+        },
+        {
           "title": "Does AI drive more direct traffic?",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85dnZkN1ZNQTk5OFF0WngydTVjQlc5TmtURmxPQi10amVUa0tGdzVPQXJ5ZVFLbDNsLVdkS1R0LXJib2M0LVNuMG9EYkNXWUlDZ29pWmd0ZXZSQ19LWXQ2UW0xMHpPVG5abndIcDZpcGY3ZWluWl9jWg?oc=5",
-          "published_at": "2026-10-21T12:00:00+00:00",
+          "published_at": "2026-10-21T07:00:00+00:00",
           "excerpt": "Does AI drive more direct traffic? Search Engine Land",
           "fetched_at": "2026-10-22T09:30:52.075485+00:00"
         },
@@ -5626,13 +5661,6 @@
           "fetched_at": "2026-10-08T11:29:40.289065+00:00"
         },
         {
-          "title": "Google Ads tests new Direct Offer asset for AI Mode promotions",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRThNMHphcE42a3pKcmN6b2NwVHcxektmZWhsYUVlY3NqZ1hQVUZlNzBiZV9PS3huR2VFMkhQWU1kanBfSTFyb1B2VDVHeVgtNnpTdGNHdnZaUkRVLXhtc1NRLUdxTVpiQXpmQXdSSjREaFYzX1ZXTC1IcEpZRWNRdS0wcWdfOWpZYkgzXzR3Sm1sNEpydzRRZE85LTN1UHM?oc=5",
-          "published_at": "2026-10-07T15:28:55+00:00",
-          "excerpt": "Google Ads tests new Direct Offer asset for AI Mode promotions Search Engine Land",
-          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
-        },
-        {
           "title": "Reilly Phelps",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUZFRwam0wYTFBUVV0d2l5bEdGc3VpejFoLWRCd3B3Rk5yZWV5eUM2OEI3R0V2WHE0Vk9jTnJrQzdhd0o2TldWbGh5bndOV2pSbVdJMkR0bWJkX1dDaFE?oc=5",
           "published_at": "2026-10-07T15:00:00+00:00",
@@ -5673,6 +5701,13 @@
           "published_at": "2026-10-07T07:00:00+00:00",
           "excerpt": "Google opens Conversion Lift to Search and Performance Max Search Engine Land",
           "fetched_at": "2026-10-07T18:59:51.769202+00:00"
+        },
+        {
+          "title": "Google Ads tests new Direct Offer asset for AI Mode promotions",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRThNMHphcE42a3pKcmN6b2NwVHcxektmZWhsYUVlY3NqZ1hQVUZlNzBiZV9PS3huR2VFMkhQWU1kanBfSTFyb1B2VDVHeVgtNnpTdGNHdnZaUkRVLXhtc1NRLUdxTVpiQXpmQXdSSjREaFYzX1ZXTC1IcEpZRWNRdS0wcWdfOWpZYkgzXzR3Sm1sNEpydzRRZE85LTN1UHM?oc=5",
+          "published_at": "2026-10-07T07:00:00+00:00",
+          "excerpt": "Google Ads tests new Direct Offer asset for AI Mode promotions Search Engine Land",
+          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
         },
         {
           "title": "57% of beauty consumers don’t start with Google Search",
@@ -11332,6 +11367,41 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/shopify-ceo-ai-peer-review-ratings/595379/",
+          "published_at": "2026-10-31T09:00:00+00:00",
+          "excerpt": "Shopify's performance reviews asked how staff used AI. Its CEO says the answers didn't matter, and the question can give a company a reputation. The post Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-31T10:29:17.570068+00:00"
+        },
+        {
+          "title": "Big Brands Dominate AI Search But Leave Openings For Smaller Sites via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/big-brands-dominate-ai-search-but-leave-openings-for-smaller-sites/595397/",
+          "published_at": "2026-10-31T08:15:08+00:00",
+          "excerpt": "New research identifies a potential weakness in big-brand visibility that smaller publishers may be able to exploit. The post Big Brands Dominate AI Search But Leave Openings For Smaller Sites appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-31T10:29:17.570068+00:00"
+        },
+        {
+          "title": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268/",
+          "published_at": "2026-10-31T07:00:00+00:00",
+          "excerpt": "Developers can apply to bring apps into AI Mode and the Gemini app, and Google's policy bars misleading descriptions meant to get an app picked. The post Google Opens Connected Apps Preview For AI Mode & Gemini appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-31T10:29:17.570068+00:00"
+        },
+        {
+          "title": "Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’ via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/reddit-to-test-login-only-mode-as-google-search-traffic-drops/595270/",
+          "published_at": "2026-10-30T19:47:37+00:00",
+          "excerpt": "Reddit says search referrals are falling and its CEO points to Google's AI Overviews and AI Mode. Here's what its login test means. The post Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’ appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-31T10:29:17.570068+00:00"
+        },
+        {
+          "title": "The AI Search Measurement Gap Brands Must Close In 2027 And Beyond via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/the-ai-search-measurement-gap-brands-must-close-in-2027-and-beyond/593881/",
+          "published_at": "2026-10-30T19:00:00+00:00",
+          "excerpt": "Measure whether AI recommends your brand to buyers, fix outdated sources, and turn shortlist visibility into customer relationships your CFO can value. The post The AI Search Measurement Gap Brands Must Close In 2027 And Beyond appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-31T10:29:17.570068+00:00"
+        },
+        {
           "title": "Discord To Put Public Chats On Pages Search Engines Can Show via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
           "published_at": "2026-10-30T16:38:30+00:00",
@@ -11374,7 +11444,7 @@
           "fetched_at": "2026-10-30T18:06:36.858254+00:00"
         },
         {
-          "title": "Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM via @sejournal, @siliconvallaeys",
+          "title": "Google Says Changing tCPA & Budgets Won’t Reset Learning – 6 BFCM Takeaways via @sejournal, @siliconvallaeys",
           "url": "https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/",
           "published_at": "2026-10-30T12:02:22+00:00",
           "excerpt": "Six Google Ads details on Smart Bidding, seasonality adjustments, channel controls and budgeting that PPC teams should check before BFCM. The post Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM appeared first on Search Engine Journal .",
@@ -11451,7 +11521,7 @@
           "fetched_at": "2026-10-29T10:59:07.414409+00:00"
         },
         {
-          "title": "WordPress Announces Another Security Release: Version 7.1.4 via @sejournal, @martinibuster",
+          "title": "WordPress Announces Another Security Release: Version 7.1.4",
           "url": "https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/",
           "published_at": "2026-10-28T22:14:34+00:00",
           "excerpt": "WordPress announced security release version 7.1.4 that fixes 22 vulnerabilities, including one that affects its updater. The post WordPress Announces Another Security Release: Version 7.1.4 appeared first on Search Engine Journal .",
@@ -11469,13 +11539,6 @@
           "url": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
           "published_at": "2026-10-28T20:42:47+00:00",
           "excerpt": "Pages cited by AI often answered a question in their first lines, though the gap was smaller against pages AI pulled up but didn’t cite. The post AI-Cited Pages More Often Got Straight To The Answer appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-29T10:59:07.414409+00:00"
-        },
-        {
-          "title": "79% Of Consumers Quit Social Links That Land On A Homepage – Bitly Data via @sejournal, @gregjarboe",
-          "url": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
-          "published_at": "2026-10-28T19:00:59+00:00",
-          "excerpt": "Bitly's survey shows why SEOs should look beyond short links to fix mismatched landing pages and rethink what click-through rates reveal. The post Bitly’s New Data Says SEOs Are Half Right About Short Links appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-29T10:59:07.414409+00:00"
         },
         {
@@ -11512,6 +11575,13 @@
           "published_at": "2026-10-28T11:04:02+00:00",
           "excerpt": "Google signals that its fight against SEO spam is expanding to new kinds of platforms, tools, and services. The post Google Signals A Wider Crackdown On UGC SEO Spam appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-28T18:24:26.509851+00:00"
+        },
+        {
+          "title": "79% Of Consumers Quit Social Links That Land On A Homepage – Bitly Data",
+          "url": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
+          "published_at": "2026-10-28T00:00:00+00:00",
+          "excerpt": "Bitly's survey shows why SEOs should look beyond short links to fix mismatched landing pages and rethink what click-through rates reveal. The post Bitly’s New Data Says SEOs Are Half Right About Short Links appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-29T10:59:07.414409+00:00"
         },
         {
           "title": "Google Turns Off Discover Experiment After AI Summary Source Bug via @sejournal, @MattGSouthern",
@@ -18462,6 +18532,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Google Fitbit Edge: On shelves now",
+          "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+          "published_at": "2026-10-30T20:15:00+00:00",
+          "excerpt": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
+          "fetched_at": "2026-10-31T10:29:28.855384+00:00"
+        },
         {
           "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
