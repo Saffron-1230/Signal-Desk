@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T10:29:28.858985+00:00",
+  "last_updated": "2026-10-31T17:17:56.548264+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4821,25 +4821,11 @@
           "fetched_at": "2026-10-25T09:14:56.398393+00:00"
         },
         {
-          "title": "Google Ads adds new image and video sourcing options to Performance Max",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1htdUN3WFoxUm8wVUJfcEY5NUw4VDVBSXJOTXo5M1dGUG1UYll2S0tvLU1ZeHJLcm83ZV9MUlhQbnE1RVYzN0xtOVBfTUVTc04yakZ3S0ZzTV9MOVVpRTJCclc2VkdiWkREWXcycnFNaUVtSlFDVnZFSHlCMVE3cDhKUnB6LWoydEFWaHhheFJGcWF3ZUNLQ25WQWZmT0ZlUUE1WEdReTNjQlE?oc=5",
-          "published_at": "2026-10-22T19:42:40+00:00",
-          "excerpt": "Google Ads adds new image and video sourcing options to Performance Max Search Engine Land",
-          "fetched_at": "2026-10-23T09:26:51.218958+00:00"
-        },
-        {
           "title": "SMX Advanced San Diego 2027 speaker pitches are now open",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUFZIVFNxa2tSaXdHVnMyMGlOZUhHRFpsWEJ0aUt1MlZ1TjRuRG1JZHFUU3dqamZNb2V5a1p6MmQ0MVZsRTE2VVU3LW04NjI3bGI4dVV3VkxjVEkxYk4zWk4ya09obnpT?oc=5",
           "published_at": "2026-10-22T19:04:21+00:00",
           "excerpt": "SMX Advanced San Diego 2027 speaker pitches are now open Search Engine Land",
           "fetched_at": "2026-09-25T17:21:55.849226+00:00"
-        },
-        {
-          "title": "How to conduct an AI + SEO competitor analysis in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkM5R1lGcnJDZ2pvVlNsZEF5aWVvRE95YzQ2VXdYLU1sRllMSTFScnJWR0p1SjBFbGxKX3RrSVJ0X3pHRUE4MXdQYUdMX2NlS0tDUW5TM0k2MlNEZjJwYm5vTGx5M0RmczJLVnlTb1VEQ2phWm5CS2x2NlY5eHZXVm1n?oc=5",
-          "published_at": "2026-10-22T18:52:30+00:00",
-          "excerpt": "How to conduct an AI + SEO competitor analysis in 2026 Search Engine Land",
-          "fetched_at": "2026-10-26T10:19:56.918075+00:00"
         },
         {
           "title": "How to become an SEO expert",
@@ -4854,20 +4840,6 @@
           "published_at": "2026-10-22T17:01:35+00:00",
           "excerpt": "Step-by-step SEO marketing plan template Search Engine Land",
           "fetched_at": "2026-10-23T17:19:02.099727+00:00"
-        },
-        {
-          "title": "Google AI Overviews nearly double for commercial keywords: Study",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzNubTVMX1Z5V1k2Q1pEenN4alRNclZqeFZKVFFCT1BiY210NG1CY0FuSXRVand5aF9KNjU5LThub2puNjZzWnZCbUt6YkJNelhsQUlUZ0FaVnp1cmlwM3htcTRYX2hHbS05bk1qTzQxbF9YZUtaVjBBZGRReW4wUmZhRFVGd2xzOXJtV0lvRi1kQjg?oc=5",
-          "published_at": "2026-10-22T16:17:25+00:00",
-          "excerpt": "Google AI Overviews nearly double for commercial keywords: Study Search Engine Land",
-          "fetched_at": "2026-10-23T09:26:51.218958+00:00"
-        },
-        {
-          "title": "AI brand recommendations vary by platform and week: Study",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc3Nnb3VVbDVuaTBtSUtzT0d2V19wclNUaldOa0VGOVRFTWZNXzVfdF9TVzM0RTBmZkZJMzNyOW1EVEQ4eEcxM0dlZGVRWVQ2Tmx1b1BId1VNQWNWU3lCLTJDVFlKVXRKRHNWQUVpYlItekMxMTNEcENUYVA1bks1Q09BRklrUQ?oc=5",
-          "published_at": "2026-10-22T15:44:09+00:00",
-          "excerpt": "AI brand recommendations vary by platform and week: Study Search Engine Land",
-          "fetched_at": "2026-10-23T09:26:51.218958+00:00"
         },
         {
           "title": "When a key search team member leaves: How to maintain continuity",
@@ -4903,6 +4875,34 @@
           "published_at": "2026-10-22T07:00:00+00:00",
           "excerpt": "Google Ads expands customer acquisition and retention controls Search Engine Land",
           "fetched_at": "2026-10-23T09:26:51.218958+00:00"
+        },
+        {
+          "title": "Google Ads adds new image and video sourcing options to Performance Max",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1htdUN3WFoxUm8wVUJfcEY5NUw4VDVBSXJOTXo5M1dGUG1UYll2S0tvLU1ZeHJLcm83ZV9MUlhQbnE1RVYzN0xtOVBfTUVTc04yakZ3S0ZzTV9MOVVpRTJCclc2VkdiWkREWXcycnFNaUVtSlFDVnZFSHlCMVE3cDhKUnB6LWoydEFWaHhheFJGcWF3ZUNLQ25WQWZmT0ZlUUE1WEdReTNjQlE?oc=5",
+          "published_at": "2026-10-22T07:00:00+00:00",
+          "excerpt": "Google Ads adds new image and video sourcing options to Performance Max Search Engine Land",
+          "fetched_at": "2026-10-23T09:26:51.218958+00:00"
+        },
+        {
+          "title": "Google AI Overviews nearly double for commercial keywords: Study",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzNubTVMX1Z5V1k2Q1pEenN4alRNclZqeFZKVFFCT1BiY210NG1CY0FuSXRVand5aF9KNjU5LThub2puNjZzWnZCbUt6YkJNelhsQUlUZ0FaVnp1cmlwM3htcTRYX2hHbS05bk1qTzQxbF9YZUtaVjBBZGRReW4wUmZhRFVGd2xzOXJtV0lvRi1kQjg?oc=5",
+          "published_at": "2026-10-22T07:00:00+00:00",
+          "excerpt": "Google AI Overviews nearly double for commercial keywords: Study Search Engine Land",
+          "fetched_at": "2026-10-23T09:26:51.218958+00:00"
+        },
+        {
+          "title": "AI brand recommendations vary by platform and week: Study",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc3Nnb3VVbDVuaTBtSUtzT0d2V19wclNUaldOa0VGOVRFTWZNXzVfdF9TVzM0RTBmZkZJMzNyOW1EVEQ4eEcxM0dlZGVRWVQ2Tmx1b1BId1VNQWNWU3lCLTJDVFlKVXRKRHNWQUVpYlItekMxMTNEcENUYVA1bks1Q09BRklrUQ?oc=5",
+          "published_at": "2026-10-22T07:00:00+00:00",
+          "excerpt": "AI brand recommendations vary by platform and week: Study Search Engine Land",
+          "fetched_at": "2026-10-23T09:26:51.218958+00:00"
+        },
+        {
+          "title": "How to conduct an AI + SEO competitor analysis in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkM5R1lGcnJDZ2pvVlNsZEF5aWVvRE95YzQ2VXdYLU1sRllMSTFScnJWR0p1SjBFbGxKX3RrSVJ0X3pHRUE4MXdQYUdMX2NlS0tDUW5TM0k2MlNEZjJwYm5vTGx5M0RmczJLVnlTb1VEQ2phWm5CS2x2NlY5eHZXVm1n?oc=5",
+          "published_at": "2026-10-22T07:00:00+00:00",
+          "excerpt": "How to conduct an AI + SEO competitor analysis in 2026 Search Engine Land",
+          "fetched_at": "2026-10-26T10:19:56.918075+00:00"
         },
         {
           "title": "AI licensing deals and SEO: Which publishers feed ChatGPT, Gemini, Copilot, and Meta AI",
@@ -4961,13 +4961,6 @@
           "fetched_at": "2026-10-22T09:30:52.075485+00:00"
         },
         {
-          "title": "ChatGPT Ads to enable creative enhancements on October 30",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1NkMDg1ZTVmaGVBb2s5TkZzRkhHNy1VYXpzdkc1bUZRQ1JzRGJhblYxVWNwRjh3WERhb1VmNnhWS29MdGJPd2NDZ2dTRnhuem50YlY1ZU1PeXpuZXRhTzFzVXptazB1cmxmbGRFYWtvemFDa09qZWotaG9HWTk5b1QxQjJNU2VHTk55N0k0QzZwb2hGaDN2VA?oc=5",
-          "published_at": "2026-10-21T14:17:06+00:00",
-          "excerpt": "ChatGPT Ads to enable creative enhancements on October 30 Search Engine Land",
-          "fetched_at": "2026-10-22T09:30:52.075485+00:00"
-        },
-        {
           "title": "Why Google reviews will power up your local SEO in 2027",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzltbmNKV252RWVSM082M0htZ0toMDdsdktCUmJyVEk2S1F0VUJRcS1FOG5YelVWYnZ6aG0xM1V0ZERONjhtRUg4U2xtS1pBVnhncFRBZHRoQ2t3empRemY2UXltakhmS29UNnhtT055bzV0UzQ0Xy1QdlBRaHRhNWFuZjE?oc=5",
           "published_at": "2026-10-21T14:00:00+00:00",
@@ -4986,6 +4979,13 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWZESlhUZUNJNE04d1VJcEdXOXNiMmVkMTJ0WVE5S0xSOU5la3NiSFNxeFZ5LWVWallEaWxXeElWT0JhajZSSHUyMHFKMnA0WGJ1UWFROGExQ0RQZjNoeHFPM3pwZzkySUU1SWJVbXNReHh3TVJiNG1nSngzaUE0OVVZRkgxd3RISlA5S0FlNTF5U3B4VDFxRVlmb2tHdw?oc=5",
           "published_at": "2026-10-21T07:00:00+00:00",
           "excerpt": "Google has updated its document on how to block Google Search Search Engine Land",
+          "fetched_at": "2026-10-22T09:30:52.075485+00:00"
+        },
+        {
+          "title": "ChatGPT Ads to enable creative enhancements on October 30",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1NkMDg1ZTVmaGVBb2s5TkZzRkhHNy1VYXpzdkc1bUZRQ1JzRGJhblYxVWNwRjh3WERhb1VmNnhWS29MdGJPd2NDZ2dTRnhuem50YlY1ZU1PeXpuZXRhTzFzVXptazB1cmxmbGRFYWtvemFDa09qZWotaG9HWTk5b1QxQjJNU2VHTk55N0k0QzZwb2hGaDN2VA?oc=5",
+          "published_at": "2026-10-21T07:00:00+00:00",
+          "excerpt": "ChatGPT Ads to enable creative enhancements on October 30 Search Engine Land",
           "fetched_at": "2026-10-22T09:30:52.075485+00:00"
         },
         {
@@ -11366,6 +11366,13 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/",
+          "published_at": "2026-10-31T12:00:00+00:00",
+          "excerpt": "Google's spam guide adds indexing advice for pages made for sharing. Other updates cover restaurant ordering controls, report dates and AI Mode revenue. The post Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-31T17:17:44.055872+00:00"
+        },
         {
           "title": "Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/shopify-ceo-ai-peer-review-ratings/595379/",
