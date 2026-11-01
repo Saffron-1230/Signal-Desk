@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T11:24:00.758059+00:00",
+  "last_updated": "2026-11-01T17:59:47.277502+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4849,13 +4849,6 @@
           "fetched_at": "2026-10-23T09:26:51.218958+00:00"
         },
         {
-          "title": "Google Merchant Center’s 6 conversational attributes explained",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnZRUkVqZXRCX1hndS0xamVkZmY2S3F0RENpcWpIT0VnY1hYby11dVpaUXY1elZyNk1YeXZvQk1VNElOc0RKdGhEalZyT1JuUDBoRTVxTEotbFFFUzV2ck5Bc3JaRUhacXdmWk1kNlUxX2lmdTVFdi1JUXJjR3ItaDlUNjVKcUloU19PbHhUY2NnYTlBelpvVkNn?oc=5",
-          "published_at": "2026-10-22T13:00:00+00:00",
-          "excerpt": "Google Merchant Center’s 6 conversational attributes explained Search Engine Land",
-          "fetched_at": "2026-10-23T09:26:51.218958+00:00"
-        },
-        {
           "title": "Build something so valuable that Google looks stupid for not ranking it",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVp6RF8tSFpObG00QTl6UExXbmwyQmxXRmxsME5uVW9zaFNxY0ZCZF9rd2w5bkcxejhkT3dJNUIzSWFja252VUpuVUlZaGdYN1N4TDhMTjNNRWdESjNacmRGUW85N3pHakkwNmlVdHI0czZvUzBoNi0zNWU0WWtmTQ?oc=5",
           "published_at": "2026-10-22T12:00:00+00:00",
@@ -4888,6 +4881,13 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzNubTVMX1Z5V1k2Q1pEenN4alRNclZqeFZKVFFCT1BiY210NG1CY0FuSXRVand5aF9KNjU5LThub2puNjZzWnZCbUt6YkJNelhsQUlUZ0FaVnp1cmlwM3htcTRYX2hHbS05bk1qTzQxbF9YZUtaVjBBZGRReW4wUmZhRFVGd2xzOXJtV0lvRi1kQjg?oc=5",
           "published_at": "2026-10-22T07:00:00+00:00",
           "excerpt": "Google AI Overviews nearly double for commercial keywords: Study Search Engine Land",
+          "fetched_at": "2026-10-23T09:26:51.218958+00:00"
+        },
+        {
+          "title": "Google Merchant Center’s 6 conversational attributes explained",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnZRUkVqZXRCX1hndS0xamVkZmY2S3F0RENpcWpIT0VnY1hYby11dVpaUXY1elZyNk1YeXZvQk1VNElOc0RKdGhEalZyT1JuUDBoRTVxTEotbFFFUzV2ck5Bc3JaRUhacXdmWk1kNlUxX2lmdTVFdi1JUXJjR3ItaDlUNjVKcUloU19PbHhUY2NnYTlBelpvVkNn?oc=5",
+          "published_at": "2026-10-22T07:00:00+00:00",
+          "excerpt": "Google Merchant Center’s 6 conversational attributes explained Search Engine Land",
           "fetched_at": "2026-10-23T09:26:51.218958+00:00"
         },
         {
@@ -4940,13 +4940,6 @@
           "fetched_at": "2026-10-22T09:30:52.075485+00:00"
         },
         {
-          "title": "ChatGPT sends less than 1% of Google’s traffic: Data",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1pZbFQtbnZzUktiWnlBSUpJMHBTUDQ0NElLZG91RDZfYWZGRnY1X214aGhiZU9yaEJtZ0tmOXNKLXFBTFlqcFF5dE5neWJCMXhocTRmVTdOZFdXUnBleFRBZThVaEJOQVc3VF9XaFZEem81NXE3YS1yQkhlODZtMg?oc=5",
-          "published_at": "2026-10-21T17:23:09+00:00",
-          "excerpt": "ChatGPT sends less than 1% of Google’s traffic: Data Search Engine Land",
-          "fetched_at": "2026-10-22T09:30:52.075485+00:00"
-        },
-        {
           "title": "Should your PPC landing pages change for AI Overviews?",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmV2MG9BVExWeFVURFR2WmNWWm9PMFRZTUhoQmRkSHkzTXlic2ZDNHRjWU01VDloNHpZcHQtTXlYTzRoWFZOcU9fNElQM0JWRlZSVEVfejdDUkZndWdyNHB6S09hcHRxQlE3STZPVXBZc2tIN3ROeUgxRlhEcWFhRXFpTXNrLWxUMmVfT09PLUJpX0E?oc=5",
           "published_at": "2026-10-21T15:00:00+00:00",
@@ -4972,6 +4965,13 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWZESlhUZUNJNE04d1VJcEdXOXNiMmVkMTJ0WVE5S0xSOU5la3NiSFNxeFZ5LWVWallEaWxXeElWT0JhajZSSHUyMHFKMnA0WGJ1UWFROGExQ0RQZjNoeHFPM3pwZzkySUU1SWJVbXNReHh3TVJiNG1nSngzaUE0OVVZRkgxd3RISlA5S0FlNTF5U3B4VDFxRVlmb2tHdw?oc=5",
           "published_at": "2026-10-21T07:00:00+00:00",
           "excerpt": "Google has updated its document on how to block Google Search Search Engine Land",
+          "fetched_at": "2026-10-22T09:30:52.075485+00:00"
+        },
+        {
+          "title": "ChatGPT sends less than 1% of Google’s traffic: Data",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1pZbFQtbnZzUktiWnlBSUpJMHBTUDQ0NElLZG91RDZfYWZGRnY1X214aGhiZU9yaEJtZ0tmOXNKLXFBTFlqcFF5dE5neWJCMXhocTRmVTdOZFdXUnBleFRBZThVaEJOQVc3VF9XaFZEem81NXE3YS1yQkhlODZtMg?oc=5",
+          "published_at": "2026-10-21T07:00:00+00:00",
+          "excerpt": "ChatGPT sends less than 1% of Google’s traffic: Data Search Engine Land",
           "fetched_at": "2026-10-22T09:30:52.075485+00:00"
         },
         {
@@ -11247,6 +11247,13 @@
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
+          "title": "Olaf Kopp",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tdWNBNGJSbXhFQUdXZ0NNUzREdGljWHRQTnhmV3MxZnJsdnBBUlhUVEd3ZU1Ic0tVZ3dQRlBsQ1B2NjRvSVVwR0N5YlY1Tk5NaTFEUDR3VnQ?oc=5",
+          "published_at": "2022-03-18T10:00:19+00:00",
+          "excerpt": "Olaf Kopp Search Engine Land",
+          "fetched_at": "2026-11-01T17:59:29.923080+00:00"
+        },
+        {
           "title": "Jason Tabeling",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIM1ZKdnhqbXpNbU1GdGk2LTFPb3RuZXY2M0ZpSjJXMmw1UG9vVXhGdkpnWGJ4RnhDa25Ja2VpRDhJTC1zUjNEd2p2ZF9BSkFwTFYybXpmbUNwVm9pSmR3?oc=5",
           "published_at": "2022-03-07T11:00:15+00:00",
@@ -16740,6 +16747,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "Time Decay Attribution Model Explained",
+          "url": "https://www.factors.ai/blog/time-decay-attribution-model",
+          "published_at": "2026-11-01T00:00:00+00:00",
+          "excerpt": "Learn how the time decay attribution model works — including the half-life formula, a step-by-step B2B example, when to use it, and how it stacks up against last-click, linear, and position-based models.",
+          "fetched_at": "2026-11-01T17:59:43.361128+00:00"
+        },
         {
           "title": "LinkedIn ABM: How to Run Account-Based Marketing Campaigns",
           "url": "https://www.factors.ai/blog/linkedin-abm",
