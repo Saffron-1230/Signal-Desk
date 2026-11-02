@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T17:59:47.277502+00:00",
+  "last_updated": "2026-11-02T12:42:10.896946+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -5731,13 +5731,6 @@
           "fetched_at": "2026-10-07T11:11:48.929180+00:00"
         },
         {
-          "title": "Google rolls out Merchant Center UCP integration hub in the U.S.",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeW92OGdTZkYxVGNhd3FqS29GVktPYzJ6UVlfUmxuLVlfZHlDaVliTTdBNExmMGdmR0ZvTnNFYS1RVm96S2hQYmt2U0FtSEUyUXZHa2d4S2I0dVBoSkd5S29adzF4SUxVMnR2RHlMcGZSWGVfbl9zNkpQenNNak5QbkoySzVyekxSNWlpQU44blRfVnBCV0lMdUdJWkkzS3BG?oc=5",
-          "published_at": "2026-10-06T17:35:03+00:00",
-          "excerpt": "Google rolls out Merchant Center UCP integration hub in the U.S. Search Engine Land",
-          "fetched_at": "2026-10-08T18:55:36.147153+00:00"
-        },
-        {
           "title": "How to do a website audit in five steps (+ Checklist)",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IZjhBeFdnTDA5cXNQV2lmZWtsSGlCbnhBNkpXZGx3LVIydUpoUnhmWmRrRFRQcks5R29ud2ZMb3hFWHpVZFZNYUpaVHFPaDliNjFwMEtKSXJYZ081?oc=5",
           "published_at": "2026-10-06T17:30:18+00:00",
@@ -5792,6 +5785,13 @@
           "published_at": "2026-10-06T07:00:00+00:00",
           "excerpt": "Information gain: How top content leaders win at SEO Search Engine Land",
           "fetched_at": "2026-10-07T11:11:48.929180+00:00"
+        },
+        {
+          "title": "Google rolls out Merchant Center UCP integration hub in the U.S.",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeW92OGdTZkYxVGNhd3FqS29GVktPYzJ6UVlfUmxuLVlfZHlDaVliTTdBNExmMGdmR0ZvTnNFYS1RVm96S2hQYmt2U0FtSEUyUXZHa2d4S2I0dVBoSkd5S29adzF4SUxVMnR2RHlMcGZSWGVfbl9zNkpQenNNak5QbkoySzVyekxSNWlpQU44blRfVnBCV0lMdUdJWkkzS3BG?oc=5",
+          "published_at": "2026-10-06T07:00:00+00:00",
+          "excerpt": "Google rolls out Merchant Center UCP integration hub in the U.S. Search Engine Land",
+          "fetched_at": "2026-10-08T18:55:36.147153+00:00"
         },
         {
           "title": "Google Search Console performance report filter allows selection of multiple countries",
@@ -11374,6 +11374,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
+          "published_at": "2026-11-02T10:55:11+00:00",
+          "excerpt": "Google's John Mueller cautioned against relying on short-term AI SEO tactics and explained why traditional technical SEO remains relevant. The post Google Says Technical SEO Remains Key For AI SEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-02T12:41:58.943564+00:00"
+        },
+        {
           "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
           "published_at": "2026-11-01T08:00:00+00:00",
@@ -11395,7 +11402,7 @@
           "fetched_at": "2026-10-31T17:17:44.055872+00:00"
         },
         {
-          "title": "Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ via @sejournal, @MattGSouthern",
+          "title": "Shopify CEO Says AI Performance Review Answers ‘Didn’t Matter’ via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/shopify-ceo-ai-peer-review-ratings/595379/",
           "published_at": "2026-10-31T09:00:00+00:00",
           "excerpt": "Shopify's performance reviews asked how staff used AI. Its CEO says the answers didn't matter, and the question can give a company a reputation. The post Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ appeared first on Search Engine Journal .",
@@ -16753,6 +16760,13 @@
           "published_at": "2026-11-01T00:00:00+00:00",
           "excerpt": "Learn how the time decay attribution model works — including the half-life formula, a step-by-step B2B example, when to use it, and how it stacks up against last-click, linear, and position-based models.",
           "fetched_at": "2026-11-01T17:59:43.361128+00:00"
+        },
+        {
+          "title": "LinkedIn Sales Navigator Cost: What You’ll Pay and Which Plan You Need",
+          "url": "https://www.factors.ai/blog/linkedin-sales-navigator-cost",
+          "published_at": "2026-11-01T00:00:00+00:00",
+          "excerpt": "Review LinkedIn Sales Navigator cost, plan differences, and team pricing. See what buying through Factors.ai adds in onboarding, support, and GTM setup.",
+          "fetched_at": "2026-11-02T12:42:06.472195+00:00"
         },
         {
           "title": "LinkedIn ABM: How to Run Account-Based Marketing Campaigns",
