@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T12:08:11.236107+00:00",
+  "last_updated": "2026-11-03T19:40:01.809592+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,20 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "Every OpenAI Publisher Partnership, and How Often ChatGPT Cites Them",
+          "url": "https://ahrefs.com/blog/openai-publisher-partnerships/",
+          "published_at": "2026-11-03T17:03:55+00:00",
+          "excerpt": "Each deal works roughly the same way: the publisher licenses its content to OpenAI, and ChatGPT shows summaries of that content with attribution and a link back to the source. That makes these publishers some of the most visible sites … Read more ›",
+          "fetched_at": "2026-11-03T19:39:37.923507+00:00"
+        },
+        {
+          "title": "The 25 Best AEO/GEO Experts to Follow in 2026",
+          "url": "https://ahrefs.com/blog/aeo-geo-experts/",
+          "published_at": "2026-11-03T15:19:41+00:00",
+          "excerpt": "Research is how you answer these questions, and how you keep up with what’s changing in AI search. These are the 25 people publishing the most original research on AI search, and the ones worth following. I started with a … Read more ›",
+          "fetched_at": "2026-11-03T19:39:37.923507+00:00"
+        },
         {
           "title": "Which Types of Mentions Correlate the Strongest With AI Visibility? (260M AI Prompts Analyzed)",
           "url": "https://ahrefs.com/blog/mention-types-ai-visibility/",
@@ -4429,6 +4443,20 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "7 technical SEO checks for vibe-coded websites",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmJSU0oya3JQS0FDc3ZDelp1Y3VJaTY2dGZmZm9Zcm9sLVNOcHZob2pIdU5GOUlOX0pJaTRSZW1mT3ZqNnpIS3diSFU5bW1kazRxN0F2cFg3TTZDMXRka0VORjFqM0JDallZZmpFRHpfblZQUm5FRW9FUDh3cWFCWW93?oc=5",
+          "published_at": "2026-11-03T15:00:00+00:00",
+          "excerpt": "7 technical SEO checks for vibe-coded websites Search Engine Land",
+          "fetched_at": "2026-11-03T19:39:39.239131+00:00"
+        },
+        {
+          "title": "How to use Google Ads attributed branded searches to measure brand impact",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWd5V0xqd2FydXNxS2JUUHpOZzhGYUZEeDZkREZWeHVKZ2xaUUtQLWhxQW1CR3U1SE5MREJhV3hzU3lOT1RiN3g5Mk56cFN0UnA4X3hfTG1XYnA0MDVkSlY1am1zSTBWLTFaeFUtRWh3bzN1N2g1MmYwTk8yLWFNTGg4UFYzMnNoRDEzLUxGazR2SEppMU5wYjFhMA?oc=5",
+          "published_at": "2026-11-03T14:00:00+00:00",
+          "excerpt": "How to use Google Ads attributed branded searches to measure brand impact Search Engine Land",
+          "fetched_at": "2026-11-03T19:39:39.239131+00:00"
+        },
+        {
           "title": "ChatGPT ads generate 64% less revenue per visit than Google Search: Study",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGl6M05WQkZHU1hJb0I1bDg2UXROeXNWZXhQbXRzazhyR21uVkZ1Nng2UWZtNERWWW9MVmpsVWtlN2ZldG5PdnBteHpzd1V5ZTNBRGtqUXFiOEZEUE02LXlIYkZJSGZwVzBhVm9LQXhQMFY1eVE5V0JaZ1VjN3AwQUk1Q1k3bFFoNjVpOVlwc1VmdHVZU09MR2hOZkw2dW42NDV4cDRxZw?oc=5",
           "published_at": "2026-11-02T17:15:06+00:00",
@@ -4870,13 +4898,6 @@
           "fetched_at": "2026-10-26T10:19:56.918075+00:00"
         },
         {
-          "title": "SMX Advanced San Diego 2027 speaker pitches are now open",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUFZIVFNxa2tSaXdHVnMyMGlOZUhHRFpsWEJ0aUt1MlZ1TjRuRG1JZHFUU3dqamZNb2V5a1p6MmQ0MVZsRTE2VVU3LW04NjI3bGI4dVV3VkxjVEkxYk4zWk4ya09obnpT?oc=5",
-          "published_at": "2026-10-22T19:04:21+00:00",
-          "excerpt": "SMX Advanced San Diego 2027 speaker pitches are now open Search Engine Land",
-          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
-        },
-        {
           "title": "How to become an SEO expert",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uOWpBZ1R4VHhhNlRGeE9FQm0zV09Rd0Z2S05xWHowMVhkdHVheG03VkhEZU1VeWI0SU9MY2lIaUQ1Q053Y29OMXM4YnJ0cnlaR1JCMThIWkg?oc=5",
           "published_at": "2026-10-22T18:31:18+00:00",
@@ -4903,6 +4924,13 @@
           "published_at": "2026-10-22T12:00:00+00:00",
           "excerpt": "Build something so valuable that Google looks stupid for not ranking it Search Engine Land",
           "fetched_at": "2026-10-23T09:26:51.218958+00:00"
+        },
+        {
+          "title": "SMX Advanced San Diego 2027 speaker pitches are now open",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUFZIVFNxa2tSaXdHVnMyMGlOZUhHRFpsWEJ0aUt1MlZ1TjRuRG1JZHFUU3dqamZNb2V5a1p6MmQ0MVZsRTE2VVU3LW04NjI3bGI4dVV3VkxjVEkxYk4zWk4ya09obnpT?oc=5",
+          "published_at": "2026-10-22T07:00:00+00:00",
+          "excerpt": "SMX Advanced San Diego 2027 speaker pitches are now open Search Engine Land",
+          "fetched_at": "2026-09-25T17:21:55.849226+00:00"
         },
         {
           "title": "Google Ads expands customer acquisition and retention controls",
@@ -4996,17 +5024,17 @@
           "fetched_at": "2026-10-22T09:30:52.075485+00:00"
         },
         {
-          "title": "Why Google reviews will power up your local SEO in 2027",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzltbmNKV252RWVSM082M0htZ0toMDdsdktCUmJyVEk2S1F0VUJRcS1FOG5YelVWYnZ6aG0xM1V0ZERONjhtRUg4U2xtS1pBVnhncFRBZHRoQ2t3empRemY2UXltakhmS29UNnhtT055bzV0UzQ0Xy1QdlBRaHRhNWFuZjE?oc=5",
-          "published_at": "2026-10-21T14:00:00+00:00",
-          "excerpt": "Why Google reviews will power up your local SEO in 2027 Search Engine Land",
-          "fetched_at": "2026-10-21T17:25:06.456722+00:00"
-        },
-        {
           "title": "Google AI Overviews: Everything you need to know",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRldjSV9OUXdLUWFEcnVoM2pCZE9HMTRGNUoteS1FbFZzaWlYblNpREg1ZUhCSlNuUUlpR3llaFpwWHdEMll1N1NQU2ZxVlRNa05kTm05YV9vQkhUdUR5NkxQMUU1bmVWVjd4cmJ5UWNtLWRvaE1qXzJRR3pmaUVtTU9RMVBzdlczUnJV?oc=5",
           "published_at": "2026-10-21T13:00:00+00:00",
           "excerpt": "Google AI Overviews: Everything you need to know Search Engine Land",
+          "fetched_at": "2026-10-21T17:25:06.456722+00:00"
+        },
+        {
+          "title": "Why Google reviews will power up your local SEO in 2027",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzltbmNKV252RWVSM082M0htZ0toMDdsdktCUmJyVEk2S1F0VUJRcS1FOG5YelVWYnZ6aG0xM1V0ZERONjhtRUg4U2xtS1pBVnhncFRBZHRoQ2t3empRemY2UXltakhmS29UNnhtT055bzV0UzQ0Xy1QdlBRaHRhNWFuZjE?oc=5",
+          "published_at": "2026-10-21T07:00:00+00:00",
+          "excerpt": "Why Google reviews will power up your local SEO in 2027 Search Engine Land",
           "fetched_at": "2026-10-21T17:25:06.456722+00:00"
         },
         {
@@ -5703,13 +5731,6 @@
           "fetched_at": "2026-10-08T11:29:40.289065+00:00"
         },
         {
-          "title": "Google Ads adds new AI Max columns for deeper campaign analysis",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdnFkLWJwcXhRdkRpVjZPb000RTF5UGZ5eXlqTFNacTFVdnJLRjBMTElSXzRuRjc4RXNjcFFpSjhTTHpVa1hyU21ZdURDUUpXZUtDSGl5TDNtcWhMUjh4ZnViZnczbUZQbVZwVFp5VVVvaVZ4WVNoYzdiUGNKNUFFZWZqNi01b19DOE11b2h5TVFvNi1NNkJLLUZmUmt2RC00?oc=5",
-          "published_at": "2026-10-07T15:55:12+00:00",
-          "excerpt": "Google Ads adds new AI Max columns for deeper campaign analysis Search Engine Land",
-          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
-        },
-        {
           "title": "Reilly Phelps",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUZFRwam0wYTFBUVV0d2l5bEdGc3VpejFoLWRCd3B3Rk5yZWV5eUM2OEI3R0V2WHE0Vk9jTnJrQzdhd0o2TldWbGh5bndOV2pSbVdJMkR0bWJkX1dDaFE?oc=5",
           "published_at": "2026-10-07T15:00:00+00:00",
@@ -5738,13 +5759,6 @@
           "fetched_at": "2026-10-08T18:55:36.147153+00:00"
         },
         {
-          "title": "Stop letting AI make your marketing decisions",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmZFbHp2U2FpbjI1b3RsY2FodmFNTV9sam9qaE9zZUNzOEpTMWUyTU5RZUN1VXpGcm1IWTYycXUySjNVM01SNkVCSzBYM0tpeTE2N1NWendmR2FkMDNsTEtMNTJqLTRJVWRucGx3YjJoN0ZCT2UxUnZqQjcyUDdPRlZTZGl2V0d1?oc=5",
-          "published_at": "2026-10-07T11:00:00+00:00",
-          "excerpt": "Stop letting AI make your marketing decisions Search Engine Land",
-          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
-        },
-        {
           "title": "Google opens Conversion Lift to Search and Performance Max",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb25ENEhLal81RkJKREViWjRaRmdjSUVYZUhHYzlSc2l2cUlsQWpuMXhyakx0Wml0MF9JNXZWUktnMHNNOGxhaEJRQzh2TUFKSVBaMl8wdXVzQW1KRVEteThWVXhNQ1lhU0ZGcVB5bm1BS3RhWmFMRlgyaE9pRFA1UEpJaDFXSFAwRjVZLTA3cHVrd19tSWhZUkZR?oc=5",
           "published_at": "2026-10-07T07:00:00+00:00",
@@ -5752,10 +5766,24 @@
           "fetched_at": "2026-10-07T18:59:51.769202+00:00"
         },
         {
+          "title": "Google Ads adds new AI Max columns for deeper campaign analysis",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdnFkLWJwcXhRdkRpVjZPb000RTF5UGZ5eXlqTFNacTFVdnJLRjBMTElSXzRuRjc4RXNjcFFpSjhTTHpVa1hyU21ZdURDUUpXZUtDSGl5TDNtcWhMUjh4ZnViZnczbUZQbVZwVFp5VVVvaVZ4WVNoYzdiUGNKNUFFZWZqNi01b19DOE11b2h5TVFvNi1NNkJLLUZmUmt2RC00?oc=5",
+          "published_at": "2026-10-07T07:00:00+00:00",
+          "excerpt": "Google Ads adds new AI Max columns for deeper campaign analysis Search Engine Land",
+          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
+        },
+        {
           "title": "Google Ads tests new Direct Offer asset for AI Mode promotions",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRThNMHphcE42a3pKcmN6b2NwVHcxektmZWhsYUVlY3NqZ1hQVUZlNzBiZV9PS3huR2VFMkhQWU1kanBfSTFyb1B2VDVHeVgtNnpTdGNHdnZaUkRVLXhtc1NRLUdxTVpiQXpmQXdSSjREaFYzX1ZXTC1IcEpZRWNRdS0wcWdfOWpZYkgzXzR3Sm1sNEpydzRRZE85LTN1UHM?oc=5",
           "published_at": "2026-10-07T07:00:00+00:00",
           "excerpt": "Google Ads tests new Direct Offer asset for AI Mode promotions Search Engine Land",
+          "fetched_at": "2026-10-08T11:29:40.289065+00:00"
+        },
+        {
+          "title": "Stop letting AI make your marketing decisions",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmZFbHp2U2FpbjI1b3RsY2FodmFNTV9sam9qaE9zZUNzOEpTMWUyTU5RZUN1VXpGcm1IWTYycXUySjNVM01SNkVCSzBYM0tpeTE2N1NWendmR2FkMDNsTEtMNTJqLTRJVWRucGx3YjJoN0ZCT2UxUnZqQjcyUDdPRlZTZGl2V0d1?oc=5",
+          "published_at": "2026-10-07T07:00:00+00:00",
+          "excerpt": "Stop letting AI make your marketing decisions Search Engine Land",
           "fetched_at": "2026-10-08T11:29:40.289065+00:00"
         },
         {
@@ -5771,6 +5799,13 @@
           "published_at": "2026-10-07T07:00:00+00:00",
           "excerpt": "10 types of keywords with examples (+ How to find them) Search Engine Land",
           "fetched_at": "2026-10-08T11:29:40.289065+00:00"
+        },
+        {
+          "title": "Advanced SEO SMX® Master Class | Anna Crowe | Oct. 7",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwVFJZTDVfNkZ5Tlpka1lmSE5lUGY4NFF4OUFfbEJDMk85SklkYmd3VXlmeC1MbUxIUmNmaTJ6WGMwSVF6Zmp0SVNoWGZ2RkpUckxmZ1Z4cF9UdXkxVmFXT1JNVTlCOGJ5RE56aHhlNDhlNGFoeEE?oc=5",
+          "published_at": "2026-10-07T07:00:00+00:00",
+          "excerpt": "Advanced SEO SMX® Master Class | Anna Crowe | Oct. 7 Search Engine Land",
+          "fetched_at": "2026-11-03T19:39:39.239131+00:00"
         },
         {
           "title": "Google Ads tests Video Campaign Groups for cross-campaign reach and frequency",
@@ -11423,6 +11458,41 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Ad Tags In Server-Side GTM To Get Full IP Addresses via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-ad-tags-in-server-side-gtm-to-get-full-ip-addresses/595807/",
+          "published_at": "2026-11-03T19:30:00+00:00",
+          "excerpt": "Google says ad tags in server-side Tag Manager will accept full IP addresses while Analytics tags stay redacted. Here's what changes and how to redact. The post Google Ad Tags In Server-Side GTM To Get Full IP Addresses appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T19:39:50.327522+00:00"
+        },
+        {
+          "title": "How To Create Demand You Can Actually Convert (And Prove) via @sejournal, @duchessjenm",
+          "url": "https://www.searchenginejournal.com/how-to-create-demand-you-can-actually-convert-and-prove-recap/595044/",
+          "published_at": "2026-11-03T19:04:28+00:00",
+          "excerpt": "Discover effective strategies to generate demand and measure results for your B2B marketing campaigns successfully. The post How To Create Demand You Can Actually Convert (And Prove) appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T19:39:50.327522+00:00"
+        },
+        {
+          "title": "Rank Trackers Find Google Results About One Word Of A Query via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/rank-trackers-find-google-results-about-one-word-of-a-query/595798/",
+          "published_at": "2026-11-03T18:25:17+00:00",
+          "excerpt": "Rank tracker data shows unrelated Google results that follow one word of the query, mostly below the top spots. Here's how to check a drop. The post Rank Trackers Find Google Results About One Word Of A Query appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T19:39:50.327522+00:00"
+        },
+        {
+          "title": "Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/google-favors-high-ad-strength-rsas-but-lower-rated-ads-convert-better/595478/",
+          "published_at": "2026-11-03T15:00:44+00:00",
+          "excerpt": "Google serves higher-rated responsive search ads more often, yet Brad Geddes’ 5,900-account study finds they convert better only 45% of the time. Pinning explains why. The post Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better appeared first on Search Engin…",
+          "fetched_at": "2026-11-03T19:39:50.327522+00:00"
+        },
+        {
+          "title": "Building A Global Content Factory With AI (Without Losing The Human Touch) via @sejournal, @motokohunt",
+          "url": "https://www.searchenginejournal.com/building-a-global-content-factory-with-ai-without-losing-the-human-touch/593904/",
+          "published_at": "2026-11-03T13:00:01+00:00",
+          "excerpt": "Scale an AI content factory without erasing local relevance by grounding each market's pages in approved facts, local evidence, and human judgment. The post Building A Global Content Factory With AI (Without Losing The Human Touch) appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T19:39:50.327522+00:00"
+        },
+        {
           "title": "Google Says It’s Okay To Block Some JavaScript Resources With Robots.txt via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-says-its-okay-to-block-some-javascript-resources-with-robots-txt/595736/",
           "published_at": "2026-11-03T11:16:50+00:00",
@@ -11528,13 +11598,6 @@
           "fetched_at": "2026-10-31T10:29:17.570068+00:00"
         },
         {
-          "title": "Big Brands Dominate AI Search But Leave Openings For Smaller Sites via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/big-brands-dominate-ai-search-but-leave-openings-for-smaller-sites/595397/",
-          "published_at": "2026-10-31T08:15:08+00:00",
-          "excerpt": "New research identifies a potential weakness in big-brand visibility that smaller publishers may be able to exploit. The post Big Brands Dominate AI Search But Leave Openings For Smaller Sites appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-31T10:29:17.570068+00:00"
-        },
-        {
           "title": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268/",
           "published_at": "2026-10-31T07:00:00+00:00",
@@ -11542,10 +11605,10 @@
           "fetched_at": "2026-10-31T10:29:17.570068+00:00"
         },
         {
-          "title": "Reddit CEO Ties Search Referral Drop To Google AI Mode via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/reddit-to-test-login-only-mode-as-google-search-traffic-drops/595270/",
-          "published_at": "2026-10-30T19:47:37+00:00",
-          "excerpt": "Reddit says search referrals are falling and its CEO points to Google's AI Overviews and AI Mode. Here's what its login test means. The post Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’ appeared first on Search Engine Journal .",
+          "title": "Big Brands Dominate AI Search But Leave Openings For Smaller Sites",
+          "url": "https://www.searchenginejournal.com/big-brands-dominate-ai-search-but-leave-openings-for-smaller-sites/595397/",
+          "published_at": "2026-10-31T00:00:00+00:00",
+          "excerpt": "New research identifies a potential weakness in big-brand visibility that smaller publishers may be able to exploit. The post Big Brands Dominate AI Search But Leave Openings For Smaller Sites appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-31T10:29:17.570068+00:00"
         },
         {
@@ -11561,13 +11624,6 @@
           "published_at": "2026-10-30T18:43:52+00:00",
           "excerpt": "Use AI workflows to create helpful content for AI search and simplify publishing and reporting. Join our webinar November 18 at 2 PM ET. Save your spot.",
           "fetched_at": "2026-11-03T12:07:58.231994+00:00"
-        },
-        {
-          "title": "Discord Member Messages May Start Showing Up In Google In December via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
-          "published_at": "2026-10-30T16:38:30+00:00",
-          "excerpt": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord To Put Public Chats On Pages Search Engines Can Show appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
         },
         {
           "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent via @sejournal, @slobodanmanic",
@@ -11591,6 +11647,13 @@
           "fetched_at": "2026-10-30T18:06:36.858254+00:00"
         },
         {
+          "title": "Discord Member Messages May Start Showing Up In Google In December",
+          "url": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
+          "published_at": "2026-10-30T00:00:00+00:00",
+          "excerpt": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord To Put Public Chats On Pages Search Engines Can Show appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
+        },
+        {
           "title": "The Link Building Graveyard: What To Bury & What Still Wins",
           "url": "https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/",
           "published_at": "2026-10-30T00:00:00+00:00",
@@ -11610,6 +11673,13 @@
           "published_at": "2026-10-30T00:00:00+00:00",
           "excerpt": "Six Google Ads details on Smart Bidding, seasonality adjustments, channel controls and budgeting that PPC teams should check before BFCM. The post Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-30T18:06:36.858254+00:00"
+        },
+        {
+          "title": "Reddit CEO Ties Search Referral Drop To Google AI Mode",
+          "url": "https://www.searchenginejournal.com/reddit-to-test-login-only-mode-as-google-search-traffic-drops/595270/",
+          "published_at": "2026-10-30T00:00:00+00:00",
+          "excerpt": "Reddit says search referrals are falling and its CEO points to Google's AI Overviews and AI Mode. Here's what its login test means. The post Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’ appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-31T10:29:17.570068+00:00"
         },
         {
           "title": "Accurate Facts Can Still Produce A False AI Answer, And Courts Are Starting To Hold The Platform Responsible via @sejournal, @DuaneForrester",
@@ -15699,6 +15769,27 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "How to find your website’s keywords in Google Analytics 4",
+          "url": "https://www.semrush.com/blog/google-analytics-keywords/",
+          "published_at": "2026-11-03T12:05:00+00:00",
+          "excerpt": "Learn how to use Google Search Console & Google Analytics to find your keywords and study performance.",
+          "fetched_at": "2026-11-03T19:39:54.565731+00:00"
+        },
+        {
+          "title": "How to track your Gemini visibility with and without Semrush",
+          "url": "https://www.semrush.com/blog/how-to-track-your-gemini-visibility/",
+          "published_at": "2026-11-03T11:48:00+00:00",
+          "excerpt": "Learn Gemini visibility tracking: what to measure, how to track brand mentions in Gemini manually, and how to scale it with Semrush.",
+          "fetched_at": "2026-11-03T19:39:54.565731+00:00"
+        },
+        {
+          "title": "Affiliate marketing is the gateway to AI visibility",
+          "url": "https://www.semrush.com/blog/affiliate-marketing-ai-visibility/",
+          "published_at": "2026-11-03T11:34:00+00:00",
+          "excerpt": "See which affiliate content AI answers cite, based on Semrush‘s own affiliate program data, plus a five-step plan to turn partners into AI visibility.",
+          "fetched_at": "2026-11-03T19:39:54.565731+00:00"
+        },
+        {
           "title": "7 free SEO tools to boost visibility & traffic",
           "url": "https://www.semrush.com/blog/free-seo-tools/",
           "published_at": "2026-10-27T09:05:00+00:00",
@@ -15848,14 +15939,14 @@
         {
           "title": "Ultimate SEO checklist: 43 tips to optimize your website",
           "url": "https://www.semrush.com/blog/seo-checklist/",
-          "published_at": "2026-10-01T08:25:00+00:00",
+          "published_at": "2026-10-01T00:00:00+00:00",
           "excerpt": "Use this SEO checklist to optimize your site for both Google and AI-driven search results.",
           "fetched_at": "2026-10-01T11:04:30.051882+00:00"
         },
         {
           "title": "AEO vs SEO: core differences & how to win visibility in both",
           "url": "https://www.semrush.com/blog/aeo-vs-seo/",
-          "published_at": "2026-09-30T08:36:00+00:00",
+          "published_at": "2026-09-30T00:00:00+00:00",
           "excerpt": "Discover the key differences between SEO and AEO. Learn how each works, where they overlap, and practical strategies to win visibility in both.",
           "fetched_at": "2026-09-30T10:36:22.960181+00:00"
         },
@@ -16886,6 +16977,13 @@
           "published_at": "2026-11-03T00:00:00+00:00",
           "excerpt": "Compare the top 25 B2B contact database tools for 2026. See pricing, key features, and which database is best for your sales and marketing team.",
           "fetched_at": "2026-11-03T12:08:06.934968+00:00"
+        },
+        {
+          "title": "Common Room Pricing: Is It Worth $30,000 a Year?",
+          "url": "https://www.factors.ai/blog/common-room-pricing",
+          "published_at": "2026-11-03T00:00:00+00:00",
+          "excerpt": "Common Room pricing starts at $30,000 a year. See what each plan includes, how credits work, and which add-ons could increase your total cost.",
+          "fetched_at": "2026-11-03T19:39:56.582954+00:00"
         },
         {
           "title": "Time Decay Attribution Model Explained",
@@ -18178,6 +18276,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Cost per task: Using cheap classifiers to route across Gemini models and thinking levels",
+          "url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/",
+          "published_at": "2026-11-03T00:00:00+00:00",
+          "excerpt": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing....",
+          "fetched_at": "2026-11-03T19:40:00.980298+00:00"
+        },
+        {
           "title": "DevFest is back!",
           "url": "https://developers.googleblog.com/devfest-is-back/",
           "published_at": "2026-10-30T00:00:00+00:00",
@@ -18734,6 +18839,41 @@
           "published_at": "2026-11-03T14:00:00+00:00",
           "excerpt": "A woman using her smartphone, surrounded by graphic icons representing online security, privacy, and message alerts.",
           "fetched_at": "2026-11-03T12:08:11.232183+00:00"
+        },
+        {
+          "title": "New research shows how Guided Learning supports students",
+          "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+          "published_at": "2026-11-03T14:00:00+00:00",
+          "excerpt": "Four students huddled in a circle, all looking at a laptop together",
+          "fetched_at": "2026-11-03T19:40:01.805816+00:00"
+        },
+        {
+          "title": "We’re providing funding for organizations building AI for teachers.",
+          "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+          "published_at": "2026-11-03T14:00:00+00:00",
+          "excerpt": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
+          "fetched_at": "2026-11-03T19:40:01.805816+00:00"
+        },
+        {
+          "title": "AI in the learning era",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+          "published_at": "2026-11-03T14:00:00+00:00",
+          "excerpt": "Read announcements from Google’s 2026 AI in the Learning Era event.",
+          "fetched_at": "2026-11-03T19:40:01.805816+00:00"
+        },
+        {
+          "title": "Designing responsible AI for learning",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+          "published_at": "2026-11-03T14:00:00+00:00",
+          "excerpt": "A teacher pointing at a student's Chromebook screen while the student observes.",
+          "fetched_at": "2026-11-03T19:40:01.805816+00:00"
+        },
+        {
+          "title": "Expanding AI educator training to new countries",
+          "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+          "published_at": "2026-11-03T14:00:00+00:00",
+          "excerpt": "An illustration featuring a stylized globe in the center with network lines connecting points across the world to various colorful icon badges, including graduation caps, award ribbons, and stylized figures.",
+          "fetched_at": "2026-11-03T19:40:01.805816+00:00"
         },
         {
           "title": "Advancing research and partnering with universities in Singapore",
