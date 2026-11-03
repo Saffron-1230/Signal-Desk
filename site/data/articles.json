@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T12:42:10.896946+00:00",
+  "last_updated": "2026-11-03T12:08:11.236107+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,20 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "Which Types of Mentions Correlate the Strongest With AI Visibility? (260M AI Prompts Analyzed)",
+          "url": "https://ahrefs.com/blog/mention-types-ai-visibility/",
+          "published_at": "2026-11-03T11:52:37+00:00",
+          "excerpt": "But which kind of mention? In our previous research, we analyzed different brand factors alongside AI visibility—including web mentions, anchors, search volume, number of referring domains and so on. This time, we zeroed in on brand mention types. We compared … Read more ›",
+          "fetched_at": "2026-11-03T12:07:47.898785+00:00"
+        },
+        {
+          "title": "10 Clearscope Alternatives (Compared on Price, API, and MCP Access)",
+          "url": "https://ahrefs.com/blog/clearscope-alternatives/",
+          "published_at": "2026-11-03T11:40:57+00:00",
+          "excerpt": "I compared ten Clearscope alternatives on price per article, API and MCP access, keyword data, and how well they fit an AI content workflow. Read more ›",
+          "fetched_at": "2026-11-03T12:07:47.898785+00:00"
+        },
         {
           "title": "What Is BLUF? How to Write Bottom Line Up Front (+ Free Rewriter Tool)",
           "url": "https://ahrefs.com/blog/bluf/",
@@ -4415,6 +4429,41 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "ChatGPT ads generate 64% less revenue per visit than Google Search: Study",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGl6M05WQkZHU1hJb0I1bDg2UXROeXNWZXhQbXRzazhyR21uVkZ1Nng2UWZtNERWWW9MVmpsVWtlN2ZldG5PdnBteHpzd1V5ZTNBRGtqUXFiOEZEUE02LXlIYkZJSGZwVzBhVm9LQXhQMFY1eVE5V0JaZ1VjN3AwQUk1Q1k3bFFoNjVpOVlwc1VmdHVZU09MR2hOZkw2dW42NDV4cDRxZw?oc=5",
+          "published_at": "2026-11-02T17:15:06+00:00",
+          "excerpt": "ChatGPT ads generate 64% less revenue per visit than Google Search: Study Search Engine Land",
+          "fetched_at": "2026-11-03T12:07:49.161338+00:00"
+        },
+        {
+          "title": "Beyond demand capture: Why performance marketers need brand marketing",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5bjlHaWQ2X2U2bU84ZVlqbmVQLTRPalFzaXFoc0JVdjN4SURGSGFsQzZoc0tPZkE1NXktZGhyUndVVHhobl83QVRodWNDSVZZM1U2bGQ1ZTBDdmZEMkNQcWNibEF6OURodW9vRDNMWnRyZnVRS2ZLOUFJQTZVdw?oc=5",
+          "published_at": "2026-11-02T16:00:00+00:00",
+          "excerpt": "Beyond demand capture: Why performance marketers need brand marketing Search Engine Land",
+          "fetched_at": "2026-11-03T12:07:49.161338+00:00"
+        },
+        {
+          "title": "Every AI follow-up question is another SEO opportunity",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wU1VqMG91U0NhZmJmNmEyZXUxX1dXYnFNN3NfZThYdmk2RlFneC1UcXdNdjl2eHZMYzFULTRwMFhOYUtDSWN3djlPbjFkbnlaVkRrQTBkZ1ZQcU5RWkMtYWhMZGI1ZVdxYzY5MnR1Q0l6eWg0M3RiX0wyZDZDdw?oc=5",
+          "published_at": "2026-11-02T15:00:00+00:00",
+          "excerpt": "Every AI follow-up question is another SEO opportunity Search Engine Land",
+          "fetched_at": "2026-11-03T12:07:49.161338+00:00"
+        },
+        {
+          "title": "How to build an action-oriented second brain for SEO",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1FnZHVXZ01nQkpEdy1jUnA1bWZNQWZOc1JnNUJyRENEaTB6Z1lUc2tqaGZqR3c3WjN2QVZhWDF0Z2piOS1fYVVnSmZrR3lhb1BlTVRYdTVyVllTTjcwblFvVlYzX1JpTXdHeXJGSW9jdnpCQmdOYW80Wi1fWmcyTEM0Y18?oc=5",
+          "published_at": "2026-11-02T14:00:00+00:00",
+          "excerpt": "How to build an action-oriented second brain for SEO Search Engine Land",
+          "fetched_at": "2026-11-03T12:07:49.161338+00:00"
+        },
+        {
+          "title": "The quiet click: Why people read AI answers and click anyway",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Z1YyaGJrU2VNRmhZTFNTOVNxNXN3d3JPZ2NKeDlzY3c5R0R5dnVJOEk2WXdkQzdKTWViNTdfWEI2VU9XdmdVQ1RUZDRyeEdyckR1d3dKem82Z0RUS09sTFF3NEhYTDN0VXVQTks3MHBPNUFGT19v?oc=5",
+          "published_at": "2026-11-02T13:00:00+00:00",
+          "excerpt": "The quiet click: Why people read AI answers and click anyway Search Engine Land",
+          "fetched_at": "2026-11-03T12:07:49.161338+00:00"
+        },
+        {
           "title": "Google also gives publishers more control over how AI uses their content",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakxxWFdVaVdCbkNOTndlN2I1OFRMRHNJdGFIVXQxNjdURHN3VXpkaFA4Y0RpMlhua1A3VnR3WWwyWnFqLTAxQTM4WWJ1YkFBWkwyOTJ0Y0ViQldoelhpTzhCOGdyTC1MR2dBdXBTdlhyb3Bab0R4RHVSOWZQbjZwc1p6UlhBaGo4N2lZdkdibl9MQk55ZU1XSjllZkJJQ3IzR1p1eTdnRnhlcHR6?oc=5",
           "published_at": "2026-10-30T17:02:13+00:00",
@@ -4800,17 +4849,17 @@
           "fetched_at": "2026-10-26T10:19:56.918075+00:00"
         },
         {
-          "title": "How to write listicles that earn trust and help readers decide",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2FyTGFOZnZOSDNYRlBLUjFUdVdEVzJscmZ3MG85NUtFNmNlTEpfazVEZ1hVX3NpMmpRZGUwdjRkYjVxYkxYMUJ0WDZhSm5UZUQxOTliaVIyeUE4VmlBS3RocEkxUDBUVWE2T1BGTVlLdmQzcXhRRnBVREJWd3Zsbg?oc=5",
-          "published_at": "2026-10-23T12:00:00+00:00",
-          "excerpt": "How to write listicles that earn trust and help readers decide Search Engine Land",
-          "fetched_at": "2026-10-25T09:14:56.398393+00:00"
-        },
-        {
           "title": "How to launch an awesome SEO campaign",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2RHZTU5dFpJQ2hXXzdTLWxCem95UGpVYXZ5ODhEeF9jSk5VeWY1bGM4U3BkdlM0azRISGRXbFFuaS1SZW9VN3lkSmtCSmNiUnExWUF6ck5IMDQ?oc=5",
           "published_at": "2026-10-23T07:00:00+00:00",
           "excerpt": "How to launch an awesome SEO campaign Search Engine Land",
+          "fetched_at": "2026-10-25T09:14:56.398393+00:00"
+        },
+        {
+          "title": "How to write listicles that earn trust and help readers decide",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2FyTGFOZnZOSDNYRlBLUjFUdVdEVzJscmZ3MG85NUtFNmNlTEpfazVEZ1hVX3NpMmpRZGUwdjRkYjVxYkxYMUJ0WDZhSm5UZUQxOTliaVIyeUE4VmlBS3RocEkxUDBUVWE2T1BGTVlLdmQzcXhRRnBVREJWd3Zsbg?oc=5",
+          "published_at": "2026-10-23T07:00:00+00:00",
+          "excerpt": "How to write listicles that earn trust and help readers decide Search Engine Land",
           "fetched_at": "2026-10-25T09:14:56.398393+00:00"
         },
         {
@@ -11374,6 +11423,76 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Says It’s Okay To Block Some JavaScript Resources With Robots.txt via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-says-its-okay-to-block-some-javascript-resources-with-robots-txt/595736/",
+          "published_at": "2026-11-03T11:16:50+00:00",
+          "excerpt": "Google's John Mueller said it's okay, within a specific use case, to use robots.txt to hide resources from Googlebot. The post Google Says It’s Okay To Block Some JavaScript Resources With Robots.txt appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T12:07:58.231994+00:00"
+        },
+        {
+          "title": "Google Lighthouse Update Changes How PageSpeed Insights Simulates Loading via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/pagespeed-insights-scores-lighthouse-update/595698/",
+          "published_at": "2026-11-02T21:52:57+00:00",
+          "excerpt": "A Google Lighthouse update changes how PageSpeed Insights simulates page loads, which can raise lab scores on pages that haven't changed. The post Google Lighthouse Update Changes How PageSpeed Insights Simulates Loading appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T12:07:58.231994+00:00"
+        },
+        {
+          "title": "NY Times Accuses Brave Of Scraping And Exploiting Content via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/ny-times-accuses-brave-of-scraping-and-exploiting-content/595679/",
+          "published_at": "2026-11-02T21:38:22+00:00",
+          "excerpt": "New York Times lawsuit accuses Brave of selling access to paywalled content to AI companies and depriving publishers of ad income. The post NY Times Accuses Brave Of Scraping And Exploiting Content appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T12:07:58.231994+00:00"
+        },
+        {
+          "title": "TikTok Search Ads Adds Brand And Category Keyword Packs via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/tiktok-search-ads-brand-category-keyword-packs/595682/",
+          "published_at": "2026-11-02T20:56:45+00:00",
+          "excerpt": "TikTok is highlighting two impression share metrics for Search Ads and adding curated keyword packs. Here's what each does. The post TikTok Search Ads Adds Brand And Category Keyword Packs appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T12:07:58.231994+00:00"
+        },
+        {
+          "title": "AI Shopping: Get Your Products Found In Google & ChatGPT via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/ai-shopping-get-your-products-found-in-google-chatgpt-recap/594889/",
+          "published_at": "2026-11-02T20:41:45+00:00",
+          "excerpt": "Chris Sachs & Aris Vrakas outlined 4 moves for AI shopping: make product pages retrievable, use shopper language, connect feeds with pages, test the results. The post AI Shopping: Get Your Products Found In Google & ChatGPT appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T12:07:58.231994+00:00"
+        },
+        {
+          "title": "How The Athletic Gets More Clicks With One Simple Trick",
+          "url": "https://www.searchenginejournal.com/how-the-athletic-gets-more-clicks-with-one-simple-trick/594915/",
+          "published_at": "2026-11-02T20:00:19+00:00",
+          "excerpt": "Clickability isn’t just headlines and images. Showing readers which articles other readers are talking about is a distribution lever most publishers ignore. The post How The Athletic Gets More Clicks With One Simple Trick appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T12:07:58.231994+00:00"
+        },
+        {
+          "title": "Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-ai-click-reporting-uk-deadline/595663/",
+          "published_at": "2026-11-02T19:21:56+00:00",
+          "excerpt": "Google says it has nothing to announce on adding more AI search data to Search Console, ahead of a UK compliance date. The post Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T12:07:58.231994+00:00"
+        },
+        {
+          "title": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
+          "url": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
+          "published_at": "2026-11-02T15:00:59+00:00",
+          "excerpt": "Build demand before BFCM, give Google room to capture peak sales, and turn holiday visitors into December buyers with a phased ad strategy. The post How To Run A Full-Funnel Ecommerce Account Through BFCM Week appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T12:07:58.231994+00:00"
+        },
+        {
+          "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
+          "published_at": "2026-11-02T14:41:23+00:00",
+          "excerpt": "Data finds ChatGPT ad visits brought advertisers a fraction of paid search's revenue per visit in U.S. traffic, and most saw no sales from them. The post Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T12:07:58.231994+00:00"
+        },
+        {
+          "title": "3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner via @sejournal, @slobodanmanic",
+          "url": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
+          "published_at": "2026-11-02T13:00:14+00:00",
+          "excerpt": "Google rankings are a black box a store can still watch. The AI shopping decision layer is a black box with nothing to monitor. The post 3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-03T12:07:58.231994+00:00"
+        },
+        {
           "title": "Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
           "published_at": "2026-11-02T10:55:11+00:00",
@@ -11437,6 +11556,13 @@
           "fetched_at": "2026-10-31T10:29:17.570068+00:00"
         },
         {
+          "title": "9 AI Workflows That Turn Marketing Data Into Content AI Cites",
+          "url": "https://www.searchenginejournal.com/webinar-lp-9-ai-workflows-that-turn-marketing-data-into-content-ai-cites/",
+          "published_at": "2026-10-30T18:43:52+00:00",
+          "excerpt": "Use AI workflows to create helpful content for AI search and simplify publishing and reporting. Join our webinar November 18 at 2 PM ET. Save your spot.",
+          "fetched_at": "2026-11-03T12:07:58.231994+00:00"
+        },
+        {
           "title": "Discord Member Messages May Start Showing Up In Google In December via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
           "published_at": "2026-10-30T16:38:30+00:00",
@@ -11448,20 +11574,6 @@
           "url": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
           "published_at": "2026-10-30T15:30:24+00:00",
           "excerpt": "Shopify’s catalog returns a commission next to each promoted product’s price and reviews. What an AI agent does with that number depends on its developer. The post Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
-        },
-        {
-          "title": "The Link Building Graveyard: What To Bury & What Still Wins via @sejournal, @hethr_campbell",
-          "url": "https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/",
-          "published_at": "2026-10-30T15:11:43+00:00",
-          "excerpt": "Resolve's Michael Johnson outlined a keep-or-cut approach to link building, from qualifying publishers and earning roundup placements to creating linkable assets and a 90-day execution plan. The post The Link Building Graveyard: What To Bury & What Still Wins appeared first on S…",
-          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
-        },
-        {
-          "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
-          "published_at": "2026-10-30T14:17:57+00:00",
-          "excerpt": "Creative enhancements are now on by default in ChatGPT Ads. Here's what they can change, how to opt out, and the tracking questions still open. The post ChatGPT Ads Turns On Automatic Ad Changes By Default appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-30T18:06:36.858254+00:00"
         },
         {
@@ -11479,25 +11591,25 @@
           "fetched_at": "2026-10-30T18:06:36.858254+00:00"
         },
         {
-          "title": "Google Says Changing tCPA & Budgets Won’t Reset Learning – 6 BFCM Takeaways via @sejournal, @siliconvallaeys",
-          "url": "https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/",
-          "published_at": "2026-10-30T12:02:22+00:00",
-          "excerpt": "Six Google Ads details on Smart Bidding, seasonality adjustments, channel controls and budgeting that PPC teams should check before BFCM. The post Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM appeared first on Search Engine Journal .",
+          "title": "The Link Building Graveyard: What To Bury & What Still Wins",
+          "url": "https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/",
+          "published_at": "2026-10-30T00:00:00+00:00",
+          "excerpt": "Resolve's Michael Johnson outlined a keep-or-cut approach to link building, from qualifying publishers and earning roundup placements to creating linkable assets and a 90-day execution plan. The post The Link Building Graveyard: What To Bury & What Still Wins appeared first on S…",
           "fetched_at": "2026-10-30T18:06:36.858254+00:00"
         },
         {
-          "title": "Google Reveals How AI Search Is Reshaping What Users Query via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/",
-          "published_at": "2026-10-29T20:24:25+00:00",
-          "excerpt": "Google’s Ads Decoded explores longer AI Mode queries, earlier discovery, and demand for human perspectives. Here’s what advertisers can consider for 2027. The post AI Mode Queries Are 3x Longer – Your Landing Pages May Not Answer Them appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-30T10:56:53.387317+00:00"
+          "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default",
+          "url": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
+          "published_at": "2026-10-30T00:00:00+00:00",
+          "excerpt": "Creative enhancements are now on by default in ChatGPT Ads. Here's what they can change, how to opt out, and the tracking questions still open. The post ChatGPT Ads Turns On Automatic Ad Changes By Default appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
         },
         {
-          "title": "What Google’s Search Ad Revenue Numbers Signal For AI Search Spend via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/googles-q3-selloff-raises-advertiser-concerns-about-ai-search/595005/",
-          "published_at": "2026-10-29T19:47:55+00:00",
-          "excerpt": "Google’s Q3 stock plunge puts AI spending and Search ad revenue under scrutiny. Here’s what the earnings reveal for PPC advertisers. The post Google Search Revenue Growth Slowed To 12% – AI Mode Ads Are A Reporting Blind Spot appeared first on Search Engine Journal .",
-          "fetched_at": "2026-10-30T10:56:53.387317+00:00"
+          "title": "Google Says Changing tCPA & Budgets Won’t Reset Learning – 6 BFCM Takeaways",
+          "url": "https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/",
+          "published_at": "2026-10-30T00:00:00+00:00",
+          "excerpt": "Six Google Ads details on Smart Bidding, seasonality adjustments, channel controls and budgeting that PPC teams should check before BFCM. The post Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-30T18:06:36.858254+00:00"
         },
         {
           "title": "Accurate Facts Can Still Produce A False AI Answer, And Courts Are Starting To Hold The Platform Responsible via @sejournal, @DuaneForrester",
@@ -11507,7 +11619,7 @@
           "fetched_at": "2026-10-30T10:56:53.387317+00:00"
         },
         {
-          "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
+          "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO",
           "url": "https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/",
           "published_at": "2026-10-29T15:30:40+00:00",
           "excerpt": "Check whether search engines can find and understand your images, and spot technical issues that limit their visibility in multimodal search. The post How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO appeared first on Search Engine Journal .",
@@ -11547,6 +11659,20 @@
           "published_at": "2026-10-29T00:00:00+00:00",
           "excerpt": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google. The post HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing appeared first on Search Engine Journal .",
           "fetched_at": "2026-10-29T18:34:33.605430+00:00"
+        },
+        {
+          "title": "Google Reveals How AI Search Is Reshaping What Users Query",
+          "url": "https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/",
+          "published_at": "2026-10-29T00:00:00+00:00",
+          "excerpt": "Google’s Ads Decoded explores longer AI Mode queries, earlier discovery, and demand for human perspectives. Here’s what advertisers can consider for 2027. The post AI Mode Queries Are 3x Longer – Your Landing Pages May Not Answer Them appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-30T10:56:53.387317+00:00"
+        },
+        {
+          "title": "What Google’s Search Ad Revenue Numbers Signal For AI Search Spend",
+          "url": "https://www.searchenginejournal.com/googles-q3-selloff-raises-advertiser-concerns-about-ai-search/595005/",
+          "published_at": "2026-10-29T00:00:00+00:00",
+          "excerpt": "Google’s Q3 stock plunge puts AI spending and Search ad revenue under scrutiny. Here’s what the earnings reveal for PPC advertisers. The post Google Search Revenue Growth Slowed To 12% – AI Mode Ads Are A Reporting Blind Spot appeared first on Search Engine Journal .",
+          "fetched_at": "2026-10-30T10:56:53.387317+00:00"
         },
         {
           "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth via @sejournal, @MattGSouthern",
@@ -15587,11 +15713,25 @@
           "fetched_at": "2026-10-27T18:08:08.280706+00:00"
         },
         {
+          "title": "Semrush Team",
+          "url": "https://www.semrush.com/blog/user/198766881/",
+          "published_at": "2026-10-27T00:00:00+00:00",
+          "excerpt": "Semrush has over 6,300 online reviews across G2 and Capterra. Read a summary of the top themes seen across them.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "Google My Business: A guide to Google Business Profile",
           "url": "https://www.semrush.com/blog/google-my-business/",
           "published_at": "2026-10-26T11:37:00+00:00",
           "excerpt": "Google Business Profile (formerly Google My Business) is a free business listing that supports reviews, Q&As, posts, and more.",
           "fetched_at": "2026-10-26T18:44:50.781309+00:00"
+        },
+        {
+          "title": "Alex Lindley",
+          "url": "https://www.semrush.com/blog/user/alex-lindley/",
+          "published_at": "2026-10-26T00:00:00+00:00",
+          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "AI search strategy: 4 layers of brand visibility",
@@ -15606,13 +15746,6 @@
           "published_at": "2026-10-23T10:35:00+00:00",
           "excerpt": "Google‘s information agents and Universal Cart stand to change how users discover and buy products online.",
           "fetched_at": "2026-10-23T17:19:19.174250+00:00"
-        },
-        {
-          "title": "Alex Lindley",
-          "url": "https://www.semrush.com/blog/user/alex-lindley/",
-          "published_at": "2026-10-23T00:00:00+00:00",
-          "excerpt": "Competitive analysis is the process of analyzing competitors’ products, marketing, and AI visibility to improve your strategy.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "SEO at scale: How to manage SEO on a large website",
@@ -16173,13 +16306,6 @@
           "published_at": "2026-07-24T00:00:00+00:00",
           "excerpt": "Semrush has over 6,300 online reviews across G2 and Capterra. Read a summary of the top themes seen across them.",
           "fetched_at": "2026-07-27T09:55:50.147637+05:30"
-        },
-        {
-          "title": "Semrush Team",
-          "url": "https://www.semrush.com/blog/user/198766881/",
-          "published_at": "2026-07-24T00:00:00+00:00",
-          "excerpt": "Semrush has over 6,300 online reviews across G2 and Capterra. Read a summary of the top themes seen across them.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "The Content SEO Manager: How a brand-new role took over content marketing [Study]",
@@ -16754,6 +16880,13 @@
       "listing_container_self": true,
       "color": "#6757d9",
       "articles": [
+        {
+          "title": "Top 25 B2B Contact Database Tools for 2026",
+          "url": "https://www.factors.ai/blog/top-25-b2b-contact-database-tools",
+          "published_at": "2026-11-03T00:00:00+00:00",
+          "excerpt": "Compare the top 25 B2B contact database tools for 2026. See pricing, key features, and which database is best for your sales and marketing team.",
+          "fetched_at": "2026-11-03T12:08:06.934968+00:00"
+        },
         {
           "title": "Time Decay Attribution Model Explained",
           "url": "https://www.factors.ai/blog/time-decay-attribution-model",
@@ -18595,6 +18728,34 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Working collaboratively to fight scams in Asia Pacific",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
+          "published_at": "2026-11-03T14:00:00+00:00",
+          "excerpt": "A woman using her smartphone, surrounded by graphic icons representing online security, privacy, and message alerts.",
+          "fetched_at": "2026-11-03T12:08:11.232183+00:00"
+        },
+        {
+          "title": "Advancing research and partnering with universities in Singapore",
+          "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
+          "published_at": "2026-11-03T04:30:00+00:00",
+          "excerpt": "A light beam is focused through a lens into thin wires that pass through panels featuring increasingly complex patterns of blue dots, dashes, and other geometric shapes. The Google G is on the bottom left corner.",
+          "fetched_at": "2026-11-03T12:08:11.232183+00:00"
+        },
+        {
+          "title": "The latest AI news we announced in October 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+          "published_at": "2026-11-02T17:45:00+00:00",
+          "excerpt": "Animated carousel of images from AI posts in October",
+          "fetched_at": "2026-11-03T12:08:11.232183+00:00"
+        },
+        {
+          "title": "Google Messages, Phone by Google, and Google Contacts get new, updated icons.",
+          "url": "https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/",
+          "published_at": "2026-11-02T17:00:00+00:00",
+          "excerpt": "Google is updating the icons for Messages, Phone, and Contacts with a sleeker, cohesive design. See the new look for your home screen.",
+          "fetched_at": "2026-11-03T12:08:11.232183+00:00"
+        },
         {
           "title": "Google Fitbit Edge: On shelves now",
           "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
