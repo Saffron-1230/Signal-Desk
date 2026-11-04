@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T19:40:01.809592+00:00",
+  "last_updated": "2026-11-04T12:20:34.999400+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4443,6 +4443,48 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Reddit begins testing ads in search results",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tdXFKSS1iY1NQQUVYRU9OWjl3XzgxN2tTb1ZKVkxkRzhmRW14SFBwOFlDNTVwNGcwY0VGT1FZU2x4Q2RjTGU0aTkycmQxaVM5YmdSdXp5eTJDeW1jRjFhQXk0c1F1dVE5RGlxeW1zNnBIR0NYX2dMRg?oc=5",
+          "published_at": "2026-11-03T22:10:55+00:00",
+          "excerpt": "Reddit begins testing ads in search results Search Engine Land",
+          "fetched_at": "2026-11-04T12:20:11.364515+00:00"
+        },
+        {
+          "title": "Is Google poisoning more than just search results?",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbG5jOFNOMVhCUGN0dnBIZDUtbkJVWlhoejRXVEdxUFVFQmlXM3R6ZzV2ZU12SXJNWXF1Ry1VYk5SdnUwakV4dWJmdlZNYzQwV1d3RTl3YjlfdkxmRVd6TWdVc25EaEI4ejdSNHEzVHc5UmZZYTgtcmJkUi1fbXR1UDluYw?oc=5",
+          "published_at": "2026-11-03T16:47:52+00:00",
+          "excerpt": "Is Google poisoning more than just search results? Search Engine Land",
+          "fetched_at": "2026-11-04T12:20:11.364515+00:00"
+        },
+        {
+          "title": "49 AWESOME video marketing statistics",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1S0VFUjNzdjU0MG90MXFjUklWQnNPWDBLa2tuR0x5SjZrU3lNajZIUVZLNjNDeGVvZWwyS0JIcFJhT2lsSTdncjcyWkF2bndqRGhveUNVT21rOXhkLVRBcmRQYndkVU0?oc=5",
+          "published_at": "2026-11-03T16:44:05+00:00",
+          "excerpt": "49 AWESOME video marketing statistics Search Engine Land",
+          "fetched_at": "2026-11-04T12:20:11.364515+00:00"
+        },
+        {
+          "title": "5 signals you need for better Google Ads forecasts in 2027",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Uald5UGpUUEticzdvTDQwQ3NjazFHdmZFaGxiLWYyR3VFb0JtY01pQ3F0cHJiejE3d09PT3dLQk93UkpnVkZ1VUxyZklKbkRLa0NSZXpRdUZ3aGkxV3F0MlltSE96QjBKdmtaRzVLSmhCUGpXQ3ZGdGc0aw?oc=5",
+          "published_at": "2026-11-03T16:00:00+00:00",
+          "excerpt": "5 signals you need for better Google Ads forecasts in 2027 Search Engine Land",
+          "fetched_at": "2026-11-04T12:20:11.364515+00:00"
+        },
+        {
+          "title": "Google Search Console is showing some huge spikes in clicks in the performance report",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWlmNERLU2YtVW91VTd2S09vQ0I2NUpZeC1OZDd1cm1xT0hiN0hia1dva2pNVmlBY005VjRVN3VJTUNWX1JuY0VFTlhkWHNCMkp1WlRJUURpNWU2YXh3WWRFdEdkVVliaXl4ZFozM0ZiYUI1VXdtV1JReThycXpWV0hKOXVQeW5mMWtHb3BuaVh1U2tsQ1JIX1ZnU1Ridm9LSnkzS0RFdGV0VGxwdC1SZTJRMXcyMXVHSWJHRkdB?oc=5",
+          "published_at": "2026-11-03T15:43:23+00:00",
+          "excerpt": "Google Search Console is showing some huge spikes in clicks in the performance report Search Engine Land",
+          "fetched_at": "2026-11-04T12:20:11.364515+00:00"
+        },
+        {
+          "title": "How to write an article people want to read (in 7 steps)",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41Nnk0bGJXcW82Q0dkeDNFXzZhVlR2VXZJNlo5YTU3QmI5cVp0eFVqYVB5QldqdVlfNEZuSnlPQXN4SnVZWEtjLWlldWt2QUVLTWNUNFkwM2c1ODJ0UDVmaWhESW1OTFM5Qmc?oc=5",
+          "published_at": "2026-11-03T15:26:22+00:00",
+          "excerpt": "How to write an article people want to read (in 7 steps) Search Engine Land",
+          "fetched_at": "2026-11-04T12:20:11.364515+00:00"
+        },
+        {
           "title": "7 technical SEO checks for vibe-coded websites",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmJSU0oya3JQS0FDc3ZDelp1Y3VJaTY2dGZmZm9Zcm9sLVNOcHZob2pIdU5GOUlOX0pJaTRSZW1mT3ZqNnpIS3diSFU5bW1kazRxN0F2cFg3TTZDMXRka0VORjFqM0JDallZZmpFRHpfblZQUm5FRW9FUDh3cWFCWW93?oc=5",
           "published_at": "2026-11-03T15:00:00+00:00",
@@ -4450,11 +4492,32 @@
           "fetched_at": "2026-11-03T19:39:39.239131+00:00"
         },
         {
+          "title": "YouTube community tab",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SZ3pVNUtZOXV6MkRMbG9CbEdGTnB5YmE1ZGQyX0NxN21QQmhqRU5uNWNyYU9SWXRxckYtWFlMdFF4S2VEN0NSMDBCOHJ4UURVZUlpTzM5LUhheFFSMzdEUkRR?oc=5",
+          "published_at": "2026-11-03T14:26:34+00:00",
+          "excerpt": "YouTube community tab Search Engine Land",
+          "fetched_at": "2026-11-04T12:20:11.364515+00:00"
+        },
+        {
           "title": "How to use Google Ads attributed branded searches to measure brand impact",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWd5V0xqd2FydXNxS2JUUHpOZzhGYUZEeDZkREZWeHVKZ2xaUUtQLWhxQW1CR3U1SE5MREJhV3hzU3lOT1RiN3g5Mk56cFN0UnA4X3hfTG1XYnA0MDVkSlY1am1zSTBWLTFaeFUtRWh3bzN1N2g1MmYwTk8yLWFNTGg4UFYzMnNoRDEzLUxGazR2SEppMU5wYjFhMA?oc=5",
           "published_at": "2026-11-03T14:00:00+00:00",
           "excerpt": "How to use Google Ads attributed branded searches to measure brand impact Search Engine Land",
           "fetched_at": "2026-11-03T19:39:39.239131+00:00"
+        },
+        {
+          "title": "How to film a YouTube video",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JTGNKQVg5aEs3azI5YnhCZjJmZWFEQXlHWTI1aFZPbW5RcDltbFhMZW4yR2g5UUFyQ2xuSEd0ci14dm1BZUNkaUN4SW9XZGZKcFgwZWctUEdUYXNEYWZn?oc=5",
+          "published_at": "2026-11-03T13:56:16+00:00",
+          "excerpt": "How to film a YouTube video Search Engine Land",
+          "fetched_at": "2026-11-04T12:20:11.364515+00:00"
+        },
+        {
+          "title": "Managed SEO automation: Faster workflows, higher expectations",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52THExdFJoaFh3dG5vQlBYdVVqdjdjNHplNmVLMk1yUHp6Q2lWN3l2dUtIOXVjZzF4NTlHTFZPWkhDdmJFbWgzUUVaRjE4b3owR2xsazI4Y01HMDF1aUM1dE5KbWs5bmRmOWc?oc=5",
+          "published_at": "2026-11-03T13:00:00+00:00",
+          "excerpt": "Managed SEO automation: Faster workflows, higher expectations Search Engine Land",
+          "fetched_at": "2026-11-04T12:20:11.364515+00:00"
         },
         {
           "title": "ChatGPT ads generate 64% less revenue per visit than Google Search: Study",
@@ -4837,7 +4900,7 @@
         {
           "title": "Rémi Kerhoas’ shares how a PPC mistake went unnoticed for three months",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMC0wX1lkN2xGb1Bob25WV0xyLThyclc5bl9ZRWtGVEsxQ05iUWhYNlBjUERaT0xmYlByTFVkeGFMQlBXYlBjajE0cFZXd3lRd0RoZktEY183UF9UZm5oclBseDg3OFRxQ2RfMVVjbXo2WkNuaXdDS01abzk2dElXTXc5cEsyMElZMk95UThnOFppcmdiY0dOMEF6LTZlR1hGVmhEdmFxa0o?oc=5",
-          "published_at": "2026-10-24T16:19:34+00:00",
+          "published_at": "2026-10-24T07:00:00+00:00",
           "excerpt": "Rémi Kerhoas’ shares how a PPC mistake went unnoticed for three months Search Engine Land",
           "fetched_at": "2026-10-26T10:19:56.918075+00:00"
         },
@@ -5024,17 +5087,17 @@
           "fetched_at": "2026-10-22T09:30:52.075485+00:00"
         },
         {
-          "title": "Google AI Overviews: Everything you need to know",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRldjSV9OUXdLUWFEcnVoM2pCZE9HMTRGNUoteS1FbFZzaWlYblNpREg1ZUhCSlNuUUlpR3llaFpwWHdEMll1N1NQU2ZxVlRNa05kTm05YV9vQkhUdUR5NkxQMUU1bmVWVjd4cmJ5UWNtLWRvaE1qXzJRR3pmaUVtTU9RMVBzdlczUnJV?oc=5",
-          "published_at": "2026-10-21T13:00:00+00:00",
-          "excerpt": "Google AI Overviews: Everything you need to know Search Engine Land",
-          "fetched_at": "2026-10-21T17:25:06.456722+00:00"
-        },
-        {
           "title": "Why Google reviews will power up your local SEO in 2027",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzltbmNKV252RWVSM082M0htZ0toMDdsdktCUmJyVEk2S1F0VUJRcS1FOG5YelVWYnZ6aG0xM1V0ZERONjhtRUg4U2xtS1pBVnhncFRBZHRoQ2t3empRemY2UXltakhmS29UNnhtT055bzV0UzQ0Xy1QdlBRaHRhNWFuZjE?oc=5",
           "published_at": "2026-10-21T07:00:00+00:00",
           "excerpt": "Why Google reviews will power up your local SEO in 2027 Search Engine Land",
+          "fetched_at": "2026-10-21T17:25:06.456722+00:00"
+        },
+        {
+          "title": "Google AI Overviews: Everything you need to know",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRldjSV9OUXdLUWFEcnVoM2pCZE9HMTRGNUoteS1FbFZzaWlYblNpREg1ZUhCSlNuUUlpR3llaFpwWHdEMll1N1NQU2ZxVlRNa05kTm05YV9vQkhUdUR5NkxQMUU1bmVWVjd4cmJ5UWNtLWRvaE1qXzJRR3pmaUVtTU9RMVBzdlczUnJV?oc=5",
+          "published_at": "2026-10-21T07:00:00+00:00",
+          "excerpt": "Google AI Overviews: Everything you need to know Search Engine Land",
           "fetched_at": "2026-10-21T17:25:06.456722+00:00"
         },
         {
@@ -5435,6 +5498,13 @@
           "published_at": "2026-10-14T07:00:00+00:00",
           "excerpt": "Google Ads introduces automotive model feeds for vehicle manufacturers Search Engine Land",
           "fetched_at": "2026-10-16T09:08:11.790465+00:00"
+        },
+        {
+          "title": "Writing for SEO: How to write snippet-friendly content that wins in Google and LLMs",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jYnF4SkVqeXc2QW1SdUdSZXAxY210Tm4tclBQOWYybGswMmFKTkFmZjZmbnd4RllsNTJ3b1AyVV8wdmR3WGJpNm1yYzNfaHZ0bkNmLWZqSmxNdHM5NDhPbU5jTVlWdw?oc=5",
+          "published_at": "2026-10-14T07:00:00+00:00",
+          "excerpt": "Writing for SEO: How to write snippet-friendly content that wins in Google and LLMs Search Engine Land",
+          "fetched_at": "2026-11-04T12:20:11.364515+00:00"
         },
         {
           "title": "Gemini 4 Argon rolling out in Google AI Mode & Gemini",
@@ -11373,6 +11443,13 @@
           "fetched_at": "2026-10-02T17:55:54.006926+00:00"
         },
         {
+          "title": "Glenn Gabe",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GSTNoSnZ5NmJCWUV5VzZsdjlOSnhpb0YtOV9EUVppS0R4SFZhN3JUT1kyTUZOTVJpNE5rTUx0MUFnb0RKWTNFcGdiR3Fld25PUWRnaVFKcGQ5UQ?oc=5",
+          "published_at": "2017-10-07T09:05:08+00:00",
+          "excerpt": "Glenn Gabe Search Engine Land",
+          "fetched_at": "2026-11-04T12:20:11.364515+00:00"
+        },
+        {
           "title": "Enter the 2026 Search Engine Land Awards today",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HSUU2X0cyOVN4ek1YbVNQN0hLQlZHTmF4UzVPSTdCakxSeFJpcWlDbndvWmZ0SDJtNHJFRW05NllYcVVBTUxrQUxUdw?oc=5",
           "published_at": "2017-07-19T16:30:46+00:00",
@@ -11457,6 +11534,20 @@
       "archive_titles_canonical": true,
       "color": "#2458d3",
       "articles": [
+        {
+          "title": "Google’s Search Volume Is About 5x ChatGPT’s, OpenAI Says via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/googles-search-volume-is-about-5x-chatgpts-openai-says/595817/",
+          "published_at": "2026-11-03T21:13:38+00:00",
+          "excerpt": "ChatGPT's search-like queries equal about a fifth of Google's volume, its maker says, counting each question that sends it to the web. Traffic data differs. The post Google’s Search Volume Is About 5x ChatGPT’s, OpenAI Says appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-04T12:20:22.215827+00:00"
+        },
+        {
+          "title": "Google’s Q3 2026 Earnings Call: Search & AI Are Merging Into One Unified Product via @sejournal, @marie_haynes",
+          "url": "https://www.searchenginejournal.com/googles-q3-2026-earnings-call-search-ai-are-merging-into-one-unified-product/595484/",
+          "published_at": "2026-11-03T20:00:43+00:00",
+          "excerpt": "SEOs, buckle up. Google says expect rapid improvement from recursive self-improvement, and Search is becoming an agent manager. The post Google’s Q3 2026 Earnings Call: Search & AI Are Merging Into One Unified Product appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-04T12:20:22.215827+00:00"
+        },
         {
           "title": "Google Ad Tags In Server-Side GTM To Get Full IP Addresses via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-ad-tags-in-server-side-gtm-to-get-full-ip-addresses/595807/",
@@ -15769,6 +15860,27 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "WebMCP: What it is, why it matters, and what to do now",
+          "url": "https://www.semrush.com/blog/webmcp/",
+          "published_at": "2026-11-04T10:56:00+00:00",
+          "excerpt": "WebMCP is a proposed browser-level web standard that lets any webpage declare its capabilities as structured, callable tools for AI agents.",
+          "fetched_at": "2026-11-04T12:20:29.307445+00:00"
+        },
+        {
+          "title": "How to optimize for ChatGPT shopping",
+          "url": "https://www.semrush.com/blog/optimize-for-chatgpt-shopping/",
+          "published_at": "2026-11-04T10:36:00+00:00",
+          "excerpt": "How to optimize for ChatGPT shopping: 83% of its carousel products also rank in Google‘s top 40 Shopping results.",
+          "fetched_at": "2026-11-04T12:20:29.307445+00:00"
+        },
+        {
+          "title": "AI for product marketing (7 actionable use cases)",
+          "url": "https://www.semrush.com/blog/ai-for-product-marketing/",
+          "published_at": "2026-11-04T10:22:00+00:00",
+          "excerpt": "Learn how to use AI for product marketing, with use cases for messaging, customer interviews, battlecards, and more.",
+          "fetched_at": "2026-11-04T12:20:29.307445+00:00"
+        },
+        {
           "title": "How to find your website’s keywords in Google Analytics 4",
           "url": "https://www.semrush.com/blog/google-analytics-keywords/",
           "published_at": "2026-11-03T12:05:00+00:00",
@@ -15788,6 +15900,13 @@
           "published_at": "2026-11-03T11:34:00+00:00",
           "excerpt": "See which affiliate content AI answers cite, based on Semrush‘s own affiliate program data, plus a five-step plan to turn partners into AI visibility.",
           "fetched_at": "2026-11-03T19:39:54.565731+00:00"
+        },
+        {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-11-03T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "7 free SEO tools to boost visibility & traffic",
@@ -15844,13 +15963,6 @@
           "published_at": "2026-10-22T10:11:00+00:00",
           "excerpt": "SEO at scale starts with revenue, not traffic. A page type with 3,000 visits that drives sales can be worth more than one with 40,000 that doesn‘t.",
           "fetched_at": "2026-10-22T17:23:30.281696+00:00"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-10-22T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Semrush Starter vs. Pro+: Which plan is right for you?",
@@ -15918,21 +16030,21 @@
         {
           "title": "Multi-location SEO: How to build a scalable strategy",
           "url": "https://www.semrush.com/blog/multi-location-seo/",
-          "published_at": "2026-10-07T09:39:00+00:00",
+          "published_at": "2026-10-07T00:00:00+00:00",
           "excerpt": "Multi-location SEO starts with one approved record per branch that feeds its page, Google Business Profile, schema, and listings.",
           "fetched_at": "2026-10-07T11:12:09.446313+00:00"
         },
         {
           "title": "Google AI Overviews now appear for most major brands",
           "url": "https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/",
-          "published_at": "2026-10-06T09:06:00+00:00",
+          "published_at": "2026-10-06T00:00:00+00:00",
           "excerpt": "Google AI Overviews now appear for more than 80% of the branded queries DemandSphere tracks, up from 26% on Sept. 1. Google hasn‘t explained why.",
           "fetched_at": "2026-10-06T11:23:42.796429+00:00"
         },
         {
           "title": "Local SEO: What is it & how to do it",
           "url": "https://www.semrush.com/blog/what-is-local-seo/",
-          "published_at": "2026-10-05T12:51:00+00:00",
+          "published_at": "2026-10-05T00:00:00+00:00",
           "excerpt": "Local SEO is the process of improving search visibility, traffic, and brand awareness for local businesses.",
           "fetched_at": "2026-10-05T20:43:22.535828+00:00"
         },
@@ -16972,18 +17084,18 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "Common Room Pricing: Is It Worth $30,000 a Year?",
+          "url": "https://www.factors.ai/blog/common-room-pricing",
+          "published_at": "2026-11-04T00:00:00+00:00",
+          "excerpt": "Common Room pricing starts at $30,000 a year. See what each plan includes, how credits work, and which add-ons could increase your total cost.",
+          "fetched_at": "2026-11-03T19:39:56.582954+00:00"
+        },
+        {
           "title": "Top 25 B2B Contact Database Tools for 2026",
           "url": "https://www.factors.ai/blog/top-25-b2b-contact-database-tools",
           "published_at": "2026-11-03T00:00:00+00:00",
           "excerpt": "Compare the top 25 B2B contact database tools for 2026. See pricing, key features, and which database is best for your sales and marketing team.",
           "fetched_at": "2026-11-03T12:08:06.934968+00:00"
-        },
-        {
-          "title": "Common Room Pricing: Is It Worth $30,000 a Year?",
-          "url": "https://www.factors.ai/blog/common-room-pricing",
-          "published_at": "2026-11-03T00:00:00+00:00",
-          "excerpt": "Common Room pricing starts at $30,000 a year. See what each plan includes, how credits work, and which add-ons could increase your total cost.",
-          "fetched_at": "2026-11-03T19:39:56.582954+00:00"
         },
         {
           "title": "Time Decay Attribution Model Explained",
@@ -18833,6 +18945,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Take a closer look at art with the Courtauld",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+          "published_at": "2026-11-04T10:00:00+00:00",
+          "excerpt": "Experts from the Courtauld discuss their digital partnership with Google Arts & Culture, demonstrating how ultra-high-resolution imagery brings gallery masterpieces into focus. Focusing on works like Paul Cézanne's still life, they explore hidden brushstr",
+          "fetched_at": "2026-11-04T12:20:34.995700+00:00"
+        },
         {
           "title": "Working collaboratively to fight scams in Asia Pacific",
           "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
