@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T11:13:06.788681+00:00",
+  "last_updated": "2026-11-07T17:48:19.228788+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -11752,6 +11752,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Rank Data Problems, PageSpeed Scores & AI Training Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
+          "published_at": "2026-11-07T13:00:00+00:00",
+          "excerpt": "Rank data may carry one-word results and redirect URLs. Other updates cover PageSpeed lab scores, a shared AI training opt-out, technical SEO and AI search. The post Rank Data Problems, PageSpeed Scores & AI Training Opt-Out – SEO Pulse appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-07T17:48:10.116441+00:00"
+        },
+        {
           "title": "Brave Sells Its Search Index To AI, And Your Website Is Probably In It via @sejournal, @slobodanmanic",
           "url": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
           "published_at": "2026-11-06T20:00:19+00:00",
@@ -11885,9 +11892,9 @@
           "fetched_at": "2026-11-04T19:55:36.481987+00:00"
         },
         {
-          "title": "Reddit’s Logged-In Future: Why Its Pull In Search And AI Answers Isn’t Fading via @sejournal, @brentcsutoras",
+          "title": "Reddit’s Logged-In Future: Why Its Pull In Search And AI Answers Isn’t Fading",
           "url": "https://www.searchenginejournal.com/reddit-is-going-logged-in-only-brands-still-need-to-be-in-the-conversation/595765/",
-          "published_at": "2026-11-04T13:00:52+00:00",
+          "published_at": "2026-11-04T00:00:00+00:00",
           "excerpt": "Reddit conversations help shoppers validate purchases, giving brands a reason to stay engaged as login tests raise questions about search and AI access. The post Reddit Is Going Logged-In Only – Brands Still Need To Be In The Conversation appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-04T19:55:36.481987+00:00"
         },
