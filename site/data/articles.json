@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T17:48:19.228788+00:00",
+  "last_updated": "2026-11-08T11:24:52.714994+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4767,7 +4767,7 @@
         {
           "title": "Google AI Overviews are pushing News Boxes out of search results: Study",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjRZcU5rU1VjMm01ZkYyN2ZWanUyV1NQZDJUZlU3cnJkd3pRY3dVeTNycUgyRWVhQnRsVW02czJvWDFzczVOTW9IbW43em9mMVFuWE5lNHhBdnhiVmpMcnB4M01MUmlMbERpM3JGWTc3MkJGdzA3MWdfMXYxdFY5emRfdXNFWmNoZTZ1MHdPMWJLeHdzdUlUNlZPNzlVTFdqam5wTHIwUFVhUQ?oc=5",
-          "published_at": "2026-10-30T13:00:00+00:00",
+          "published_at": "2026-10-30T07:00:00+00:00",
           "excerpt": "Google AI Overviews are pushing News Boxes out of search results: Study Search Engine Land",
           "fetched_at": "2026-10-31T10:29:05.669274+00:00"
         },
@@ -4793,13 +4793,6 @@
           "fetched_at": "2026-10-29T18:34:18.898391+00:00"
         },
         {
-          "title": "Google: AI Mode’s lower monetization slowed Search ad growth",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zUk53VHBveXl4eFgyV0NrVTB1ZWdWNEh0bVFSRkdtdEQzYVlzZEFaa2ZUYUh3bjlFSkNTa05OMHhBM2FtZkhVN3JHNVFET0UtSnJub0EtaF81NW1sUTdmdFd6a0J4SUo4aFdJT0FlTHJqdw?oc=5",
-          "published_at": "2026-10-29T13:46:47+00:00",
-          "excerpt": "Google: AI Mode’s lower monetization slowed Search ad growth Search Engine Land",
-          "fetched_at": "2026-10-29T18:34:18.898391+00:00"
-        },
-        {
           "title": "You don’t need more ads. You need more creative variables.",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0ZNbGVTb2FzNFJtUGhDNUhsSF82YTFUY09qeVdIOWVUYWFDNTQtWW1MWDFnNWRXbUJMZ3NqalY3Z0VFUTZlU1FfMW84SlNsdzd4dGd2Yi1JZ1NiN3lwQmFRbTlEdGEzTkNtMHR3VjM1TDEtamVMR3A3NXVPbklKQ0JiN01LZTY4YnYtcnZraENpTl9BNGc?oc=5",
           "published_at": "2026-10-29T13:00:00+00:00",
@@ -4819,6 +4812,13 @@
           "published_at": "2026-10-29T07:00:00+00:00",
           "excerpt": "The latest jobs in search marketing Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
+          "title": "Google: AI Mode’s lower monetization slowed Search ad growth",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zUk53VHBveXl4eFgyV0NrVTB1ZWdWNEh0bVFSRkdtdEQzYVlzZEFaa2ZUYUh3bjlFSkNTa05OMHhBM2FtZkhVN3JHNVFET0UtSnJub0EtaF81NW1sUTdmdFd6a0J4SUo4aFdJT0FlTHJqdw?oc=5",
+          "published_at": "2026-10-29T07:00:00+00:00",
+          "excerpt": "Google: AI Mode’s lower monetization slowed Search ad growth Search Engine Land",
+          "fetched_at": "2026-10-29T18:34:18.898391+00:00"
         },
         {
           "title": "Google AI Mode sends 57% of product links to Google Shopping: Study",
@@ -11752,7 +11752,7 @@
       "color": "#2458d3",
       "articles": [
         {
-          "title": "Rank Data Problems, PageSpeed Scores & AI Training Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
+          "title": "Google Rank Data Issues, Lighthouse Update & AI Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
           "published_at": "2026-11-07T13:00:00+00:00",
           "excerpt": "Rank data may carry one-word results and redirect URLs. Other updates cover PageSpeed lab scores, a shared AI training opt-out, technical SEO and AI search. The post Rank Data Problems, PageSpeed Scores & AI Training Opt-Out – SEO Pulse appeared first on Search Engine Journal .",
@@ -11773,7 +11773,7 @@
           "fetched_at": "2026-11-06T19:35:16.247100+00:00"
         },
         {
-          "title": "TikTok Search Ads Are Becoming Real Search Advertising via @sejournal, @MattGSouthern",
+          "title": "Google Ads Skills Transfer To TikTok Search Ads – With 4 Catches via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/tiktok-search-ads-are-becoming-real-search-advertising/596016/",
           "published_at": "2026-11-06T15:35:29+00:00",
           "excerpt": "TikTok's search ads carry match types, negatives, keyword bids, and impression share. Here's what carries over for a paid search team, and what doesn't. The post TikTok Search Ads Are Becoming Real Search Advertising appeared first on Search Engine Journal .",
