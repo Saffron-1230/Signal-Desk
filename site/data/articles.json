@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T17:59:35.050961+00:00",
+  "last_updated": "2026-11-09T13:08:05.515676+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -11752,6 +11752,48 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "The New Organic Growth Stack: Search, Social, Communities & AI",
+          "url": "https://www.searchenginejournal.com/new-organic-growth-stack-search-social-communities-ai/594542/",
+          "published_at": "2026-11-09T13:00:04+00:00",
+          "excerpt": "Build an organic growth stack around the sources Google's AI answers and standalone chatbots cite most in your category. The post The New Organic Growth Stack: Search, Social, Communities & AI appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-09T13:07:52.799536+00:00"
+        },
+        {
+          "title": "Ziff Davis Says Organic Google Referrals Fell About 37% via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/ziff-davis-organic-google-referrals-decline/596279/",
+          "published_at": "2026-11-09T11:00:00+00:00",
+          "excerpt": "A large publisher says organic Google referrals fell again and pointed to Search Console's AI report. Here's what its AI impressions comparison measures. The post Ziff Davis Says Organic Google Referrals Fell About 37% appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-09T13:07:52.799536+00:00"
+        },
+        {
+          "title": "Google’s AI Features Sent One Site An Estimated 21% Of Its Clicks via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/googles-ai-features-sent-one-site-an-estimated-21-of-its-clicks/596267/",
+          "published_at": "2026-11-09T09:00:00+00:00",
+          "excerpt": "One site opted out of Google’s AI features to estimate its clicks from AI Overviews and AI Mode, plus a possible lift on regular listings. The post Google’s AI Features Sent One Site An Estimated 21% Of Its Clicks appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-09T13:07:52.799536+00:00"
+        },
+        {
+          "title": "Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar] via @sejournal, @hethr_campbell",
+          "url": "https://www.searchenginejournal.com/create-more-helpful-content-for-ai-search-with-9-practical-workflows-webinar/596241/",
+          "published_at": "2026-11-09T06:03:22+00:00",
+          "excerpt": "Use AI workflows to turn customer insights into helpful content for AI search and reduce manual publishing and reporting. Join us November 18 at 2 PM ET. The post Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar] appeared first on Search Engine Journ…",
+          "fetched_at": "2026-11-09T13:07:52.799536+00:00"
+        },
+        {
+          "title": "Tripadvisor Says SEO Will Still Weigh On Growth In 2027 via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/tripadvisor-says-seo-will-still-weigh-on-growth-in-2027/596257/",
+          "published_at": "2026-11-08T19:09:13+00:00",
+          "excerpt": "Tripadvisor tied a writedown largely to search changes, expects SEO to weigh on growth next year, and says marketing takes more of its revenue. The post Tripadvisor Says SEO Will Still Weigh On Growth In 2027 appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-09T13:07:52.799536+00:00"
+        },
+        {
+          "title": "Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/cloudflare-ai-agent-optimization-new-seo/596248/",
+          "published_at": "2026-11-08T18:07:49+00:00",
+          "excerpt": "Cloudflare's CEO says OpenAI pays for hints that tell its crawler when pages change, and sites may charge agents less when they explain their visits. The post Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-09T13:07:52.799536+00:00"
+        },
+        {
           "title": "Google Rank Data Issues, Lighthouse Update & AI Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
           "published_at": "2026-11-07T13:00:00+00:00",
@@ -11850,38 +11892,10 @@
           "fetched_at": "2026-11-05T12:35:00.181508+00:00"
         },
         {
-          "title": "Google Brings UCP Direct Checkout To AI Mode In Canada via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/",
-          "published_at": "2026-11-05T03:38:11+00:00",
-          "excerpt": "Google is expanding UCP-powered direct checkout in AI Mode and the Gemini app to Canadian shoppers, with a Merchant Center integration planned for next year. The post Google Brings UCP Direct Checkout To AI Mode In Canada appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-05T12:35:00.181508+00:00"
-        },
-        {
-          "title": "Reddit Adds Ads To Search, Expands Keyword Targeting via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/reddit-begins-testing-ads-in-its-own-search-results/595935/",
-          "published_at": "2026-11-04T21:00:39+00:00",
-          "excerpt": "Reddit is testing ads in its own search results with select advertisers and may match ads to what people search for. The post Reddit Begins Testing Ads In Its Own Search Results appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-05T12:35:00.181508+00:00"
-        },
-        {
-          "title": "Businesses Treat Your AI Agent 3 Different Ways via @sejournal, @slobodanmanic",
-          "url": "https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/",
-          "published_at": "2026-11-04T20:00:33+00:00",
-          "excerpt": "If a website cannot tell an AI agent from the customer, it cannot treat the agent differently. Three steps to fix that before agents arrive. The post Businesses Treat Your AI Agent 3 Different Ways appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-05T12:35:00.181508+00:00"
-        },
-        {
           "title": "Google Adds Home Service Booking & Quote Links To AI Mode via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/",
           "published_at": "2026-11-04T19:34:49+00:00",
           "excerpt": "AI Mode now links home service searches to booking and quote pages. Here's how businesses reach those pages and what partners say about lead fees. The post Google AI Mode Adds Booking & Quote Links For Home Services appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-04T19:55:36.481987+00:00"
-        },
-        {
-          "title": "Reach Is No Longer The KPI: 4 Signals From Jupiter Festival Miami That Reset 2027 Media Budgets via @sejournal, @gregjarboe",
-          "url": "https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/",
-          "published_at": "2026-11-04T18:00:49+00:00",
-          "excerpt": "Build your 2027 paid media plan around attention, creators, and streaming, while testing whether new metrics drive incremental sales. The post Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-04T19:55:36.481987+00:00"
         },
         {
@@ -11892,11 +11906,39 @@
           "fetched_at": "2026-11-04T19:55:36.481987+00:00"
         },
         {
+          "title": "Reach Is No Longer The KPI: 4 Signals From Jupiter Festival Miami That Reset 2027 Media Budgets",
+          "url": "https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/",
+          "published_at": "2026-11-04T00:00:00+00:00",
+          "excerpt": "Build your 2027 paid media plan around attention, creators, and streaming, while testing whether new metrics drive incremental sales. The post Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-04T19:55:36.481987+00:00"
+        },
+        {
           "title": "Reddit’s Logged-In Future: Why Its Pull In Search And AI Answers Isn’t Fading",
           "url": "https://www.searchenginejournal.com/reddit-is-going-logged-in-only-brands-still-need-to-be-in-the-conversation/595765/",
           "published_at": "2026-11-04T00:00:00+00:00",
           "excerpt": "Reddit conversations help shoppers validate purchases, giving brands a reason to stay engaged as login tests raise questions about search and AI access. The post Reddit Is Going Logged-In Only – Brands Still Need To Be In The Conversation appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-04T19:55:36.481987+00:00"
+        },
+        {
+          "title": "Google Brings UCP Direct Checkout To AI Mode In Canada",
+          "url": "https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/",
+          "published_at": "2026-11-04T00:00:00+00:00",
+          "excerpt": "Google is expanding UCP-powered direct checkout in AI Mode and the Gemini app to Canadian shoppers, with a Merchant Center integration planned for next year. The post Google Brings UCP Direct Checkout To AI Mode In Canada appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-05T12:35:00.181508+00:00"
+        },
+        {
+          "title": "Reddit Adds Ads To Search, Expands Keyword Targeting",
+          "url": "https://www.searchenginejournal.com/reddit-begins-testing-ads-in-its-own-search-results/595935/",
+          "published_at": "2026-11-04T00:00:00+00:00",
+          "excerpt": "Reddit is testing ads in its own search results with select advertisers and may match ads to what people search for. The post Reddit Begins Testing Ads In Its Own Search Results appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-05T12:35:00.181508+00:00"
+        },
+        {
+          "title": "Businesses Treat Your AI Agent 3 Different Ways",
+          "url": "https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/",
+          "published_at": "2026-11-04T00:00:00+00:00",
+          "excerpt": "If a website cannot tell an AI agent from the customer, it cannot treat the agent differently. Three steps to fix that before agents arrive. The post Businesses Treat Your AI Agent 3 Different Ways appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-05T12:35:00.181508+00:00"
         },
         {
           "title": "Google’s Search Volume Is About 5x ChatGPT’s, OpenAI Says via @sejournal, @MattGSouthern",
@@ -18822,6 +18864,13 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "What is Pathways? Single-controller training for large models",
+          "url": "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
+          "published_at": "2026-11-09T00:00:00+00:00",
+          "excerpt": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous col…",
+          "fetched_at": "2026-11-09T13:08:04.640619+00:00"
+        },
+        {
           "title": "Agent Distraction",
           "url": "https://developers.googleblog.com/agent-distraction/",
           "published_at": "2026-11-06T00:00:00+00:00",
@@ -19386,6 +19435,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+          "published_at": "2026-11-09T13:00:00+00:00",
+          "excerpt": "TPU 8tx and TPU 8i Max",
+          "fetched_at": "2026-11-09T13:08:05.512161+00:00"
+        },
+        {
+          "title": "Holiday 100: Your guide to this year’s top trending gifts",
+          "url": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
+          "published_at": "2026-11-09T12:00:00+00:00",
+          "excerpt": "Text \"Holiday 100\" surrounded by various products: a piano keyboard mat, a camera, a pair of jeans, a kettle, a suitcase, a vase, and a tube of lipstick. In the top right is a bow.",
+          "fetched_at": "2026-11-09T13:08:05.512161+00:00"
+        },
         {
           "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
           "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
