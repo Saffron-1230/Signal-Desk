@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T13:08:05.515676+00:00",
+  "last_updated": "2026-11-10T12:49:55.845243+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4442,6 +4442,69 @@
       "title_suffix": " - Search Engine Land",
       "color": "#18a66a",
       "articles": [
+        {
+          "title": "The drivers of local AI visibility for multi-location brands",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVNsWVlpS1BXZjc3bE1oUGt2ZmROX2FjVlRDYXJsQUc5RjhyZ3FodkRTdWhZSjkzZ0ZHLUVvUDFnMW1yNFNWZEVJWHhUd19CQkJZR0dfUzdEZkZRVTN2QnlwS2tTNnJObUUyaUFqU1VCZ3VrMl83SHBsR1I0bl9VSlpSR3o1YzdtZjhfcVh3b04wejBtQW1Db0VqUWo?oc=5",
+          "published_at": "2026-11-10T12:10:00+00:00",
+          "excerpt": "The drivers of local AI visibility for multi-location brands Search Engine Land",
+          "fetched_at": "2026-11-10T12:49:31.456347+00:00"
+        },
+        {
+          "title": "Google AI Mode multiturn ads are now rolling out",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNm5YNnpNTHNYYkZRTFdIM0REVk9MZGF3Mk9YMGFhTnl0T1hLbmxTYm13dGxxa2pBUE1nZzl5V2ZYOGRFYmREbmZHaEpETVlQUkFtSlc4RER2X09XcEtnaktTSmIwajdqdm9WQUJvOXVVNGFRemVqQ2dGdTFQR1lMTW9COHh3b0owTk02WA?oc=5",
+          "published_at": "2026-11-09T17:51:16+00:00",
+          "excerpt": "Google AI Mode multiturn ads are now rolling out Search Engine Land",
+          "fetched_at": "2026-11-10T12:49:31.456347+00:00"
+        },
+        {
+          "title": "SEO for manufacturers: Definition, benefits, and top tactics",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zb184RFBiWmhZMERIUGdRa2hLMnZyTjY4Nm5pa3I3TFIwR2dOQUV1RTFLZmhtdFFwX3pRQ0lkaEdJQmJHZ1plMnZQRUs3WEtJNFoxS0ZPTWoxN2F2eFpEd1JYMnkwOWM?oc=5",
+          "published_at": "2026-11-09T17:45:28+00:00",
+          "excerpt": "SEO for manufacturers: Definition, benefits, and top tactics Search Engine Land",
+          "fetched_at": "2026-11-10T12:49:31.456347+00:00"
+        },
+        {
+          "title": "Google AI Overviews in France: Big click losses, but not for everyone",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95bTNJSy1tb1gxOEg1NGc4Xzc5QUl6RU1Qd3Y3YmdwOWVFUzhDQ1RYb29ORFZtOTNCYVJUNGxYeW9BbF9VN3VXOG9leEVhNlNCWUJZR0VVR05jc01COGpsY3k4cDZOajFiejBHT0dmTFhDQlpELW9xOEU0SQ?oc=5",
+          "published_at": "2026-11-09T17:19:38+00:00",
+          "excerpt": "Google AI Overviews in France: Big click losses, but not for everyone Search Engine Land",
+          "fetched_at": "2026-11-10T12:49:31.456347+00:00"
+        },
+        {
+          "title": "Title tags and page titles: How to write them (+ Steal our free formula templates)",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZVkNic0VXQWpzR09veHZXclV6cnBmbFBmVXduT2lZNFpFT2RwUlo1aVN4c0lob3YxTjlKMVJzLWZBRnJ2aEV3NjJYZElCNFd1aXpGZ3AzMC0?oc=5",
+          "published_at": "2026-11-09T17:15:39+00:00",
+          "excerpt": "Title tags and page titles: How to write them (+ Steal our free formula templates) Search Engine Land",
+          "fetched_at": "2026-11-10T12:49:31.456347+00:00"
+        },
+        {
+          "title": "Website migrations can hurt SEO even when URLs don’t change",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX05JQzNTdnB2YUhTcVZLdDFYOUJOU1BUVE1GVEV5dzRzQ0JDNFZRQ0stenA2a1dCRi11djZCUlBLTHRicGZmRXBPZVM0Umd6UzkwVVBLOGR6Q3k5TXc3Y2RvZldtMlBVYVlSM096NHI3dUE4QWtCbUctYmhVVkk0MVQySGk1anM?oc=5",
+          "published_at": "2026-11-09T16:00:00+00:00",
+          "excerpt": "Website migrations can hurt SEO even when URLs don’t change Search Engine Land",
+          "fetched_at": "2026-11-10T12:49:31.456347+00:00"
+        },
+        {
+          "title": "AI search activity is nearly invisible in Google Ads search terms reports: Study",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ21Fek5ldFhabWlWSmpzWXJCaGQ2SkhhMW84OXVyUnJMRFpCaHZBcDRmdVZkZ05VcTc5OWxLSVFfZ29XUGxSQWU0OXhHYzhHS0czcGgxdHdnZVdRODBhMVFMNzJueTNQbUxfQkZxNlFRRFM3THZCMDVJMHRMeE9GZ3pxSEhPVVd1V3dsVVFlRk5kUENzSkZRVWoxWlRjTHZuQUVhNg?oc=5",
+          "published_at": "2026-11-09T15:00:00+00:00",
+          "excerpt": "AI search activity is nearly invisible in Google Ads search terms reports: Study Search Engine Land",
+          "fetched_at": "2026-11-10T12:49:31.456347+00:00"
+        },
+        {
+          "title": "How to measure the full value of paid media beyond ROAS",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ta2JSdnE1TTdpaW9CRmVtaWJqNloyeXdRWVRWeVFfLVo3MGtIUHY5Zk4zMjlwNkpaQ0t1MGdyY0FPekFTQkdQeGxhSmlIeWFkU09lNnBKalU1Q0REZnVEQkRCbTl1WHRPNWFqRlpBMi0za1k3YkRTdWlR?oc=5",
+          "published_at": "2026-11-09T14:00:00+00:00",
+          "excerpt": "How to measure the full value of paid media beyond ROAS Search Engine Land",
+          "fetched_at": "2026-11-10T12:49:31.456347+00:00"
+        },
+        {
+          "title": "Don’t wait for the SEO report to tell clients something’s wrong",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IMXlYd1BNMm90MzJXTlh5ak1EUXpNcjM2LWMyU3dOU0NQTG8zWHpxSTVPRlFHdFh1SDR6R3kzY1RpM1NlTTVZT01veXFpNE5ucWMtVFl4QTVxMmVmWHVRSXctelNZdnEzakY0?oc=5",
+          "published_at": "2026-11-09T13:00:00+00:00",
+          "excerpt": "Don’t wait for the SEO report to tell clients something’s wrong Search Engine Land",
+          "fetched_at": "2026-11-10T12:49:31.456347+00:00"
+        },
         {
           "title": "How to calculate share of voice (+ Why it matters for SEO)",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95UDVvcUYxU1NEVW00QWhMRmZfUXhQQVpSdk5wa05DTFBsdGJRZVdzVUhSaWRLcGdUbXhVT0dnNkhETjN3ME95azV3aWpLcG5YR0hvdzJQWGlGT25tWXc?oc=5",
@@ -11752,6 +11815,48 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/",
+          "published_at": "2026-11-10T11:30:00+00:00",
+          "excerpt": "Meta paused its updated business and ad terms, leaving existing crawl rights in place for advertisers. The post Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-10T12:49:43.401065+00:00"
+        },
+        {
+          "title": "ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/chatgpt-ads-is-replacing-max-bid-max-cpc-with-cost-targets/596491/",
+          "published_at": "2026-11-10T10:09:01+00:00",
+          "excerpt": "ChatGPT Ads is replacing manual bid caps with average cost targets, with separate dates for new campaigns, existing campaigns and API partners. The post ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-10T12:49:43.401065+00:00"
+        },
+        {
+          "title": "Paid Search Is Moving Up The Funnel – Google Admits AI Mode Pays Less via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/",
+          "published_at": "2026-11-09T20:00:13+00:00",
+          "excerpt": "Protect PPC budgets as Google's AI Mode pushes search earlier in the buying journey, with four account changes to test whether discovery pays. The post Paid Search Is Moving Up The Funnel – Google Admits AI Mode Pays Less appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-10T12:49:43.401065+00:00"
+        },
+        {
+          "title": "Google Ads Tests Asset Activity Page With Weekly AI Insights via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
+          "published_at": "2026-11-09T16:30:00+00:00",
+          "excerpt": "Some Google Ads accounts show an Asset activity page that uses AI to deliver weekly insight cards on ad creative, including headline ideas to test. The post Google Ads Tests Asset Activity Page With Weekly AI Insights appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-10T12:49:43.401065+00:00"
+        },
+        {
+          "title": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
+          "url": "https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/",
+          "published_at": "2026-11-09T15:00:42+00:00",
+          "excerpt": "Separate real SEO gains from Google's shifts with fair controls, clear decision rules, and results stakeholders can tie to revenue. The post SEO Split Testing In 2027: How To Prove A Change Actually Worked appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-10T12:49:43.401065+00:00"
+        },
+        {
+          "title": "Why An AI Usage Report Stopped Comparing AI With Search Engines via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/ai-76-billion-monthly-sessions-search-comparison/596389/",
+          "published_at": "2026-11-09T15:00:00+00:00",
+          "excerpt": "Graphite estimates AI assistants reached 76 billion monthly sessions worldwide and says it can no longer reliably compare AI search use with search engines. The post Why An AI Usage Report Stopped Comparing AI With Search Engines appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-10T12:49:43.401065+00:00"
+        },
+        {
           "title": "The New Organic Growth Stack: Search, Social, Communities & AI",
           "url": "https://www.searchenginejournal.com/new-organic-growth-stack-search-social-communities-ai/594542/",
           "published_at": "2026-11-09T13:00:04+00:00",
@@ -11759,7 +11864,7 @@
           "fetched_at": "2026-11-09T13:07:52.799536+00:00"
         },
         {
-          "title": "Ziff Davis Says Organic Google Referrals Fell About 37% via @sejournal, @MattGSouthern",
+          "title": "Ziff Davis CEO: ‘Not Planning On A Search Recovery’ via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/ziff-davis-organic-google-referrals-decline/596279/",
           "published_at": "2026-11-09T11:00:00+00:00",
           "excerpt": "A large publisher says organic Google referrals fell again and pointed to Search Console's AI report. Here's what its AI impressions comparison measures. The post Ziff Davis Says Organic Google Referrals Fell About 37% appeared first on Search Engine Journal .",
@@ -11850,32 +11955,11 @@
           "fetched_at": "2026-11-06T12:17:34.149375+00:00"
         },
         {
-          "title": "Most ChatGPT Ads In Beauty & Travel Ran On Research Prompts: Report via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
-          "published_at": "2026-11-05T15:15:08+00:00",
-          "excerpt": "New holiday data counts ads inside Google AI Overviews, AI Mode and ChatGPT across five shopping categories and shows which prompts ChatGPT ads ran on. The post Ads In Google AI Answers Concentrate In Apparel & Electronics appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-06T12:17:34.149375+00:00"
-        },
-        {
-          "title": "Ask A PPC: How Do I Get Better Leads, Not Just More Conversions? via @sejournal, @navahf",
-          "url": "https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-for-better-outcomes-not-just-conversions/594569/",
-          "published_at": "2026-11-05T15:00:32+00:00",
-          "excerpt": "Improve lead quality by teaching ad platforms which conversions become qualified opportunities and revenue. The post How To Optimize For Better Campaign Leads, Not Just Conversions – Ask A PPC appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-06T12:17:34.149375+00:00"
-        },
-        {
           "title": "GEO Isn’t A Distraction – AI Influence Doesn’t Show Up In Referral Data via @sejournal, @TaylorDanRW",
           "url": "https://www.searchenginejournal.com/geo-isnt-a-distraction-referral-data-misses-where-ai-shapes-buying-decisions/595730/",
           "published_at": "2026-11-05T13:00:43+00:00",
           "excerpt": "GEO's low referral traffic can hide its influence on buying decisions, while cited research shows ChatGPT visitors convert nearly five times better than search visitors. The post GEO Isn’t A Distraction – Referral Data Misses Where AI Shapes Buying Decisions appeared first on Se…",
           "fetched_at": "2026-11-06T12:17:34.149375+00:00"
-        },
-        {
-          "title": "Google Explains How Redirects Affect Ranking Signals via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/",
-          "published_at": "2026-11-05T12:23:47+00:00",
-          "excerpt": "Google clarifies how server-side redirects influence ranking signals and canonicalization. The post Google Explains How Redirects Affect Ranking Signals appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-05T12:35:00.181508+00:00"
         },
         {
           "title": "Google Appears To Limit How Fast Goto Result Links Can Be Followed via @sejournal, @MattGSouthern",
@@ -11890,6 +11974,27 @@
           "published_at": "2026-11-05T06:03:53+00:00",
           "excerpt": "Measure AI visibility beyond rankings and citations. Use inclusion, framing, and endorsement to show clients what changed and what to do next. The post AI Visibility vs. Search Rankings: Is Your Agency Measuring the Wrong Thing For 2027? appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-05T12:35:00.181508+00:00"
+        },
+        {
+          "title": "Google Explains How Redirects Affect Ranking Signals",
+          "url": "https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/",
+          "published_at": "2026-11-05T00:00:00+00:00",
+          "excerpt": "Google clarifies how server-side redirects influence ranking signals and canonicalization. The post Google Explains How Redirects Affect Ranking Signals appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-05T12:35:00.181508+00:00"
+        },
+        {
+          "title": "Most ChatGPT Ads In Beauty & Travel Ran On Research Prompts: Report",
+          "url": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
+          "published_at": "2026-11-05T00:00:00+00:00",
+          "excerpt": "New holiday data counts ads inside Google AI Overviews, AI Mode and ChatGPT across five shopping categories and shows which prompts ChatGPT ads ran on. The post Ads In Google AI Answers Concentrate In Apparel & Electronics appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-06T12:17:34.149375+00:00"
+        },
+        {
+          "title": "Ask A PPC: How Do I Get Better Leads, Not Just More Conversions?",
+          "url": "https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-for-better-outcomes-not-just-conversions/594569/",
+          "published_at": "2026-11-05T00:00:00+00:00",
+          "excerpt": "Improve lead quality by teaching ad platforms which conversions become qualified opportunities and revenue. The post How To Optimize For Better Campaign Leads, Not Just Conversions – Ask A PPC appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-06T12:17:34.149375+00:00"
         },
         {
           "title": "Google Adds Home Service Booking & Quote Links To AI Mode via @sejournal, @MattGSouthern",
@@ -16266,6 +16371,20 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "The future of SEO: Where search is heading in 2027",
+          "url": "https://www.semrush.com/blog/future-of-seo/",
+          "published_at": "2026-11-09T14:24:00+00:00",
+          "excerpt": "SEO will remain relevant as AI changes how people search. Learn what to expect and how to prepare.",
+          "fetched_at": "2026-11-10T12:49:47.703451+00:00"
+        },
+        {
+          "title": "Social media competitor analysis [+ free template]",
+          "url": "https://www.semrush.com/blog/social-media-competitor-analysis/",
+          "published_at": "2026-11-09T13:49:00+00:00",
+          "excerpt": "Social media competitor analysis starts with the competitors you’re missing. Learn what to measure and turn their content into strategy with a free template.",
+          "fetched_at": "2026-11-10T12:49:47.703451+00:00"
+        },
+        {
           "title": "How to use Google Keyword Planner",
           "url": "https://www.semrush.com/blog/google-keyword-planner/",
           "published_at": "2026-11-05T10:43:00+00:00",
@@ -16327,6 +16446,13 @@
           "published_at": "2026-11-03T00:00:00+00:00",
           "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
           "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
+          "title": "Leigh McKenzie",
+          "url": "https://www.semrush.com/blog/user/leigh-mckenzie/",
+          "published_at": "2026-11-03T00:00:00+00:00",
+          "excerpt": "See which affiliate content AI answers cite, based on Semrush‘s own affiliate program data, plus a five-step plan to turn partners into AI visibility.",
+          "fetched_at": "2026-11-10T12:49:47.703451+00:00"
         },
         {
           "title": "7 free SEO tools to boost visibility & traffic",
@@ -16422,14 +16548,14 @@
         {
           "title": "How to do an SEO audit with Claude & the Semrush MCP",
           "url": "https://www.semrush.com/blog/semrush-seo-audit-with-claude/",
-          "published_at": "2026-10-15T12:32:00+00:00",
+          "published_at": "2026-10-15T00:00:00+00:00",
           "excerpt": "Scan your website in Site Audit, connect Semrush’s MCP to Claude, and have Claude analyze the audit data.",
           "fetched_at": "2026-10-15T17:12:30.309246+00:00"
         },
         {
           "title": "How to build an AI visibility dashboard with Semrush",
           "url": "https://www.semrush.com/blog/how-to-build-an-ai-visibility-dashboard-semrush/",
-          "published_at": "2026-10-12T09:45:00+00:00",
+          "published_at": "2026-10-12T00:00:00+00:00",
           "excerpt": "Learn how to build an AI visibility dashboard that shows whether the pages AI cites are the ones earning Google clicks.",
           "fetched_at": "2026-10-12T12:15:01.181233+00:00"
         },
@@ -18871,6 +18997,20 @@
           "fetched_at": "2026-11-09T13:08:04.640619+00:00"
         },
         {
+          "title": "From prompt to app: Build with Google Maps in AI Studio",
+          "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+          "published_at": "2026-11-09T00:00:00+00:00",
+          "excerpt": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly w…",
+          "fetched_at": "2026-11-10T12:49:54.982512+00:00"
+        },
+        {
+          "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
+          "url": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
+          "published_at": "2026-11-09T00:00:00+00:00",
+          "excerpt": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash Attention kernel, these strategies effectively manage attentio…",
+          "fetched_at": "2026-11-10T12:49:54.982512+00:00"
+        },
+        {
           "title": "Agent Distraction",
           "url": "https://developers.googleblog.com/agent-distraction/",
           "published_at": "2026-11-06T00:00:00+00:00",
@@ -19435,6 +19575,20 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Waze and Garmin team up to boost driver awareness of cyclists.",
+          "url": "https://blog.google/waze/garmin-safety-cyclists/",
+          "published_at": "2026-11-10T12:00:00+00:00",
+          "excerpt": "Waze and Garmin improve road safety with real-time cycling alerts. See how Garmin LiveTrack icons help drivers stay aware of nearby cyclists. Get the details.",
+          "fetched_at": "2026-11-10T12:49:55.841803+00:00"
+        },
+        {
+          "title": "Developers can now build with Google Maps Platform in AI Studio.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+          "published_at": "2026-11-09T17:00:00+00:00",
+          "excerpt": "Developers can now build with Google Maps Platform in AI Studio.",
+          "fetched_at": "2026-11-10T12:49:55.841803+00:00"
+        },
         {
           "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
