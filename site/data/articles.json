@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T12:25:14.301584+00:00",
+  "last_updated": "2026-11-13T19:54:29.478229+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4456,6 +4456,34 @@
       "title_suffix": " - Search Engine Land",
       "color": "#18a66a",
       "articles": [
+        {
+          "title": "6 ways to stay on budget with Google Ads Smart Bidding",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWxreVJqbUgyQkplSS1xWUMyQnBXS1hNOEJxdUtVdS1FZlJuOHpvTTZVcVVPMXVuN1hLX3M0THYxdkZkakJydlplNE1QY0JTVkd4THlwcDkzQVhiSEtvTlhpWnl6NTB2WVlIRFZETWdnRE8wSlJzOTMydlgyamJ0Mw?oc=5",
+          "published_at": "2026-11-13T16:00:00+00:00",
+          "excerpt": "6 ways to stay on budget with Google Ads Smart Bidding Search Engine Land",
+          "fetched_at": "2026-11-13T19:54:09.238519+00:00"
+        },
+        {
+          "title": "SEO best practice, passing fad, or timeless tactic? How to tell the difference",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16bU9FLWRzSEhhNmQ5Z1UwM2VfZmt4SHVrRmdwSlpTdTBEWXdXbVVIZFd2a1Q5ZW9QWThVTl95a3hSNGgzOTQxd1Y4UGstRHVFaENVNElEa0NxTDV1Sl9GRDlzU24zTnZETDFhWGVkenBJUlkxVGVOcWNjcW9rdw?oc=5",
+          "published_at": "2026-11-13T15:00:00+00:00",
+          "excerpt": "SEO best practice, passing fad, or timeless tactic? How to tell the difference Search Engine Land",
+          "fetched_at": "2026-11-13T19:54:09.238519+00:00"
+        },
+        {
+          "title": "Your SEO share of voice doesn’t tell you if AI recommends your brand",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqRW9OYV8zaWZCNFUtTEtyVDAtTlVTMEhIMEdDTUx1S244ckNZX0RQS1RVbzV6bk15bTdUeXcwT3psRlpkeHdDLTRUMFQyR1FNYUNERHViMFI0QmtLYVltMFljdFlYSUhLNjdMTEMxN0JvYnNzT1l6R1NSNDdCUQ?oc=5",
+          "published_at": "2026-11-13T14:00:00+00:00",
+          "excerpt": "Your SEO share of voice doesn’t tell you if AI recommends your brand Search Engine Land",
+          "fetched_at": "2026-11-13T19:54:09.238519+00:00"
+        },
+        {
+          "title": "Why AI search is bringing SEO and brand marketing together",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TS2tBa041U0NRaGdFMDNFUjE5TXBFWFpVc0RkSDJMalI5Ync1V2xNZDMxYmtlX1FydDVqT1NTWlZkOGd1Q2w2Qjc0aEQ1a1JMLTlwSGlZUnplaDVOLWV1TXg4Y0NfVzEtMU1PaDRmRkZoby1mYk5Mbk5CMDVrcjQ?oc=5",
+          "published_at": "2026-11-13T13:00:00+00:00",
+          "excerpt": "Why AI search is bringing SEO and brand marketing together Search Engine Land",
+          "fetched_at": "2026-11-13T19:54:09.238519+00:00"
+        },
         {
           "title": "Dreambeans: Google turns your private life into personalized content",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXl4R2NKMzVIdFNhOVFLdHlfb1JqYkluazkzVGZSSmRaRHdDNmJNVFNEaWN5V1NRUkY5ZFhnTENUU01NbWVaVENiS3h6TVdvX1JYeGhtc3M4Tk9GMGZ0R1lzOXRlTURnNExER3BGTVVUelV0MmVYZW5XRUM0NmNLLW5sbWRVU2IzczN2dEJTS2JETXFGWHpMT2FNVGpLaGFPRzZOQVFR?oc=5",
@@ -12165,6 +12193,27 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-target-frequency-non-skippable-shorts/597333/",
+          "published_at": "2026-11-13T18:26:51+00:00",
+          "excerpt": "Target frequency campaigns can pair non-skippable ads with Shorts and in-feed ads, an updated help page says. Here's what changed and where the limits are. The post Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-13T19:54:19.339818+00:00"
+        },
+        {
+          "title": "72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/",
+          "published_at": "2026-11-13T18:00:02+00:00",
+          "excerpt": "Turn Google Ads automation decisions into proof of your AI skills, with a practical record of overrides, checks, and campaign results. The post 72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-13T19:54:19.339818+00:00"
+        },
+        {
+          "title": "What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras",
+          "url": "https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/",
+          "published_at": "2026-11-13T13:00:09+00:00",
+          "excerpt": "Spot recurring product complaints and competitor comparisons with Reddit Reviews, then check source comments for the context behind the summaries. The post What Reddit Reviews Reveals About Your Products appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-13T19:54:19.339818+00:00"
+        },
+        {
           "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
           "url": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
           "published_at": "2026-11-12T21:01:44+00:00",
@@ -12186,7 +12235,7 @@
           "fetched_at": "2026-11-13T12:24:59.350470+00:00"
         },
         {
-          "title": "Visits To The Top Million Websites Fell 12%, Data Shows via @sejournal, @MattGSouthern",
+          "title": "Top Million Sites Lost 12% Of Visits; Top 100’s Share Barely Moved via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/",
           "published_at": "2026-11-12T18:43:03+00:00",
           "excerpt": "Data shows visits to the world's top million websites declined from an earlier peak, visits going to sites outside the top 100 barely changed. The post Visits To The Top Million Websites Fell 12%, Data Shows appeared first on Search Engine Journal .",
@@ -12291,23 +12340,16 @@
           "fetched_at": "2026-11-11T11:58:59.674261+00:00"
         },
         {
-          "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines via @sejournal, @_nitman",
-          "url": "https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/",
-          "published_at": "2026-11-10T15:00:54+00:00",
-          "excerpt": "Build programmatic SEO pages that earn their place with unique data, clear publishing standards, and pruning rules that keep scale from becoming spam. The post Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines appeared first on Search Engine Journal…",
-          "fetched_at": "2026-11-11T11:58:59.674261+00:00"
-        },
-        {
-          "title": "Jon Miller On AI And The Future Of Marketing Automation via @sejournal, @hethr_campbell",
+          "title": "Jon Miller On AI And The Future Of Marketing Automation",
           "url": "https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/",
           "published_at": "2026-11-10T13:00:26+00:00",
           "excerpt": "Jon Miller joins Heather Campbell to discuss how AI could reshape marketing automation, buying groups, and the decisions marketers face before renewing legacy platforms. The post Jon Miller On AI And The Future Of Marketing Automation appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-11T11:58:59.674261+00:00"
         },
         {
-          "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 via @sejournal, @MattGSouthern",
+          "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20",
           "url": "https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/",
-          "published_at": "2026-11-10T11:30:00+00:00",
+          "published_at": "2026-11-10T00:00:00+00:00",
           "excerpt": "Meta paused its updated business and ad terms, leaving existing crawl rights in place for advertisers. The post Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-10T12:49:43.401065+00:00"
         },
@@ -12317,6 +12359,13 @@
           "published_at": "2026-11-10T00:00:00+00:00",
           "excerpt": "ChatGPT Ads is replacing manual bid caps with average cost targets, with separate dates for new campaigns, existing campaigns and API partners. The post ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-10T12:49:43.401065+00:00"
+        },
+        {
+          "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines",
+          "url": "https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/",
+          "published_at": "2026-11-10T00:00:00+00:00",
+          "excerpt": "Build programmatic SEO pages that earn their place with unique data, clear publishing standards, and pruning rules that keep scale from becoming spam. The post Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines appeared first on Search Engine Journal…",
+          "fetched_at": "2026-11-11T11:58:59.674261+00:00"
         },
         {
           "title": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
@@ -16861,6 +16910,20 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "What is a pillar page & how to create one (+ examples)",
+          "url": "https://www.semrush.com/blog/pillar-page/",
+          "published_at": "2026-11-13T14:40:00+00:00",
+          "excerpt": "Pillar pages can build your authority and increase visibility. Here’s why they matter and how to create them.",
+          "fetched_at": "2026-11-13T19:54:24.356101+00:00"
+        },
+        {
+          "title": "How to do an SEO competitor analysis with the Semrush MCP",
+          "url": "https://www.semrush.com/blog/competitor-analysis-semrush-mcp/",
+          "published_at": "2026-11-13T12:24:00+00:00",
+          "excerpt": "Learn how to use the Semrush MCP to analyze your competitors’ keywords, pages, and backlinks.",
+          "fetched_at": "2026-11-13T19:54:24.356101+00:00"
+        },
+        {
           "title": "AI traffic quality: Look past the industry benchmarks and measure ROI",
           "url": "https://www.semrush.com/blog/ai-traffic-quality/",
           "published_at": "2026-11-12T11:21:00+00:00",
@@ -17017,14 +17080,14 @@
         {
           "title": "AI search strategy: 4 layers of brand visibility",
           "url": "https://www.semrush.com/blog/ai-search-strategy/",
-          "published_at": "2026-10-23T10:58:00+00:00",
+          "published_at": "2026-10-23T00:00:00+00:00",
           "excerpt": "An AI search strategy starts with diagnosis. Rewriting content won‘t help if AI can‘t reach your site or keeps describing your brand wrong.",
           "fetched_at": "2026-10-23T17:19:19.174250+00:00"
         },
         {
           "title": "Google Search expands agentic capabilities with information agents and Universal Cart",
           "url": "https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/",
-          "published_at": "2026-10-23T10:35:00+00:00",
+          "published_at": "2026-10-23T00:00:00+00:00",
           "excerpt": "Google‘s information agents and Universal Cart stand to change how users discover and buy products online.",
           "fetched_at": "2026-10-23T17:19:19.174250+00:00"
         },
@@ -18675,6 +18738,13 @@
       "color": "#178bd4",
       "articles": [
         {
+          "title": "Multi-Location Google Business Profile Management: 6 Common Problems (+ How to Fix Each One)",
+          "url": "https://www.webfx.com/blog/seo/multi-location-google-business-profile-management/",
+          "published_at": "2026-11-13T08:55:07+00:00",
+          "excerpt": "The post Multi-Location Google Business Profile Management: 6 Common Problems (+ How to Fix Each One) appeared first on WebFX .",
+          "fetched_at": "2026-11-13T19:54:26.606192+00:00"
+        },
+        {
           "title": "Industrial SEO: From Basics to Business Growth Strategies",
           "url": "https://www.webfx.com/blog/industrial/seo-guide/",
           "published_at": "2026-11-11T13:54:00+00:00",
@@ -20191,6 +20261,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Connect Google Wallet to Gemini for personal finance insights",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+          "published_at": "2026-11-13T17:00:00+00:00",
+          "excerpt": "Personal Intelligence",
+          "fetched_at": "2026-11-13T19:54:29.475594+00:00"
+        },
         {
           "title": "5 new Google Flow Tools designed by visual artists",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
