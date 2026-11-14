@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T19:54:29.478229+00:00",
+  "last_updated": "2026-11-14T11:38:32.611333+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4457,6 +4457,13 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Microsoft Advertising warns Outlook outage may have affected advertiser spend",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0JSQ1JhOEdWMlM2OVBXcnV0N1NxbHNPb21GRlhtVkpfTjh0aEIyYnNETU16UWlCcnNVZzJ4WW5yVHUyVkR1VDBPUTdnM3NfTmEwU3hfSEs1TjIzeFA1ZVM3WkhRSzhaMlVUa1RyTXlhUGdhc0o3dWpRQUtkU1o4VHdXbkhLa1lLU3JJUTVpVmdQbC1PR1VFQ1F3YzhUMVFucS1uenFMcW1QU1pTeE5laFIxVQ?oc=5",
+          "published_at": "2026-11-13T19:50:46+00:00",
+          "excerpt": "Microsoft Advertising warns Outlook outage may have affected advertiser spend Search Engine Land",
+          "fetched_at": "2026-11-14T11:38:10.900113+00:00"
+        },
+        {
           "title": "6 ways to stay on budget with Google Ads Smart Bidding",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWxreVJqbUgyQkplSS1xWUMyQnBXS1hNOEJxdUtVdS1FZlJuOHpvTTZVcVVPMXVuN1hLX3M0THYxdkZkakJydlplNE1QY0JTVkd4THlwcDkzQVhiSEtvTlhpWnl6NTB2WVlIRFZETWdnRE8wSlJzOTMydlgyamJ0Mw?oc=5",
           "published_at": "2026-11-13T16:00:00+00:00",
@@ -4821,6 +4828,13 @@
           "fetched_at": "2026-11-10T12:49:31.456347+00:00"
         },
         {
+          "title": "Boris Mustapic",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMMk9oZVdWSjl6ZVlVbGpkNWtYQXRKSUZhdmY2c1NDRmlKUGpVN0Uzak42bmxsYV9reEpjelhUV2dLZWZ0ZVNtUS1ybHd6S3NKcTRiREU0TVZ0QVA0VmJz?oc=5",
+          "published_at": "2026-11-10T08:00:00+00:00",
+          "excerpt": "Boris Mustapic Search Engine Land",
+          "fetched_at": "2026-11-14T11:38:10.900113+00:00"
+        },
+        {
           "title": "Google AI Mode multiturn ads are now rolling out",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNm5YNnpNTHNYYkZRTFdIM0REVk9MZGF3Mk9YMGFhTnl0T1hLbmxTYm13dGxxa2pBUE1nZzl5V2ZYOGRFYmREbmZHaEpETVlQUkFtSlc4RER2X09XcEtnaktTSmIwajdqdm9WQUJvOXVVNGFRemVqQ2dGdTFQR1lMTW9COHh3b0owTk02WA?oc=5",
           "published_at": "2026-11-09T17:51:16+00:00",
@@ -5017,13 +5031,6 @@
           "fetched_at": "2026-11-04T19:55:24.618053+00:00"
         },
         {
-          "title": "Google AI Mode adds home services booking links",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmtqTkFjWkZZbG96b1dLNHN4anlXVkVqV2N0a0d6ZHl4T3p1QnNrdl9vNzJrVVZILS1VbTNIVVQ1UVFPQk5mbUpJdDBJTlR0VkVPTEhpVG9zWFhsc3dOME41OURJcFVSOXlDZ016a0ZMNFpLeE53cnJ0NzRvYkhJci1XTUR1QUY1eHpn?oc=5",
-          "published_at": "2026-11-04T17:44:02+00:00",
-          "excerpt": "Google AI Mode adds home services booking links Search Engine Land",
-          "fetched_at": "2026-11-04T19:55:24.618053+00:00"
-        },
-        {
           "title": "Google organic click share reaches 15-month high: Report",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdWlKanpvbFJ4c0tDb1NQMXdSekt5aTFwOGFwR0M5SWRtbE15UFZTSFZiU0FvY21rekViVVZmWnNpeXFnSnRRVzBwUmtfY0piNkR0NDVOY2wwUURrdXc4bVBnci1RWDc4QUwwV2lucjdDX2RReXUwOWpSZlJKM0Nidjd4dmMxTFFBS3hV?oc=5",
           "published_at": "2026-11-04T17:15:44+00:00",
@@ -5070,6 +5077,13 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0h0QnExNFhuUWd5ZVVoN1M1dDRBNkxmQnhpZEdUNzlZcE9lLWJxMXh2U0J1NEFGNWZVWW1Rc1RQX0gwRmwwYkh3dkNQdnQ0ajQwcFBVNlFMVjd4dVU2VW9ESHZHaWRnWnJCZzk2eUFYZlF2OU9LZTN1dEk4QlFIaU94RFhZSDg?oc=5",
           "published_at": "2026-11-04T08:00:00+00:00",
           "excerpt": "Product feeds are becoming the new ad creative in Google AI Mode Search Engine Land",
+          "fetched_at": "2026-11-04T19:55:24.618053+00:00"
+        },
+        {
+          "title": "Google AI Mode adds home services booking links",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmtqTkFjWkZZbG96b1dLNHN4anlXVkVqV2N0a0d6ZHl4T3p1QnNrdl9vNzJrVVZILS1VbTNIVVQ1UVFPQk5mbUpJdDBJTlR0VkVPTEhpVG9zWFhsc3dOME41OURJcFVSOXlDZ016a0ZMNFpLeE53cnJ0NzRvYkhJci1XTUR1QUY1eHpn?oc=5",
+          "published_at": "2026-11-04T08:00:00+00:00",
+          "excerpt": "Google AI Mode adds home services booking links Search Engine Land",
           "fetched_at": "2026-11-04T19:55:24.618053+00:00"
         },
         {
@@ -12193,7 +12207,35 @@
       "color": "#2458d3",
       "articles": [
         {
-          "title": "Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts via @sejournal, @MattGSouthern",
+          "title": "United Requires Permission For AI Agents, Keeps Search Indexing Open via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/",
+          "published_at": "2026-11-14T10:00:14+00:00",
+          "excerpt": "An airline's updated terms let search engines index public pages but require written permission for AI agents and bar AI grounding on its data. The post United Requires Permission For AI Agents, Keeps Search Indexing Open appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-14T11:38:21.409067+00:00"
+        },
+        {
+          "title": "Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/",
+          "published_at": "2026-11-14T08:00:52+00:00",
+          "excerpt": "Two companies' AI agents made most of the requests observed in one month, and most went to product and search pages rather than checkout. The post Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-14T11:38:21.409067+00:00"
+        },
+        {
+          "title": "Google Explains How To Find Search Traffic In Analytics & Logs via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/google-search-traffic-analytics-logs/597382/",
+          "published_at": "2026-11-14T00:02:10+00:00",
+          "excerpt": "A Google Search help page lists the referrer values Search traffic sends, why some visits arrive with none, and why counts differ from Search Console. The post Google Explains How To Find Search Traffic In Analytics & Logs appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-14T11:38:21.409067+00:00"
+        },
+        {
+          "title": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
+          "url": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
+          "published_at": "2026-11-13T20:00:48+00:00",
+          "excerpt": "Blocking an AI training crawler isn’t the same as blocking a retrieval bot. Here’s why SEO needs deliberate bot policies, not block lists. The post AI Bot Management: Why SEOs Need More Than Block Lists appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-14T11:38:21.409067+00:00"
+        },
+        {
+          "title": "Google Lets Target Frequency Pair Non-Skippable Ads With Shorts via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-target-frequency-non-skippable-shorts/597333/",
           "published_at": "2026-11-13T18:26:51+00:00",
           "excerpt": "Target frequency campaigns can pair non-skippable ads with Shorts and in-feed ads, an updated help page says. Here's what changed and where the limits are. The post Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts appeared first on Search Engine Journal .",
@@ -12312,20 +12354,6 @@
           "fetched_at": "2026-11-11T11:58:59.674261+00:00"
         },
         {
-          "title": "Google’s November 2026 Core Update Starts Rolling Out via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/google-november-2026-core-update/596614/",
-          "published_at": "2026-11-10T19:55:01+00:00",
-          "excerpt": "Google has begun rolling out its November 2026 core update globally and says it may take up to two weeks to complete. The post Google’s November 2026 Core Update Starts Rolling Out appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-11T11:58:59.674261+00:00"
-        },
-        {
-          "title": "Google Ads Now Runs In AI Mode Across 10 More Countries via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
-          "published_at": "2026-11-10T19:08:34+00:00",
-          "excerpt": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads for follow-up queries in the U.S. The post Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-11T11:58:59.674261+00:00"
-        },
-        {
           "title": "“F*** Keywords” – Well, What Are You Replacing Them With? via @sejournal, @chrisgreenseo",
           "url": "https://www.searchenginejournal.com/forget-keywords-well-what-are-you-replacing-them-with/596349/",
           "published_at": "2026-11-10T18:00:42+00:00",
@@ -12359,6 +12387,20 @@
           "published_at": "2026-11-10T00:00:00+00:00",
           "excerpt": "ChatGPT Ads is replacing manual bid caps with average cost targets, with separate dates for new campaigns, existing campaigns and API partners. The post ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-10T12:49:43.401065+00:00"
+        },
+        {
+          "title": "Google’s November 2026 Core Update Starts Rolling Out",
+          "url": "https://www.searchenginejournal.com/google-november-2026-core-update/596614/",
+          "published_at": "2026-11-10T00:00:00+00:00",
+          "excerpt": "Google has begun rolling out its November 2026 core update globally and says it may take up to two weeks to complete. The post Google’s November 2026 Core Update Starts Rolling Out appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-11T11:58:59.674261+00:00"
+        },
+        {
+          "title": "Google Ads Now Runs In AI Mode Across 10 More Countries",
+          "url": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
+          "published_at": "2026-11-10T00:00:00+00:00",
+          "excerpt": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads for follow-up queries in the U.S. The post Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-11T11:58:59.674261+00:00"
         },
         {
           "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines",
@@ -20261,6 +20303,13 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "Claim your Google Cloud Credits in Google AI Studio",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+          "published_at": "2026-11-13T20:30:00+00:00",
+          "excerpt": "Google Cloud Credits in AI Studio",
+          "fetched_at": "2026-11-14T11:38:32.606967+00:00"
+        },
         {
           "title": "Connect Google Wallet to Gemini for personal finance insights",
           "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
