@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T11:38:32.611333+00:00",
+  "last_updated": "2026-11-14T18:20:44.726936+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4912,13 +4912,6 @@
           "fetched_at": "2026-11-06T19:35:02.319690+00:00"
         },
         {
-          "title": "YouTube description updates linked to 359% rise in AI retrievals",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblkxbUFPTjdrTDRLM2xCOV9iYnB6aWJsTmRSWnJwWTZtenZ4THotby1KVWFZYmVhaldYOEJSMHNERU9HWjhyX3NlQnAtbjZYd0RLOEYxZDVOSUZqV1V6ZDE0ZzlGSGkxNmxsUFp6VDU4aW9OUHAwSTVIcDNrNHQ5NGNjN2g3dTdHV2VV?oc=5",
-          "published_at": "2026-11-06T16:13:16+00:00",
-          "excerpt": "YouTube description updates linked to 359% rise in AI retrievals Search Engine Land",
-          "fetched_at": "2026-11-06T19:35:02.319690+00:00"
-        },
-        {
           "title": "When does your ecommerce site need a new category page?",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBybEFLMjNwOGU3bkRPVDNBTlNxU29ONXF0RjQxUS1kOFR6S1FwVGxUeWduR2hXaTI2aWNHV2x6Z21sNGhRc0RsS3BjN3UtSE1LVTJOMHF2aUxWbmczYWdGODM4Z014dlZvT2ZGTzMyRHRwY3lsZ0x3?oc=5",
           "published_at": "2026-11-06T16:00:00+00:00",
@@ -4954,11 +4947,11 @@
           "fetched_at": "2026-11-06T19:35:02.319690+00:00"
         },
         {
-          "title": "ChatGPT Ads bidding options are changing on November 9th",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjJJMWpYczE2cm54Q2podmZSSTdvcHFmTFZKMlhUdTVxVmJ4ZjVUalpSODc0blREMXY3eFMwX25SbldjemU4SW9sZHJlX0FSMklEYlFGYmt1TFM3d3lOVEh6Q1NlQ3VLSlhiNWJHT3NRS2gtWWp3aWpWVXl0QnZOajE0cUVyUUYtbDNSUG5sTjZlcl9GY1dn?oc=5",
-          "published_at": "2026-11-05T18:36:10+00:00",
-          "excerpt": "ChatGPT Ads bidding options are changing on November 9th Search Engine Land",
-          "fetched_at": "2026-11-06T12:17:22.311995+00:00"
+          "title": "YouTube description updates linked to 359% rise in AI retrievals",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblkxbUFPTjdrTDRLM2xCOV9iYnB6aWJsTmRSWnJwWTZtenZ4THotby1KVWFZYmVhaldYOEJSMHNERU9HWjhyX3NlQnAtbjZYd0RLOEYxZDVOSUZqV1V6ZDE0ZzlGSGkxNmxsUFp6VDU4aW9OUHAwSTVIcDNrNHQ5NGNjN2g3dTdHV2VV?oc=5",
+          "published_at": "2026-11-06T08:00:00+00:00",
+          "excerpt": "YouTube description updates linked to 359% rise in AI retrievals Search Engine Land",
+          "fetched_at": "2026-11-06T19:35:02.319690+00:00"
         },
         {
           "title": "Emma Baker",
@@ -5021,6 +5014,13 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX2QxbGFGNXZjMU1nQ1huRjJYY0pTYUtZS3YxVlZfYXREN3BBLUV0bGdJZVVMWkxiMXN3Vk9DbTd4bXFfV2ZOSjNtTVpkWFdPMHE1c2FwWFVjaWM5N2tseVJteThWa1pwRFA5eUhhdlRaWlI1eEZKNHgzLTZZNjFrWTh3OHdBY0ppNkdkUFp3?oc=5",
           "published_at": "2026-11-05T08:00:00+00:00",
           "excerpt": "AI knows what your brand does, but not who it’s for Search Engine Land",
+          "fetched_at": "2026-11-06T12:17:22.311995+00:00"
+        },
+        {
+          "title": "ChatGPT Ads bidding options are changing on November 9th",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjJJMWpYczE2cm54Q2podmZSSTdvcHFmTFZKMlhUdTVxVmJ4ZjVUalpSODc0blREMXY3eFMwX25SbldjemU4SW9sZHJlX0FSMklEYlFGYmt1TFM3d3lOVEh6Q1NlQ3VLSlhiNWJHT3NRS2gtWWp3aWpWVXl0QnZOajE0cUVyUUYtbDNSUG5sTjZlcl9GY1dn?oc=5",
+          "published_at": "2026-11-05T08:00:00+00:00",
+          "excerpt": "ChatGPT Ads bidding options are changing on November 9th Search Engine Land",
           "fetched_at": "2026-11-06T12:17:22.311995+00:00"
         },
         {
@@ -5201,15 +5201,8 @@
         {
           "title": "Google also gives publishers more control over how AI uses their content",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakxxWFdVaVdCbkNOTndlN2I1OFRMRHNJdGFIVXQxNjdURHN3VXpkaFA4Y0RpMlhua1A3VnR3WWwyWnFqLTAxQTM4WWJ1YkFBWkwyOTJ0Y0ViQldoelhpTzhCOGdyTC1MR2dBdXBTdlhyb3Bab0R4RHVSOWZQbjZwc1p6UlhBaGo4N2lZdkdibl9MQk55ZU1XSjllZkJJQ3IzR1p1eTdnRnhlcHR6?oc=5",
-          "published_at": "2026-10-30T17:02:13+00:00",
+          "published_at": "2026-10-30T07:00:00+00:00",
           "excerpt": "Google also gives publishers more control over how AI uses their content Search Engine Land",
-          "fetched_at": "2026-10-31T10:29:05.669274+00:00"
-        },
-        {
-          "title": "Microsoft Bing gives publishers more control over how AI uses their content",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEJPS2laRjZiQTJzWGstczFtVUg2VENMa3VDYUlJdWJlSWVCaWNCYkZ4M1pOY0loRVlFNVVyUV9RYTZuVG5xMzNORi0tUmhYU2JFTEoycVlwYnhsd2hpcjBaMU5idlNSRGg0amF4Z29LaFZSSkdsRGJOOHlXYjR4cGJrWnJhcHV0Rm1nY2QyRWhDZzJ4SlpjSjdjZHU4eFVIbjBiWEYxWUxGNUNjR3F5Qg?oc=5",
-          "published_at": "2026-10-30T16:27:40+00:00",
-          "excerpt": "Microsoft Bing gives publishers more control over how AI uses their content Search Engine Land",
           "fetched_at": "2026-10-31T10:29:05.669274+00:00"
         },
         {
@@ -5224,6 +5217,13 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjRZcU5rU1VjMm01ZkYyN2ZWanUyV1NQZDJUZlU3cnJkd3pRY3dVeTNycUgyRWVhQnRsVW02czJvWDFzczVOTW9IbW43em9mMVFuWE5lNHhBdnhiVmpMcnB4M01MUmlMbERpM3JGWTc3MkJGdzA3MWdfMXYxdFY5emRfdXNFWmNoZTZ1MHdPMWJLeHdzdUlUNlZPNzlVTFdqam5wTHIwUFVhUQ?oc=5",
           "published_at": "2026-10-30T07:00:00+00:00",
           "excerpt": "Google AI Overviews are pushing News Boxes out of search results: Study Search Engine Land",
+          "fetched_at": "2026-10-31T10:29:05.669274+00:00"
+        },
+        {
+          "title": "Microsoft Bing gives publishers more control over how AI uses their content",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEJPS2laRjZiQTJzWGstczFtVUg2VENMa3VDYUlJdWJlSWVCaWNCYkZ4M1pOY0loRVlFNVVyUV9RYTZuVG5xMzNORi0tUmhYU2JFTEoycVlwYnhsd2hpcjBaMU5idlNSRGg0amF4Z29LaFZSSkdsRGJOOHlXYjR4cGJrWnJhcHV0Rm1nY2QyRWhDZzJ4SlpjSjdjZHU4eFVIbjBiWEYxWUxGNUNjR3F5Qg?oc=5",
+          "published_at": "2026-10-30T07:00:00+00:00",
+          "excerpt": "Microsoft Bing gives publishers more control over how AI uses their content Search Engine Land",
           "fetched_at": "2026-10-31T10:29:05.669274+00:00"
         },
         {
@@ -5290,13 +5290,6 @@
           "fetched_at": "2026-10-29T18:34:18.898391+00:00"
         },
         {
-          "title": "Google expands ads in AI Mode to 10 new markets, with UK and Brazil next",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVc3WUtNb3d2eTFBekp6a2I5LW9vc3dEUW92MFdMVUlialh3SW9SMlhvdThkNy1GWk51R1N0MW83SzczYjJFd042TmVxWTNuR2NWUUg2VTJWRmRNUWNOY1I0b2RZTnozUDBqbmotU215dTRKeDBjc1RiM2JTTGRQenpiYy1uWUlOVVF3VDdteWZpMGcwN21uNzhJd29PSnRrdEdnOTZiNXpGbFk?oc=5",
-          "published_at": "2026-10-29T03:05:26+00:00",
-          "excerpt": "Google expands ads in AI Mode to 10 new markets, with UK and Brazil next Search Engine Land",
-          "fetched_at": "2026-10-29T10:58:55.831192+00:00"
-        },
-        {
           "title": "How to create quality SEO content (the QRIES approach)",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JSkNvNXBSckx0ZGEwSlhpNnljN2E0UmZxaUpzTXBlQ1NnSUI5WWp3RHBidTkxcE13dDBwazZZUmVQUTZmQ0VBd2Vna2hPdml3U05JT05LX0FpYTBDNGtXUV9iYko?oc=5",
           "published_at": "2026-10-28T20:30:29+00:00",
@@ -5332,13 +5325,6 @@
           "fetched_at": "2026-10-29T10:58:55.831192+00:00"
         },
         {
-          "title": "SEOs, we need to talk about E-E-A-T",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlN2c4Tjd5ZVZDV1FaR2lXTV9JOFJJVHRIbHlES1lhdndlQ2xEQVZXbUhPYm8yQm9wUE5tWWtCUldXTGxrY3RpY0xfOFFzTHhvNkh6Z255eEcwb1Jyal9UcQ?oc=5",
-          "published_at": "2026-10-28T15:00:00+00:00",
-          "excerpt": "SEOs, we need to talk about E-E-A-T Search Engine Land",
-          "fetched_at": "2026-10-28T18:24:15.607744+00:00"
-        },
-        {
           "title": "Human-first SEO: The risks of optimizing for AI over users",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEtBTnBMYkdwc1g0X1ZtS3RGZWNUNENOLXVuMUxGVXlKemZHcTR6SDdBelVFZGFBeXBsUnE2VllTbGtldWNXUTVwNWZXN29nNHhtNnF1TXB6c3dSWXhUbEFFSDRBVm1BaHQzOWgwcV9keWl4OTZ5QmdNTk14dGNrWmtIM19XUUs5TFloeHRjdHJJTzNVU2t0Tg?oc=5",
           "published_at": "2026-10-28T13:00:00+00:00",
@@ -5346,10 +5332,24 @@
           "fetched_at": "2026-10-29T10:58:55.831192+00:00"
         },
         {
+          "title": "SEOs, we need to talk about E-E-A-T",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlN2c4Tjd5ZVZDV1FaR2lXTV9JOFJJVHRIbHlES1lhdndlQ2xEQVZXbUhPYm8yQm9wUE5tWWtCUldXTGxrY3RpY0xfOFFzTHhvNkh6Z255eEcwb1Jyal9UcQ?oc=5",
+          "published_at": "2026-10-28T07:00:00+00:00",
+          "excerpt": "SEOs, we need to talk about E-E-A-T Search Engine Land",
+          "fetched_at": "2026-10-28T18:24:15.607744+00:00"
+        },
+        {
           "title": "Organic traffic is down, but it’s not all AI",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reW5yN1FfM3FmRFB3ZktvbHRMMDRBVW9ZUGo3bERZZkxUQ0Y0Y3hXT0wyRzJSTi1ZamY2MFRDbjZ0djZoT2hRYjYxeGhnZ2FoZ1Y0QmMtOHQ1ZHpnTlp2eDZnU0ltdF8tOFcxWDVhMkRCREJ0b0E?oc=5",
           "published_at": "2026-10-28T07:00:00+00:00",
           "excerpt": "Organic traffic is down, but it’s not all AI Search Engine Land",
+          "fetched_at": "2026-10-29T10:58:55.831192+00:00"
+        },
+        {
+          "title": "Google expands ads in AI Mode to 10 new markets, with UK and Brazil next",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVc3WUtNb3d2eTFBekp6a2I5LW9vc3dEUW92MFdMVUlialh3SW9SMlhvdThkNy1GWk51R1N0MW83SzczYjJFd042TmVxWTNuR2NWUUg2VTJWRmRNUWNOY1I0b2RZTnozUDBqbmotU215dTRKeDBjc1RiM2JTTGRQenpiYy1uWUlOVVF3VDdteWZpMGcwN21uNzhJd29PSnRrdEdnOTZiNXpGbFk?oc=5",
+          "published_at": "2026-10-28T07:00:00+00:00",
+          "excerpt": "Google expands ads in AI Mode to 10 new markets, with UK and Brazil next Search Engine Land",
           "fetched_at": "2026-10-29T10:58:55.831192+00:00"
         },
         {
@@ -5523,7 +5523,7 @@
         {
           "title": "Search Engine Land Awards 2026: And the winners are…",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3YwT3NMLUtnWFNlTk1WejJFMy1oWTR1MGhfVWh0RllPQmI5YktTRDVJeldPTFkxWFQxU2I4RlZUQmduNWxsYUhLMUN5b3hWVTAzWjZrSzlOZEx2Xy0zLW53bmJkaGY5NGZTcjdmTC1abVl0M1pzWDNDT3hJRHNVdnFYMFEtb2J1ajZnZ1lKTQ?oc=5",
-          "published_at": "2026-10-26T12:00:00+00:00",
+          "published_at": "2026-10-26T07:00:00+00:00",
           "excerpt": "Search Engine Land Awards 2026: And the winners are… Search Engine Land",
           "fetched_at": "2026-10-26T18:44:33.131556+00:00"
         },
@@ -12207,6 +12207,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/",
+          "published_at": "2026-11-14T13:00:00+00:00",
+          "excerpt": "A core update rolls out, AI search gets a new default model, ChatGPT shares mention and click counts, and sites plan for less search traffic. The post Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-14T18:20:33.636658+00:00"
+        },
+        {
           "title": "United Requires Permission For AI Agents, Keeps Search Indexing Open via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/",
           "published_at": "2026-11-14T10:00:14+00:00",
@@ -12347,13 +12354,6 @@
           "fetched_at": "2026-11-11T19:45:01.243920+00:00"
         },
         {
-          "title": "Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better via @sejournal, @slobodanmanic",
-          "url": "https://www.searchenginejournal.com/meta-paused-its-new-business-terms-and-businesses-should-plan-as-if-it-never-gets-better/596343/",
-          "published_at": "2026-11-10T20:00:25+00:00",
-          "excerpt": "A business that gets its customers through Meta should plan as if Meta will never get better for it. Start building other channels. The post Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-11T11:58:59.674261+00:00"
-        },
-        {
           "title": "“F*** Keywords” – Well, What Are You Replacing Them With? via @sejournal, @chrisgreenseo",
           "url": "https://www.searchenginejournal.com/forget-keywords-well-what-are-you-replacing-them-with/596349/",
           "published_at": "2026-11-10T18:00:42+00:00",
@@ -12387,6 +12387,13 @@
           "published_at": "2026-11-10T00:00:00+00:00",
           "excerpt": "ChatGPT Ads is replacing manual bid caps with average cost targets, with separate dates for new campaigns, existing campaigns and API partners. The post ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-10T12:49:43.401065+00:00"
+        },
+        {
+          "title": "Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better",
+          "url": "https://www.searchenginejournal.com/meta-paused-its-new-business-terms-and-businesses-should-plan-as-if-it-never-gets-better/596343/",
+          "published_at": "2026-11-10T00:00:00+00:00",
+          "excerpt": "A business that gets its customers through Meta should plan as if Meta will never get better for it. Start building other channels. The post Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-11T11:58:59.674261+00:00"
         },
         {
           "title": "Google’s November 2026 Core Update Starts Rolling Out",
