@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T18:20:44.726936+00:00",
+  "last_updated": "2026-11-15T12:05:45.295237+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -5038,13 +5038,6 @@
           "fetched_at": "2026-11-04T19:55:24.618053+00:00"
         },
         {
-          "title": "Is ChatGPT really handling 1 trillion searches a year?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNGlEVGJsUnBuaGo5WEVhZ3d3V3JETTNyUFlUMTZmeGVOSFNBU096c1IxTEMzN3VScW8ySTVBajl3MWJSTUVEZnR4MTJ4Y3VYOWhVYks0RkpiUWNpRXpfZkhJdW9LNjNjNVhMU25SOVY?oc=5",
-          "published_at": "2026-11-04T15:51:54+00:00",
-          "excerpt": "Is ChatGPT really handling 1 trillion searches a year? Search Engine Land",
-          "fetched_at": "2026-11-04T19:55:24.618053+00:00"
-        },
-        {
           "title": "3 in 4 homepages lost organic clicks: An analysis of 110 sites",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ULWc3N0VTRHpwbnlNZ2xjbi04ZUxvNkZrSkVob3doUmtLMjIxcXp4UWFCaEluZTdqQjNrQ1J2cDc2ZzRHZ3REdEFQMUM2bW4yTXlVSC1kVlBLZ0duQmpEWDd1MEd1ZkdSRFZMbEhBdDFGOVk5enpELVQyUGxxWE0?oc=5",
           "published_at": "2026-11-04T15:00:00+00:00",
@@ -5077,6 +5070,13 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0h0QnExNFhuUWd5ZVVoN1M1dDRBNkxmQnhpZEdUNzlZcE9lLWJxMXh2U0J1NEFGNWZVWW1Rc1RQX0gwRmwwYkh3dkNQdnQ0ajQwcFBVNlFMVjd4dVU2VW9ESHZHaWRnWnJCZzk2eUFYZlF2OU9LZTN1dEk4QlFIaU94RFhZSDg?oc=5",
           "published_at": "2026-11-04T08:00:00+00:00",
           "excerpt": "Product feeds are becoming the new ad creative in Google AI Mode Search Engine Land",
+          "fetched_at": "2026-11-04T19:55:24.618053+00:00"
+        },
+        {
+          "title": "Is ChatGPT really handling 1 trillion searches a year?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNGlEVGJsUnBuaGo5WEVhZ3d3V3JETTNyUFlUMTZmeGVOSFNBU096c1IxTEMzN3VScW8ySTVBajl3MWJSTUVEZnR4MTJ4Y3VYOWhVYks0RkpiUWNpRXpfZkhJdW9LNjNjNVhMU25SOVY?oc=5",
+          "published_at": "2026-11-04T08:00:00+00:00",
+          "excerpt": "Is ChatGPT really handling 1 trillion searches a year? Search Engine Land",
           "fetched_at": "2026-11-04T19:55:24.618053+00:00"
         },
         {
@@ -12207,6 +12207,20 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
+          "published_at": "2026-11-15T11:30:33+00:00",
+          "excerpt": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending. The post Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-15T12:05:33.817288+00:00"
+        },
+        {
+          "title": "YouTube’s Clips Tool Turns Podcast Episodes Into Shorts via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/",
+          "published_at": "2026-11-15T10:00:48+00:00",
+          "excerpt": "YouTube expanded its Studio video clips tool to Shorts, letting creators turn segments of long-form videos, like podcast episodes, into vertical Shorts. The post YouTube’s Clips Tool Turns Podcast Episodes Into Shorts appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-15T12:05:33.817288+00:00"
+        },
+        {
           "title": "Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/",
           "published_at": "2026-11-14T13:00:00+00:00",
@@ -12214,14 +12228,14 @@
           "fetched_at": "2026-11-14T18:20:33.636658+00:00"
         },
         {
-          "title": "United Requires Permission For AI Agents, Keeps Search Indexing Open via @sejournal, @MattGSouthern",
+          "title": "United Lets Search Engines Index Its Site, Makes AI Agents Ask First via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/",
           "published_at": "2026-11-14T10:00:14+00:00",
           "excerpt": "An airline's updated terms let search engines index public pages but require written permission for AI agents and bar AI grounding on its data. The post United Requires Permission For AI Agents, Keeps Search Indexing Open appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-14T11:38:21.409067+00:00"
         },
         {
-          "title": "Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees via @sejournal, @MattGSouthern",
+          "title": "Meta & OpenAI Agents Made Nearly 90% Of Agent Requests In Bot Data via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/",
           "published_at": "2026-11-14T08:00:52+00:00",
           "excerpt": "Two companies' AI agents made most of the requests observed in one month, and most went to product and search pages rather than checkout. The post Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees appeared first on Search Engine Journal .",
@@ -12333,16 +12347,16 @@
           "fetched_at": "2026-11-11T19:45:01.243920+00:00"
         },
         {
-          "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
+          "title": "Google Discovers Unexpected Patterns In AI Image Generation",
           "url": "https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/",
-          "published_at": "2026-11-11T14:18:51+00:00",
+          "published_at": "2026-11-11T00:00:00+00:00",
           "excerpt": "Google analyzed millions of Nano Banana prompts and found how businesses are using it for marketing. The post Google Discovers Unexpected Patterns In AI Image Generation appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-11T19:45:01.243920+00:00"
         },
         {
-          "title": "Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split via @sejournal, @brookeosmundson",
+          "title": "Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split",
           "url": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
-          "published_at": "2026-11-11T13:00:37+00:00",
+          "published_at": "2026-11-11T00:00:00+00:00",
           "excerpt": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control. The post Google Ads Gives You More Channel Control – But Not As Much As You Think appeared first on Search Engine Journa…",
           "fetched_at": "2026-11-11T19:45:01.243920+00:00"
         },
