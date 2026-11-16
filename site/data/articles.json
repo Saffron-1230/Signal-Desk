@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T18:59:31.369321+00:00",
+  "last_updated": "2026-11-16T12:59:08.156314+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,13 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "8 AI Rank Tracking Tools to Try in 2027 (Cost per Prompt, Key Features)",
+          "url": "https://ahrefs.com/blog/ai-rank-tracking/",
+          "published_at": "2026-11-16T11:49:51+00:00",
+          "excerpt": "But not all tools track visibility the same way, and their pricing can be difficult to compare. In this guide, I’ll compare eight AI rank tracking tools by price and features. I’ll also share findings from my own research into … Read more ›",
+          "fetched_at": "2026-11-16T12:58:44.590582+00:00"
+        },
         {
           "title": "The 100 Most Mentioned Brands in ChatGPT (November 2026)",
           "url": "https://ahrefs.com/blog/most-mentioned-brands-chatgpt/",
@@ -4457,11 +4464,25 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Before agents can write like your brand, the process has to live somewhere",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0VyQURXU0R0WEVpNFZMVEpaa0p3OTNMbGJUX2U3YzVIbmNIdHV1WWlESVdsemdaVlQ1VVpNd1cwb0pEbGpqdUo3aWFVZlB6YU9oQlB1VnJzMHNNZWJWLVVDUDhLdDY4WkhXM2FBMktYNFZBa2VudE5LMzFhWTdHdXllSUJCWWVrcjJMWG53czBMazk3VWF4aDNfaFNMREREZk5SYWh5Y3NiXzVLeUE?oc=5",
+          "published_at": "2026-11-16T12:00:00+00:00",
+          "excerpt": "Before agents can write like your brand, the process has to live somewhere Search Engine Land",
+          "fetched_at": "2026-11-16T12:58:45.955396+00:00"
+        },
+        {
           "title": "Microsoft Advertising warns Outlook outage may have affected advertiser spend",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0JSQ1JhOEdWMlM2OVBXcnV0N1NxbHNPb21GRlhtVkpfTjh0aEIyYnNETU16UWlCcnNVZzJ4WW5yVHUyVkR1VDBPUTdnM3NfTmEwU3hfSEs1TjIzeFA1ZVM3WkhRSzhaMlVUa1RyTXlhUGdhc0o3dWpRQUtkU1o4VHdXbkhLa1lLU3JJUTVpVmdQbC1PR1VFQ1F3YzhUMVFucS1uenFMcW1QU1pTeE5laFIxVQ?oc=5",
           "published_at": "2026-11-13T19:50:46+00:00",
           "excerpt": "Microsoft Advertising warns Outlook outage may have affected advertiser spend Search Engine Land",
           "fetched_at": "2026-11-14T11:38:10.900113+00:00"
+        },
+        {
+          "title": "The latest jobs in search marketing",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+          "published_at": "2026-11-13T19:34:30+00:00",
+          "excerpt": "The latest jobs in search marketing Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
         },
         {
           "title": "6 ways to stay on budget with Google Ads Smart Bidding",
@@ -4898,13 +4919,6 @@
           "fetched_at": "2026-11-07T11:12:44.894875+00:00"
         },
         {
-          "title": "The latest jobs in search marketing",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-          "published_at": "2026-11-06T19:28:43+00:00",
-          "excerpt": "The latest jobs in search marketing Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "How to conduct a backlink audit: Tips, tools, & examples",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRbERXWHFxN0NoaGpWcG85c3BfVFA3di01MDFFQVY3c2FOT2ptLUtMdUJHX2hXS2tVeTY0R0NtWjY0R1MtYXlUeGRoZ3lZVmdQN3ZPLWYtZTIxamw5QWkxaVVMbUNJX0hTQWY4ZXBlWQ?oc=5",
           "published_at": "2026-11-06T19:21:45+00:00",
@@ -5003,13 +5017,6 @@
           "fetched_at": "2026-11-06T12:17:22.311995+00:00"
         },
         {
-          "title": "AI visibility belongs in the marketing mix, but not where you think",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NR0NCdTM3VVZYeWUtbXVkVGdjclBCcS1fOUI5bnRZcjlSbHc0N3ZxMVdlTXR0NmV6a2FmWENBMjhhRDhKRl9udnlDWkE1ek1ySl9OM1VrWW8tUUNBcG82dEdHaXB0OENSdXViOXNGZmU?oc=5",
-          "published_at": "2026-11-05T13:00:00+00:00",
-          "excerpt": "AI visibility belongs in the marketing mix, but not where you think Search Engine Land",
-          "fetched_at": "2026-11-06T12:17:22.311995+00:00"
-        },
-        {
           "title": "AI knows what your brand does, but not who it’s for",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX2QxbGFGNXZjMU1nQ1huRjJYY0pTYUtZS3YxVlZfYXREN3BBLUV0bGdJZVVMWkxiMXN3Vk9DbTd4bXFfV2ZOSjNtTVpkWFdPMHE1c2FwWFVjaWM5N2tseVJteThWa1pwRFA5eUhhdlRaWlI1eEZKNHgzLTZZNjFrWTh3OHdBY0ppNkdkUFp3?oc=5",
           "published_at": "2026-11-05T08:00:00+00:00",
@@ -5021,6 +5028,13 @@
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjJJMWpYczE2cm54Q2podmZSSTdvcHFmTFZKMlhUdTVxVmJ4ZjVUalpSODc0blREMXY3eFMwX25SbldjemU4SW9sZHJlX0FSMklEYlFGYmt1TFM3d3lOVEh6Q1NlQ3VLSlhiNWJHT3NRS2gtWWp3aWpWVXl0QnZOajE0cUVyUUYtbDNSUG5sTjZlcl9GY1dn?oc=5",
           "published_at": "2026-11-05T08:00:00+00:00",
           "excerpt": "ChatGPT Ads bidding options are changing on November 9th Search Engine Land",
+          "fetched_at": "2026-11-06T12:17:22.311995+00:00"
+        },
+        {
+          "title": "AI visibility belongs in the marketing mix, but not where you think",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NR0NCdTM3VVZYeWUtbXVkVGdjclBCcS1fOUI5bnRZcjlSbHc0N3ZxMVdlTXR0NmV6a2FmWENBMjhhRDhKRl9udnlDWkE1ek1ySl9OM1VrWW8tUUNBcG82dEdHaXB0OENSdXViOXNGZmU?oc=5",
+          "published_at": "2026-11-05T08:00:00+00:00",
+          "excerpt": "AI visibility belongs in the marketing mix, but not where you think Search Engine Land",
           "fetched_at": "2026-11-06T12:17:22.311995+00:00"
         },
         {
@@ -12207,7 +12221,7 @@
       "color": "#2458d3",
       "articles": [
         {
-          "title": "Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows via @sejournal, @MattGSouthern",
+          "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
           "published_at": "2026-11-15T11:30:33+00:00",
           "excerpt": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending. The post Same B2B Google Ads Keywords Cost About 21% More, Agency Data Shows appeared first on Search Engine Journal .",
@@ -16994,6 +17008,13 @@
           "fetched_at": "2026-11-12T12:59:48.846905+00:00"
         },
         {
+          "title": "Sergei Bezdorozhev",
+          "url": "https://www.semrush.com/blog/user/182874289/",
+          "published_at": "2026-11-12T00:00:00+00:00",
+          "excerpt": "Rank in organic search and AI Overviews by improving E-E-A-T and finding low-competition keywords. Here’s how + more strategies.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "How to use Semrush with Google Search Console",
           "url": "https://www.semrush.com/blog/semrush-google-search-console/",
           "published_at": "2026-11-11T11:40:00+00:00",
@@ -18062,13 +18083,6 @@
           "url": "https://www.semrush.com/blog/keyword-strategy/",
           "published_at": "2026-06-04T00:00:00+00:00",
           "excerpt": "A keyword strategy defines the user queries you want to appear for and how you‘ll target them.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
-          "title": "Sergei Bezdorozhev",
-          "url": "https://www.semrush.com/blog/user/182874289/",
-          "published_at": "2026-06-04T00:00:00+00:00",
-          "excerpt": "Rank in organic search and AI Overviews by improving E-E-A-T and finding low-competition keywords. Here’s how + more strategies.",
           "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
@@ -20324,6 +20338,27 @@
       ],
       "color": "#ea4335",
       "articles": [
+        {
+          "title": "What teenagers really think about online safety and AI",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
+          "published_at": "2026-11-16T08:00:00+00:00",
+          "excerpt": "ParentZone logo with purple background",
+          "fetched_at": "2026-11-16T12:59:08.152691+00:00"
+        },
+        {
+          "title": "Helping teens navigate online news and information",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/",
+          "published_at": "2026-11-16T08:00:00+00:00",
+          "excerpt": "Internet Matters logo on green background.",
+          "fetched_at": "2026-11-16T12:59:08.152691+00:00"
+        },
+        {
+          "title": "Listening to teens on online safety",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
+          "published_at": "2026-11-16T08:00:00+00:00",
+          "excerpt": "Childnet logo on orange background.",
+          "fetched_at": "2026-11-16T12:59:08.152691+00:00"
+        },
         {
           "title": "Claim your Google Cloud Credits in Google AI Studio",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
