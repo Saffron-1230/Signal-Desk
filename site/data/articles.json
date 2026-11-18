@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T13:41:19.141715+00:00",
+  "last_updated": "2026-11-18T13:15:42.271189+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -40,6 +40,20 @@
       "archive_titles_canonical": true,
       "color": "#ff6b35",
       "articles": [
+        {
+          "title": "4 Reasons to Read DISCOVERABLE by Tim Soulo",
+          "url": "https://ahrefs.com/blog/discoverable-book-review/",
+          "published_at": "2026-11-18T10:11:58+00:00",
+          "excerpt": "I won’t insult you by pretending this is an unbiased review. Let’s own it: I work at Ahrefs! Tim is my boss! I helped edit the book! But I will share my honest take on what you, dear reader, stand … Read more ›",
+          "fetched_at": "2026-11-18T13:15:13.181708+00:00"
+        },
+        {
+          "title": "Letaido Review: 10+ Jobs Our Marketing Team Hands to It Every Week",
+          "url": "https://ahrefs.com/blog/letaido-review/",
+          "published_at": "2026-11-17T14:28:14+00:00",
+          "excerpt": "It keeps our data-led articles up to date, builds and hosts our sites, runs our research, watches our competitors, and plans out our day from start to finish. We’re lucky enough to have lots of credits to use internally, so … Read more ›",
+          "fetched_at": "2026-11-18T13:15:13.181708+00:00"
+        },
         {
           "title": "8 AI Rank Tracking Tools to Try in 2027 (Cost per Prompt, Key Features)",
           "url": "https://ahrefs.com/blog/ai-rank-tracking/",
@@ -4464,6 +4478,62 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "AI search meta-analysis: Q4 2026",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GLWZaaFJpcFZfLWlMV1o1UDVOOHZVS0Jia0RETDlDUnJleTFHZE9LU3Y5X2haODRKTVhMQml4eV9vaFBDT2dMX05tV2N5ZlRqQlREZTlHamVaMkxtLUJwSG9FeHQzWWt6ZkZvRzUxTWVBMUFpYXc?oc=5",
+          "published_at": "2026-11-18T13:00:00+00:00",
+          "excerpt": "AI search meta-analysis: Q4 2026 Search Engine Land",
+          "fetched_at": "2026-11-18T13:15:14.232655+00:00"
+        },
+        {
+          "title": "Microsoft Advertising upgrades automated bidding for faster, more consistent results",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmltM3pUWXpSZVdIVWVBTkNITy04Qm9UVkd5SWRPUWF4M0t0UmZHQmVBNWNSakZ1cU5uV1ctRXpIVlNtSlgtOFpPNF9lT3ppLVVRcEJMT25yNGV0VHUwclFVZnYxZjU2WjNSTjA0X2U4M3lsbkRFZXFucGp2NjNQR3h3YlVFQ0k2Z3VBSERvVlA4ZXUwQ1JOeFZiUy05WWtiSTJ2bGc1NG5SQ2dKRXVLeHpxWHVvMTNVUURn?oc=5",
+          "published_at": "2026-11-18T12:17:30+00:00",
+          "excerpt": "Microsoft Advertising upgrades automated bidding for faster, more consistent results Search Engine Land",
+          "fetched_at": "2026-11-18T13:15:14.232655+00:00"
+        },
+        {
+          "title": "The link between organic rankings and AI Overview citations in pharma",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVNqZkQ5d3VhTjVZMVRXVEI2QW9obVlOSzVKMG5STktqMV9VLU9SOUV5c3FRbXRCbmZQZjN3b2NLZVBOa0xubVBRekxGbXh2SEZhRU54N3VUeEduZ0dIN21reC1nMUhnU21VdE9ZQTA5aGI4LXM2a3NlRjBWM0xlNmVNS3E3NjNt?oc=5",
+          "published_at": "2026-11-18T12:00:00+00:00",
+          "excerpt": "The link between organic rankings and AI Overview citations in pharma Search Engine Land",
+          "fetched_at": "2026-11-18T13:15:14.232655+00:00"
+        },
+        {
+          "title": "Matt Lowe",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qOV9MLWFENlBCU1RxamxfOHZLMWZUWGtfd3oxRFJlZzRNdjNZdDNwUHhLdk52aFdkbFRoS0RxMHBkR0pxQkdjdGxNZlE2STNHNE5mek9MSHM?oc=5",
+          "published_at": "2026-11-18T12:00:00+00:00",
+          "excerpt": "Matt Lowe Search Engine Land",
+          "fetched_at": "2026-11-18T13:15:14.232655+00:00"
+        },
+        {
+          "title": "Google Local Services Ads historical reports are now available to download",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa1FEWW9tZnItdHFwdnl4RDNRcUowYmlyS0owVDJLbzQyQ3k3MUYzVUZnN3R0UXJLMndIdWpLYXRENmxwWVJ5bkpoNzJ1RUdadjNtZUdBSmRFNEdTS2t2ZnNRT1RMTktVZzQzV1ljcEtWUjdYbXd3UUo3NTQ4X25RaUFpVmdrbEFMWUdjcm9vYWk1SjJoaXlFbWhtUHNCb0ltb255bUh0QXdidXVtdXNz?oc=5",
+          "published_at": "2026-11-17T16:44:23+00:00",
+          "excerpt": "Google Local Services Ads historical reports are now available to download Search Engine Land",
+          "fetched_at": "2026-11-18T13:15:14.232655+00:00"
+        },
+        {
+          "title": "Vibe web marketing: How to manage your own AI team",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OcWpld2pwSGgtbE1WM0pOb0sxekNWLTk5Q2hWUmRIMzBfWWZvdnhCR09fMkRkdGNyNlYxNVIxYWlYODczX05Mb2pxenU5ZmNxT2lRMEVEcEp3b0hLdk03S0lwN25mamMtdjByMWFDQQ?oc=5",
+          "published_at": "2026-11-17T16:00:00+00:00",
+          "excerpt": "Vibe web marketing: How to manage your own AI team Search Engine Land",
+          "fetched_at": "2026-11-18T13:15:14.232655+00:00"
+        },
+        {
+          "title": "How to use SEO insights to connect teams and engage audiences",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHoyUmJQczJjeU9lUnRSaVpRcTdBQlprNHdxQ1ZmZjhlNTJEX2FGWTBSaDc0Ql9obTNsLXI4M25MTDlRVUJTMU54bFJKWHhUUUJhRUtyNjQxeE03MDh0bmV2eHpKLWhEaFBDVlVFOFpOcjlNSkt2Q1paYV9PRFp1YUlJMi12Zw?oc=5",
+          "published_at": "2026-11-17T15:00:00+00:00",
+          "excerpt": "How to use SEO insights to connect teams and engage audiences Search Engine Land",
+          "fetched_at": "2026-11-18T13:15:14.232655+00:00"
+        },
+        {
+          "title": "How to prioritize SEO and GEO work when everything feels urgent",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3Um5uVnF0dlBPb1Q5WTRFblZ2UGw3OXlMNFZvZDhRQU91RE9JWUtEam1mQ0lOVzMyTWNWaHdKWXVIb1hzN3JVRUR6bXE4bDc0MnhmazBEMXF4SjF4Q3hTLTZYa2tLMVppMTVnX1ZrVEp5MVM4?oc=5",
+          "published_at": "2026-11-17T14:00:00+00:00",
+          "excerpt": "How to prioritize SEO and GEO work when everything feels urgent Search Engine Land",
+          "fetched_at": "2026-11-18T13:15:14.232655+00:00"
+        },
+        {
           "title": "When everyone can do SEO, what makes an expert?",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZUEIya0ZWaXBfUEloRDE3a1dsVGF1cDRFdjRUMWFiWk1scC05a0J3UHBVdlRlNE9nS0cxWGJxUWVkUGlxd3NqV3V4eDVYdDdOTWtwNTJUX2RMU1hndzVlTExsd2tSVFlFWW85ZkZVYnNHLWg1STZpRjVZRGtXUQ?oc=5",
           "published_at": "2026-11-17T13:00:00+00:00",
@@ -4940,13 +5010,6 @@
           "fetched_at": "2026-11-10T12:49:31.456347+00:00"
         },
         {
-          "title": "Google AI Overviews in France: Big click losses, but not for everyone",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95bTNJSy1tb1gxOEg1NGc4Xzc5QUl6RU1Qd3Y3YmdwOWVFUzhDQ1RYb29ORFZtOTNCYVJUNGxYeW9BbF9VN3VXOG9leEVhNlNCWUJZR0VVR05jc01COGpsY3k4cDZOajFiejBHT0dmTFhDQlpELW9xOEU0SQ?oc=5",
-          "published_at": "2026-11-09T17:19:38+00:00",
-          "excerpt": "Google AI Overviews in France: Big click losses, but not for everyone Search Engine Land",
-          "fetched_at": "2026-11-10T12:49:31.456347+00:00"
-        },
-        {
           "title": "Title tags and page titles: How to write them (+ Steal our free formula templates)",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZVkNic0VXQWpzR09veHZXclV6cnBmbFBmVXduT2lZNFpFT2RwUlo1aVN4c0lob3YxTjlKMVJzLWZBRnJ2aEV3NjJYZElCNFd1aXpGZ3AzMC0?oc=5",
           "published_at": "2026-11-09T17:15:39+00:00",
@@ -4979,6 +5042,13 @@
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IMXlYd1BNMm90MzJXTlh5ak1EUXpNcjM2LWMyU3dOU0NQTG8zWHpxSTVPRlFHdFh1SDR6R3kzY1RpM1NlTTVZT01veXFpNE5ucWMtVFl4QTVxMmVmWHVRSXctelNZdnEzakY0?oc=5",
           "published_at": "2026-11-09T13:00:00+00:00",
           "excerpt": "Don’t wait for the SEO report to tell clients something’s wrong Search Engine Land",
+          "fetched_at": "2026-11-10T12:49:31.456347+00:00"
+        },
+        {
+          "title": "Google AI Overviews in France: Big click losses, but not for everyone",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95bTNJSy1tb1gxOEg1NGc4Xzc5QUl6RU1Qd3Y3YmdwOWVFUzhDQ1RYb29ORFZtOTNCYVJUNGxYeW9BbF9VN3VXOG9leEVhNlNCWUJZR0VVR05jc01COGpsY3k4cDZOajFiejBHT0dmTFhDQlpELW9xOEU0SQ?oc=5",
+          "published_at": "2026-11-09T08:00:00+00:00",
+          "excerpt": "Google AI Overviews in France: Big click losses, but not for everyone Search Engine Land",
           "fetched_at": "2026-11-10T12:49:31.456347+00:00"
         },
         {
@@ -12291,6 +12361,55 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "Google Ads AI Max Is Making More Decisions For You – Here’s What To Audit Now via @sejournal, @brookeosmundson",
+          "url": "https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/",
+          "published_at": "2026-11-18T13:00:42+00:00",
+          "excerpt": "Audit Google Ads AI Max settings to catch unwanted searches, review generated ad copy, and keep landing pages aligned with campaign goals. The post Google Ads AI Max Is Making More Decisions For You – Here’s What To Audit Now appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-18T13:15:26.168266+00:00"
+        },
+        {
+          "title": "Google Explains How To Avoid CDN Migration SEO Problems via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-explains-how-to-avoid-cdn-migration-seo-problems/597888/",
+          "published_at": "2026-11-18T12:16:03+00:00",
+          "excerpt": "Google explains how to get the best SEO outcome from a CDN migration and avoid unexpected crawling problems. The post Google Explains How To Avoid CDN Migration SEO Problems appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-18T13:15:26.168266+00:00"
+        },
+        {
+          "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
+          "published_at": "2026-11-17T21:42:30+00:00",
+          "excerpt": "U.S. data finds few ChatGPT conversations show intent to buy and most responses name no brand. New insight for teams weighing ChatGPT visibility and ads. The post 6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-18T13:15:26.168266+00:00"
+        },
+        {
+          "title": "Google Ads Surcharges Rise To 3% In France And Italy – Local US Advertisers Can Be Billed Too via @sejournal, @gregjarboe",
+          "url": "https://www.searchenginejournal.com/google-ads-surcharges-rise-to-3-in-france-and-italy-local-us-advertisers-can-be-billed-too/596938/",
+          "published_at": "2026-11-17T20:00:06+00:00",
+          "excerpt": "Check where your Google Ads run: default location settings can expose local campaigns to surcharges in France and Italy. The post Google Ads Surcharges Rise To 3% In France And Italy – Local US Advertisers Can Be Billed Too appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-18T13:15:26.168266+00:00"
+        },
+        {
+          "title": "Date: Confirmed, Rating: Meets Expectations, Comments: None via @sejournal, @pedrodias",
+          "url": "https://www.searchenginejournal.com/date-confirmed-rating-meets-expectations-comments-none/597709/",
+          "published_at": "2026-11-17T18:01:21+00:00",
+          "excerpt": "What did the core update change for your site? Nobody outside Google can say. Here’s the question worth asking instead. The post Date: Confirmed, Rating: Meets Expectations, Comments: None appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-18T13:15:26.168266+00:00"
+        },
+        {
+          "title": "A Trusted Optimizely Script Carried Malware To 178 Organizations via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/optimizely-signup-flaw-malware/597839/",
+          "published_at": "2026-11-17T17:32:02+00:00",
+          "excerpt": "An attacker added harmful code to customer projects in a widely used A/B testing tool. Teams can check code, account access and their security headers. The post A Trusted Optimizely Script Carried Malware To 178 Organizations appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-18T13:15:26.168266+00:00"
+        },
+        {
+          "title": "AI Visibility Data: Avoid 4 Traps & Prioritize The Right Work",
+          "url": "https://www.searchenginejournal.com/ai-visibility-data-traps-transperfectdigital-spa/597627/",
+          "published_at": "2026-11-17T16:11:24+00:00",
+          "excerpt": "Navigate the complexities of AI visibility. Learn what to measure and how to leverage data for better AI performance. The post AI Visibility Data: Avoid 4 Traps & Prioritize The Right Work appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-18T13:15:26.168266+00:00"
+        },
+        {
           "title": "Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations via @sejournal, @lorenbaker",
           "url": "https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/",
           "published_at": "2026-11-17T13:00:47+00:00",
@@ -12298,14 +12417,14 @@
           "fetched_at": "2026-11-17T13:41:00.908779+00:00"
         },
         {
-          "title": "Google Adds Branded & Multimodal Data To Search Console API via @sejournal, @MattGSouthern",
+          "title": "Branded Query Data Is Now In The Google Search Console API via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
           "published_at": "2026-11-17T08:00:55+00:00",
           "excerpt": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Google Adds Branded & Multimodal Data To Search Console API appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-17T13:41:00.908779+00:00"
         },
         {
-          "title": "Google’s Ask Maps Starts Finding Appointments & Calling Businesses via @sejournal, @MattGSouthern",
+          "title": "Google Adds Appointment Finding & Business Calls To Ask Maps via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/",
           "published_at": "2026-11-17T01:13:51+00:00",
           "excerpt": "Ask Maps is starting to find appointments online and call local businesses for customers. Here's what Business Profile says about Google's automated calls. The post Google’s Ask Maps Starts Finding Appointments & Calling Businesses appeared first on Search Engine Journal .",
@@ -12382,32 +12501,25 @@
           "fetched_at": "2026-11-14T11:38:21.409067+00:00"
         },
         {
-          "title": "Google Lets Target Frequency Pair Non-Skippable Ads With Shorts via @sejournal, @MattGSouthern",
+          "title": "Google Lets Target Frequency Pair Non-Skippable Ads With Shorts",
           "url": "https://www.searchenginejournal.com/google-target-frequency-non-skippable-shorts/597333/",
-          "published_at": "2026-11-13T18:26:51+00:00",
+          "published_at": "2026-11-13T00:00:00+00:00",
           "excerpt": "Target frequency campaigns can pair non-skippable ads with Shorts and in-feed ads, an updated help page says. Here's what changed and where the limits are. The post Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-13T19:54:19.339818+00:00"
         },
         {
-          "title": "72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs via @sejournal, @gregjarboe",
+          "title": "72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs",
           "url": "https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/",
-          "published_at": "2026-11-13T18:00:02+00:00",
+          "published_at": "2026-11-13T00:00:00+00:00",
           "excerpt": "Turn Google Ads automation decisions into proof of your AI skills, with a practical record of overrides, checks, and campaign results. The post 72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-13T19:54:19.339818+00:00"
         },
         {
-          "title": "What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras",
+          "title": "What Reddit Reviews Reveals About Your Products",
           "url": "https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/",
-          "published_at": "2026-11-13T13:00:09+00:00",
+          "published_at": "2026-11-13T00:00:00+00:00",
           "excerpt": "Spot recurring product complaints and competitor comparisons with Reddit Reviews, then check source comments for the context behind the summaries. The post What Reddit Reviews Reveals About Your Products appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-13T19:54:19.339818+00:00"
-        },
-        {
-          "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
-          "published_at": "2026-11-12T21:01:44+00:00",
-          "excerpt": "Google Ads introduces an Invalid Traffic Overview Card showing estimated savings, post-billing credits, and campaign-level reports. Here's what advertisers need to know. The post Google Ads Rolls Out New Invalid Traffic Overview Card appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-13T12:24:59.350470+00:00"
         },
         {
           "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern",
@@ -12417,7 +12529,7 @@
           "fetched_at": "2026-11-13T12:24:59.350470+00:00"
         },
         {
-          "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO via @sejournal, @rollerblader",
+          "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO",
           "url": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/",
           "published_at": "2026-11-12T20:00:07+00:00",
           "excerpt": "Affiliate links still help protect your commissions as AI checkout grows, but stronger tracking and better program choices add crucial layers of protection. The post Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO appeared first on Search Engine…",
@@ -12450,6 +12562,13 @@
           "published_at": "2026-11-12T06:00:23+00:00",
           "excerpt": "Explore the future of retail with AI shopping. Understand how AI affects product visibility and decision-making for consumers. The post AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-12T12:59:42.768483+00:00"
+        },
+        {
+          "title": "Google Ads Rolls Out New Invalid Traffic Overview Card",
+          "url": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
+          "published_at": "2026-11-12T00:00:00+00:00",
+          "excerpt": "Google Ads introduces an Invalid Traffic Overview Card showing estimated savings, post-billing credits, and campaign-level reports. Here's what advertisers need to know. The post Google Ads Rolls Out New Invalid Traffic Overview Card appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-13T12:24:59.350470+00:00"
         },
         {
           "title": "Microsoft Advertising Updates UI Following Advertiser Feedback",
@@ -17099,6 +17218,55 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "AI-influenced traffic: A new Semrush metric to measure AI search performance",
+          "url": "https://www.semrush.com/blog/ai-influenced-traffic-metric/",
+          "published_at": "2026-11-18T09:00:00+00:00",
+          "excerpt": "Traffic is the missing step between AI visibility and revenue. Now you can see it.",
+          "fetched_at": "2026-11-18T13:15:33.235296+00:00"
+        },
+        {
+          "title": "AI Overviews are taking over the map pack. Here’s what I found",
+          "url": "https://www.semrush.com/blog/ai-overviews-are-taking-over-the-map-pack/",
+          "published_at": "2026-11-17T13:58:00+00:00",
+          "excerpt": "AI Overviews are taking over the map pack. Learn why ranking in the pack isn’t enough anymore and what your business needs to do to show up.",
+          "fetched_at": "2026-11-18T13:15:33.235296+00:00"
+        },
+        {
+          "title": "ChatGPT Business Hub now shows mentions and clicks",
+          "url": "https://www.semrush.com/blog/chatgpt-business-hub/",
+          "published_at": "2026-11-17T12:56:00+00:00",
+          "excerpt": "ChatGPT Business Hub lets you claim your listing and track mentions and clicks, but your brand name alone doesn’t count as a mention.",
+          "fetched_at": "2026-11-18T13:15:33.235296+00:00"
+        },
+        {
+          "title": "Google November 2026 core update: What marketers should know",
+          "url": "https://www.semrush.com/blog/google-core-update-november-2026/",
+          "published_at": "2026-11-17T12:48:00+00:00",
+          "excerpt": "Google‘s November 2026 core update could run into Black Friday week, so track your rankings now and hold off on big site changes.",
+          "fetched_at": "2026-11-18T13:15:33.235296+00:00"
+        },
+        {
+          "title": "How to use AI for content creation (step-by-step workflow)",
+          "url": "https://www.semrush.com/blog/how-to-use-ai-for-content-creation/",
+          "published_at": "2026-11-17T12:38:00+00:00",
+          "excerpt": "How to use AI for content creation, based on the Semrush blog team‘s own process. Includes the research skill we use, ready to copy into Claude.",
+          "fetched_at": "2026-11-18T13:15:33.235296+00:00"
+        },
+        {
+          "title": "Cecilia Meis",
+          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
+          "published_at": "2026-11-17T00:00:00+00:00",
+          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
+          "title": "Carlos Silva",
+          "url": "https://www.semrush.com/blog/user/carlos/",
+          "published_at": "2026-11-17T00:00:00+00:00",
+          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
+        },
+        {
           "title": "What is citation core? A guide to AI search visibility",
           "url": "https://www.semrush.com/blog/citation-core/",
           "published_at": "2026-11-16T12:38:00+00:00",
@@ -17118,13 +17286,6 @@
           "published_at": "2026-11-13T12:24:00+00:00",
           "excerpt": "Learn how to use the Semrush MCP to analyze your competitors’ keywords, pages, and backlinks.",
           "fetched_at": "2026-11-13T19:54:24.356101+00:00"
-        },
-        {
-          "title": "Carlos Silva",
-          "url": "https://www.semrush.com/blog/user/carlos/",
-          "published_at": "2026-11-13T00:00:00+00:00",
-          "excerpt": "Keyword mapping is an SEO technique for assigning target terms to the corresponding pages on your site.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "AI traffic quality: Look past the industry benchmarks and measure ROI",
@@ -17220,21 +17381,21 @@
         {
           "title": "How to find your website’s keywords in Google Analytics 4",
           "url": "https://www.semrush.com/blog/google-analytics-keywords/",
-          "published_at": "2026-11-03T12:05:00+00:00",
+          "published_at": "2026-11-03T00:00:00+00:00",
           "excerpt": "Learn how to use Google Search Console & Google Analytics to find your keywords and study performance.",
           "fetched_at": "2026-11-03T19:39:54.565731+00:00"
         },
         {
           "title": "How to track your Gemini visibility with and without Semrush",
           "url": "https://www.semrush.com/blog/how-to-track-your-gemini-visibility/",
-          "published_at": "2026-11-03T11:48:00+00:00",
+          "published_at": "2026-11-03T00:00:00+00:00",
           "excerpt": "Learn Gemini visibility tracking: what to measure, how to track brand mentions in Gemini manually, and how to scale it with Semrush.",
           "fetched_at": "2026-11-03T19:39:54.565731+00:00"
         },
         {
           "title": "Affiliate marketing is the gateway to AI visibility",
           "url": "https://www.semrush.com/blog/affiliate-marketing-ai-visibility/",
-          "published_at": "2026-11-03T11:34:00+00:00",
+          "published_at": "2026-11-03T00:00:00+00:00",
           "excerpt": "See which affiliate content AI answers cite, based on Semrush‘s own affiliate program data, plus a five-step plan to turn partners into AI visibility.",
           "fetched_at": "2026-11-03T19:39:54.565731+00:00"
         },
@@ -17246,18 +17407,18 @@
           "fetched_at": "2026-11-10T12:49:47.703451+00:00"
         },
         {
-          "title": "7 free SEO tools to boost visibility & traffic",
-          "url": "https://www.semrush.com/blog/free-seo-tools/",
-          "published_at": "2026-10-27T09:05:00+00:00",
-          "excerpt": "The best free SEO tools include Keyword Magic Tool, Position Tracking, and Ubersuggest.",
-          "fetched_at": "2026-07-22T11:51:12.570259+05:30"
-        },
-        {
           "title": "Poisoned SERPs: An update on Google ranking data in Semrush",
           "url": "https://www.semrush.com/blog/poisoned-serps/",
           "published_at": "2026-10-27T08:17:00+00:00",
           "excerpt": "Learn how Semrush is addressing “poisoned” Google Search results, validating ranking data, and investing in visibility for users.",
           "fetched_at": "2026-10-27T18:08:08.280706+00:00"
+        },
+        {
+          "title": "7 free SEO tools to boost visibility & traffic",
+          "url": "https://www.semrush.com/blog/free-seo-tools/",
+          "published_at": "2026-10-27T00:00:00+00:00",
+          "excerpt": "The best free SEO tools include Keyword Magic Tool, Position Tracking, and Ubersuggest.",
+          "fetched_at": "2026-07-22T11:51:12.570259+05:30"
         },
         {
           "title": "Semrush Team",
@@ -17869,13 +18030,6 @@
           "fetched_at": "2026-07-23T12:40:10.406784+05:30"
         },
         {
-          "title": "Cecilia Meis",
-          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
-          "published_at": "2026-07-22T00:00:00+00:00",
-          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "The 9 Best Generative Engine Optimization (GEO) Tools of 2026",
           "url": "https://www.semrush.com/blog/best-generative-engine-optimization-tools/",
           "published_at": "2026-07-20T00:00:00+00:00",
@@ -18414,6 +18568,13 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "LinkedIn Sales Navigator Cost in 2026 and Which Plan Is Worth It",
+          "url": "https://www.factors.ai/blog/linkedin-sales-navigator-cost",
+          "published_at": "2026-11-18T00:00:00+00:00",
+          "excerpt": "Review LinkedIn Sales Navigator cost, plan differences, and team pricing. See what buying through Factors.ai adds in onboarding, support, and GTM setup.",
+          "fetched_at": "2026-11-02T12:42:06.472195+00:00"
+        },
+        {
           "title": "Account-Based Marketing (ABM): The Complete 2026 Guide",
           "url": "https://www.factors.ai/blog/what-is-account-based-marketing-abm",
           "published_at": "2026-11-17T00:00:00+00:00",
@@ -18475,13 +18636,6 @@
           "published_at": "2026-11-01T00:00:00+00:00",
           "excerpt": "Learn how the time decay attribution model works — including the half-life formula, a step-by-step B2B example, when to use it, and how it stacks up against last-click, linear, and position-based models.",
           "fetched_at": "2026-11-01T17:59:43.361128+00:00"
-        },
-        {
-          "title": "LinkedIn Sales Navigator Cost: What You’ll Pay and Which Plan You Need",
-          "url": "https://www.factors.ai/blog/linkedin-sales-navigator-cost",
-          "published_at": "2026-11-01T00:00:00+00:00",
-          "excerpt": "Review LinkedIn Sales Navigator cost, plan differences, and team pricing. See what buying through Factors.ai adds in onboarding, support, and GTM setup.",
-          "fetched_at": "2026-11-02T12:42:06.472195+00:00"
         },
         {
           "title": "LinkedIn ABM: How to Run Account-Based Marketing Campaigns",
@@ -19858,6 +20012,27 @@
       "color": "#34a853",
       "articles": [
         {
+          "title": "Accelerating development for massive Git repositories",
+          "url": "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
+          "published_at": "2026-11-17T00:00:00+00:00",
+          "excerpt": "Meet Another Build File Service (ABFS), Google's open-source content-addressable filesystem and build cache that cuts Android checkouts to <8s and builds to ~2m.",
+          "fetched_at": "2026-11-18T13:15:41.409960+00:00"
+        },
+        {
+          "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+          "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+          "published_at": "2026-11-17T00:00:00+00:00",
+          "excerpt": "Google's Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these capabilities to work, the new Robotics plugin for Google Antigravity transforms the platform into a compr…",
+          "fetched_at": "2026-11-18T13:15:41.409960+00:00"
+        },
+        {
+          "title": "Build full-stack Android apps with Gemini in Google AI Studio",
+          "url": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+          "published_at": "2026-11-17T00:00:00+00:00",
+          "excerpt": "Google AI Studio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt—complete with Cloud Firestore, Firebase Authentication, Firebase AI Logic, a faster HD emulator with audio, visual screenshot debugging, and direct publishing to your p…",
+          "fetched_at": "2026-11-18T13:15:41.409960+00:00"
+        },
+        {
           "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch",
           "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/",
           "published_at": "2026-11-16T00:00:00+00:00",
@@ -20500,6 +20675,90 @@
       "color": "#ea4335",
       "articles": [
         {
+          "title": "How genome mapping can help researchers better understand disease",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
+          "published_at": "2026-11-17T22:00:00+00:00",
+          "excerpt": "Glowing DNA double helix made of light particles, with floating A, C, T, and G letters on a dark background.",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
+          "title": "See what 5 builders are making with Gemini 4 Carbon",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
+          "published_at": "2026-11-17T21:00:00+00:00",
+          "excerpt": "Collage of different projects made with Gemini 4 Carbon",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
+          "title": "Read the EmbeddingGemma 2 technical report.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
+          "published_at": "2026-11-17T17:00:00+00:00",
+          "excerpt": "The Google EmbeddingGemma 2 technical report details our new multimodal model, covering its unified vector space and compact design. Read the report.",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
+          "title": "Put Gemini to work for you",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+          "published_at": "2026-11-17T17:00:00+00:00",
+          "excerpt": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
+          "title": "10 states team up with Google on free AI training",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
+          "published_at": "2026-11-17T17:00:00+00:00",
+          "excerpt": "Two people work on a computer",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
+          "title": "Temporary threads are now available in AI Mode in Search.",
+          "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+          "published_at": "2026-11-17T17:00:00+00:00",
+          "excerpt": "Google AI Mode now offers temporary threads for private searches. Keep your history clean and avoid personalization. Try this new feature today.",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
+          "title": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+          "url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
+          "published_at": "2026-11-17T17:00:00+00:00",
+          "excerpt": "Google Home updates bring keyless entry, smarter audio alerts, and faster Gemini performance. See what’s new in the November 2026 update.",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
+          "title": "Anyone can create a personal avatar of themselves in Google Vids, at no cost.",
+          "url": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
+          "published_at": "2026-11-17T17:00:00+00:00",
+          "excerpt": "Create custom avatars in Google Vids for free. Design your digital likeness using a selfie and voice recording to narrate videos. Try it out today.",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
+          "title": "Google Wallet is now available on iOS in the U.S.",
+          "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
+          "published_at": "2026-11-17T17:00:00+00:00",
+          "excerpt": "Google Wallet is now available on iOS in the U.S. Manage your tickets, boarding passes, and receipts in one secure hub. Get the details.",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
+          "title": "The best of Google Play in Asia Pacific",
+          "url": "https://blog.google/topics/google-asia/google-play-best-2026/",
+          "published_at": "2026-11-17T15:00:00+00:00",
+          "excerpt": "Google Play Best of 2026 app icons",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
+          "title": "Google Play unveils the best apps, games, and books of 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/",
+          "published_at": "2026-11-17T15:00:00+00:00",
+          "excerpt": "Gold and yellow promotional graphic with diagonal stripes displaying the text \"Best of 2026\", next to a sleek, modern 3D trophy featuring the multi-colored Google Play logo",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
+          "title": "Celebrate 100 years of Colonial Williamsburg online",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg-centennial/",
+          "published_at": "2026-11-17T14:00:00+00:00",
+          "excerpt": "A costumed historical interpreter holding a document up high follows a group of musicians in 18th-century attire along a road, facing a large crowd gathered in front of Colonial Williamsburg’s Capitol building.",
+          "fetched_at": "2026-11-18T13:15:42.267988+00:00"
+        },
+        {
           "title": "Regional voices are rolling out in the Gemini app.",
           "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
           "published_at": "2026-11-16T18:45:00+00:00",
@@ -20507,7 +20766,7 @@
           "fetched_at": "2026-11-17T13:41:19.137832+00:00"
         },
         {
-          "title": "The era of autonomous attacks has arrived.",
+          "title": "Outpace automated cyber threats with security built for nonstop defense.",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
           "published_at": "2026-11-16T18:30:00+00:00",
           "excerpt": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
