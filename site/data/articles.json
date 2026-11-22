@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T12:51:25.919179+00:00",
+  "last_updated": "2026-11-22T12:44:07.737486+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4772,25 +4772,11 @@
           "fetched_at": "2026-11-16T12:58:45.955396+00:00"
         },
         {
-          "title": "Microsoft Advertising warns Outlook outage may have affected advertiser spend",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0JSQ1JhOEdWMlM2OVBXcnV0N1NxbHNPb21GRlhtVkpfTjh0aEIyYnNETU16UWlCcnNVZzJ4WW5yVHUyVkR1VDBPUTdnM3NfTmEwU3hfSEs1TjIzeFA1ZVM3WkhRSzhaMlVUa1RyTXlhUGdhc0o3dWpRQUtkU1o4VHdXbkhLa1lLU3JJUTVpVmdQbC1PR1VFQ1F3YzhUMVFucS1uenFMcW1QU1pTeE5laFIxVQ?oc=5",
-          "published_at": "2026-11-13T19:50:46+00:00",
-          "excerpt": "Microsoft Advertising warns Outlook outage may have affected advertiser spend Search Engine Land",
-          "fetched_at": "2026-11-14T11:38:10.900113+00:00"
-        },
-        {
           "title": "The latest jobs in search marketing",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
           "published_at": "2026-11-13T19:34:30+00:00",
           "excerpt": "The latest jobs in search marketing Search Engine Land",
           "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
-          "title": "6 ways to stay on budget with Google Ads Smart Bidding",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWxreVJqbUgyQkplSS1xWUMyQnBXS1hNOEJxdUtVdS1FZlJuOHpvTTZVcVVPMXVuN1hLX3M0THYxdkZkakJydlplNE1QY0JTVkd4THlwcDkzQVhiSEtvTlhpWnl6NTB2WVlIRFZETWdnRE8wSlJzOTMydlgyamJ0Mw?oc=5",
-          "published_at": "2026-11-13T16:00:00+00:00",
-          "excerpt": "6 ways to stay on budget with Google Ads Smart Bidding Search Engine Land",
-          "fetched_at": "2026-11-13T19:54:09.238519+00:00"
         },
         {
           "title": "SEO best practice, passing fad, or timeless tactic? How to tell the difference",
@@ -4821,6 +4807,20 @@
           "fetched_at": "2026-11-13T12:24:47.743006+00:00"
         },
         {
+          "title": "6 ways to stay on budget with Google Ads Smart Bidding",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWxreVJqbUgyQkplSS1xWUMyQnBXS1hNOEJxdUtVdS1FZlJuOHpvTTZVcVVPMXVuN1hLX3M0THYxdkZkakJydlplNE1QY0JTVkd4THlwcDkzQVhiSEtvTlhpWnl6NTB2WVlIRFZETWdnRE8wSlJzOTMydlgyamJ0Mw?oc=5",
+          "published_at": "2026-11-13T08:00:00+00:00",
+          "excerpt": "6 ways to stay on budget with Google Ads Smart Bidding Search Engine Land",
+          "fetched_at": "2026-11-13T19:54:09.238519+00:00"
+        },
+        {
+          "title": "Microsoft Advertising warns Outlook outage may have affected advertiser spend",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0JSQ1JhOEdWMlM2OVBXcnV0N1NxbHNPb21GRlhtVkpfTjh0aEIyYnNETU16UWlCcnNVZzJ4WW5yVHUyVkR1VDBPUTdnM3NfTmEwU3hfSEs1TjIzeFA1ZVM3WkhRSzhaMlVUa1RyTXlhUGdhc0o3dWpRQUtkU1o4VHdXbkhLa1lLU3JJUTVpVmdQbC1PR1VFQ1F3YzhUMVFucS1uenFMcW1QU1pTeE5laFIxVQ?oc=5",
+          "published_at": "2026-11-13T08:00:00+00:00",
+          "excerpt": "Microsoft Advertising warns Outlook outage may have affected advertiser spend Search Engine Land",
+          "fetched_at": "2026-11-14T11:38:10.900113+00:00"
+        },
+        {
           "title": "How to create a trend-aware content calendar for AI search",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGJ6b0J0VE5YUUJVMDVYVUNEOWh3NUM1RHdLbURyeDBmdTB6aXRMbWJLenJmYUpSMzZudV9PVUpCak1XSVIyRTBlWWd2Z2dEVlV0aDBGQjhqWV9qN1EyQ0gxOTUxQV9ZX0lsbWdkRnI5NTNLUDZnemp6V0hUdXN4U1JXa0NhbkdKbE1EMFBfNFd4Zw?oc=5",
           "published_at": "2026-11-12T22:28:49+00:00",
@@ -4839,13 +4839,6 @@
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6ZURGaTRRSGs0UDdlNEgzbUhwU19COGJ3TWRRMVoxNzJ3RTlvbTlrOXJBdDl4NzZJc0dGUzMyWFhzc0RSanRjTVN0aFV6UlNjVm9jekNnQ0hta1hFXzduc1ZSSzNvUWZUTUNCbDhLUloxbjQ?oc=5",
           "published_at": "2026-11-12T18:49:33+00:00",
           "excerpt": "16 key affiliate marketing statistics Search Engine Land",
-          "fetched_at": "2026-11-13T12:24:47.743006+00:00"
-        },
-        {
-          "title": "Google Search gets major upgrade with Gemini 4 Hydrogen",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJlelI2cWwtaFlMci1xSTctbEozeVlCclYtbm5MUG5GZzM2eXlpWGNUaGlOSVBpVW1jUlBSUUF2dmZHVVREV3ZiT0RzSVhVVmotVHpnV1VhcTZRYmhnZXV0NGhCTU1MVWFJMTRlZFdpcXVwUnFaMDBXdnNFOGZpWGx5QkhJdFY1OTltWVpUczlGb0plekE?oc=5",
-          "published_at": "2026-11-12T18:31:38+00:00",
-          "excerpt": "Google Search gets major upgrade with Gemini 4 Hydrogen Search Engine Land",
           "fetched_at": "2026-11-13T12:24:47.743006+00:00"
         },
         {
@@ -4917,6 +4910,13 @@
           "published_at": "2026-11-12T12:00:00+00:00",
           "excerpt": "Connecting with shoppers when the buyer Is not human Search Engine Land",
           "fetched_at": "2026-11-12T12:59:31.681887+00:00"
+        },
+        {
+          "title": "Google Search gets major upgrade with Gemini 4 Hydrogen",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJlelI2cWwtaFlMci1xSTctbEozeVlCclYtbm5MUG5GZzM2eXlpWGNUaGlOSVBpVW1jUlBSUUF2dmZHVVREV3ZiT0RzSVhVVmotVHpnV1VhcTZRYmhnZXV0NGhCTU1MVWFJMTRlZFdpcXVwUnFaMDBXdnNFOGZpWGx5QkhJdFY1OTltWVpUczlGb0plekE?oc=5",
+          "published_at": "2026-11-12T08:00:00+00:00",
+          "excerpt": "Google Search gets major upgrade with Gemini 4 Hydrogen Search Engine Land",
+          "fetched_at": "2026-11-13T12:24:47.743006+00:00"
         },
         {
           "title": "ChatGPT Ads adds Target CPA and CPC bidding, expands product campaign controls",
@@ -12529,6 +12529,13 @@
       "color": "#2458d3",
       "articles": [
         {
+          "title": "WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
+          "published_at": "2026-11-21T13:00:00+00:00",
+          "excerpt": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents. The post WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse appeared first on Search Engine Journa…",
+          "fetched_at": "2026-11-22T12:43:57.004872+00:00"
+        },
+        {
           "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
           "published_at": "2026-11-20T20:20:52+00:00",
@@ -12662,13 +12669,6 @@
           "fetched_at": "2026-11-18T13:15:26.168266+00:00"
         },
         {
-          "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
-          "url": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
-          "published_at": "2026-11-17T21:42:30+00:00",
-          "excerpt": "U.S. data finds few ChatGPT conversations show intent to buy and most responses name no brand. New insight for teams weighing ChatGPT visibility and ads. The post 6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-18T13:15:26.168266+00:00"
-        },
-        {
           "title": "Date: Confirmed, Rating: Meets Expectations, Comments: None via @sejournal, @pedrodias",
           "url": "https://www.searchenginejournal.com/date-confirmed-rating-meets-expectations-comments-none/597709/",
           "published_at": "2026-11-17T18:01:21+00:00",
@@ -12709,6 +12709,13 @@
           "published_at": "2026-11-17T01:13:51+00:00",
           "excerpt": "Ask Maps is starting to find appointments online and call local businesses for customers. Here's what Business Profile says about Google's automated calls. The post Google’s Ask Maps Starts Finding Appointments & Calling Businesses appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-17T13:41:00.908779+00:00"
+        },
+        {
+          "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel",
+          "url": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
+          "published_at": "2026-11-17T00:00:00+00:00",
+          "excerpt": "U.S. data finds few ChatGPT conversations show intent to buy and most responses name no brand. New insight for teams weighing ChatGPT visibility and ads. The post 6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-18T13:15:26.168266+00:00"
         },
         {
           "title": "Google Ads Surcharges Rise To 3% In France And Italy – Local US Advertisers Can Be Billed Too",
