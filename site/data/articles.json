@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T12:44:07.737486+00:00",
+  "last_updated": "2026-11-23T15:03:25.536001+00:00",
   "run_status": "success",
   "sources": {
     "ahrefs": {
@@ -4485,6 +4485,41 @@
       "color": "#18a66a",
       "articles": [
         {
+          "title": "Google AI cites social media 52% more, ChatGPT 44% less: Study",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHlrLUl1b1hxSEFoV0hucGVfd3BMaEN3d19md2xMdllXbmVoR2hNMW9LbjRiQ1RFcjk2b1ltQ1JKRUl2VGtzaXN4VXVLUHNDdXZXWXpzalJYVFRCbHFSNXhVWW1IYnFHZEpzUXd3bnFXd055WGFyUFZMT0RhcExhcTJObG9VWUtLRnJDS3FULTNtZw?oc=5",
+          "published_at": "2026-11-23T14:51:46+00:00",
+          "excerpt": "Google AI cites social media 52% more, ChatGPT 44% less: Study Search Engine Land",
+          "fetched_at": "2026-11-23T15:03:00.538914+00:00"
+        },
+        {
+          "title": "Multi-location SEO: Why one strategy doesn’t fit every location",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFlDVl9uOGc0MS16b2ZkZ3lEbG5oVEViVmpNXzJBcWVIcHdyZ2hkUWdTNXd0WE5DNlJCdHhrVXlPdDdWNGVCTERURE44endnSUUtcUxHNHloUWQ4VkFlVnZMcThmclNkcm90TW5hYUpsRHkxR3lOZkM5NWlLRkNTdWdxNWVhc3RBTmc?oc=5",
+          "published_at": "2026-11-23T14:00:00+00:00",
+          "excerpt": "Multi-location SEO: Why one strategy doesn’t fit every location Search Engine Land",
+          "fetched_at": "2026-11-23T15:03:00.538914+00:00"
+        },
+        {
+          "title": "How to create original research for digital PR without original data",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUlJTVjV4d1pfSHpYeWV6TXd5TW9zWG1ZOXBuenFNZW1hTUtpMFNiTThKWUxHV0FzdjZDZEtYbjRqMmpWbEFxNXVIMHlRX05aOUpDZTRYSnpHQnNTcTlncXVRck1QbjdIQmlIWW9vRTI0Qm4zbmlaSmViQjhlMHVJTl9DZVk5WXhybWFwWUdQdw?oc=5",
+          "published_at": "2026-11-23T13:00:00+00:00",
+          "excerpt": "How to create original research for digital PR without original data Search Engine Land",
+          "fetched_at": "2026-11-23T15:03:00.538914+00:00"
+        },
+        {
+          "title": "How to build reliable client reporting with AI",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanY4dHB6Y2xLMzhqR2VMNE9JYTdmSVJjbUttRmdnMjlzdFFpYlJzR1Z5d1dPU29aN1pabmwwb0N0elFtNU9SVjJvRnY3NDRVNHJrWC1HanNpc29RTmMzX2JkQnRxMDE4NDNLTUNhWVUwX2Q4RkE0N1pQbEFRZlJEZlRyUUlDNEQyZEE?oc=5",
+          "published_at": "2026-11-23T12:00:00+00:00",
+          "excerpt": "How to build reliable client reporting with AI Search Engine Land",
+          "fetched_at": "2026-11-23T15:03:00.538914+00:00"
+        },
+        {
+          "title": "The latest jobs in search marketing",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+          "published_at": "2026-11-20T18:06:49+00:00",
+          "excerpt": "The latest jobs in search marketing Search Engine Land",
+          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
+        },
+        {
           "title": "Microsoft Advertising adds URL inclusions to AI Max campaigns",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC1UOVc0N3U2M2ppbmF5SzBaamRjY1JrR3ZJR2w4dHc4OEVXWFoxX1NEaE9Fcmx2MXRYRzdkTUZHX2VsYktMbFp2MU5EQTFxdkExdE9MdWd6T1lSWVhSekhoQkZOTE80Vm51VU9kcllJWnctaUtHaEFlT1pKMFcxVW1jdGdVR18ybjhLYTZpSWVXNncxX3ZoU2htN29OQQ?oc=5",
           "published_at": "2026-11-20T18:00:01+00:00",
@@ -4772,13 +4807,6 @@
           "fetched_at": "2026-11-16T12:58:45.955396+00:00"
         },
         {
-          "title": "The latest jobs in search marketing",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-          "published_at": "2026-11-13T19:34:30+00:00",
-          "excerpt": "The latest jobs in search marketing Search Engine Land",
-          "fetched_at": "2026-08-05T13:29:53.097013+05:30"
-        },
-        {
           "title": "SEO best practice, passing fad, or timeless tactic? How to tell the difference",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16bU9FLWRzSEhhNmQ5Z1UwM2VfZmt4SHVrRmdwSlpTdTBEWXdXbVVIZFd2a1Q5ZW9QWThVTl95a3hSNGgzOTQxd1Y4UGstRHVFaENVNElEa0NxTDV1Sl9GRDlzU24zTnZETDFhWGVkenBJUlkxVGVOcWNjcW9rdw?oc=5",
           "published_at": "2026-11-13T15:00:00+00:00",
@@ -4793,16 +4821,9 @@
           "fetched_at": "2026-11-13T19:54:09.238519+00:00"
         },
         {
-          "title": "Why AI search is bringing SEO and brand marketing together",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TS2tBa041U0NRaGdFMDNFUjE5TXBFWFpVc0RkSDJMalI5Ync1V2xNZDMxYmtlX1FydDVqT1NTWlZkOGd1Q2w2Qjc0aEQ1a1JMLTlwSGlZUnplaDVOLWV1TXg4Y0NfVzEtMU1PaDRmRkZoby1mYk5Mbk5CMDVrcjQ?oc=5",
-          "published_at": "2026-11-13T13:00:00+00:00",
-          "excerpt": "Why AI search is bringing SEO and brand marketing together Search Engine Land",
-          "fetched_at": "2026-11-13T19:54:09.238519+00:00"
-        },
-        {
           "title": "Dreambeans: Google turns your private life into personalized content",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXl4R2NKMzVIdFNhOVFLdHlfb1JqYkluazkzVGZSSmRaRHdDNmJNVFNEaWN5V1NRUkY5ZFhnTENUU01NbWVaVENiS3h6TVdvX1JYeGhtc3M4Tk9GMGZ0R1lzOXRlTURnNExER3BGTVVUelV0MmVYZW5XRUM0NmNLLW5sbWRVU2IzczN2dEJTS2JETXFGWHpMT2FNVGpLaGFPRzZOQVFR?oc=5",
-          "published_at": "2026-11-13T12:00:00+00:00",
+          "published_at": "2026-11-13T08:00:00+00:00",
           "excerpt": "Dreambeans: Google turns your private life into personalized content Search Engine Land",
           "fetched_at": "2026-11-13T12:24:47.743006+00:00"
         },
@@ -4811,6 +4832,13 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWxreVJqbUgyQkplSS1xWUMyQnBXS1hNOEJxdUtVdS1FZlJuOHpvTTZVcVVPMXVuN1hLX3M0THYxdkZkakJydlplNE1QY0JTVkd4THlwcDkzQVhiSEtvTlhpWnl6NTB2WVlIRFZETWdnRE8wSlJzOTMydlgyamJ0Mw?oc=5",
           "published_at": "2026-11-13T08:00:00+00:00",
           "excerpt": "6 ways to stay on budget with Google Ads Smart Bidding Search Engine Land",
+          "fetched_at": "2026-11-13T19:54:09.238519+00:00"
+        },
+        {
+          "title": "Why AI search is bringing SEO and brand marketing together",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TS2tBa041U0NRaGdFMDNFUjE5TXBFWFpVc0RkSDJMalI5Ync1V2xNZDMxYmtlX1FydDVqT1NTWlZkOGd1Q2w2Qjc0aEQ1a1JMLTlwSGlZUnplaDVOLWV1TXg4Y0NfVzEtMU1PaDRmRkZoby1mYk5Mbk5CMDVrcjQ?oc=5",
+          "published_at": "2026-11-13T08:00:00+00:00",
+          "excerpt": "Why AI search is bringing SEO and brand marketing together Search Engine Land",
           "fetched_at": "2026-11-13T19:54:09.238519+00:00"
         },
         {
@@ -4891,13 +4919,6 @@
           "fetched_at": "2026-11-13T12:24:47.743006+00:00"
         },
         {
-          "title": "Google Ads launches Invalid Traffic Overview Card",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWNCcm1aN0QtNXRfTGU4R0dBcEdtRTJqVXRnM1l3dkkzeGFQcDJkb0VCLVVoeDBRQXUxS25GZk10bVlaSnVKaUxzZGtESFBtdERpTm9wM2tab2NzaVBhd3JBS0RMcWRDS1ZBS25LdGR4QjltbE9ybVV0SWhDZTdLVHJTWVFpSEZnTEFjVmJR?oc=5",
-          "published_at": "2026-11-12T13:17:28+00:00",
-          "excerpt": "Google Ads launches Invalid Traffic Overview Card Search Engine Land",
-          "fetched_at": "2026-11-13T12:24:47.743006+00:00"
-        },
-        {
           "title": "Let’s stop hiding. Become transparent about your AI usage.",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1TlREMFllbzNicG1jemFuWlF3X3h4SEJfUjJZd0tDMnh0ZHZIQmdXLXVCRlZTTlkybkxrcVV1OTBXUFBMeUNJWnZWTXZ3UHJMZXJUUDk0cUJidDJKQ0EzQ3lmWkJjRUE?oc=5",
           "published_at": "2026-11-12T13:00:00+00:00",
@@ -4916,6 +4937,13 @@
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJlelI2cWwtaFlMci1xSTctbEozeVlCclYtbm5MUG5GZzM2eXlpWGNUaGlOSVBpVW1jUlBSUUF2dmZHVVREV3ZiT0RzSVhVVmotVHpnV1VhcTZRYmhnZXV0NGhCTU1MVWFJMTRlZFdpcXVwUnFaMDBXdnNFOGZpWGx5QkhJdFY1OTltWVpUczlGb0plekE?oc=5",
           "published_at": "2026-11-12T08:00:00+00:00",
           "excerpt": "Google Search gets major upgrade with Gemini 4 Hydrogen Search Engine Land",
+          "fetched_at": "2026-11-13T12:24:47.743006+00:00"
+        },
+        {
+          "title": "Google Ads launches Invalid Traffic Overview Card",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWNCcm1aN0QtNXRfTGU4R0dBcEdtRTJqVXRnM1l3dkkzeGFQcDJkb0VCLVVoeDBRQXUxS25GZk10bVlaSnVKaUxzZGtESFBtdERpTm9wM2tab2NzaVBhd3JBS0RMcWRDS1ZBS25LdGR4QjltbE9ybVV0SWhDZTdLVHJTWVFpSEZnTEFjVmJR?oc=5",
+          "published_at": "2026-11-12T08:00:00+00:00",
+          "excerpt": "Google Ads launches Invalid Traffic Overview Card Search Engine Land",
           "fetched_at": "2026-11-13T12:24:47.743006+00:00"
         },
         {
@@ -5031,13 +5059,6 @@
           "fetched_at": "2026-11-11T11:58:46.759473+00:00"
         },
         {
-          "title": "Google AI Mode for subscribers gains Gemini 4 Carbon",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDdKZmM5QTJ3NmJvRkttRlZHRDgxWXlpRWxYWkQ0OTN2SlpJTUdFX0cwbHJFRlh5UlF0ZEZDMndoMTE4LUh6LUw1LVYzeWNSTFZ3cWRpaHVRWWpVRnJyWG1hc3ozNmZVaVVldURyb3I3aFlPTXVsSkNjdmU4eFFEel9jMDhoQ3pXelduWFZhbGppQQ?oc=5",
-          "published_at": "2026-11-10T17:00:45+00:00",
-          "excerpt": "Google AI Mode for subscribers gains Gemini 4 Carbon Search Engine Land",
-          "fetched_at": "2026-11-11T11:58:46.759473+00:00"
-        },
-        {
           "title": "Content audit: How to run it in six easy steps",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZkdNUFJZbTRDT2wyeW5UMmNTLTNFemw2ekZ4ekU0Q3B4Vm5ZbW1RX1Qzd184OTZ0eUxybFB5VFU0ZVhhbEVfY2JxSGRDUDF5MjRJUWIyWjMybHg5alE?oc=5",
           "published_at": "2026-11-10T16:55:46+00:00",
@@ -5147,6 +5168,13 @@
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LemQ4RlJRNzJUeFUzdHl0dHBHNFdtN3cyekFCQVlYZ0FpTGNiUjdsUlA4SnhNdVdfUnY0c2pSTzZEQ3d3Rm9pNEM2QWM1M2NKZHlDYkFfTGpfUy1uRmJERXc4Mjg3N1lTdVY2c3NqRGZZRUZ2X0pNTlhn?oc=5",
           "published_at": "2026-11-10T08:00:00+00:00",
           "excerpt": "ChatGPT visual ads are rolling out Search Engine Land",
+          "fetched_at": "2026-11-11T11:58:46.759473+00:00"
+        },
+        {
+          "title": "Google AI Mode for subscribers gains Gemini 4 Carbon",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDdKZmM5QTJ3NmJvRkttRlZHRDgxWXlpRWxYWkQ0OTN2SlpJTUdFX0cwbHJFRlh5UlF0ZEZDMndoMTE4LUh6LUw1LVYzeWNSTFZ3cWRpaHVRWWpVRnJyWG1hc3ozNmZVaVVldURyb3I3aFlPTXVsSkNjdmU4eFFEel9jMDhoQ3pXelduWFZhbGppQQ?oc=5",
+          "published_at": "2026-11-10T08:00:00+00:00",
+          "excerpt": "Google AI Mode for subscribers gains Gemini 4 Carbon Search Engine Land",
           "fetched_at": "2026-11-11T11:58:46.759473+00:00"
         },
         {
@@ -5276,13 +5304,6 @@
           "fetched_at": "2026-11-06T12:17:22.311995+00:00"
         },
         {
-          "title": "Google Search clicks to news publishers rose 8x on Election Day",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObDVTUEFkOTdJWWxFNE5OVnBsVUxobVZJMVBtbkI1bm9QcjF1RGFINDE4bV9EZWxjdmVac1JicmxrRUhTN1pLYW9lZ21xZ1ZwZ0lqNjVvalRrSFlJaDcwa0RCWmZzWWJRZzhNV0xKV3puYXFiQl9Ud1F1U0QwZC1tb1BQSFRZRFhKQ3pLbFlR?oc=5",
-          "published_at": "2026-11-05T16:34:33+00:00",
-          "excerpt": "Google Search clicks to news publishers rose 8x on Election Day Search Engine Land",
-          "fetched_at": "2026-11-06T12:17:22.311995+00:00"
-        },
-        {
           "title": "Local grocery chain outranks Wikipedia on Google for ‘apples’",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnpfVDY4SjF5TkNseXlwYzFYWjRhVUNvallsVlpYc2JIV0U2ejJaM3JfbWNDQTNlcjVqOFlaQnJUWDNCVlhIcWxrS1Rub3U0SFc3a2VjQjRzS29LVGc1amh6UmZ0TlpSazA5T2tPUldVVXd6ZEpkUlhKcFE3Z0xGX3M4RGdPOHFaQWIyb1NzZUlDUQ?oc=5",
           "published_at": "2026-11-05T15:01:28+00:00",
@@ -5329,6 +5350,13 @@
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjJJMWpYczE2cm54Q2podmZSSTdvcHFmTFZKMlhUdTVxVmJ4ZjVUalpSODc0blREMXY3eFMwX25SbldjemU4SW9sZHJlX0FSMklEYlFGYmt1TFM3d3lOVEh6Q1NlQ3VLSlhiNWJHT3NRS2gtWWp3aWpWVXl0QnZOajE0cUVyUUYtbDNSUG5sTjZlcl9GY1dn?oc=5",
           "published_at": "2026-11-05T08:00:00+00:00",
           "excerpt": "ChatGPT Ads bidding options are changing on November 9th Search Engine Land",
+          "fetched_at": "2026-11-06T12:17:22.311995+00:00"
+        },
+        {
+          "title": "Google Search clicks to news publishers rose 8x on Election Day",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObDVTUEFkOTdJWWxFNE5OVnBsVUxobVZJMVBtbkI1bm9QcjF1RGFINDE4bV9EZWxjdmVac1JicmxrRUhTN1pLYW9lZ21xZ1ZwZ0lqNjVvalRrSFlJaDcwa0RCWmZzWWJRZzhNV0xKV3puYXFiQl9Ud1F1U0QwZC1tb1BQSFRZRFhKQ3pLbFlR?oc=5",
+          "published_at": "2026-11-05T08:00:00+00:00",
+          "excerpt": "Google Search clicks to news publishers rose 8x on Election Day Search Engine Land",
           "fetched_at": "2026-11-06T12:17:22.311995+00:00"
         },
         {
@@ -5640,18 +5668,18 @@
           "fetched_at": "2026-10-29T10:58:55.831192+00:00"
         },
         {
-          "title": "Human-first SEO: The risks of optimizing for AI over users",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEtBTnBMYkdwc1g0X1ZtS3RGZWNUNENOLXVuMUxGVXlKemZHcTR6SDdBelVFZGFBeXBsUnE2VllTbGtldWNXUTVwNWZXN29nNHhtNnF1TXB6c3dSWXhUbEFFSDRBVm1BaHQzOWgwcV9keWl4OTZ5QmdNTk14dGNrWmtIM19XUUs5TFloeHRjdHJJTzNVU2t0Tg?oc=5",
-          "published_at": "2026-10-28T13:00:00+00:00",
-          "excerpt": "Human-first SEO: The risks of optimizing for AI over users Search Engine Land",
-          "fetched_at": "2026-10-29T10:58:55.831192+00:00"
-        },
-        {
           "title": "SEOs, we need to talk about E-E-A-T",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlN2c4Tjd5ZVZDV1FaR2lXTV9JOFJJVHRIbHlES1lhdndlQ2xEQVZXbUhPYm8yQm9wUE5tWWtCUldXTGxrY3RpY0xfOFFzTHhvNkh6Z255eEcwb1Jyal9UcQ?oc=5",
           "published_at": "2026-10-28T07:00:00+00:00",
           "excerpt": "SEOs, we need to talk about E-E-A-T Search Engine Land",
           "fetched_at": "2026-10-28T18:24:15.607744+00:00"
+        },
+        {
+          "title": "Human-first SEO: The risks of optimizing for AI over users",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEtBTnBMYkdwc1g0X1ZtS3RGZWNUNENOLXVuMUxGVXlKemZHcTR6SDdBelVFZGFBeXBsUnE2VllTbGtldWNXUTVwNWZXN29nNHhtNnF1TXB6c3dSWXhUbEFFSDRBVm1BaHQzOWgwcV9keWl4OTZ5QmdNTk14dGNrWmtIM19XUUs5TFloeHRjdHJJTzNVU2t0Tg?oc=5",
+          "published_at": "2026-10-28T07:00:00+00:00",
+          "excerpt": "Human-first SEO: The risks of optimizing for AI over users Search Engine Land",
+          "fetched_at": "2026-10-29T10:58:55.831192+00:00"
         },
         {
           "title": "Organic traffic is down, but it’s not all AI",
@@ -5794,13 +5822,6 @@
           "fetched_at": "2026-10-27T09:55:00.577694+00:00"
         },
         {
-          "title": "AI search is a branding channel, not a distraction",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3cWVnblBxRlRwRXBuT1QyTnh5cDBtQ2JFN3JNQjZzSkRrUHU1bjc1WmlscmU4am43b1I5V0xfVjdVUGdVc0lCc0xCbU55UmtxV2g4WFVUaVdNMFM3V3pnRE9BWGdKVlZuMjdHS25vYw?oc=5",
-          "published_at": "2026-10-26T15:30:00+00:00",
-          "excerpt": "AI search is a branding channel, not a distraction Search Engine Land",
-          "fetched_at": "2026-10-27T18:07:49.942633+00:00"
-        },
-        {
           "title": "How to build a Google Ads dashboard with Claude that ties spend to outcomes",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzh3TEk1TS1yTzd2MUZwa2h4U3A1NjA0OF92MXZ3V3lOTW81THdNcmQwc1R1OWdrVVd0NkNtcFgxbXh6Z3BrREMxX0psOVNxNjd6TjZuZzI1NFVYMWVDR0JhQndkTkJ2UWNWMUxXbXBXaFVfVDVLS0RHT19EdldIQW1aaXhnYS1ZRDN4VXBLaWN6d0d5dFhiWDJxcHpvaDB5ZzNjZmNFSDBkeGxnREhuNQ?oc=5",
           "published_at": "2026-10-26T15:00:00+00:00",
@@ -5848,6 +5869,13 @@
           "published_at": "2026-10-26T07:00:00+00:00",
           "excerpt": "Google Ads introduces centralized dashboard for tracking policy issues Search Engine Land",
           "fetched_at": "2026-10-27T09:55:00.577694+00:00"
+        },
+        {
+          "title": "AI search is a branding channel, not a distraction",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3cWVnblBxRlRwRXBuT1QyTnh5cDBtQ2JFN3JNQjZzSkRrUHU1bjc1WmlscmU4am43b1I5V0xfVjdVUGdVc0lCc0xCbU55UmtxV2g4WFVUaVdNMFM3V3pnRE9BWGdKVlZuMjdHS25vYw?oc=5",
+          "published_at": "2026-10-26T07:00:00+00:00",
+          "excerpt": "AI search is a branding channel, not a distraction Search Engine Land",
+          "fetched_at": "2026-10-27T18:07:49.942633+00:00"
         },
         {
           "title": "Rémi Kerhoas’ shares how a PPC mistake went unnoticed for three months",
@@ -12529,7 +12557,35 @@
       "color": "#2458d3",
       "articles": [
         {
-          "title": "WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse via @sejournal, @MattGSouthern",
+          "title": "The Final Ad Checklist Before BFCM – What To Fix Now & What To Leave via @sejournal, @tonyadam",
+          "url": "https://www.searchenginejournal.com/the-final-ad-checklist-before-bfcm-what-to-fix-now-what-to-leave/597701/",
+          "published_at": "2026-11-23T15:00:32+00:00",
+          "excerpt": "Keep Black Friday ads running with final checks on budgets, purchase tracking, billing, and offers before the holiday rush. The post The Final Ad Checklist Before BFCM – What To Fix Now & What To Leave appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-23T15:03:14.228626+00:00"
+        },
+        {
+          "title": "Google Publishes Guidance For Google-Agent Crawler via @sejournal, @martinibuster",
+          "url": "https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/",
+          "published_at": "2026-11-23T13:12:32+00:00",
+          "excerpt": "Google explains how website owners and SEOs can identify legitimate Google-Agent requests and prevent security systems from blocking them. The post Google Publishes Guidance For Google-Agent Crawler appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-23T15:03:14.228626+00:00"
+        },
+        {
+          "title": "35 AI Prompts & Examples For SEO (Updated November 2026) via @sejournal, @theshelleywalsh",
+          "url": "https://www.searchenginejournal.com/ai-prompts-examples-for-seo-2026/596734/",
+          "published_at": "2026-11-23T13:00:17+00:00",
+          "excerpt": "Use these SEO prompts with verified data, native AI tools, and connected sources to get deeper insights from tool data. The post 35 AI Prompts & Examples For SEO (Updated November 2026) appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-23T15:03:14.228626+00:00"
+        },
+        {
+          "title": "Check Your Nov. 18 Rank Data Before Blaming The Core Update via @sejournal, @MattGSouthern",
+          "url": "https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/",
+          "published_at": "2026-11-23T09:00:04+00:00",
+          "excerpt": "A rank tracker received about a tenth of its usual Google results for hours during the core update, with a sign-in page among the blocks. The post Check Your Nov. 18 Rank Data Before Blaming The Core Update appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-23T15:03:14.228626+00:00"
+        },
+        {
+          "title": "Google’s Branded API Data, CDN Advice & Ask Maps Calls – SEO Pulse via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
           "published_at": "2026-11-21T13:00:00+00:00",
           "excerpt": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents. The post WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse appeared first on Search Engine Journa…",
@@ -12564,7 +12620,7 @@
           "fetched_at": "2026-11-21T12:51:07.799245+00:00"
         },
         {
-          "title": "AI Citations: What To Check Before Reacting To A Lost One via @sejournal, @MattGSouthern",
+          "title": "Most AI Citations That Disappeared Came Back, Study Finds via @sejournal, @MattGSouthern",
           "url": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
           "published_at": "2026-11-20T13:00:00+00:00",
           "excerpt": "Most AI citations that disappear later come back. Here are four things to check about a lost citation before you decide to change a page. The post AI Citations: What To Check Before Reacting To A Lost One appeared first on Search Engine Journal .",
@@ -12648,25 +12704,25 @@
           "fetched_at": "2026-11-19T13:37:33.759039+00:00"
         },
         {
-          "title": "Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026 via @sejournal, @martinibuster",
-          "url": "https://www.searchenginejournal.com/rank-math-seo-wordpress-plugin-hit-by-16-vulnerabilities-in-2026/597932/",
-          "published_at": "2026-11-18T13:55:11+00:00",
-          "excerpt": "Sixteen Rank Math SEO vulnerabilities in one year raise questions about how so many security exploits made it into a plugin used by millions. The post Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026 appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-19T13:37:33.759039+00:00"
-        },
-        {
-          "title": "Google Ads AI Max Is Making More Decisions For You – 6 Settings To Audit Now via @sejournal, @brookeosmundson",
-          "url": "https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/",
-          "published_at": "2026-11-18T13:00:42+00:00",
-          "excerpt": "Audit Google Ads AI Max settings to catch unwanted searches, review generated ad copy, and keep landing pages aligned with campaign goals. The post Google Ads AI Max Is Making More Decisions For You – Here’s What To Audit Now appeared first on Search Engine Journal .",
-          "fetched_at": "2026-11-18T13:15:26.168266+00:00"
-        },
-        {
           "title": "Google Explains How To Avoid CDN Migration SEO Problems via @sejournal, @martinibuster",
           "url": "https://www.searchenginejournal.com/google-explains-how-to-avoid-cdn-migration-seo-problems/597888/",
           "published_at": "2026-11-18T12:16:03+00:00",
           "excerpt": "Google explains how to get the best SEO outcome from a CDN migration and avoid unexpected crawling problems. The post Google Explains How To Avoid CDN Migration SEO Problems appeared first on Search Engine Journal .",
           "fetched_at": "2026-11-18T13:15:26.168266+00:00"
+        },
+        {
+          "title": "Google Ads AI Max Is Making More Decisions For You – 6 Settings To Audit Now",
+          "url": "https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/",
+          "published_at": "2026-11-18T00:00:00+00:00",
+          "excerpt": "Audit Google Ads AI Max settings to catch unwanted searches, review generated ad copy, and keep landing pages aligned with campaign goals. The post Google Ads AI Max Is Making More Decisions For You – Here’s What To Audit Now appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-18T13:15:26.168266+00:00"
+        },
+        {
+          "title": "Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026",
+          "url": "https://www.searchenginejournal.com/rank-math-seo-wordpress-plugin-hit-by-16-vulnerabilities-in-2026/597932/",
+          "published_at": "2026-11-18T00:00:00+00:00",
+          "excerpt": "Sixteen Rank Math SEO vulnerabilities in one year raise questions about how so many security exploits made it into a plugin used by millions. The post Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026 appeared first on Search Engine Journal .",
+          "fetched_at": "2026-11-19T13:37:33.759039+00:00"
         },
         {
           "title": "Date: Confirmed, Rating: Meets Expectations, Comments: None via @sejournal, @pedrodias",
@@ -17526,6 +17582,13 @@
       "color": "#8b5cf6",
       "articles": [
         {
+          "title": "AI citations to social media & UGC grew 52% on Google's AI platforms, fell 44% on ChatGPT",
+          "url": "https://www.semrush.com/blog/ai-citations-social-media-ugc/",
+          "published_at": "2026-11-23T13:42:00+00:00",
+          "excerpt": "Social media and UGC content appears to play a role in AI search, but the growth of that role isn’t the same on every AI platform.",
+          "fetched_at": "2026-11-23T15:03:19.326566+00:00"
+        },
+        {
           "title": "Ecommerce SEO: 8 steps to grow visibility in search and AI",
           "url": "https://www.semrush.com/blog/ecommerce-seo/",
           "published_at": "2026-11-20T14:59:00+00:00",
@@ -17580,6 +17643,13 @@
           "published_at": "2026-11-17T12:38:00+00:00",
           "excerpt": "How to use AI for content creation, based on the Semrush blog team‘s own process. Includes the research skill we use, ready to copy into Claude.",
           "fetched_at": "2026-11-18T13:15:33.235296+00:00"
+        },
+        {
+          "title": "Cecilia Meis",
+          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
+          "published_at": "2026-11-17T00:00:00+00:00",
+          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
+          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
         },
         {
           "title": "Carlos Silva",
@@ -17673,13 +17743,6 @@
           "fetched_at": "2026-11-05T12:35:07.527061+00:00"
         },
         {
-          "title": "How to track ChatGPT visibility: a practical guide",
-          "url": "https://www.semrush.com/blog/how-to-track-your-chatgpt-visibility/",
-          "published_at": "2026-11-04T16:14:00+00:00",
-          "excerpt": "Learn how to measure ChatGPT visibility, track brand mentions and citations, compare competitors, identify gaps, and improve your AI search presence.",
-          "fetched_at": "2026-11-04T19:55:42.374306+00:00"
-        },
-        {
           "title": "WebMCP: What it is, why it matters, and what to do now",
           "url": "https://www.semrush.com/blog/webmcp/",
           "published_at": "2026-11-04T00:00:00+00:00",
@@ -17699,6 +17762,13 @@
           "published_at": "2026-11-04T00:00:00+00:00",
           "excerpt": "Learn how to use AI for product marketing, with use cases for messaging, customer interviews, battlecards, and more.",
           "fetched_at": "2026-11-04T12:20:29.307445+00:00"
+        },
+        {
+          "title": "How to track ChatGPT visibility: a practical guide",
+          "url": "https://www.semrush.com/blog/how-to-track-your-chatgpt-visibility/",
+          "published_at": "2026-11-04T00:00:00+00:00",
+          "excerpt": "Learn how to measure ChatGPT visibility, track brand mentions and citations, compare competitors, identify gaps, and improve your AI search presence.",
+          "fetched_at": "2026-11-04T19:55:42.374306+00:00"
         },
         {
           "title": "How to find your website’s keywords in Google Analytics 4",
@@ -18352,13 +18422,6 @@
           "fetched_at": "2026-07-23T12:40:10.406784+05:30"
         },
         {
-          "title": "Cecilia Meis",
-          "url": "https://www.semrush.com/blog/user/cecilia-meis/",
-          "published_at": "2026-07-22T00:00:00+00:00",
-          "excerpt": "Content optimization makes your pages work for readers, search, and AI at once. Get 20 tactics to boost visibility and conversions.",
-          "fetched_at": "2026-08-05T13:30:54.878209+05:30"
-        },
-        {
           "title": "The 9 Best Generative Engine Optimization (GEO) Tools of 2026",
           "url": "https://www.semrush.com/blog/best-generative-engine-optimization-tools/",
           "published_at": "2026-07-20T00:00:00+00:00",
@@ -18897,6 +18960,34 @@
       "color": "#6757d9",
       "articles": [
         {
+          "title": "10 Best Leadlander Alternatives and Competitors for 2026",
+          "url": "https://www.factors.ai/blog/leadlander-alternatives",
+          "published_at": "2026-11-23T00:00:00+00:00",
+          "excerpt": "Looking for an alternative to Leadlander? Explore our top 10 alternatives to Leadlander. Compare features, pricing, and limitations to make an informed purchase decision.",
+          "fetched_at": "2026-09-21T10:05:54.511560+00:00"
+        },
+        {
+          "title": "Why Companies Are Switching From 6sense, Based on Buyer Feedback",
+          "url": "https://www.factors.ai/blog/6sense-limitations-why-are-companies-switching",
+          "published_at": "2026-11-23T00:00:00+00:00",
+          "excerpt": "Explore 6sense drawbacks through feedback from 83 current and former users, covering black-box scoring, data quality, adoption, cost, and contracts.",
+          "fetched_at": "2026-10-06T11:23:44.674445+00:00"
+        },
+        {
+          "title": "How Much Does 6sense Cost in 2026? Plans and Pricing",
+          "url": "https://www.factors.ai/blog/6sense-pricing-and-costs",
+          "published_at": "2026-11-23T00:00:00+00:00",
+          "excerpt": "See what 6sense costs in 2026, including reported prices, credit limits, contract terms, and other costs to check before you buy.",
+          "fetched_at": "2026-10-08T18:55:49.211876+00:00"
+        },
+        {
+          "title": "8 Vector.co Alternatives for ABM, Visitor ID, and Attribution (2026)",
+          "url": "https://www.factors.ai/blog/vector-co-alternatives-and-competitors",
+          "published_at": "2026-11-23T00:00:00+00:00",
+          "excerpt": "Compare 8 Vector.co alternatives for ABM, website visitor identification, and attribution. Explore features, pricing, strengths, and drawbacks.",
+          "fetched_at": "2026-11-23T15:03:21.344590+00:00"
+        },
+        {
           "title": "Vector.co Pricing in 2027: Plans, Credits, Reviews, and Is It Worth $36,000 a Year?",
           "url": "https://www.factors.ai/blog/vector-co-pricing",
           "published_at": "2026-11-20T00:00:00+00:00",
@@ -19093,13 +19184,6 @@
           "fetched_at": "2026-10-14T17:23:31.387391+00:00"
         },
         {
-          "title": "Why Companies Are Switching From 6sense, Based on Buyer Feedback",
-          "url": "https://www.factors.ai/blog/6sense-limitations-why-are-companies-switching",
-          "published_at": "2026-10-12T00:00:00+00:00",
-          "excerpt": "Explore 6sense drawbacks through feedback from 83 current and former users, covering black-box scoring, data quality, adoption, cost, and contracts.",
-          "fetched_at": "2026-10-06T11:23:44.674445+00:00"
-        },
-        {
           "title": "Cross-Channel Marketing Attribution: How to Measure What Influences B2B Pipeline",
           "url": "https://www.factors.ai/blog/cross-channel-marketing-attribution",
           "published_at": "2026-10-09T00:00:00+00:00",
@@ -19112,13 +19196,6 @@
           "published_at": "2026-10-09T00:00:00+00:00",
           "excerpt": "Explore 15 B2B marketing touchpoints with practical examples. Learn how to map buyer journeys, measure impact, and turn engagement into qualified demos.",
           "fetched_at": "2026-10-09T18:26:15.437981+00:00"
-        },
-        {
-          "title": "How Much Does 6sense Cost in 2026? Plans and Pricing",
-          "url": "https://www.factors.ai/blog/6sense-pricing-and-costs",
-          "published_at": "2026-10-08T00:00:00+00:00",
-          "excerpt": "See what 6sense costs in 2026, including reported prices, credit limits, contract terms, and other costs to check before you buy.",
-          "fetched_at": "2026-10-08T18:55:49.211876+00:00"
         },
         {
           "title": "Leadfeeder vs Lead Forensics: A detailed review",
@@ -19140,13 +19217,6 @@
           "published_at": "2026-09-23T00:00:00+00:00",
           "excerpt": "Learn the 9 types of Google Ads — Search, Display, Shopping, Video, Performance Max & more. Discover key benefits, how Google Ads works, and beginner tips to maximize your ROI.",
           "fetched_at": "2026-09-23T17:17:55.252444+00:00"
-        },
-        {
-          "title": "10 Best Leadlander Alternatives and Competitors for 2026",
-          "url": "https://www.factors.ai/blog/leadlander-alternatives",
-          "published_at": "2026-09-21T00:00:00+00:00",
-          "excerpt": "Looking for an alternative to Leadlander? Explore our top 10 alternatives to Leadlander. Compare features, pricing, and limitations to make an informed purchase decision.",
-          "fetched_at": "2026-09-21T10:05:54.511560+00:00"
         },
         {
           "title": "Best Marketing Attribution Tools in 2026 and Who They’re For",
